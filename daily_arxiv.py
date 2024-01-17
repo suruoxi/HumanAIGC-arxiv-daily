@@ -301,9 +301,9 @@ def json_to_md(filename,md_filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Current Search Keywords: Talking Face, Talking Head, Visual Dubbing, Face Genertation, Lip Sync, Talker, Portrait, Talking Video, Head Synthesis, Face Reenactment, Wav2Lip, Talking Avatar, Lip Generation, Lip-Synchronization, Portrait Animation, Facial Animation\n\n")
+        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know. \n\n")
-        f.write("> [TODO] We plan to support analysis papers based on GPT4-turbo API. \n\n")
+        f.write("> We plan to support analysis papers based on GPT4-turbo API. \n\n")
         # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         #Add: table of contents
