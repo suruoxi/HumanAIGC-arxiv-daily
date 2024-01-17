@@ -296,12 +296,15 @@ def json_to_md(filename,md_filename,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n")
+            f.write("## Automatically Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        f.write("> Current Search Keywords: Talking Face, Talking Head, Visual Dubbing, Face Genertation, Lip Sync, Talker, Portrait, Talking Video, Head Synthesis, Face Reenactment, Wav2Lip, Talking Avatar, Lip Generation, Lip-Synchronization, Portrait Animation, Facial Animation\n\n")
+        f.write("> If you have any other keywords, please feel free to let us know. \n\n")
+        f.write("> [TODO] We plan to support analysis papers based on GPT4-turbo API. \n\n")
+        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -321,6 +324,7 @@ def json_to_md(filename,md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
+            
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
@@ -336,6 +340,8 @@ def json_to_md(filename,md_filename,
         
             for _,v in day_content.items():
                 if v is not None:
+                    if v.startswith("|**1") or v.startswith("|**200"): # delete too old papers with year under 2010
+                        continue
                     f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
