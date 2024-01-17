@@ -12,7 +12,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 > If you have any other keywords, please feel free to let us know. 
 
-> We plan to support analysis papers based on GPT4-turbo API. 
+> We plan to support paper analysis based on GPT4-turbo API. 
 
 [Web](https://liutaocode.github.io/talking-face-arxiv-daily/)  [Code](https://github.com/liutaocode/talking-face-arxiv-daily) 
 
@@ -20,6 +20,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**|Bingyuan Zhang et.al.|[2401.08049](http://arxiv.org/abs/2401.08049)|null|
 |**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126](http://arxiv.org/abs/2401.06126)|null|
 |**2024-01-11**|**Jump Cut Smoothing for Talking Heads**|Xiaojuan Wang et.al.|[2401.04718](http://arxiv.org/abs/2401.04718)|null|
 |**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476](http://arxiv.org/abs/2401.03476)|null|
@@ -29,41 +30,54 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2023-12-21**|**DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation**|Chenxu Zhang et.al.|[2312.13578](http://arxiv.org/abs/2312.13578)|null|
 |**2023-12-18**|**VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**|Hao Hu et.al.|[2312.11568](http://arxiv.org/abs/2312.11568)|null|
 |**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
+|**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877](http://arxiv.org/abs/2312.10877)|null|
 |**2023-12-28**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687](http://arxiv.org/abs/2312.10687)|null|
 |**2023-12-19**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-15**|**DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**|Yifeng Ma et.al.|[2312.09767](http://arxiv.org/abs/2312.09767)|null|
+|**2023-12-15**|**Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2312.09750](http://arxiv.org/abs/2312.09750)|null|
 |**2023-12-12**|**GMTalker: Gaussian Mixture based Emotional talking video Portraits**|Yibo Xia et.al.|[2312.07669](http://arxiv.org/abs/2312.07669)|null|
 |**2023-12-12**|**GSmoothFace: Generalized Smooth Talking Face Generation via Fine Grained 3D Face Guidance**|Haiming Zhang et.al.|[2312.07385](http://arxiv.org/abs/2312.07385)|null|
 |**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
+|**2023-12-11**|**Study of Non-Verbal Behavior in Conversational Agents**|Camila Vicari Maccari et.al.|[2312.06530](http://arxiv.org/abs/2312.06530)|null|
 |**2023-12-11**|**DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers**|Aaron Mir et.al.|[2312.06400](http://arxiv.org/abs/2312.06400)|null|
 |**2023-12-09**|**R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**|Zhiling Ye et.al.|[2312.05572](http://arxiv.org/abs/2312.05572)|null|
 |**2023-12-09**|**FT2TF: First-Person Statement Text-To-Talking Face Generation**|Xingjian Diao et.al.|[2312.05430](http://arxiv.org/abs/2312.05430)|null|
+|**2023-12-08**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369](http://arxiv.org/abs/2312.04369)|null|
+|**2023-12-20**|**FAAC: Facial Animation Generation with Anchor Frame and Conditional Control for Superior Fidelity and Editability**|Linze Li et.al.|[2312.03775](http://arxiv.org/abs/2312.03775)|null|
 |**2023-12-19**|**Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing**|Yushi Lan et.al.|[2312.03763](http://arxiv.org/abs/2312.03763)|null|
 |**2023-12-05**|**PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features**|Tianshun Han et.al.|[2312.02781](http://arxiv.org/abs/2312.02781)|null|
 |**2023-12-05**|**MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**|Bo Ding et.al.|[2312.02703](http://arxiv.org/abs/2312.02703)|null|
 |**2023-12-07**|**VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior**|Xusen Sun et.al.|[2312.01841](http://arxiv.org/abs/2312.01841)|null|
+|**2023-12-01**|**3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing**|Balamurugan Thambiraja et.al.|[2312.00870](http://arxiv.org/abs/2312.00870)|null|
 |**2023-11-30**|**Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data**|Yu Deng et.al.|[2311.18729](http://arxiv.org/abs/2311.18729)|null|
 |**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590](http://arxiv.org/abs/2311.17590)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
 |**2023-11-30**|**Talking Head(?) Anime from a Single Image 4: Improved Model and Its Distillation**|Pramook Khungurn et.al.|[2311.17409](http://arxiv.org/abs/2311.17409)|null|
 |**2023-11-28**|**THInImg: Cross-modal Steganography for Presenting Talking Heads in Images**|Lin Zhao et.al.|[2311.17177](http://arxiv.org/abs/2311.17177)|null|
+|**2023-12-02**|**DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**|Peng Chen et.al.|[2311.16565](http://arxiv.org/abs/2311.16565)|null|
 |**2023-11-26**|**GAIA: Zero-shot Talking Avatar Generation**|Tianyu He et.al.|[2311.15230](http://arxiv.org/abs/2311.15230)|null|
 |**2023-11-20**|**MemoryCompanion: A Smart Healthcare Solution to Empower Efficient Alzheimer's Care Via Unleashing Generative AI**|Lifei Zheng et.al.|[2311.14730](http://arxiv.org/abs/2311.14730)|null|
 |**2023-11-15**|**CP-EB: Talking Face Generation with Controllable Pose and Eye Blinking Embedding**|Jianzong Wang et.al.|[2311.08673](http://arxiv.org/abs/2311.08673)|null|
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2023-11-08**|**Synthetic Speaking Children -- Why We Need Them and How to Make Them**|Muhammad Ali Farooq et.al.|[2311.06307](http://arxiv.org/abs/2311.06307)|null|
 |**2023-11-28**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|**[link](https://github.com/buaavrcg/BakedAvatar)**|
+|**2023-11-13**|**DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**|Guinan Su et.al.|[2311.04766](http://arxiv.org/abs/2311.04766)|null|
 |**2023-11-05**|**3D-Aware Talking-Head Video Motion Transfer**|Haomiao Ni et.al.|[2311.02549](http://arxiv.org/abs/2311.02549)|null|
 |**2024-01-12**|**DiffDub: Person-generic Visual Dubbing Using Inpainting Renderer with Diffusion Auto-encoder**|Tao Liu et.al.|[2311.01811](http://arxiv.org/abs/2311.01811)|null|
 |**2023-11-02**|**LaughTalk: Expressive 3D Talking Head Generation with Laughter**|Kim Sung-Bin et.al.|[2311.00994](http://arxiv.org/abs/2311.00994)|null|
+|**2023-10-31**|**Breathing Life into Faces: Speech-driven 3D Facial Animation with Natural Head Pose and Detailed Shape**|Wei Zhao et.al.|[2310.20240](http://arxiv.org/abs/2310.20240)|null|
+|**2023-10-25**|**Personalized Speech-driven Expressive 3D Facial Animation Synthesis with Style Control**|Elif Bozkurt et.al.|[2310.17011](http://arxiv.org/abs/2310.17011)|null|
 |**2023-10-23**|**The Self 2.0: How AI-Enhanced Self-Clones Transform Self-Perception and Improve Presentation Skills**|Qingxiao Zheng et.al.|[2310.15112](http://arxiv.org/abs/2310.15112)|null|
 |**2023-10-17**|**CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation**|Zhaojie Chu et.al.|[2310.11295](http://arxiv.org/abs/2310.11295)|null|
 |**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|**[link](https://github.com/abdullah-tamu/CleftGAN)**|
+|**2024-01-08**|**AdaMesh: Personalized Facial Expressions and Head Poses for Adaptive Speech-Driven 3D Facial Animation**|Liyang Chen et.al.|[2310.07236](http://arxiv.org/abs/2310.07236)|null|
+|**2023-08-23**|**DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**|Se Jin Park et.al.|[2310.05934](http://arxiv.org/abs/2310.05934)|null|
 |**2023-10-15**|**HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**|Yaosen Chen et.al.|[2310.05720](http://arxiv.org/abs/2310.05720)|**[link](https://github.com/semchan/HyperLips)**|
 |**2023-10-08**|**GestSync: Determining who is speaking without a talking head**|Sindhu B Hegde et.al.|[2310.05304](http://arxiv.org/abs/2310.05304)|**[link](https://github.com/Sindhu-Hegde/gestsync)**|
 |**2023-11-03**|**Learning Separable Hidden Unit Contributions for Speaker-Adaptive Lip-Reading**|Songtao Luo et.al.|[2310.05058](http://arxiv.org/abs/2310.05058)|**[link](https://github.com/jinchiniao/LSHUC)**|
 |**2023-12-13**|**uTalk: Bridging the Gap Between Humans and AI**|Hussam Azzuni et.al.|[2310.02739](http://arxiv.org/abs/2310.02739)|null|
 |**2023-09-30**|**DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models**|Zhiyao Sun et.al.|[2310.00434](http://arxiv.org/abs/2310.00434)|null|
 |**2023-09-28**|**OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions**|Jin Liu et.al.|[2309.16148](http://arxiv.org/abs/2309.16148)|null|
+|**2023-09-20**|**FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**|Stefan Stan et.al.|[2309.11306](http://arxiv.org/abs/2309.11306)|**[link](https://github.com/uuembodiedsocialai/FaceDiffuser)**|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
 |**2023-09-14**|**DiffTalker: Co-driven audio-image diffusion for talking faces via intermediate landmarks**|Zipeng Qi et.al.|[2309.07509](http://arxiv.org/abs/2309.07509)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|**[link](https://github.com/yylgoodlucky/hdtr)**|
@@ -74,11 +88,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2023-11-06**|**RADIO: Reference-Agnostic Dubbing Video Synthesis**|Dongyeun Lee et.al.|[2309.01950](http://arxiv.org/abs/2309.01950)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
 |**2023-08-29**|**Papeos: Augmenting Research Papers with Talk Videos**|Tae Soo Kim et.al.|[2308.15224](http://arxiv.org/abs/2308.15224)|null|
+|**2023-09-11**|**ExpCLIP: Bridging Text and Facial Expressions via Semantic Alignment**|Yicheng Zhong et.al.|[2308.14448](http://arxiv.org/abs/2308.14448)|null|
 |**2023-12-14**|**FaceChain: A Playground for Human-centric Artificial Intelligence Generated Content**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
 |**2023-08-24**|**ToonTalker: Cross-Domain Face Reenactment**|Yuan Gong et.al.|[2308.12866](http://arxiv.org/abs/2308.12866)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-17**|**A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation**|Li Liu et.al.|[2308.08849](http://arxiv.org/abs/2308.08849)|**[link](https://github.com/wentaol86/awesome-body-language)**|
 |**2023-08-12**|**Text-to-Video: a Two-stage Framework for Zero-shot Identity-agnostic Talking-head Generation**|Zhichao Wang et.al.|[2308.06457](http://arxiv.org/abs/2308.06457)|**[link](https://github.com/zhichaowang970201/text-to-video)**|
+|**2023-08-11**|**Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**|Haoyu Wang et.al.|[2308.06076](http://arxiv.org/abs/2308.06076)|**[link](https://github.com/why986/VFA)**|
 |**2023-08-11**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830](http://arxiv.org/abs/2308.04830)|null|
 |**2023-09-20**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-20**|**HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces**|Stella Bounareli et.al.|[2307.10797](http://arxiv.org/abs/2307.10797)|**[link](https://github.com/stelabou/hyperreenact)**|
@@ -93,11 +109,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2023-07-08**|**FTFDNet: Learning to Detect Talking Face Video Manipulation with Tri-Modality Interaction**|Ganglai Wang et.al.|[2307.03990](http://arxiv.org/abs/2307.03990)|null|
 |**2023-07-04**|**A Comprehensive Multi-scale Approach for Speech and Dynamics Synchrony in Talking Head Generation**|Louis Airale et.al.|[2307.03270](http://arxiv.org/abs/2307.03270)|**[link](https://github.com/louisbearing/hmo-audio)**|
 |**2023-07-05**|**Interactive Conversational Head Generation**|Mohan Zhou et.al.|[2307.02090](http://arxiv.org/abs/2307.02090)|null|
+|**2023-07-04**|**Generating Animatable 3D Cartoon Faces from Single Portraits**|Chuanyu Pan et.al.|[2307.01468](http://arxiv.org/abs/2307.01468)|null|
 |**2023-07-03**|**RobustL2S: Speaker-Specific Lip-to-Speech Synthesis exploiting Self-Supervised Representations**|Neha Sahipjohn et.al.|[2307.01233](http://arxiv.org/abs/2307.01233)|null|
 |**2023-06-28**|**Reprogramming Audio-driven Talking Face Synthesis into Text-driven**|Jeongsoo Choi et.al.|[2306.16003](http://arxiv.org/abs/2306.16003)|null|
 |**2023-06-20**|**Audio-Driven 3D Facial Animation from In-the-Wild Videos**|Liying Lu et.al.|[2306.11541](http://arxiv.org/abs/2306.11541)|null|
 |**2023-08-16**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813](http://arxiv.org/abs/2306.10813)|null|
 |**2023-08-30**|**SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces**|Ziqiao Peng et.al.|[2306.10799](http://arxiv.org/abs/2306.10799)|**[link](https://github.com/psyai-net/SelfTalk_release)**|
+|**2023-09-01**|**Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**|Wolfgang Paier et.al.|[2306.10006](http://arxiv.org/abs/2306.10006)|null|
 |**2023-09-26**|**Emotional Speech-Driven Animation with Content-Emotion Disentanglement**|Radek Daněček et.al.|[2306.08990](http://arxiv.org/abs/2306.08990)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579](http://arxiv.org/abs/2306.07579)|null|
 |**2023-06-12**|**NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**|Yu Chen et.al.|[2306.06885](http://arxiv.org/abs/2306.06885)|null|
@@ -111,11 +129,14 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2023-05-23**|**CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation**|Jingning Xu et.al.|[2305.13962](http://arxiv.org/abs/2305.13962)|null|
 |**2023-05-22**|**RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**|Dongwei Pan et.al.|[2305.13353](http://arxiv.org/abs/2305.13353)|null|
 |**2023-05-18**|**An Android Robot Head as Embodied Conversational Agent**|Marcel Heisler et.al.|[2305.10945](http://arxiv.org/abs/2305.10945)|null|
+|**2023-05-17**|**INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**|Shuang Chen et.al.|[2305.10589](http://arxiv.org/abs/2305.10589)|null|
 |**2023-05-17**|**LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**|Kwangho Lee et.al.|[2305.10456](http://arxiv.org/abs/2305.10456)|null|
+|**2023-08-30**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|**[link](https://github.com/antonibigata/Laughing-Matters)**|
 |**2023-05-15**|**Identity-Preserving Talking Face Generation with Landmark and Appearance Priors**|Weizhi Zhong et.al.|[2305.08293](http://arxiv.org/abs/2305.08293)|**[link](https://github.com/Weizhi-Zhong/IP_LAP)**|
 |**2023-12-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225](http://arxiv.org/abs/2305.06225)|**[link](https://github.com/harlanhong/cvpr2022-dagan)**|
 |**2023-05-09**|**StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator**|Jiazhi Guan et.al.|[2305.05445](http://arxiv.org/abs/2305.05445)|null|
 |**2023-09-12**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713](http://arxiv.org/abs/2305.03713)|null|
+|**2023-08-10**|**Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**|Hyojoon Park et.al.|[2305.03216](http://arxiv.org/abs/2305.03216)|null|
 |**2023-05-09**|**Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
 |**2023-05-31**|**High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**|Chao Xu et.al.|[2305.02572](http://arxiv.org/abs/2305.02572)|null|
 |**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|**[link](https://github.com/lizhenwangt/styleavatar)**|
@@ -123,12 +144,15 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2023-04-30**|**StyleLipSync: Style-based Personalized Lip-sync Video Generation**|Taekyung Ki et.al.|[2305.00521](http://arxiv.org/abs/2305.00521)|null|
 |**2023-04-27**|**Controllable One-Shot Face Video Synthesis With Semantic Aware Prior**|Kangning Liu et.al.|[2304.14471](http://arxiv.org/abs/2304.14471)|null|
 |**2023-04-25**|**AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**|Rongjie Huang et.al.|[2304.12995](http://arxiv.org/abs/2304.12995)|**[link](https://github.com/aigc-audio/audiogpt)**|
+|**2023-04-24**|**VR Facial Animation for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2304.12051](http://arxiv.org/abs/2304.12051)|null|
 |**2023-04-21**|**Implicit Neural Head Synthesis via Controllable Local Deformation Fields**|Chuhan Chen et.al.|[2304.11113](http://arxiv.org/abs/2304.11113)|null|
 |**2023-11-02**|**High-Fidelity and Freely Controllable Talking Head Video Generation**|Yue Gao et.al.|[2304.10168](http://arxiv.org/abs/2304.10168)|null|
 |**2023-04-18**|**Audio-Driven Talking Face Generation with Diverse yet Realistic Facial Animations**|Rongliang Wu et.al.|[2304.08945](http://arxiv.org/abs/2304.08945)|null|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
 |**2023-09-18**|**That's What I Said: Fully-Controllable Talking Face Generation**|Youngjoon Jang et.al.|[2304.03275](http://arxiv.org/abs/2304.03275)|null|
 |**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|**[link](https://github.com/zengbohan0217/fadm)**|
+|**2023-04-01**|**DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**|Longwen Zhang et.al.|[2304.03117](http://arxiv.org/abs/2304.03117)|null|
+|**2023-04-06**|**4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**|Wei Chen et.al.|[2304.02814](http://arxiv.org/abs/2304.02814)|null|
 |**2023-04-28**|**A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**|Bo-Kyeong Kim et.al.|[2304.00471](http://arxiv.org/abs/2304.00471)|null|
 |**2023-04-01**|**TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles**|Yifeng Ma et.al.|[2304.00334](http://arxiv.org/abs/2304.00334)|null|
 |**2023-03-31**|**FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions**|Jin Liu et.al.|[2303.17789](http://arxiv.org/abs/2303.17789)|null|
@@ -140,25 +164,35 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2023-03-26**|**Emotionally Enhanced Talking Face Generation**|Sahil Goyal et.al.|[2303.11548](http://arxiv.org/abs/2303.11548)|**[link](https://github.com/sahilg06/EmoGen)**|
 |**2023-08-25**|**EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|**[link](https://github.com/psyai-net/EmoTalk_release)**|
 |**2023-03-22**|**Style Transfer for 2D Talking Head Animation**|Trong-Thang Pham et.al.|[2303.09799](http://arxiv.org/abs/2303.09799)|**[link](https://github.com/aioz-ai/audiodrivenstyletransfer)**|
+|**2023-12-13**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-27**|**Deep Visual Forced Alignment: Learning to Align Transcription with Talking Face Video**|Minsu Kim et.al.|[2303.08670](http://arxiv.org/abs/2303.08670)|null|
 |**2023-03-14**|**DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions**|Geumbyeol Hwang et.al.|[2303.07697](http://arxiv.org/abs/2303.07697)|**[link](https://github.com/deepbrainai-research/koeba)**|
+|**2023-03-26**|**Distributed Solution of the Inverse Rig Problem in Blendshape Facial Animation**|Stevo Racković et.al.|[2303.06370](http://arxiv.org/abs/2303.06370)|null|
+|**2023-03-09**|**FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning**|Kazi Injamamul Haque et.al.|[2303.05416](http://arxiv.org/abs/2303.05416)|**[link](https://github.com/galib360/facexhubert)**|
 |**2023-03-09**|**Improving Few-Shot Learning for Talking Face System with TTS Data Augmentation**|Qi Chen et.al.|[2303.05322](http://arxiv.org/abs/2303.05322)|**[link](https://github.com/moon0316/t2a)**|
+|**2023-03-07**|**DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video**|Zhimeng Zhang et.al.|[2303.03988](http://arxiv.org/abs/2303.03988)|**[link](https://github.com/MRzzm/DINet)**|
 |**2023-03-05**|**Cyber Vaccine for Deepfake Immunity**|Ching-Chun Chang et.al.|[2303.02659](http://arxiv.org/abs/2303.02659)|null|
 |**2023-05-19**|**UniFLG: Unified Facial Landmark Generator from Text or Speech**|Kentaro Mitsui et.al.|[2302.14337](http://arxiv.org/abs/2302.14337)|null|
 |**2023-02-27**|**Memory-augmented Contrastive Learning for Talking Head Generation**|Jianrong Wang et.al.|[2302.13469](http://arxiv.org/abs/2302.13469)|**[link](https://github.com/yaxinzhao97/macl)**|
 |**2023-02-24**|**Pose-Controllable 3D Facial Animation Synthesis using Hierarchical Audio-Vertex Attention**|Bin Liu et.al.|[2302.12532](http://arxiv.org/abs/2302.12532)|null|
 |**2023-02-16**|**OPT: One-shot Pose-Controllable Talking Head Generation**|Jin Liu et.al.|[2302.08197](http://arxiv.org/abs/2302.08197)|null|
+|**2023-03-27**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|
 |**2023-01-31**|**GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**|Zhenhui Ye et.al.|[2301.13430](http://arxiv.org/abs/2301.13430)|null|
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|**[link](https://github.com/Carlyx/DPE)**|
+|**2023-01-15**|**Learning Audio-Driven Viseme Dynamics for 3D Face Animation**|Linchao Bao et.al.|[2301.06059](http://arxiv.org/abs/2301.06059)|null|
 |**2023-04-20**|**DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation**|Shuai Shen et.al.|[2301.03786](http://arxiv.org/abs/2301.03786)|**[link](https://github.com/sstzal/DiffTalk)**|
 |**2023-07-29**|**Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation**|Michał Stypułkowski et.al.|[2301.03396](http://arxiv.org/abs/2301.03396)|null|
 |**2023-04-03**|**CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior**|Jinbo Xing et.al.|[2301.02379](http://arxiv.org/abs/2301.02379)|**[link](https://github.com/Doubiiu/CodeTalker)**|
+|**2024-01-04**|**Expressive Speech-driven Facial Animation with controllable emotions**|Yutong Chen et.al.|[2301.02008](http://arxiv.org/abs/2301.02008)|**[link](https://github.com/on1262/facialanimation)**|
 |**2023-06-10**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
+|**2022-12-30**|**Imitator: Personalized Speech-driven 3D Facial Animation**|Balamurugan Thambiraja et.al.|[2301.00023](http://arxiv.org/abs/2301.00023)|null|
+|**2023-01-20**|**Neural Volumetric Blendshapes: Computationally Efficient Physics-Based Facial Blendshapes**|Nicolas Wagner et.al.|[2212.14784](http://arxiv.org/abs/2212.14784)|null|
 |**2022-12-23**|**Dubbing in Practice: A Large Scale Study of Human Localization With Insights for Automatic Dubbing**|William Brannon et.al.|[2212.12137](http://arxiv.org/abs/2212.12137)|null|
 |**2023-03-27**|**MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation**|Bowen Zhang et.al.|[2212.08062](http://arxiv.org/abs/2212.08062)|**[link](https://github.com/Meta-Portrait/MetaPortrait)**|
 |**2022-12-12**|**Memories are One-to-Many Mapping Alleviators in Talking Face Generation**|Anni Tang et.al.|[2212.05005](http://arxiv.org/abs/2212.05005)|null|
 |**2022-12-09**|**Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers**|Yasheng Sun et.al.|[2212.04970](http://arxiv.org/abs/2212.04970)|null|
 |**2022-12-07**|**Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors**|Zhentao Yu et.al.|[2212.04248](http://arxiv.org/abs/2212.04248)|null|
+|**2022-11-30**|**Extracting Semantic Knowledge from GANs with Unsupervised Learning**|Jianjin Xu et.al.|[2211.16710](http://arxiv.org/abs/2211.16710)|null|
 |**2023-03-04**|**High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors**|Yunpeng Bai et.al.|[2211.15064](http://arxiv.org/abs/2211.15064)|null|
 |**2022-11-27**|**VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild**|Kun Cheng et.al.|[2211.14758](http://arxiv.org/abs/2211.14758)|null|
 |**2022-11-26**|**Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**|Duomin Wang et.al.|[2211.14506](http://arxiv.org/abs/2211.14506)|**[link](https://github.com/Dorniwang/PD-FGC-inference)**|
@@ -186,6 +220,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2022-09-07**|**Restructurable Activation Networks**|Kartikeya Bhardwaj et.al.|[2208.08562](http://arxiv.org/abs/2208.08562)|**[link](https://github.com/arm-software/ml-restructurable-activation-networks)**|
 |**2022-08-17**|**Extreme-scale Talking-Face Video Upsampling with Audio-Visual Priors**|Sindhu B Hegde et.al.|[2208.08118](http://arxiv.org/abs/2208.08118)|**[link](https://github.com/Sindhu-Hegde/video-super-resolver)**|
 |**2022-08-03**|**Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control**|Michail Christos Doukas et.al.|[2208.02210](http://arxiv.org/abs/2208.02210)|null|
+|**2022-08-01**|**A Feasibility Study on Image Inpainting for Non-cleft Lip Generation from Patients with Cleft Lip**|Shuang Chen et.al.|[2208.01149](http://arxiv.org/abs/2208.01149)|**[link](https://github.com/chrischen1023/nclg-mt)**|
 |**2022-07-24**|**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**|Shuai Shen et.al.|[2207.11770](http://arxiv.org/abs/2207.11770)|**[link](https://github.com/sstzal/DFRF)**|
 |**2022-07-22**|**Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos**|Panagiotis P. Filntisis et.al.|[2207.11094](http://arxiv.org/abs/2207.11094)|**[link](https://github.com/filby89/spectre)**|
 |**2022-07-13**|**FastLTS: Non-Autoregressive End-to-End Unconstrained Lip-to-Speech Synthesis**|Yongqi Wang et.al.|[2207.03800](http://arxiv.org/abs/2207.03800)|null|
