@@ -381,6 +381,62 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2014-09-03**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 
+## Image Animation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
+|**2023-12-21**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
+|**2023-12-06**|**AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**|Jiwen Yu et.al.|[2312.03793](http://arxiv.org/abs/2312.03793)|**[link](https://github.com/vvictoryuki/animatezero)**|
+|**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928](http://arxiv.org/abs/2312.02928)|null|
+|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827](http://arxiv.org/abs/2311.18827)|null|
+|**2023-11-27**|**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model**|Zhongcong Xu et.al.|[2311.16498](http://arxiv.org/abs/2311.16498)|null|
+|**2023-12-04**|**AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance**|Zuozhuo Dai et.al.|[2311.12886](http://arxiv.org/abs/2311.12886)|**[link](https://github.com/alibaba/animate-anything)**|
+|**2023-11-27**|**DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors**|Jinbo Xing et.al.|[2310.12190](http://arxiv.org/abs/2310.12190)|**[link](https://github.com/Doubiiu/DynamiCrafter)**|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
+|**2023-09-25**|**Automatic Animation of Hair Blowing in Still Portrait Photos**|Wenpeng Xiao et.al.|[2309.14207](http://arxiv.org/abs/2309.14207)|null|
+|**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725](http://arxiv.org/abs/2307.04725)|**[link](https://github.com/guoyww/animatediff)**|
+|**2023-07-09**|**Predictive Coding For Animation-Based Video Compression**|Goluck Konuko et.al.|[2307.04187](http://arxiv.org/abs/2307.04187)|null|
+|**2023-09-26**|**Text-Guided Synthesis of Eulerian Cinemagraphs**|Aniruddha Mahapatra et.al.|[2307.03190](http://arxiv.org/abs/2307.03190)|null|
+|**2023-10-11**|**LEO: Generative Latent Image Animator for Human Video Synthesis**|Yaohui Wang et.al.|[2305.03989](http://arxiv.org/abs/2305.03989)|**[link](https://github.com/wyhsirius/LEO)**|
+|**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
+|**2023-03-10**|**3D Cinemagraphy from a Single Image**|Xingyi Li et.al.|[2303.05724](http://arxiv.org/abs/2303.05724)|null|
+|**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329](http://arxiv.org/abs/2302.01329)|null|
+|**2023-01-14**|**Continuous odor profile monitoring to study olfactory navigation in small animals**|Kevin S. Chen et.al.|[2301.05905](http://arxiv.org/abs/2301.05905)|null|
+|**2022-11-30**|**NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation**|Yu Yin et.al.|[2211.17235](http://arxiv.org/abs/2211.17235)|null|
+|**2022-10-04**|**Implicit Warping for Animation with Image Sets**|Arun Mallya et.al.|[2210.01794](http://arxiv.org/abs/2210.01794)|null|
+|**2022-09-28**|**Motion Transformer for Unsupervised Image Animation**|Jiale Tao et.al.|[2209.14024](http://arxiv.org/abs/2209.14024)|**[link](https://github.com/jialetao/motrans)**|
+|**2022-07-19**|**Single Stage Virtual Try-on via Deformable Attention Flows**|Shuai Bai et.al.|[2207.09161](http://arxiv.org/abs/2207.09161)|**[link](https://github.com/OFA-Sys/DAFlow)**|
+|**2022-07-08**|**Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation**|Yucheng Suo et.al.|[2207.03714](http://arxiv.org/abs/2207.03714)|null|
+|**2022-03-29**|**Thin-Plate Spline Motion Model for Image Animation**|Jian Zhao et.al.|[2203.14367](http://arxiv.org/abs/2203.14367)|**[link](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**|
+|**2022-03-25**|**3D GAN Inversion for Controllable Portrait Image Animation**|Connor Z. Lin et.al.|[2203.13441](http://arxiv.org/abs/2203.13441)|null|
+|**2022-03-17**|**Latent Image Animator: Learning to Animate Images via Latent Space Navigation**|Yaohui Wang et.al.|[2203.09043](http://arxiv.org/abs/2203.09043)|null|
+|**2021-12-19**|**Move As You Like: Image Animation in E-Commerce Scenario**|Borun Xu et.al.|[2112.13647](http://arxiv.org/abs/2112.13647)|null|
+|**2021-12-21**|**Image Animation with Keypoint Mask**|Or Toledano et.al.|[2112.10457](http://arxiv.org/abs/2112.10457)|**[link](https://github.com/or-toledano/animation-with-keypoint-mask)**|
+|**2021-12-17**|**AI-Empowered Persuasive Video Generation: A Survey**|Chang Liu et.al.|[2112.09401](http://arxiv.org/abs/2112.09401)|null|
+|**2022-04-05**|**Neural Fields in Visual Computing and Beyond**|Yiheng Xie et.al.|[2111.11426](http://arxiv.org/abs/2111.11426)|null|
+|**2021-10-26**|**Incremental Learning for Animal Pose Estimation using RBF k-DPP**|Gaurav Kumar Nayak et.al.|[2110.13598](http://arxiv.org/abs/2110.13598)|null|
+|**2023-11-19**|**Differential Motion Evolution for Fine-Grained Motion Deformation in Unsupervised Image Animation**|Peirong Liu et.al.|[2110.04658](http://arxiv.org/abs/2110.04658)|null|
+|**2021-09-03**|**Sparse to Dense Motion Transfer for Face Image Animation**|Ruiqi Zhao et.al.|[2109.00471](http://arxiv.org/abs/2109.00471)|null|
+|**2021-08-18**|**DeepFake MNIST+: A DeepFake Facial Animation Dataset**|Jiajun Huang et.al.|[2108.07949](http://arxiv.org/abs/2108.07949)|**[link](https://github.com/huangjiadidi/DeepFakeMnist)**|
+|**2021-06-23**|**Analisis Kualitas Layanan Website E-Commerce Bukalapak Terhadap Kepuasan Pengguna Mahasiswa Universitas Bina Darma Menggunakan Metode Webqual 4.0**|Adellia et.al.|[2106.15342](http://arxiv.org/abs/2106.15342)|null|
+|**2022-06-11**|**Bayesian Statistics Guided Label Refurbishment Mechanism: Mitigating Label Noise in Medical Image Classification**|Mengdi Gao et.al.|[2106.12284](http://arxiv.org/abs/2106.12284)|**[link](https://github.com/neugmd/blrm)**|
+|**2021-04-07**|**Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**|Soumya Tripathy et.al.|[2104.03117](http://arxiv.org/abs/2104.03117)|null|
+|**2021-03-22**|**PriorityCut: Occlusion-guided Regularization for Warp-based Image Animation**|Wai Ting Cheung et.al.|[2103.11600](http://arxiv.org/abs/2103.11600)|null|
+|**2020-12-01**|**Ultra-low bitrate video conferencing using deep image animation**|Goluck Konuko et.al.|[2012.00346](http://arxiv.org/abs/2012.00346)|null|
+|**2022-03-29**|**Image Animation with Perturbed Masks**|Yoav Shalev et.al.|[2011.06922](http://arxiv.org/abs/2011.06922)|**[link](https://github.com/itsyoavshalev/Image-Animation-with-Perturbed-Masks)**|
+|**2020-08-27**|**Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation**|Yurui Ren et.al.|[2008.12606](http://arxiv.org/abs/2008.12606)|**[link](https://github.com/RenYurui/Global-Flow-Local-Attention)**|
+|**2020-10-01**|**First Order Motion Model for Image Animation**|Aliaksandr Siarohin et.al.|[2003.00196](http://arxiv.org/abs/2003.00196)|**[link](https://github.com/AliaksandrSiarohin/first-order-model)**|
+|**2019-08-30**|**Animating Arbitrary Objects via Deep Motion Transfer**|Aliaksandr Siarohin et.al.|[1812.08861](http://arxiv.org/abs/1812.08861)|**[link](https://github.com/AliaksandrSiarohin/monkey-net)**|
+|**2018-10-09**|**3D model silhouette-based tracking in depth images for puppet suit dynamic video-mapping**|Guillaume Caron et.al.|[1810.03956](http://arxiv.org/abs/1810.03956)|null|
+|**2018-06-24**|**A Design of FPGA Based Small Animal PET Real Time Digital Signal Processing and Correction Logic**|Jiaming Lu et.al.|[1806.09117](http://arxiv.org/abs/1806.09117)|null|
+|**2018-01-31**|**RAPTOR I: Time-dependent radiative transfer in arbitrary spacetimes**|Thomas Bronzwaer et.al.|[1801.10452](http://arxiv.org/abs/1801.10452)|null|
+|**2016-06-23**|**Gender and Interest Targeting for Sponsored Post Advertising at Tumblr**|Mihajlo Grbovic et.al.|[1606.07189](http://arxiv.org/abs/1606.07189)|null|
+|**2015-03-16**|**Use of Effective Audio in E-learning Courseware**|Kisor Ray et.al.|[1503.04837](http://arxiv.org/abs/1503.04837)|null|
+|**2015-02-04**|**Multimedia-Video for Learning**|Kah Hean Chua et.al.|[1502.01090](http://arxiv.org/abs/1502.01090)|null|
+|**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
+|**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
