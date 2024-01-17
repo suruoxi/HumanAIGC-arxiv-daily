@@ -14,6 +14,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 > We plan to support analysis papers based on GPT4-turbo API. 
 
+[Web](https://liutaocode.github.io/talking-face-arxiv-daily/)  [Code](https://github.com/liutaocode/talking-face-arxiv-daily) 
+
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |

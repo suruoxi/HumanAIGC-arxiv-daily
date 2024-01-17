@@ -244,7 +244,7 @@ def json_to_md(filename,md_filename,
                task = '',
                to_web = False, 
                use_title = True, 
-               use_tc = True,
+               use_tc = False,
                show_badge = True,
                use_b2t = True):
     """
@@ -304,7 +304,7 @@ def json_to_md(filename,md_filename,
         f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know. \n\n")
         f.write("> We plan to support analysis papers based on GPT4-turbo API. \n\n")
-        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        f.write("[Web](https://liutaocode.github.io/talking-face-arxiv-daily/)  [Code](https://github.com/liutaocode/talking-face-arxiv-daily) \n\n")
 
         #Add: table of contents
         if use_tc == True:
