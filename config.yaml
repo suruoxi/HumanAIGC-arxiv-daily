@@ -23,4 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis"]
+        filters: ["Talking Face", "Talking Head", "Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment"]
