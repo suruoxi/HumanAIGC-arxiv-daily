@@ -56,12 +56,19 @@ def get_authors(authors, first_author = False):
     return output
 def sort_papers(papers):
     output = dict()
-    keys = list(papers.keys())
-    keys.sort(reverse=True)
-    for key in keys:
+
+    # sort by time
+    time_based_list = []
+    for k, v in papers.items():
+        # import pdb;pdb.set_trace()
+        year_month_day = v.split("**")[1]
+        time_based_list.append((year_month_day, k))
+    
+    time_based_list.sort(reverse=True)
+    
+    for _, key in time_based_list:
         output[key] = papers[key]
-    return output    
-import requests
+    return output
 
 def get_code_link(qword:str) -> str:
     """
@@ -295,7 +302,7 @@ def json_to_md(filename,md_filename,
         
         f.write("# Talking-Face Research Paper Index\n")
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
+            #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Automatically Updated on " + DateNow + "\n")
         else:
@@ -343,7 +350,7 @@ def json_to_md(filename,md_filename,
         
             for _,v in day_content.items():
                 if v is not None:
-                    if v.startswith("|**1") or v.startswith("|**200"): # delete too old papers with year under 2010
+                    if v.startswith("|**1") or v.startswith("|**200"): # delete papers before deep-learning :)
                         continue
                     f.write(pretty_math(v)) # make latex pretty
 
@@ -358,21 +365,21 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+                     f"contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/liutaocode/"
+                     f"talking-face-arxiv-daily/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/liutaocode/"
+                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/liutaocode/"
+                     f"talking-face-arxiv-daily/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/liutaocode/"
+                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/liutaocode/"
+                     f"talking-face-arxiv-daily/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/liutaocode/"
+                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/liutaocode/"
+                     f"talking-face-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 
