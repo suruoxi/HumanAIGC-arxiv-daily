@@ -323,14 +323,11 @@ def demo(**config):
     data_collector_web= []
     
     keywords = config['kv']
-    max_results = config['max_results']
-    publish_readme = config['publish_readme']
-    publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
+
     show_badge = config['show_badge']
 
-    json_file = config['json_readme_path']
-    md_file   = config['claudeai_path']
+    json_file = '../' + config['json_readme_path']
+    md_file   = '../' +config['claudeai_path']
 
     pdf_analysis_path = config['pdf_analysis_path']
     pdf_analysis_prompt = open(config['pdf_analysis_prompt_path']).read()
@@ -341,11 +338,11 @@ def demo(**config):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config_path',type=str, default='config.yaml',
+    parser.add_argument('--config_path',type=str, default='../config.yaml',
                             help='configuration file path')
-    parser.add_argument('--pdf_analysis_path',type=str, default='pdf_analysis/claude_results/prompt1/',
+    parser.add_argument('--pdf_analysis_path',type=str, default='./claude_results/prompt1/',
                             help='pdf analysis content')
-    parser.add_argument('--pdf_analysis_prompt_path',type=str, default='pdf_analysis/claude_results/prompt1.txt',
+    parser.add_argument('--pdf_analysis_prompt_path',type=str, default='./claude_results/prompt1.txt',
                             help='pdf analysis content')
                       
     args = parser.parse_args()
