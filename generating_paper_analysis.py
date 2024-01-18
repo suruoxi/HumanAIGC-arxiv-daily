@@ -61,7 +61,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
+
 
 def get_code_link(qword:str) -> str:
     """
@@ -83,82 +83,6 @@ def get_code_link(qword:str) -> str:
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
     return code_link
-  
-def get_daily_papers(topic,query="slam", max_results=2):
-    """
-    @param topic: str
-    @param query: str
-    @return paper_with_code: dict
-    """
-    # output 
-    content = dict() 
-    content_to_web = dict()
-    search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
-    )
-
-    for result in search_engine.results():
-
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
-
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
-
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'abs/' + paper_key
-        
-        try:
-            # source code link    
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
-
-    data = {topic:content}
-    data_web = {topic:content_to_web}
-    return data,data_web 
 
 def update_paper_links(filename):
     '''
@@ -240,7 +164,10 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
     
-def json_to_md(filename,md_filename,
+def json_to_md(filename,
+               md_filename,
+               pdf_analysis_path,
+               pdf_analysis_prompt,
                task = '',
                to_web = False, 
                use_title = True, 
@@ -252,19 +179,22 @@ def json_to_md(filename,md_filename,
     @param md_filename: str
     @return None
     """
-    def pretty_math(s:str) -> str:
-        ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
-            return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
-        ret += s[:math_start] 
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
-        ret += s[math_end:]
-        return ret
+    def pretty_math(line:str, pdf_analysis_path:str) -> str:
+        # Example:
+        # |**2023-03-23**|**PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360$^{\circ}$**|Sizhe An et.al.|[2303.13071](http://arxiv.org/abs/2303.13071)|null|
+
+        items = line.split('|')
+        paper_time = items[1].replace("*", "")
+        paper_title = items[2].replace("*", "")
+        paper_auther = items[3].replace("*", "")
+        paper_id = items[4].split(']', 1)[0][1:]
+        paper_result_json_path = os.path.join(pdf_analysis_path, paper_id+".json")
+        if not os.path.exists(paper_result_json_path):
+            return ''
+        paper_analysis = json.loads(open(paper_result_json_path).read())['response']
+
+        new_line = f'<details><summary> <b>{paper_time} </b> {paper_title} ({paper_auther})  <a href="http://arxiv.org/pdf/{paper_id}.pdf">PDF</a> </summary>  <p> {paper_analysis} </p>  </details> \n\n'
+        return new_line
   
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
@@ -293,21 +223,20 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Paper Index\n")
+        f.write("# Talking-Face Paper AI Analysis \n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Automatically Updated on " + DateNow + "\n")
+            f.write("## Manually Updated on " + DateNow + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> Manually Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
-        f.write("> If you have any other keywords, please feel free to let us know. \n\n")
-        f.write("> We plan to support more paper analysis. \n\n")
-        f.write(" \n\n")
-        f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
-        f.write("[AI Analysis](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) \n\n")
+        f.write("The content of this page is generated by [claude.ai](https://claude.ai/). \n\n")
+        f.write("**This page is currently **under construction**. Due to the limitations on the frequency of API calls, the papers are still being crawled continuously.** \n\n")
+        f.write("The content herein was generated from the following prompt. Please examine it closely, it is not guaranteed to be 100\\% accurate. \n\n")
+        pdf_analysis_prompt = pdf_analysis_prompt.replace("\n", "  \n")
+        f.write(f"```{pdf_analysis_prompt}```\n\n")
+        f.write("[Back to the Paper Index](https://github.com/liutaocode/talking-face-arxiv-daily) \n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -331,12 +260,12 @@ def json_to_md(filename,md_filename,
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+            # if use_title == True :
+                # if to_web == False:
+                #     f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                # else:
+                #     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                #     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -345,7 +274,9 @@ def json_to_md(filename,md_filename,
                 if v is not None:
                     if v.startswith("|**1") or v.startswith("|**200"): # delete too old papers with year under 2010
                         continue
-                    f.write(pretty_math(v)) # make latex pretty
+                    content = pretty_math(v, pdf_analysis_path)
+                    if content != '':
+                        f.write(content) # make latex pretty
 
             f.write(f"\n")
             
@@ -388,65 +319,28 @@ def demo(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
-    b_update = config['update_paper_links']
-    logging.info(f'Update Paper Link = {b_update}')
-    if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
-            print("\n")
-        logging.info(f"GET daily papers end")
+    json_file = config['json_readme_path']
+    md_file   = config['claudeai_path']
 
-    # 1. update README.md file
-    if publish_readme:
-        json_file = config['json_readme_path']
-        md_file   = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            # update json data
-            update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+    pdf_analysis_path = config['pdf_analysis_path']
+    pdf_analysis_prompt = open(config['pdf_analysis_prompt_path']).read()
 
-    # 2. update docs/index.md file (to gitpage)
-    if publish_gitpage:
-        json_file = config['json_gitpage_path']
-        md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+    json_to_md(json_file, md_file, pdf_analysis_path, pdf_analysis_prompt, task ='Update prompt', \
+        show_badge = show_badge)
 
-    # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
-    parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')                        
+    parser.add_argument('--pdf_analysis_path',type=str, default='pdf_analysis/claude_results/prompt1/',
+                            help='pdf analysis content')
+    parser.add_argument('--pdf_analysis_prompt_path',type=str, default='pdf_analysis/claude_results/prompt1.txt',
+                            help='pdf analysis content')
+                      
     args = parser.parse_args()
     config = load_config(args.config_path)
-    config = {**config, 'update_paper_links':args.update_paper_links}
+    config['pdf_analysis_path'] = args.pdf_analysis_path
+    config['pdf_analysis_prompt_path'] = args.pdf_analysis_prompt_path
+    config = {**config}
     demo(**config)
