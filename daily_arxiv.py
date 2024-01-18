@@ -54,6 +54,7 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+
 def sort_papers(papers):
     output = dict()
 
@@ -300,22 +301,22 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Paper Index\n")
+        f.write("# Talking-Face Research Papers (With GPT Analysis)\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Automatically Updated on " + DateNow + "\n")
+            f.write("### Automatically Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
         f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
-        f.write("> If you have any other keywords, please feel free to let us know. \n\n")
-        f.write("> We plan to support more paper analysis. \n\n")
+        f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
+        f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` and plan to also integrate `GPT-4-turbo` for a comparative analysis of articles. This is to help everyone **quickly skim** through the latest research papers. \n\n")
         f.write(" \n\n")
+        f.write("[>>>> Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) \n\n")
         f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
-        f.write("[AI Analysis](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) \n\n")
-
+        
         #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")

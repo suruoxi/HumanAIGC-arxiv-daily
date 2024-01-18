@@ -7,19 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Talking-Face Research Paper Index
-## Automatically Updated on 2024.01.18
+# Talking-Face Research Papers (With GPT Analysis)
+### Automatically Updated on 2024.01.18
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
-> If you have any other keywords, please feel free to let us know. 
+> If you have any other keywords, please feel free to let us know :) 
 
-> We plan to support more paper analysis. 
+> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` and plan to also integrate `GPT-4-turbo` for a comparative analysis of articles. This is to help everyone **quickly skim** through the latest research papers. 
 
  
 
-[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
+[>>>> Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) 
 
-[AI Analysis](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) 
+[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
 
 ## Talking Face
 
