@@ -1,3 +1,4 @@
+pdfminer.six
 arxiv
 pyyaml
 flask==2.2.2

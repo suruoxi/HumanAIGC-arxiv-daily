@@ -10,6 +10,7 @@ import PyPDF2
 import docx
 import re
 from io import BytesIO
+from pdfminer.high_level import extract_text
 
 load_dotenv()  # Load environment variables from .env file
 class Client:
@@ -116,9 +117,8 @@ class Client:
     # Send Message to Claude
     def send_message(self, parse_only, saved_to_dir, prompt, conversation_id, attachment=None):
         url = "https://claude.ai/api/append_message"
-        #print("send_message,attachment"+attachment)
-        # Upload attachment if provided
-        
+        # print(attachment)
+        # print(saved_to_dir)
         if attachment:
             attachments = self.get_attentment_info(saved_to_dir, attachment)
 
@@ -183,6 +183,7 @@ class Client:
             data_strings = decoded_data.split('\n')
             for data_string in data_strings:
                 json_str = data_string[6:].strip()
+                # import pdb;pdb.set_trace()
                 _data = json.loads(json_str)
                 if 'completion' in _data:
                     buffer.write(str(_data['completion']).encode('utf-8'))
@@ -311,11 +312,15 @@ class Client:
                     file_content = file.read()
 
             elif file_path.endswith('.pdf'):
-                with open(file_path, 'rb') as file:
-                    pdf_reader = PyPDF2.PdfFileReader(file, strict=False)
-                    for page_num in range(pdf_reader.numPages):
-                        page = pdf_reader.getPage(page_num)
-                        file_content += page.extractText()
+
+                # change from PyPDF2 to pdfminer.six due to some errors in JSON decoding
+                file_content = extract_text(file_path)
+
+                string_encode = file_content.encode("ascii", "ignore")
+                file_content = string_encode.decode()
+
+                file_content = re.sub("-\n", "", file_content)
+                file_content = file_content.replace("\n", "")
 
             elif file_path.endswith(('.doc', '.docx')):
                 doc = docx.Document(file_path)
