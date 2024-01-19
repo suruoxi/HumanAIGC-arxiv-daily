@@ -247,8 +247,14 @@ def update_json_file(filename,data_dict):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
-    
-def json_to_md(filename,md_filename,
+
+def contains_any_title(str, 
+                       set):
+    return any(s in str for s in set)
+
+def json_to_md(filename,
+               md_filename,
+               black_list_set,
                task = '',
                to_web = False, 
                use_title = True, 
@@ -353,6 +359,9 @@ def json_to_md(filename,md_filename,
                 if v is not None:
                     if v.startswith("|**1") or v.startswith("|**200"): # delete papers before deep-learning :)
                         continue
+                    if contains_any_title(v, black_list_set):
+                        continue
+                    # import pdb;pdb.set_trace()
                     f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
@@ -395,6 +404,12 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    black_list_path = config['black_list_path']
+
+    black_list_set = set() # some papers in this set will be excluded
+    with open(black_list_path, 'r') as file:
+        for line in file:
+            black_list_set.add(line.strip()) 
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -420,7 +435,7 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
+        json_to_md(json_file, md_file, black_list_set, task ='Update Readme', \
             show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
@@ -432,7 +447,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
+        json_to_md(json_file, md_file, black_list_set, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
@@ -445,7 +460,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
+        json_to_md(json_file, md_file, black_list_set, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
