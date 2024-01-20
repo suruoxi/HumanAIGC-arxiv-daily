@@ -114,6 +114,96 @@ class Client:
         else:
             return None
         return attachment
+
+    def send_messages(self, prompt, conversation_id, name_list=None):
+        url = "https://claude.ai/api/append_message"
+        # print(attachment)
+        # print(saved_to_dir)
+        attachments = []
+        for json_path in name_list:
+            with open(json_path) as f:
+                attachment_response = json.load(f)
+                attachments.append(attachment_response)
+
+        payload = json.dumps({
+            "completion": {
+                "prompt": f"{prompt}",
+                "timezone": "Asia/Kolkata",
+                "model": "claude-2"
+            },
+            "organization_uuid": f"{self.organization_id}",
+            "conversation_uuid": f"{conversation_id}",
+            "text": f"{prompt}",
+            "attachments": attachments
+        })
+
+        headers = {
+            'User-Agent':
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0',
+            'Accept': 'text/event-stream, text/event-stream',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Referer': 'https://claude.ai/chats',
+            'Content-Type': 'application/json',
+            'Origin': 'https://claude.ai',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Cookie': f'{self.cookie}',
+            'Sec-Fetch-Dest': 'empty',
+            'Sec-Fetch-Mode': 'cors',
+            'Sec-Fetch-Site': 'same-origin',
+            'TE': 'trailers'
+        }
+        headers = [f"{k}: {v}".encode() for k,v in headers.items()]
+        #response = self.send_request("POST",url,headers=headers, data=payload, stream=True)
+        # decoded_data = response.content.decode("utf-8")
+        # #logger.info("send_message {} decoded_data：".format(decoded_data))
+        # decoded_data = re.sub('\n+', '\n', decoded_data).strip()
+        # data_strings = decoded_data.split('\n')
+        # completions = []
+        # for data_string in data_strings:
+        #     json_str = data_string[6:].strip()
+        #     data = json.loads(json_str)
+        #     if 'completion' in data:
+        #         completions.append(data['completion'])
+        #
+        # answer = ''.join(completions)
+        # logger.info("send_message {} answer：".format(answer))
+        buffer = BytesIO()
+        c = Curl()
+        def stream_callback(data):
+            json_str = data.decode('utf-8')
+
+            decoded_data = re.sub('\n+', '\n', json_str).strip()
+            data_strings = decoded_data.split('\n')
+            for data_string in data_strings:
+                json_str = data_string[6:].strip()
+                # import pdb;pdb.set_trace()
+                _data = json.loads(json_str)
+                if 'completion' in _data:
+                    buffer.write(str(_data['completion']).encode('utf-8'))
+                    print(_data['completion'], end="")
+
+
+        c.setopt(CurlOpt.URL, b'https://claude.ai/api/append_message')
+        c.setopt(CurlOpt.WRITEFUNCTION, stream_callback)
+        c.setopt(CurlOpt.HTTPHEADER, headers)
+        c.setopt(CurlOpt.POSTFIELDS, payload)
+        c.impersonate("chrome110")
+
+        try:
+            c.perform()
+            c.close()
+            body = buffer.getvalue()
+            print(body.decode())
+        except curl_cffi.curl.CurlError as e:
+            if e.args[0] == 23:
+                print("Error 23: Failure writing output to destination")
+            else:
+                print(f"An error occurred: {e}")
+            return None
+        
+        return body
+
     # Send Message to Claude
     def send_message(self, parse_only, saved_to_dir, prompt, conversation_id, attachment=None):
         url = "https://claude.ai/api/append_message"

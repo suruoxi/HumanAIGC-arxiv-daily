@@ -252,7 +252,8 @@ def contains_any_title(str,
                        set):
     return any(s in str for s in set)
 
-def json_to_md(filename,
+def json_to_md(recent_trend_path,
+               filename,
                md_filename,
                black_list_set,
                task = '',
@@ -320,7 +321,16 @@ def json_to_md(filename,
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
         f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` and plan to also integrate `GPT-4-turbo` for a comparative analysis of articles. This is to help everyone **quickly skim** through the latest research papers. \n\n")
         f.write(" \n\n")
-        f.write("[>>>> Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) \n\n")
+
+        recent_trend = open(recent_trend_path).read()
+        f.write("<details>\n")
+        f.write("  <summary>Recent Trends (by Claude.ai)</summary>\n")
+        f.write("  <ol>\n")    
+        f.write(f"    <li>{recent_trend}</li>\n")
+        f.write("  </ol>\n")
+        f.write("</details>\n\n")
+
+        f.write("[>>>> Each Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) \n\n")
         f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
         
         #Add: table of contents
@@ -405,6 +415,7 @@ def demo(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
     black_list_path = config['black_list_path']
+    recent_trend_path = config['recent_trend_path']
 
     black_list_set = set() # some papers in this set will be excluded
     with open(black_list_path, 'r') as file:
@@ -435,7 +446,7 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file, md_file, black_list_set, task ='Update Readme', \
+        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update Readme', \
             show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
@@ -447,7 +458,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, black_list_set, task ='Update GitPage', \
+        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
@@ -460,7 +471,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, black_list_set, task ='Update Wechat', \
+        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":

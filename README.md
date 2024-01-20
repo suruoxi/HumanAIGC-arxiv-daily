@@ -13,7 +13,28 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
  
 
-[>>>> Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) 
+<details>
+  <summary>Recent Trends (by Claude.ai)</summary>
+  <ol>
+    <li>Based on reviewing the papers, here is a summary of some recent trends in talking face generation:
+
+1. Using diffusion models for talking face generation. Several papers explore using diffusion models as the backbone for generating talking faces, including video diffusion models and latent diffusion models. These models can produce high-quality and temporally consistent talking faces.
+
+2. Leveraging multimodal inputs beyond just text. Many papers go beyond just using text prompts, and incorporate images, audio, segmentation masks, etc. as additional inputs. This allows for finer control over identity, expressions, backgrounds, etc. in the generated talking faces.
+
+3. Customizable and controllable talking face generation. There is a focus on allowing customization and control of the talking faces, such as controlling specific expressions, swaping identities, and animating faces based on reference videos or images. This includes zero-shot and few-shot customization.
+
+4. Combining person-generic and person-specific models. Some methods combine person-generic models that work for any identity, with person-specific fine-tuning or adaptation to capture idiosyncrasies of a particular person's looks and speech patterns.
+
+5. Modeling head, face, and other aspects separately. Recent work looks at separately modeling different aspects like the head region, torso, background, etc. and then seamlessly compositing them. This allows for more control and realism.
+
+6. Large-scale pre-training. Leveraging large datasets, often scraped from the web or videos, to pre-train models. This improves generalizability.
+
+In summary, the recent progress allows for highly customizable and controllable talking face generation, with increasing realism. The use of diffusion models, multimodal inputs, and separate modeling of face aspects are promising directions.</li>
+  </ol>
+</details>
+
+[>>>> Each Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) 
 
 [Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
 
