@@ -1,21 +1,33 @@
 
-Get your web cookie from [Claude.ai](https://claude.ai/) and save them into `.cookie` file.
+Please ensure you have your web cookie from [Claude.ai](https://claude.ai/) and save it into the `.cookie` file before proceeding.
 
-1. Download pdf:
+1. To download PDFs, execute:
 
-```python download_pdf.py```
+```shell
+python download_pdf.py
+```
 
-2. Start Analysis:
+2. To initiate the analysis process, run:
 
-```python analysis_papers.py```
+```shell
+python analysis_papers.py
+```
 
-3. Generate markdown file:
+3. To generate a markdown file for the analysis, use:
 
-```python generating_paper_analysis.py```
+```shell
+python generating_paper_analysis.py
+```
 
-This project is based on [Claude2-PyAPI](https://github.com/wwwzhouhui/Claude2-PyAPI).
+4. [Optional] To obtain insights on recent trends or ideas from the latest N papers, execute:
+
+```shell
+python analysis_recent_trends.py
+```
+
+This project utilizes the [Claude2-PyAPI](https://github.com/wwwzhouhui/Claude2-PyAPI).
 
 
-* Due to changes in the Claude interface, we cannot guarantee that the aforementioned code will always work effectively.
+* Please note that due to updates in the Claude interface, the functionality of the provided code may vary over time.
 
-* This project is not a flawless piece of code and still contains bugs. Please proceed with caution, and pull requests are welcome.
+* While this project is actively maintained, there may still be occasional bugs. We encourage users to proceed with caution and contribute improvements via pull requests.
