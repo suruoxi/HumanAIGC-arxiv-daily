@@ -18,3 +18,5 @@ telebot
 werobot
 PyPDF2
 docx
+Markdown==3.4.4
+git+https://github.com/Acemap/pdf_parser.git

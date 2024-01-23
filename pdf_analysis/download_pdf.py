@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from tqdm import tqdm
+import argparse
 
 def download_pdf(save_path, pdf_name, pdf_url):
     pdf_file_path = os.path.join(save_path, f'{pdf_name}.pdf')
@@ -14,15 +15,16 @@ def download_pdf(save_path, pdf_name, pdf_url):
 
 
 if __name__ == '__main__':
-    json_path = '../docs/cv-arxiv-daily-web.json'
+    parser = argparse.ArgumentParser(description='Download PDFs from arXiv.')
+    parser.add_argument('--json_path', type=str, default='../docs/cv-arxiv-daily-web.json', help='Path to the JSON file with document IDs.')
+    parser.add_argument('--saved_path', type=str, default='./results/raw_pdfs', help='Path where the PDFs will be saved.')
+    args = parser.parse_args()
 
-    with open(json_path, 'r') as file:
+    with open(args.json_path, 'r') as file:
         data = json.load(file)
         for keyword in data.keys():
             print(f'{keyword}:')
             for doc_id in tqdm(data[keyword].keys(), desc='Downloading PDFs'):
                 if '/' in doc_id: # skip too old papers
                     continue
-                # print(doc_id)
-                download_pdf('raw_pdfs', doc_id, f'https://arxiv.org/pdf/{doc_id}.pdf')
-
+                download_pdf(args.saved_path, doc_id, f'https://arxiv.org/pdf/{doc_id}.pdf')

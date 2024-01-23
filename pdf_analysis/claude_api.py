@@ -105,15 +105,9 @@ class Client:
         if os.path.exists(saved_to_dir):
             with open(saved_to_dir) as f:
                 attachment_response = json.load(f)
-        else:
-            attachment_response = self.upload_attachment(attachment)
-            with open(saved_to_dir, 'w') as f:
-                json.dump(attachment_response, f)
-        if attachment_response:
-            return [attachment_response]
+                return [attachment_response]
         else:
             return None
-        return attachment
 
     def send_messages(self, prompt, conversation_id, name_list=None):
         url = "https://claude.ai/api/append_message"
@@ -154,20 +148,7 @@ class Client:
             'TE': 'trailers'
         }
         headers = [f"{k}: {v}".encode() for k,v in headers.items()]
-        #response = self.send_request("POST",url,headers=headers, data=payload, stream=True)
-        # decoded_data = response.content.decode("utf-8")
-        # #logger.info("send_message {} decoded_data：".format(decoded_data))
-        # decoded_data = re.sub('\n+', '\n', decoded_data).strip()
-        # data_strings = decoded_data.split('\n')
-        # completions = []
-        # for data_string in data_strings:
-        #     json_str = data_string[6:].strip()
-        #     data = json.loads(json_str)
-        #     if 'completion' in data:
-        #         completions.append(data['completion'])
-        #
-        # answer = ''.join(completions)
-        # logger.info("send_message {} answer：".format(answer))
+
         buffer = BytesIO()
         c = Curl()
         def stream_callback(data):
@@ -205,21 +186,11 @@ class Client:
         return body
 
     # Send Message to Claude
-    def send_message(self, parse_only, saved_to_dir, prompt, conversation_id, attachment=None):
+    def send_message(self, upload_file_format, prompt, conversation_id):
         url = "https://claude.ai/api/append_message"
         # print(attachment)
         # print(saved_to_dir)
-        if attachment:
-            attachments = self.get_attentment_info(saved_to_dir, attachment)
 
-            if attachments is None:
-                print(f'{saved_to_dir} has Error Attachments')
-                return None
-        else:
-            attachments = []
-
-        if parse_only:
-            return None
 
         payload = json.dumps({
             "completion": {
@@ -230,7 +201,7 @@ class Client:
             "organization_uuid": f"{self.organization_id}",
             "conversation_uuid": f"{conversation_id}",
             "text": f"{prompt}",
-            "attachments": attachments
+            "attachments": [upload_file_format]
         })
 
         headers = {
@@ -250,20 +221,7 @@ class Client:
             'TE': 'trailers'
         }
         headers = [f"{k}: {v}".encode() for k,v in headers.items()]
-        #response = self.send_request("POST",url,headers=headers, data=payload, stream=True)
-        # decoded_data = response.content.decode("utf-8")
-        # #logger.info("send_message {} decoded_data：".format(decoded_data))
-        # decoded_data = re.sub('\n+', '\n', decoded_data).strip()
-        # data_strings = decoded_data.split('\n')
-        # completions = []
-        # for data_string in data_strings:
-        #     json_str = data_string[6:].strip()
-        #     data = json.loads(json_str)
-        #     if 'completion' in data:
-        #         completions.append(data['completion'])
-        #
-        # answer = ''.join(completions)
-        # logger.info("send_message {} answer：".format(answer))
+
         buffer = BytesIO()
         c = Curl()
         def stream_callback(data):

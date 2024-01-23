@@ -340,9 +340,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='../config.yaml',
                             help='configuration file path')
-    parser.add_argument('--pdf_analysis_path',type=str, default='./claude_results/prompt1/',
+    parser.add_argument('--pdf_analysis_path',type=str, default='./results/claude_results/prompt1/',
                             help='pdf analysis content')
-    parser.add_argument('--pdf_analysis_prompt_path',type=str, default='./claude_results/prompt1.txt',
+    parser.add_argument('--pdf_analysis_prompt_path',type=str, default='./results/claude_results/prompt1.txt',
                             help='pdf analysis content')
                       
     args = parser.parse_args()
