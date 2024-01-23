@@ -352,6 +352,7 @@ def json_to_md(recent_trend_path,
             if not day_content:
                 continue
             
+            
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
@@ -381,7 +382,11 @@ def json_to_md(recent_trend_path,
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
-            
+        
+        f.write("Notes: \n\n")
+        f.write("* We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. \n\n")
+        f.write("* However, recent trends are still based on `ten` papers sorted by the initial publication date. \n\n")
+        
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"

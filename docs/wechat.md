@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.01.21
+> Updated on 2024.01.23
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -16,21 +16,17 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 <details>
   <summary>Recent Trends (by Claude.ai)</summary>
   <ol>
-    <li>Based on reviewing the papers, here is a summary of some recent trends in talking face generation:
+    <li> Based on analyzing the collection of academic papers, I have identified five prominent recent trends in text-to-video generation models, with a key focus on controllability, multimodality, video quality improvements, image animation, and personalized video generation. 
 
-1. Using diffusion models for talking face generation. Several papers explore using diffusion models as the backbone for generating talking faces, including video diffusion models and latent diffusion models. These models can produce high-quality and temporally consistent talking faces.
+<b>Controllability</b>: Recent works have focused on improving control over generated videos through multimodal inputs like text, images, depth maps, etc. Models leverage techniques like attention mechanisms, ControlNets, and classifier guidance to enable precise conditioning on desired visual semantics. This facilitates applications like video editing, geometry-controlled generation, and subject customization.
 
-2. Leveraging multimodal inputs beyond just text. Many papers go beyond just using text prompts, and incorporate images, audio, segmentation masks, etc. as additional inputs. This allows for finer control over identity, expressions, backgrounds, etc. in the generated talking faces.
+<b>Multimodality</b>: Leveraging multiple input modalities like text, images, audio, depth maps etc. is an emerging trend to improve conditioning and allow for fine-grained control over generated video attributes. Models employ techniques like cross-attention over multimodal embeddings and masked blending to effectively utilize complementary strengths of different input types.
 
-3. Customizable and controllable talking face generation. There is a focus on allowing customization and control of the talking faces, such as controlling specific expressions, swaping identities, and animating faces based on reference videos or images. This includes zero-shot and few-shot customization.
+<b>Video quality improvements</b>: Recent video diffusion models aim to enhance the visual quality and temporal consistency of generated videos using spatial-temporal architectures, noise scheduling optimizations and loss functions tailored for video data. Models also reuse weights from high-quality image diffusion models as initialization to benefit from their superior generative capabilities.
 
-4. Combining person-generic and person-specific models. Some methods combine person-generic models that work for any identity, with person-specific fine-tuning or adaptation to capture idiosyncrasies of a particular person's looks and speech patterns.
+<b>Image animation</b>: Animating still images into video using textual prompts is an area of increasing research focus. Methods employ techniques like masked conditions, viewpoint consistency losses, and warping-based rendering to transform input images into realistic and temporally coherent videos.
 
-5. Modeling head, face, and other aspects separately. Recent work looks at separately modeling different aspects like the head region, torso, background, etc. and then seamlessly compositing them. This allows for more control and realism.
-
-6. Large-scale pre-training. Leveraging large datasets, often scraped from the web or videos, to pre-train models. This improves generalizability.
-
-In summary, the recent progress allows for highly customizable and controllable talking face generation, with increasing realism. The use of diffusion models, multimodal inputs, and separate modeling of face aspects are promising directions.</li>
+<b>Personalized video generation</b>: Customizing foundation models using few samples for user-specific video generation enables applications like talking avatars and virtual assistants. Approaches rely on model fine-tuning, adapters, or additional cross-attention layers to inject personalization without requiring extensive retraining.</li>
   </ol>
 </details>
 
@@ -51,7 +47,7 @@ In summary, the recent progress allows for highly customizable and controllable 
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
 - 2023-12-25, **SAiD: Speech-driven Blendshape Facial Animation with Diffusion**, Inkyu Park et.al., Paper: [http://arxiv.org/abs/2401.08655](http://arxiv.org/abs/2401.08655), Code: **[https://github.com/yunik1004/said](https://github.com/yunik1004/said)**
-- 2024-01-16, **Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2401.08503](http://arxiv.org/abs/2401.08503)
+- 2024-01-20, **Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2401.08503](http://arxiv.org/abs/2401.08503)
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2024-01-07, **Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2401.03476](http://arxiv.org/abs/2401.03476)
 - 2024-01-18, **Exposing Lip-syncing Deepfakes from Mouth Inconsistencies**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2401.10113](http://arxiv.org/abs/2401.10113)
@@ -60,7 +56,7 @@ In summary, the recent progress allows for highly customizable and controllable 
 - 2024-01-11, **Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2401.06126](http://arxiv.org/abs/2401.06126)
 - 2023-12-21, **DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation**, Chenxu Zhang et.al., Paper: [http://arxiv.org/abs/2312.13578](http://arxiv.org/abs/2312.13578)
 
-<p align=right>(<a href=#updated-on-20240121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240123>back to top</a>)</p>
 
 ## Image Animation
 
@@ -75,7 +71,13 @@ In summary, the recent progress allows for highly customizable and controllable 
 - 2023-12-06, **AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2312.03793](http://arxiv.org/abs/2312.03793), Code: **[https://github.com/vvictoryuki/animatezero](https://github.com/vvictoryuki/animatezero)**
 - 2023-12-04, **AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance**, Zuozhuo Dai et.al., Paper: [http://arxiv.org/abs/2311.12886](http://arxiv.org/abs/2311.12886), Code: **[https://github.com/alibaba/animate-anything](https://github.com/alibaba/animate-anything)**
 
-<p align=right>(<a href=#updated-on-20240121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240123>back to top</a>)</p>
+
+Notes: 
+
+* We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. 
+
+* However, recent trends are still based on `ten` papers sorted by the initial publication date. 
 
 [contributors-shield]: https://img.shields.io/github/contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/liutaocode/talking-face-arxiv-daily/graphs/contributors
