@@ -14,6 +14,14 @@ python download_pdf.py
 python parse_pdf.py
 ```
 
+Notes: 
+
+* You can choose either `raw_text` or `rich_markdown` format.
+* `raw_text` is simple and retains only the text, while `rich_markdown` supports parsing tables, formulas, and references.
+* We recommend using `rich_markdown` based on [Sciparser](https://github.com/davendw49/sciparser). However, it must be noted that installing `Sciparser` can be somewhat complicated, and you need to run a service using Docker, for example:
+```docker run --rm --gpus all --init --ulimit core=0 -p 8070:8070 grobid/grobid:0.8.0```
+* For details, you can refer to the [GROBID documentation](https://grobid.readthedocs.io/en/latest/Run-Grobid/).
+
 3. To initiate the analysis process, run:
 
 ```shell
@@ -26,15 +34,6 @@ python analysis_papers.py
 python generating_paper_analysis.py
 ```
 
-You can choose either `raw_text` or `rich_markdown` format.
-
-`raw_text` is simple and retains only the text, while `rich_markdown` supports parsing tables, formulas, and references.
-
-We recommend using `rich_markdown` based on [Sciparser](https://github.com/davendw49/sciparser). However, it must be noted that installing `Sciparser` can be somewhat complicated, and you need to run a service using Docker, for example:
-
-```docker run --rm --gpus all --init --ulimit core=0 -p 8070:8070 grobid/grobid:0.8.0```
-
-For details, you can refer to the [GROBID documentation](https://grobid.readthedocs.io/en/latest/Run-Grobid/).
 
 5. [Optional] To obtain insights on recent trends or ideas from the latest N papers, execute:
 
