@@ -49,7 +49,9 @@ def analysis_papers(args):
         text_parsed_path_txt = os.path.join(text_parsed_saved_path, pdf_name + ".txt")
         text_parsed_path_md = os.path.join(text_parsed_saved_path, pdf_name + ".md")
         text_parsed_path = text_parsed_path_md if os.path.exists(text_parsed_path_md) else text_parsed_path_txt
-        saved_to_json_path = os.path.join(claude_results, saved_prefix + ".json")
+        saved_to_json_path = os.path.join(saved_prefix, pdf_name + ".json")
+        if os.path.exists(saved_to_json_path):
+            continue
         upload_file_format = convet_to_file_upload_format(text_parsed_path)
         
         # Send message to Claude API
@@ -79,7 +81,7 @@ if __name__ == '__main__':
                 7.Can you identify any limitations of the study mentioned by the authors?\n\
                 8.What future research directions do the authors suggest?\n")
     
-    parser.add_argument('--text_parsed_saved_path', type=str, default='./results/text_parsed/rich_markdown/')
+    parser.add_argument('--text_parsed_saved_path', type=str, default='./results/text_parsed/raw_text/')
     parser.add_argument('--claude_results', type=str, default='./results/claude_results/')
     parser.add_argument('--cookie', type=str, default='.cookie')
  

@@ -47,7 +47,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parse PDF documents.')
     parser.add_argument('--pdf_dir', type=str, default='./results/raw_pdfs', help='Path to the raw PDF files.')
     parser.add_argument('--saved_path', type=str, default='./results/text_parsed/raw_text/',  help='Path where the parsed documents will be saved.')
-    parser.add_argument('--parsed_type', type=str, choices=['raw_text', 'rich_markdown'],  help='The type of parsing to perform.')
+    parser.add_argument('--parsed_type', type=str, default='raw_text', choices=['raw_text', 'rich_markdown'],  help='The type of parsing to perform.')
     # when using rich_markdown option, you are required to install grobid: https://github.com/kermitt2/grobid
     parser.add_argument('--rich_markdown_host', type=str, default='localhost', help='Host.')
     parser.add_argument('--rich_markdown_port', type=str, default='8070', help='Port.')

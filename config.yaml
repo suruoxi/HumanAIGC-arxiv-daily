@@ -13,7 +13,7 @@ publish_wechat: True
 
 # file paths
 black_list_path: 'blacklists.txt'
-recent_trend_path: './pdf_analysis/results/recent_trends.txt'
+recent_trend_path: './pdf_analysis/recent_trends.txt'
 json_readme_path: './docs/cv-arxiv-daily.json'
 json_gitpage_path: './docs/cv-arxiv-daily-web.json'
 json_wechat_path: './docs/cv-arxiv-daily-wechat.json'

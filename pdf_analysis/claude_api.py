@@ -109,15 +109,8 @@ class Client:
         else:
             return None
 
-    def send_messages(self, prompt, conversation_id, name_list=None):
+    def send_messages(self, prompt, conversation_id, attachments=None):
         url = "https://claude.ai/api/append_message"
-        # print(attachment)
-        # print(saved_to_dir)
-        attachments = []
-        for json_path in name_list:
-            with open(json_path) as f:
-                attachment_response = json.load(f)
-                attachments.append(attachment_response)
 
         payload = json.dumps({
             "completion": {
