@@ -16,17 +16,17 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 <details>
   <summary>Recent Trends (by Claude.ai)</summary>
   <ol>
-    <li> Based on analyzing the collection of academic papers, I have identified five prominent recent trends in text-to-video generation models, with a key focus on controllability, multimodality, video quality improvements, image animation, and personalized video generation. 
+    <li> Based on analyzing the collection of academic papers on talking face generation, here is a summary of five prominent recent trends and developments:
 
-<b>Controllability</b>: Recent works have focused on improving control over generated videos through multimodal inputs like text, images, depth maps, etc. Models leverage techniques like attention mechanisms, ControlNets, and classifier guidance to enable precise conditioning on desired visual semantics. This facilitates applications like video editing, geometry-controlled generation, and subject customization.
+<b>Neural radiance fields (NeRFs)</b>: Many recent papers explore using neural radiance fields to represent talking faces in 3D. NeRFs can model view-dependent effects and complex geometry. Papers show NeRFs can achieve photo-realistic reconstruction and animation of talking heads from images or video. However, most methods require expensive per-person training. Recent trends look to make NeRF talking faces generalizable in a one-shot setting.
 
-<b>Multimodality</b>: Leveraging multiple input modalities like text, images, audio, depth maps etc. is an emerging trend to improve conditioning and allow for fine-grained control over generated video attributes. Models employ techniques like cross-attention over multimodal embeddings and masked blending to effectively utilize complementary strengths of different input types.
+<b>Generative models</b>: Generative adversarial networks (GANs) and variational autoencoders (VAEs) are popular for modeling talking faces. They can synthesize video frames conditioned on audio or motion. Diffusion models are an emerging trend, as they can generate sharper results and enable new applications like face editing. Recent papers also explore ways to control emotion, pose, expression, and other attributes of generated talking faces.
 
-<b>Video quality improvements</b>: Recent video diffusion models aim to enhance the visual quality and temporal consistency of generated videos using spatial-temporal architectures, noise scheduling optimizations and loss functions tailored for video data. Models also reuse weights from high-quality image diffusion models as initialization to benefit from their superior generative capabilities.
+<b>Controllable generation</b>: Many papers focus on controlling aspects of talking face generation like speech, expression, gaze, and head pose. This includes disentangling factors of variation and learning interpretable controls. Recent trends use conditioned models like NeRFs to enable control over viewpoints. There is also interest in controlling generation using natural language prompts.
 
-<b>Image animation</b>: Animating still images into video using textual prompts is an area of increasing research focus. Methods employ techniques like masked conditions, viewpoint consistency losses, and warping-based rendering to transform input images into realistic and temporally coherent videos.
+<b>Limited data</b>: A prevalent trend is reducing data requirements for talking face models through transfer learning, few-shot adaptation, and pretraining. This allows high-quality controllable talking faces to be synthesized for new people with less data. Approaches leverage 3D priors, perceptual losses, and modularity to improve data efficiency.
 
-<b>Personalized video generation</b>: Customizing foundation models using few samples for user-specific video generation enables applications like talking avatars and virtual assistants. Approaches rely on model fine-tuning, adapters, or additional cross-attention layers to inject personalization without requiring extensive retraining.</li>
+<b>Full avatar generation</b>: Recent papers are beginning to address generating full avatars rather than just the face region. This includes modeling the torso, shoulders, background, and body gestures to accompany speech. The focus is on natural motion and seamless transitions between spontaneous and non-spontaneous movements to improve realism.</li>
   </ol>
 </details>
 
