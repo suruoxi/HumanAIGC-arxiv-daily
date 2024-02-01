@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.01.31
+> Updated on 2024.02.01
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -50,7 +50,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-20, **Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2401.08503](http://arxiv.org/abs/2401.08503)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
 - 2024-01-30, **Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**, Qingcheng Zhao et.al., Paper: [http://arxiv.org/abs/2401.15687](http://arxiv.org/abs/2401.15687)
-- 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668)
+- 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668), Code: **[https://github.com/aaroncomo/lipfd](https://github.com/aaroncomo/lipfd)**
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2024-01-26, **Implicit Neural Representation for Physics-driven Actuated Soft Bodies**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.14861](http://arxiv.org/abs/2401.14861)
 - 2024-01-07, **Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2401.03476](http://arxiv.org/abs/2401.03476)
@@ -62,7 +62,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-12-21, **DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation**, Chenxu Zhang et.al., Paper: [http://arxiv.org/abs/2312.13578](http://arxiv.org/abs/2312.13578)
 - 2024-01-27, **An Implicit Physical Face Model Driven by Expression and Style**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.15414](http://arxiv.org/abs/2401.15414)
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Image Animation
 
@@ -77,7 +77,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-12-06, **AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2312.03793](http://arxiv.org/abs/2312.03793), Code: **[https://github.com/vvictoryuki/animatezero](https://github.com/vvictoryuki/animatezero)**
 - 2023-12-04, **AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance**, Zuozhuo Dai et.al., Paper: [http://arxiv.org/abs/2311.12886](http://arxiv.org/abs/2311.12886), Code: **[https://github.com/alibaba/animate-anything](https://github.com/alibaba/animate-anything)**
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 Notes: 
 
