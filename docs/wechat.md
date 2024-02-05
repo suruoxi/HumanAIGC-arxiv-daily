@@ -57,6 +57,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-19, **Fast Registration of Photorealistic Avatars for VR Facial Animation**, Chaitanya Patel et.al., Paper: [http://arxiv.org/abs/2401.11002](http://arxiv.org/abs/2401.11002)
 - 2024-01-18, **Exposing Lip-syncing Deepfakes from Mouth Inconsistencies**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2401.10113](http://arxiv.org/abs/2401.10113)
 - 2024-01-16, **EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**, Bingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2401.08049](http://arxiv.org/abs/2401.08049)
+- 2024-02-02, **EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2402.01422](http://arxiv.org/abs/2402.01422)
 - 2024-01-08, **EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**, Trung Tuan Dao et.al., Paper: [http://arxiv.org/abs/2312.17205](http://arxiv.org/abs/2312.17205)
 - 2024-01-11, **Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2401.06126](http://arxiv.org/abs/2401.06126)
 - 2023-12-21, **DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation**, Chenxu Zhang et.al., Paper: [http://arxiv.org/abs/2312.13578](http://arxiv.org/abs/2312.13578)

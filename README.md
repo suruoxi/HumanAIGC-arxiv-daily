@@ -46,6 +46,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**|Guanwen Feng et.al.|[2402.01422](http://arxiv.org/abs/2402.01422)|null|
 |**2024-01-30**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
 |**2024-01-28**|**Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**|Weifeng Liu et.al.|[2401.15668](http://arxiv.org/abs/2401.15668)|**[link](https://github.com/aaroncomo/lipfd)**|
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414](http://arxiv.org/abs/2401.15414)|null|
