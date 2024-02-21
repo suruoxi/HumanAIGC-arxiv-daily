@@ -9,12 +9,12 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 > If you have any other keywords, please feel free to let us know :) 
 
-> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` and plan to also integrate `GPT-4-turbo` for a comparative analysis of articles. This is to help everyone **quickly skim** through the latest research papers. 
+> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. 
 
  
 
 <details>
-  <summary>Recent Trends (by Claude.ai)</summary>
+  <summary>Recent Trends (by AI)</summary>
   <ol>
     <li> Based on analyzing the collection of academic papers on talking face generation, here is a summary of five prominent recent trends and developments:
 
@@ -30,7 +30,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
   </ol>
 </details>
 
-[>>>> Each Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) 
+[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) 
 
 [Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
 
