@@ -46,6 +46,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
+- 2024-02-20, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636](http://arxiv.org/abs/2402.12636)
 - 2023-12-25, **SAiD: Speech-driven Blendshape Facial Animation with Diffusion**, Inkyu Park et.al., Paper: [http://arxiv.org/abs/2401.08655](http://arxiv.org/abs/2401.08655), Code: **[https://github.com/yunik1004/said](https://github.com/yunik1004/said)**
 - 2024-01-20, **Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2401.08503](http://arxiv.org/abs/2401.08503)
 - 2024-02-05, **One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2402.03553](http://arxiv.org/abs/2402.03553)

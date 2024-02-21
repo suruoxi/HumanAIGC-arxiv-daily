@@ -319,18 +319,18 @@ def json_to_md(recent_trend_path,
         # TODO: add usage
         f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
-        f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` and plan to also integrate `GPT-4-turbo` for a comparative analysis of articles. This is to help everyone **quickly skim** through the latest research papers. \n\n")
+        f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. \n\n")
         f.write(" \n\n")
 
         recent_trend = open(recent_trend_path).read()
         f.write("<details>\n")
-        f.write("  <summary>Recent Trends (by Claude.ai)</summary>\n")
+        f.write("  <summary>Recent Trends (by AI)</summary>\n")
         f.write("  <ol>\n")    
         f.write(f"    <li>{recent_trend}</li>\n")
         f.write("  </ol>\n")
         f.write("</details>\n\n")
 
-        f.write("[>>>> Each Paper Analysis (by Claude.ai) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_claude_ai.md) \n\n")
+        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
         f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
         
         #Add: table of contents
