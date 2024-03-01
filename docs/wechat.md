@@ -54,6 +54,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
 - 2024-01-30, **Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**, Qingcheng Zhao et.al., Paper: [http://arxiv.org/abs/2401.15687](http://arxiv.org/abs/2401.15687)
 - 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668), Code: **[https://github.com/aaroncomo/lipfd](https://github.com/aaroncomo/lipfd)**
+- 2024-02-29, **Learning a Generalized Physical Face Model From Data**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2402.19477](http://arxiv.org/abs/2402.19477)
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364](http://arxiv.org/abs/2402.17364), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2024-01-26, **Implicit Neural Representation for Physics-driven Actuated Soft Bodies**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.14861](http://arxiv.org/abs/2401.14861)
