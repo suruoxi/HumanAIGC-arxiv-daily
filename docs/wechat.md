@@ -58,7 +58,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364](http://arxiv.org/abs/2402.17364), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2024-01-26, **Implicit Neural Representation for Physics-driven Actuated Soft Bodies**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.14861](http://arxiv.org/abs/2401.14861)
-- 2024-02-28, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
+- 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
 - 2024-01-07, **Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2401.03476](http://arxiv.org/abs/2401.03476)
 - 2024-01-19, **Fast Registration of Photorealistic Avatars for VR Facial Animation**, Chaitanya Patel et.al., Paper: [http://arxiv.org/abs/2401.11002](http://arxiv.org/abs/2401.11002)
 - 2024-01-18, **Exposing Lip-syncing Deepfakes from Mouth Inconsistencies**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2401.10113](http://arxiv.org/abs/2401.10113)
