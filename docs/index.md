@@ -42,6 +42,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio**|Chao Xu et.al.|[2403.01901](http://arxiv.org/abs/2403.01901)|**[link](https://github.com/modelscope/facechain)**|
 |**2024-03-02**|**G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**|Juan Zhang et.al.|[2402.18122](http://arxiv.org/abs/2402.18122)|null|
 |**2024-02-29**|**Learning a Generalized Physical Face Model From Data**|Lingchen Yang et.al.|[2402.19477](http://arxiv.org/abs/2402.19477)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
@@ -427,6 +428,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-01-17**|**Continuous Piecewise-Affine Based Motion Model for Image Animation**|Hexiang Wang et.al.|[2401.09146](http://arxiv.org/abs/2401.09146)|**[link](https://github.com/devilpg/aaai2024-cpabmm)**|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
 |**2023-12-21**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
