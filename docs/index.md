@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.03.12
+### Automatically Updated on 2024.03.13
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -42,9 +42,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**|Shuai Tan et.al.|[2403.06375](http://arxiv.org/abs/2403.06375)|null|
+|**2024-03-12**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365](http://arxiv.org/abs/2403.06365)|null|
 |**2024-03-11**|**A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos**|Weixia Zhang et.al.|[2403.06421](http://arxiv.org/abs/2403.06421)|**[link](https://github.com/zwx8981/adth-qa)**|
-|**2024-03-11**|**FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**|Shuai Tan et.al.|[2403.06375](http://arxiv.org/abs/2403.06375)|null|
-|**2024-03-11**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365](http://arxiv.org/abs/2403.06365)|null|
 |**2024-03-11**|**Say Anything with Any Style**|Shuai Tan et.al.|[2403.06363](http://arxiv.org/abs/2403.06363)|null|
 |**2024-03-04**|**FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio**|Chao Xu et.al.|[2403.01901](http://arxiv.org/abs/2403.01901)|**[link](https://github.com/modelscope/facechain)**|
 |**2024-03-02**|**G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**|Juan Zhang et.al.|[2402.18122](http://arxiv.org/abs/2402.18122)|null|
