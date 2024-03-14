@@ -432,6 +432,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
 |**2024-03-08**|**Audio-Synchronized Visual Animation**|Lin Zhang et.al.|[2403.05659](http://arxiv.org/abs/2403.05659)|null|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-01-17**|**Continuous Piecewise-Affine Based Motion Model for Image Animation**|Hexiang Wang et.al.|[2401.09146](http://arxiv.org/abs/2401.09146)|**[link](https://github.com/devilpg/aaai2024-cpabmm)**|
