@@ -42,6 +42,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
+|**2024-03-16**|**ScanTalk: 3D Talking Heads from Unregistered Scans**|Federico Nocentini et.al.|[2403.10942](http://arxiv.org/abs/2403.10942)|null|
 |**2024-03-13**|**Say Anything with Any Style**|Shuai Tan et.al.|[2403.06363](http://arxiv.org/abs/2403.06363)|null|
 |**2024-03-12**|**FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**|Shuai Tan et.al.|[2403.06375](http://arxiv.org/abs/2403.06375)|null|
 |**2024-03-12**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365](http://arxiv.org/abs/2403.06365)|null|

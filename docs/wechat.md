@@ -44,10 +44,12 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 ## Talking Face
 
+- 2024-03-18, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
 - 2024-02-21, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636](http://arxiv.org/abs/2402.12636)
 - 2024-03-12, **Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06365](http://arxiv.org/abs/2403.06365)
+- 2024-03-16, **ScanTalk: 3D Talking Heads from Unregistered Scans**, Federico Nocentini et.al., Paper: [http://arxiv.org/abs/2403.10942](http://arxiv.org/abs/2403.10942)
 - 2024-03-13, **Say Anything with Any Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06363](http://arxiv.org/abs/2403.06363)
 - 2023-12-25, **SAiD: Speech-driven Blendshape Facial Animation with Diffusion**, Inkyu Park et.al., Paper: [http://arxiv.org/abs/2401.08655](http://arxiv.org/abs/2401.08655), Code: **[https://github.com/yunik1004/said](https://github.com/yunik1004/said)**
 - 2024-02-26, **Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**, Yifei Li et.al., Paper: [http://arxiv.org/abs/2402.16599](http://arxiv.org/abs/2402.16599)
