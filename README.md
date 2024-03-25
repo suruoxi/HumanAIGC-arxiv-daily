@@ -46,6 +46,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example**|Soyeon Yoon et.al.|[2403.15227](http://arxiv.org/abs/2403.15227)|null|
 |**2024-03-22**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
 |**2024-03-19**|**EmoVOCA: Speech-Driven Emotional 3D Talking Heads**|Federico Nocentini et.al.|[2403.12886](http://arxiv.org/abs/2403.12886)|null|
 |**2024-03-19**|**ScanTalk: 3D Talking Heads from Unregistered Scans**|Federico Nocentini et.al.|[2403.10942](http://arxiv.org/abs/2403.10942)|null|
@@ -441,12 +442,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
+|**2024-03-21**|**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**|Shenhao Zhu et.al.|[2403.14781](http://arxiv.org/abs/2403.14781)|null|
 |**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
 |**2024-03-08**|**Audio-Synchronized Visual Animation**|Lin Zhang et.al.|[2403.05659](http://arxiv.org/abs/2403.05659)|null|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-01-17**|**Continuous Piecewise-Affine Based Motion Model for Image Animation**|Hexiang Wang et.al.|[2401.09146](http://arxiv.org/abs/2401.09146)|**[link](https://github.com/devilpg/aaai2024-cpabmm)**|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
-|**2023-12-21**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
 |**2023-12-06**|**AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**|Jiwen Yu et.al.|[2312.03793](http://arxiv.org/abs/2312.03793)|**[link](https://github.com/vvictoryuki/animatezero)**|
 |**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928](http://arxiv.org/abs/2312.02928)|null|
 |**2023-12-04**|**AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance**|Zuozhuo Dai et.al.|[2311.12886](http://arxiv.org/abs/2311.12886)|**[link](https://github.com/alibaba/animate-anything)**|
