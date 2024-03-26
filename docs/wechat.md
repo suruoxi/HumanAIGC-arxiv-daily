@@ -44,6 +44,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 ## Talking Face
 
+- 2024-03-23, **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**, You Xie et.al., Paper: [http://arxiv.org/abs/2403.15931](http://arxiv.org/abs/2403.15931)
 - 2024-03-22, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
@@ -57,6 +58,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-02-05, **One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2402.03553](http://arxiv.org/abs/2402.03553)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
 - 2024-01-30, **Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**, Qingcheng Zhao et.al., Paper: [http://arxiv.org/abs/2401.15687](http://arxiv.org/abs/2401.15687)
+- 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
 - 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668), Code: **[https://github.com/aaroncomo/lipfd](https://github.com/aaroncomo/lipfd)**
 - 2024-02-29, **Learning a Generalized Physical Face Model From Data**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2402.19477](http://arxiv.org/abs/2402.19477)
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364](http://arxiv.org/abs/2402.17364), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
@@ -80,6 +82,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-02-28, **Context-aware Talking Face Video Generation**, Meidai Xuanyuan et.al., Paper: [http://arxiv.org/abs/2402.18092](http://arxiv.org/abs/2402.18092)
 - 2024-02-21, **Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**, Zechen Bai et.al., Paper: [http://arxiv.org/abs/2402.13724](http://arxiv.org/abs/2402.13724)
 - 2024-01-27, **An Implicit Physical Face Model Driven by Expression and Style**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.15414](http://arxiv.org/abs/2401.15414)
+- 2024-03-23, **Adaptive Super Resolution For One-Shot Talking-Head Generation**, Luchuan Song et.al., Paper: [http://arxiv.org/abs/2403.15944](http://arxiv.org/abs/2403.15944), Code: **[https://github.com/songluchuan/adasr-talkinghead](https://github.com/songluchuan/adasr-talkinghead)**
 - 2024-02-25, **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2402.16124](http://arxiv.org/abs/2402.16124)
 - 2024-03-11, **A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos**, Weixia Zhang et.al., Paper: [http://arxiv.org/abs/2403.06421](http://arxiv.org/abs/2403.06421), Code: **[https://github.com/zwx8981/adth-qa](https://github.com/zwx8981/adth-qa)**
 
@@ -88,7 +91,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 ## Image Animation
 
 - 2024-03-05, **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**, Weijie Li et.al., Paper: [http://arxiv.org/abs/2403.02827](http://arxiv.org/abs/2403.02827)
-- 2024-03-22, **PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**, Yiming Zhang et.al., Paper: [http://arxiv.org/abs/2312.13964](http://arxiv.org/abs/2312.13964), Code: **[https://github.com/open-mmlab/PIA](https://github.com/open-mmlab/PIA)**
+- 2024-03-25, **PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**, Yiming Zhang et.al., Paper: [http://arxiv.org/abs/2312.13964](http://arxiv.org/abs/2312.13964), Code: **[https://github.com/open-mmlab/PIA](https://github.com/open-mmlab/PIA)**
 - 2023-11-30, **Motion-Conditioned Image Animation for Video Editing**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2311.18827](http://arxiv.org/abs/2311.18827)
 - 2024-01-03, **Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**, David Junhao Zhang et.al., Paper: [http://arxiv.org/abs/2401.01827](http://arxiv.org/abs/2401.01827), Code: **[https://github.com/salesforce/lavis](https://github.com/salesforce/lavis)**
 - 2023-11-27, **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model**, Zhongcong Xu et.al., Paper: [http://arxiv.org/abs/2311.16498](http://arxiv.org/abs/2311.16498)

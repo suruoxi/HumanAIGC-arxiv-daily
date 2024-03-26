@@ -46,6 +46,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
+|**2024-03-23**|**Adaptive Super Resolution For One-Shot Talking-Head Generation**|Luchuan Song et.al.|[2403.15944](http://arxiv.org/abs/2403.15944)|**[link](https://github.com/songluchuan/adasr-talkinghead)**|
+|**2024-03-23**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931](http://arxiv.org/abs/2403.15931)|null|
 |**2024-03-22**|**LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example**|Soyeon Yoon et.al.|[2403.15227](http://arxiv.org/abs/2403.15227)|null|
 |**2024-03-22**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
 |**2024-03-19**|**EmoVOCA: Speech-Driven Emotional 3D Talking Heads**|Federico Nocentini et.al.|[2403.12886](http://arxiv.org/abs/2403.12886)|null|
@@ -442,7 +445,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-22**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
+|**2024-03-25**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
 |**2024-03-21**|**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**|Shenhao Zhu et.al.|[2403.14781](http://arxiv.org/abs/2403.14781)|null|
 |**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
 |**2024-03-08**|**Audio-Synchronized Visual Animation**|Lin Zhang et.al.|[2403.05659](http://arxiv.org/abs/2403.05659)|null|
