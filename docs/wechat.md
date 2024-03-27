@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.03.26
+> Updated on 2024.03.27
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -44,7 +44,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 ## Talking Face
 
-- 2024-03-23, **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**, You Xie et.al., Paper: [http://arxiv.org/abs/2403.15931](http://arxiv.org/abs/2403.15931)
+- 2024-03-26, **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**, You Xie et.al., Paper: [http://arxiv.org/abs/2403.15931](http://arxiv.org/abs/2403.15931)
 - 2024-03-22, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
@@ -86,7 +86,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-02-25, **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2402.16124](http://arxiv.org/abs/2402.16124)
 - 2024-03-11, **A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos**, Weixia Zhang et.al., Paper: [http://arxiv.org/abs/2403.06421](http://arxiv.org/abs/2403.06421), Code: **[https://github.com/zwx8981/adth-qa](https://github.com/zwx8981/adth-qa)**
 
-<p align=right>(<a href=#updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240327>back to top</a>)</p>
 
 ## Image Animation
 
@@ -105,7 +105,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-12-06, **AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2312.03793](http://arxiv.org/abs/2312.03793), Code: **[https://github.com/vvictoryuki/animatezero](https://github.com/vvictoryuki/animatezero)**
 - 2023-12-04, **AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance**, Zuozhuo Dai et.al., Paper: [http://arxiv.org/abs/2311.12886](http://arxiv.org/abs/2311.12886), Code: **[https://github.com/alibaba/animate-anything](https://github.com/alibaba/animate-anything)**
 
-<p align=right>(<a href=#updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240327>back to top</a>)</p>
 
 Notes: 
 
