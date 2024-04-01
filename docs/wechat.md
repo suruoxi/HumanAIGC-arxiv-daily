@@ -48,6 +48,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-03-22, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
+- 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153](http://arxiv.org/abs/2403.20153)
 - 2024-03-26, **Superior and Pragmatic Talking Face Generation with Teacher-Student Framework**, Chao Liang et.al., Paper: [http://arxiv.org/abs/2403.17883](http://arxiv.org/abs/2403.17883)
 - 2024-02-21, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636](http://arxiv.org/abs/2402.12636)
 - 2024-03-12, **Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06365](http://arxiv.org/abs/2403.06365)
@@ -61,6 +62,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-03-28, **MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation**, Seyeon Kim et.al., Paper: [http://arxiv.org/abs/2403.19144](http://arxiv.org/abs/2403.19144)
 - 2024-01-30, **Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**, Qingcheng Zhao et.al., Paper: [http://arxiv.org/abs/2401.15687](http://arxiv.org/abs/2401.15687)
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
+- 2024-03-29, **MI-NeRF: Learning a Single Face NeRF from Multiple Identities**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2403.19920](http://arxiv.org/abs/2403.19920)
 - 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668), Code: **[https://github.com/aaroncomo/lipfd](https://github.com/aaroncomo/lipfd)**
 - 2024-02-29, **Learning a Generalized Physical Face Model From Data**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2402.19477](http://arxiv.org/abs/2402.19477)
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364](http://arxiv.org/abs/2402.17364), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
