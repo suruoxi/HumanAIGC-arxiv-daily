@@ -454,7 +454,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-25**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
-|**2024-03-21**|**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**|Shenhao Zhu et.al.|[2403.14781](http://arxiv.org/abs/2403.14781)|null|
+|**2024-03-21**|**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**|Shenhao Zhu et.al.|[2403.14781](http://arxiv.org/abs/2403.14781)|**[link](https://github.com/fudan-generative-vision/champ)**|
 |**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
 |**2024-03-08**|**Audio-Synchronized Visual Animation**|Lin Zhang et.al.|[2403.05659](http://arxiv.org/abs/2403.05659)|null|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
