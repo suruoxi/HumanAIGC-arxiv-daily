@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.04.03
+### Automatically Updated on 2024.04.04
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -46,10 +46,10 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-04-02**|**EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**|Shuai Tan et.al.|[2404.01647](http://arxiv.org/abs/2404.01647)|null|
 |**2024-04-02**|**Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation**|Taekyung Ki et.al.|[2404.00636](http://arxiv.org/abs/2404.00636)|null|
 |**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|null|
-|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-03-28**|**MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation**|Seyeon Kim et.al.|[2403.19144](http://arxiv.org/abs/2403.19144)|**[link](https://github.com/KU-CVLAB/MoDiTalker)**|
 |**2024-03-27**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931](http://arxiv.org/abs/2403.15931)|null|
 |**2024-03-26**|**Superior and Pragmatic Talking Face Generation with Teacher-Student Framework**|Chao Liang et.al.|[2403.17883](http://arxiv.org/abs/2403.17883)|null|
@@ -449,7 +449,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2014-09-03**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 ## Image Animation
 
@@ -512,7 +512,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 Notes: 
 
