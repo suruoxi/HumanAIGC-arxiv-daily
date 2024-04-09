@@ -46,6 +46,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**|Heyuan Li et.al.|[2404.05680](http://arxiv.org/abs/2404.05680)|null|
+|**2024-04-07**|**GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**|Dongjing Shan et.al.|[2404.04924](http://arxiv.org/abs/2404.04924)|null|
 |**2024-04-03**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-04-02**|**EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**|Shuai Tan et.al.|[2404.01647](http://arxiv.org/abs/2404.01647)|null|
 |**2024-04-02**|**Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation**|Taekyung Ki et.al.|[2404.00636](http://arxiv.org/abs/2404.00636)|null|

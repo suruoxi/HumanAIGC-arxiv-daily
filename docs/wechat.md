@@ -52,6 +52,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-03-26, **Superior and Pragmatic Talking Face Generation with Teacher-Student Framework**, Chao Liang et.al., Paper: [http://arxiv.org/abs/2403.17883](http://arxiv.org/abs/2403.17883)
 - 2024-02-21, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636](http://arxiv.org/abs/2402.12636)
 - 2024-03-12, **Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06365](http://arxiv.org/abs/2403.06365)
+- 2024-04-08, **SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**, Heyuan Li et.al., Paper: [http://arxiv.org/abs/2404.05680](http://arxiv.org/abs/2404.05680)
 - 2024-03-19, **ScanTalk: 3D Talking Heads from Unregistered Scans**, Federico Nocentini et.al., Paper: [http://arxiv.org/abs/2403.10942](http://arxiv.org/abs/2403.10942)
 - 2024-03-13, **Say Anything with Any Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06363](http://arxiv.org/abs/2403.06363)
 - 2023-12-25, **SAiD: Speech-driven Blendshape Facial Animation with Diffusion**, Inkyu Park et.al., Paper: [http://arxiv.org/abs/2401.08655](http://arxiv.org/abs/2401.08655), Code: **[https://github.com/yunik1004/said](https://github.com/yunik1004/said)**
@@ -70,6 +71,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-03-22, **LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example**, Soyeon Yoon et.al., Paper: [http://arxiv.org/abs/2403.15227](http://arxiv.org/abs/2403.15227)
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2024-01-26, **Implicit Neural Representation for Physics-driven Actuated Soft Bodies**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.14861](http://arxiv.org/abs/2401.14861)
+- 2024-04-07, **GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**, Dongjing Shan et.al., Paper: [http://arxiv.org/abs/2404.04924](http://arxiv.org/abs/2404.04924)
 - 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
 - 2024-01-07, **Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2401.03476](http://arxiv.org/abs/2401.03476)
 - 2024-03-12, **FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06375](http://arxiv.org/abs/2403.06375)
