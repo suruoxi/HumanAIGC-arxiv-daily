@@ -46,6 +46,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**|Sicheng Xu et.al.|[2404.10667](http://arxiv.org/abs/2404.10667)|null|
 |**2024-04-15**|**FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features**|Andre Rochow et.al.|[2404.09736](http://arxiv.org/abs/2404.09736)|null|
 |**2024-04-13**|**THQA: A Perceptual Quality Assessment Database for Talking Heads**|Yingjie Zhou et.al.|[2404.09003](http://arxiv.org/abs/2404.09003)|**[link](https://github.com/zyj-2000/thqa)**|
 |**2024-04-09**|**Deepfake Generation and Detection: A Benchmark and Survey**|Gan Pei et.al.|[2403.17881](http://arxiv.org/abs/2403.17881)|**[link](https://github.com/flyingby/awesome-deepfake-generation-and-detection)**|

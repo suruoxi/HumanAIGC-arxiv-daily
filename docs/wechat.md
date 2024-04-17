@@ -46,6 +46,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 - 2024-03-27, **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**, You Xie et.al., Paper: [http://arxiv.org/abs/2403.15931](http://arxiv.org/abs/2403.15931)
 - 2024-03-22, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700](http://arxiv.org/abs/2403.11700)
+- 2024-04-16, **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**, Sicheng Xu et.al., Paper: [http://arxiv.org/abs/2404.10667](http://arxiv.org/abs/2404.10667)
 - 2023-12-23, **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2312.15197](http://arxiv.org/abs/2312.15197)
 - 2024-01-02, **Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2401.01207](http://arxiv.org/abs/2401.01207)
 - 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153](http://arxiv.org/abs/2403.20153)
