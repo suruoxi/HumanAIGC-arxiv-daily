@@ -80,12 +80,18 @@ def analysis_papers(args):
             conversation_id = 'openai'
             with open(text_parsed_path, 'r') as f:
                 text_parsed_content = f.read()
+            
+            max_len = 128000 - len(prompt_content) - 100
+            num_tokens = len(text_parsed_content)
+            if num_tokens > max_len:
+                text_parsed_content = text_parsed_content[:max_len]
+                
             prompt_content = text_parsed_content + prompt_content
             response = claude_api.send_message(prompt_content)
             json_result = {'conversation_id': conversation_id, 'response': response}
             with open(saved_to_json_path, 'w') as f:
                 json.dump(json_result, f)
-        break
+        # break
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some integers.')
@@ -104,7 +110,7 @@ if __name__ == '__main__':
     parser.add_argument('--claude_results', type=str, default='./results/claude_results/')
     parser.add_argument('--apikey', type=str, default='.apikey')
     parser.add_argument('--api', type=str, default='openai', choices=['openai', 'claudeai'])
-    parser.add_argument('--default_url', type=str, default='https://api.xi-ai.cn')
+    parser.add_argument('--default_url', type=str, default='https://api.openai.com')
     args = parser.parse_args()
 
     analysis_papers(args)
