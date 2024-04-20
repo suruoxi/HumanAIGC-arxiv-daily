@@ -49,8 +49,8 @@ if __name__ == '__main__':
     parser.add_argument('--saved_path', type=str, default='./results/text_parsed/rich_markdown/',  help='Path where the parsed documents will be saved.')
     parser.add_argument('--parsed_type', type=str, default='rich_markdown', choices=['raw_text', 'rich_markdown'],  help='The type of parsing to perform.')
     # when using rich_markdown option, you are required to install grobid: https://github.com/kermitt2/grobid
-    parser.add_argument('--rich_markdown_host', type=str, default='192.168.1.41', help='Host.')
-    parser.add_argument('--rich_markdown_port', type=str, default='11147', help='Port.')
+    parser.add_argument('--rich_markdown_host', type=str, default='192.168.1.73', help='Host.')
+    parser.add_argument('--rich_markdown_port', type=str, default='8070', help='Port.')
     args = parser.parse_args()
     
     get_json_response(args.pdf_dir, args.saved_path, args.parsed_type, args.rich_markdown_host, args.rich_markdown_port)

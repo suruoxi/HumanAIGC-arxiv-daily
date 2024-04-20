@@ -1,4 +1,6 @@
 .cookie
+.apikey
+
 raw_pdfs
 run.log
 text_parsed

@@ -1,4 +1,5 @@
 from claude_api import Client
+from openai_api import OpenAIClient
 from random import randint
 from time import sleep
 import os, json
@@ -24,7 +25,10 @@ def analysis_papers(args):
     text_parsed_saved_path = args.text_parsed_saved_path
  
     # Initialize Claude API client
-    claude_api = Client(open(args.cookie).read().replace("\n", ""))
+    if args.api == 'claudeai':
+        claude_api = Client(open(args.apikey).read().replace("\n", ""))
+    else:
+        claude_api = OpenAIClient(open(args.apikey).read().replace("\n", ""), args.default_url)
 
     # Write prompt content to file
     os.makedirs(claude_results, exist_ok=True)
@@ -40,6 +44,9 @@ def analysis_papers(args):
 
     # Process each PDF
     for pdf_name in tqdm(lists):
+        
+        print(pdf_name)
+        
         # Skip system files
         if pdf_name == '.DS_Store':
             continue
@@ -55,18 +62,30 @@ def analysis_papers(args):
         upload_file_format = convet_to_file_upload_format(text_parsed_path)
         
         # Send message to Claude API
-        conversation_id = claude_api.create_new_chat()['uuid']
-        response = claude_api.send_message(upload_file_format, prompt_content, conversation_id)
         
-        # Skip if no response received
-        if response is None:
-            print(f'Error, checking {pdf_name}')
-            continue
+        if args.api == 'claudeai':
+            conversation_id = claude_api.create_new_chat()['uuid']
+            response = claude_api.send_message(upload_file_format, prompt_content, conversation_id)
         
-        # Save response to JSON file 
-        json_result = {'conversation_id': conversation_id, 'response': response.decode("utf-8")}
-        with open(saved_to_json_path, 'w') as f:
-            json.dump(json_result, f)
+            # Skip if no response received
+            if response is None:
+                print(f'Error, checking {pdf_name}')
+                continue
+            
+            # Save response to JSON file 
+            json_result = {'conversation_id': conversation_id, 'response': response.decode("utf-8")}
+            with open(saved_to_json_path, 'w') as f:
+                json.dump(json_result, f)
+        else:
+            conversation_id = 'openai'
+            with open(text_parsed_path, 'r') as f:
+                text_parsed_content = f.read()
+            prompt_content = text_parsed_content + prompt_content
+            response = claude_api.send_message(prompt_content)
+            json_result = {'conversation_id': conversation_id, 'response': response}
+            with open(saved_to_json_path, 'w') as f:
+                json.dump(json_result, f)
+        break
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some integers.')
@@ -81,10 +100,11 @@ if __name__ == '__main__':
                 7.Can you identify any limitations of the study mentioned by the authors?\n\
                 8.What future research directions do the authors suggest?\n")
     
-    parser.add_argument('--text_parsed_saved_path', type=str, default='./results/text_parsed/raw_text/')
+    parser.add_argument('--text_parsed_saved_path', type=str, default='./results/text_parsed/rich_markdown/')
     parser.add_argument('--claude_results', type=str, default='./results/claude_results/')
-    parser.add_argument('--cookie', type=str, default='.cookie')
- 
+    parser.add_argument('--apikey', type=str, default='.apikey')
+    parser.add_argument('--api', type=str, default='openai', choices=['openai', 'claudeai'])
+    parser.add_argument('--default_url', type=str, default='https://api.xi-ai.cn')
     args = parser.parse_args()
 
     analysis_papers(args)
