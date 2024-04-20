@@ -37,6 +37,8 @@ python generating_paper_analysis.py
 
 5. [Optional] To obtain insights on recent trends or ideas from the latest N papers, execute:
 
+OpenAI API is not updated here.
+
 ```shell
 python analysis_recent_trends.py
 ```
