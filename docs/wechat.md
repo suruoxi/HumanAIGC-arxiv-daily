@@ -479,6 +479,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2019-03-13, **Animating an Autonomous 3D Talking Avatar**, Dominik Borer et.al., Paper: [http://arxiv.org/abs/1903.05448](http://arxiv.org/abs/1903.05448)
 - 2019-10-02, **Animating Face using Disentangled Audio Representations**, Gaurav Mittal et.al., Paper: [http://arxiv.org/abs/1910.00726](http://arxiv.org/abs/1910.00726)
 - 2024-03-25, **AnimateMe: 4D Facial Expressions via Diffusion Models**, Dimitrios Gerogiannis et.al., Paper: [http://arxiv.org/abs/2403.17213](http://arxiv.org/abs/2403.17213)
+- 2024-05-06, **AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2405.03121](http://arxiv.org/abs/2405.03121), Code: **[https://github.com/x-lance/anitalker](https://github.com/x-lance/anitalker)**
 - 2024-03-26, **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation**, Huawei Wei et.al., Paper: [http://arxiv.org/abs/2403.17694](http://arxiv.org/abs/2403.17694), Code: **[https://github.com/scutzzj/aniportrait](https://github.com/scutzzj/aniportrait)**
 - 2023-06-13, **AniFaceDrawing: Anime Portrait Exploration during Your Sketching**, Zhengyu Huang et.al., Paper: [http://arxiv.org/abs/2306.07476](http://arxiv.org/abs/2306.07476)
 - 2020-09-20, **An Improved Approach of Intention Discovery with Machine Learning for POMDP-based Dialogue Management**, Ruturaj Raval et.al., Paper: [http://arxiv.org/abs/2009.09354](http://arxiv.org/abs/2009.09354)
