@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.05.08
+> Updated on 2024.05.09
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -462,7 +462,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2019-05-27, **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**, Guanzhong Tian et.al., Paper: [http://arxiv.org/abs/1905.11142](http://arxiv.org/abs/1905.11142)
 - 2020-03-05, **Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose**, Ran Yi et.al., Paper: [http://arxiv.org/abs/2002.10137](http://arxiv.org/abs/2002.10137), Code: **[https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)**
 - 2023-12-11, **Audio-driven Talking Face Generation by Overcoming Unintended Information Flow**, Dogucan Yaman et.al., Paper: [http://arxiv.org/abs/2307.09368](http://arxiv.org/abs/2307.09368)
-- 2024-04-29, **Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention**, Ruijie Tao et.al., Paper: [http://arxiv.org/abs/2404.18501](http://arxiv.org/abs/2404.18501)
+- 2024-05-08, **Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention**, Ruijie Tao et.al., Paper: [http://arxiv.org/abs/2404.18501](http://arxiv.org/abs/2404.18501)
 - 2024-05-07, **Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation**, Dogucan Yaman et.al., Paper: [http://arxiv.org/abs/2405.04327](http://arxiv.org/abs/2405.04327)
 - 2023-05-18, **Audio-Visual Person-of-Interest DeepFake Detection**, Davide Cozzolino et.al., Paper: [http://arxiv.org/abs/2204.03083](http://arxiv.org/abs/2204.03083), Code: **[https://github.com/grip-unina/poi-forensics](https://github.com/grip-unina/poi-forensics)**
 - 2022-10-06, **Audio-Visual Face Reenactment**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.02755](http://arxiv.org/abs/2210.02755), Code: **[https://github.com/mdv3101/AVFR-Gan](https://github.com/mdv3101/AVFR-Gan)**
@@ -522,7 +522,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240509>back to top</a>)</p>
 
 ## Image Animation
 
@@ -582,7 +582,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240509>back to top</a>)</p>
 
 Notes: 
 
