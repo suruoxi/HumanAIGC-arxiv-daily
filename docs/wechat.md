@@ -107,6 +107,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2023-03-24, **Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement**, Siddarth Ravichandran et.al., Paper: [http://arxiv.org/abs/2209.01320](http://arxiv.org/abs/2209.01320)
 - 2022-11-03, **SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2211.00924](http://arxiv.org/abs/2211.00924)
 - 2023-11-29, **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2311.17590](http://arxiv.org/abs/2311.17590), Code: **[https://github.com/ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)**
+- 2024-05-09, **SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space**, Zeren Zhang et.al., Paper: [http://arxiv.org/abs/2405.05636](http://arxiv.org/abs/2405.05636)
 - 2024-03-26, **Superior and Pragmatic Talking Face Generation with Teacher-Student Framework**, Chao Liang et.al., Paper: [http://arxiv.org/abs/2403.17883](http://arxiv.org/abs/2403.17883)
 - 2024-03-15, **StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation**, Dongchan Min et.al., Paper: [http://arxiv.org/abs/2208.10922](http://arxiv.org/abs/2208.10922)
 - 2023-06-10, **StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2301.01081](http://arxiv.org/abs/2301.01081), Code: **[https://github.com/fuxivirtualhuman/styletalk](https://github.com/fuxivirtualhuman/styletalk)**
@@ -203,6 +204,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2023-12-11, **Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**, Georgios Milis et.al., Paper: [http://arxiv.org/abs/2312.06613](http://arxiv.org/abs/2312.06613), Code: **[https://github.com/g-milis/NEUTART](https://github.com/g-milis/NEUTART)**
 - 2019-09-06, **Neural Style-Preserving Visual Dubbing**, Hyeongwoo Kim et.al., Paper: [http://arxiv.org/abs/1909.02518](http://arxiv.org/abs/1909.02518)
 - 2023-08-10, **Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**, Hyojoon Park et.al., Paper: [http://arxiv.org/abs/2305.03216](http://arxiv.org/abs/2305.03216)
+- 2024-05-09, **NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**, Gihoon Kim et.al., Paper: [http://arxiv.org/abs/2405.05749](http://arxiv.org/abs/2405.05749)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
 - 2023-06-12, **NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2306.06885](http://arxiv.org/abs/2306.06885)
 - 2022-07-20, **NARRATE: A Normal Assisted Free-View Portrait Stylizer**, Youjia Wang et.al., Paper: [http://arxiv.org/abs/2207.00974](http://arxiv.org/abs/2207.00974)
