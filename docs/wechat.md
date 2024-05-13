@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.05.12
+> Updated on 2024.05.13
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -204,7 +204,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2023-12-11, **Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**, Georgios Milis et.al., Paper: [http://arxiv.org/abs/2312.06613](http://arxiv.org/abs/2312.06613), Code: **[https://github.com/g-milis/NEUTART](https://github.com/g-milis/NEUTART)**
 - 2019-09-06, **Neural Style-Preserving Visual Dubbing**, Hyeongwoo Kim et.al., Paper: [http://arxiv.org/abs/1909.02518](http://arxiv.org/abs/1909.02518)
 - 2023-08-10, **Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**, Hyojoon Park et.al., Paper: [http://arxiv.org/abs/2305.03216](http://arxiv.org/abs/2305.03216)
-- 2024-05-09, **NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**, Gihoon Kim et.al., Paper: [http://arxiv.org/abs/2405.05749](http://arxiv.org/abs/2405.05749)
+- 2024-05-10, **NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**, Gihoon Kim et.al., Paper: [http://arxiv.org/abs/2405.05749](http://arxiv.org/abs/2405.05749)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
 - 2023-06-12, **NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2306.06885](http://arxiv.org/abs/2306.06885)
 - 2022-07-20, **NARRATE: A Normal Assisted Free-View Portrait Stylizer**, Youjia Wang et.al., Paper: [http://arxiv.org/abs/2207.00974](http://arxiv.org/abs/2207.00974)
@@ -524,7 +524,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
 
 ## Image Animation
 
@@ -584,7 +584,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
 
 Notes: 
 
