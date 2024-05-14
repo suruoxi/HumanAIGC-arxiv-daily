@@ -110,7 +110,7 @@ if __name__ == '__main__':
     parser.add_argument('--claude_results', type=str, default='./results/claude_results/')
     parser.add_argument('--apikey', type=str, default='.apikey')
     parser.add_argument('--api', type=str, default='openai', choices=['openai', 'claudeai'])
-    parser.add_argument('--default_url', type=str, default='https://api.xi-ai.cn')
+    parser.add_argument('--default_url', type=str, default='https://api.openai.com') # or you can change the url to some cheaper LLM providers like https://api.xi-ai.cn
     args = parser.parse_args()
 
     analysis_papers(args)
