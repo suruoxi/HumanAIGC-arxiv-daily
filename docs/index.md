@@ -20,19 +20,24 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 <details>
   <summary>Recent Trends (by AI)</summary>
   <ol>
-    <li>The review of the academic papers provided allows for the extraction and analysis of the most prominent keywords in this field. Here are the five keywords identified along with a detailed synthesis of their themes, methodologies, findings, and implications:
+    <li>Based on the provided snippets, I have identified the top five prominent keywords and synthesized the key themes, methodologies, findings, and shifts in perspective from the papers:
 
-**<b>4D Expression</b>**: This keyword is central to the advancements in realistic 4D facial expressions for avatars and animations using diffusion models and graph neural networks. The research focuses on creating controllable and high-fidelity facial animations that improve upon existing 3D models by utilizing diffusion processes directly on mesh spaces. This enables the generation of realistic emotional expressions and movements with temporal coherence, marking a significant shift towards more immersive and realistic digital interactions.
+<b>1. One-shot Talking Face Generation</b>: 
+The concept of generating realistic talking faces from a single image is a recurring theme across multiple papers. Techniques like NeRFFaceSpeech and AniTalker emphasize creating lifelike animations using minimal input data. These methods leverage generative models and audio-driven dynamics to produce natural-looking facial movements. The key challenge addressed is achieving high-quality synthesis while preserving identity and visual details.
 
-**<b>Head Synthesis</b>**: Studies under this keyword explore the synthesis of full 3D heads viewable from any angle, leveraging 3D-aware generative adversarial networks (GANs). The innovations address the challenge of artifact-free synthesis using spherical tri-plane representations, which mitigate common issues like feature confusion and mirroring artifacts in existing 3D GAN models. This advancement is critical for applications that require high realism, such as in gaming and virtual reality.
+<b>2. Lip Synchronization and Audio-Visual Correlation</b>: 
+Ensuring accurate lip synchronization with corresponding audio is critical in talking face generation. Papers like "Audio-Visual Speech Representation Expert" and SwapTalk focus on synchronizing lip movements with audio while maintaining the visual quality of the generated faces. The methodologies involve advanced neural networks and latent space manipulation to enhance synchronization and minimize artifacts.
 
-**<b>Diffusion Models</b>**: A heavily emphasized area, diffusion models are explored for their application beyond 2D into 3D and 4D contexts. The research has successfully applied these models to various complex distributions and deformations, such as in facial expressions and speech animation. These models offer a novel way of handling data and feature generation, promising greater fidelity and realism in animations compared to traditional methods.
+<b>3. Real-time Rendering and Efficiency</b>: 
+The need for fast and efficient rendering is highlighted in works such as GSTalker. This model utilizes deformable Gaussian splatting to enable real-time audio-driven face generation. The emphasis is on reducing training time and improving rendering speeds without compromising the quality of the generated faces. This shift towards real-time applications reflects the growing demand for practical and scalable solutions in various domains.
 
-**<b>Graph Neural Networks (GNNs)</b>**: GNNs are explored for their application in denoising diffusion processes tailored to 3D and 4D data. They represent a methodological shift, enabling more detailed and accurate modeling of complex structures like facial meshes. The integration of GNNs into diffusion models facilitates enhanced detail and control in generating dynamic expressions and animations.
+<b>4. Multimodal Emotion Representation</b>: 
+EMOPortraits introduces the integration of emotional expressions into talking face avatars. This approach enhances the realism and expressiveness of generated faces by incorporating emotion-driven dynamics. The methodology involves multimodal inputs and cross-driving synthesis, where avatars are animated with different emotional states, addressing the challenge of creating more engaging and lifelike digital avatars.
 
-**<b>Spherical Tri-plane</b>**: This represents a new geometric adaptation used in 3D GANs to improve the synthesis of 3D heads by addressing problems in traditional tri-plane/tri-grid representations. By fitting the human head's geometric characteristics, this adaptation significantly reduces artifacts and improves the consistency and realism of synthesized heads, which is pivotal for full-head synthesis from any viewing angle.
+<b>5. Identity Preservation and Customization</b>: 
+Maintaining the unique identity of the subject while generating talking faces is a crucial aspect explored in SwapTalk and AniTalker. These papers propose innovative solutions for identity-decoupled motion encoding and one-shot customization. The goal is to create personalized talking faces that retain the distinct features of the original subject, enabling applications in personalized media and communication.
 
-These five keywords highlight a clear trajectory towards enhancing the realism and fidelity of digital human representations in computer graphics and interactive media. The interconnected advancements across these keywords indicate a collective movement towards overcoming the longstanding challenges of realistic, dynamic, and controllable 3D and 4D animations, setting the stage for future explorations in more immersive and realistic digital experiences.</li>
+Overall, the interconnectedness among these papers highlights a trend towards achieving higher realism, efficiency, and customization in talking face generation. The field is moving towards developing more practical and scalable solutions that can be applied in real-time scenarios, with an increasing focus on emotional expressiveness and identity preservation. Researchers are exploring advanced neural network architectures, generative models, and multimodal approaches to push the boundaries of what's possible in this rapidly evolving domain.</li>
   </ol>
 </details>
 
@@ -44,6 +49,7 @@ These five keywords highlight a clear trajectory towards enhancing the realism a
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-12**|**Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation**|Changpeng Cai et.al.|[2405.07257](http://arxiv.org/abs/2405.07257)|null|
 |**2024-05-10**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
 |**2024-05-09**|**SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space**|Zeren Zhang et.al.|[2405.05636](http://arxiv.org/abs/2405.05636)|null|
 |**2024-05-08**|**Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention**|Ruijie Tao et.al.|[2404.18501](http://arxiv.org/abs/2404.18501)|null|
