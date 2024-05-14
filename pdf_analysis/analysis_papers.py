@@ -5,15 +5,6 @@ from time import sleep
 import os, json
 from tqdm import tqdm
 import argparse
-from transformers import GPT2Tokenizer
-
-def truncate_text(text, max_tokens):
-    tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-    tokens = tokenizer.encode(text)
-    if len(tokens) > max_tokens:
-        tokens = tokens[:max_tokens]
-    return tokenizer.decode(tokens)
-
 
 def convet_to_file_upload_format(text_path):
     file_name = os.path.basename(text_path)
@@ -110,7 +101,7 @@ if __name__ == '__main__':
     parser.add_argument('--claude_results', type=str, default='./results/claude_results/')
     parser.add_argument('--apikey', type=str, default='.apikey')
     parser.add_argument('--api', type=str, default='openai', choices=['openai', 'claudeai'])
-    parser.add_argument('--default_url', type=str, default='https://api.xi-ai.cn') # or you can change the url to some cheaper LLM providers like https://api.xi-ai.cn
+    parser.add_argument('--default_url', type=str, default='https://api.xi-ai.cn') # or you can change the url to the default : https://api.openai.com
     args = parser.parse_args()
 
     analysis_papers(args)
