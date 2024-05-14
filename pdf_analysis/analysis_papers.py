@@ -5,6 +5,15 @@ from time import sleep
 import os, json
 from tqdm import tqdm
 import argparse
+from transformers import GPT2Tokenizer
+
+def truncate_text(text, max_tokens):
+    tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+    tokens = tokenizer.encode(text)
+    if len(tokens) > max_tokens:
+        tokens = tokens[:max_tokens]
+    return tokenizer.decode(tokens)
+
 
 def convet_to_file_upload_format(text_path):
     file_name = os.path.basename(text_path)
@@ -52,18 +61,14 @@ def analysis_papers(args):
             continue
         pdf_name, _ = os.path.splitext(pdf_name)
         
-        # Check if the text parsed file is in .txt or .md format
-        text_parsed_path_txt = os.path.join(text_parsed_saved_path, pdf_name + ".txt")
-        text_parsed_path_md = os.path.join(text_parsed_saved_path, pdf_name + ".md")
-        text_parsed_path = text_parsed_path_md if os.path.exists(text_parsed_path_md) else text_parsed_path_txt
+        text_parsed_path = os.path.join(text_parsed_saved_path, pdf_name + ".md")
         saved_to_json_path = os.path.join(saved_prefix, pdf_name + ".json")
         if os.path.exists(saved_to_json_path):
             continue
-        upload_file_format = convet_to_file_upload_format(text_parsed_path)
         
         # Send message to Claude API
-        
         if args.api == 'claudeai':
+            upload_file_format = convet_to_file_upload_format(text_parsed_path)
             conversation_id = claude_api.create_new_chat()['uuid']
             response = claude_api.send_message(upload_file_format, prompt_content, conversation_id)
         
@@ -78,16 +83,11 @@ def analysis_papers(args):
                 json.dump(json_result, f)
         else:
             conversation_id = 'openai'
+
             with open(text_parsed_path, 'r') as f:
                 text_parsed_content = f.read()
-            
-            max_len = 128000 - len(prompt_content) - 100
-            num_tokens = len(text_parsed_content)
-            if num_tokens > max_len:
-                text_parsed_content = text_parsed_content[:max_len]
-                
-            prompt_content = text_parsed_content + prompt_content
-            response = claude_api.send_message(prompt_content)
+
+            response = claude_api.send_message(text_parsed_content + prompt_content)
             json_result = {'conversation_id': conversation_id, 'response': response}
             with open(saved_to_json_path, 'w') as f:
                 json.dump(json_result, f)
@@ -110,7 +110,7 @@ if __name__ == '__main__':
     parser.add_argument('--claude_results', type=str, default='./results/claude_results/')
     parser.add_argument('--apikey', type=str, default='.apikey')
     parser.add_argument('--api', type=str, default='openai', choices=['openai', 'claudeai'])
-    parser.add_argument('--default_url', type=str, default='https://api.openai.com') # or you can change the url to some cheaper LLM providers like https://api.xi-ai.cn
+    parser.add_argument('--default_url', type=str, default='https://api.xi-ai.cn') # or you can change the url to some cheaper LLM providers like https://api.xi-ai.cn
     args = parser.parse_args()
 
     analysis_papers(args)
