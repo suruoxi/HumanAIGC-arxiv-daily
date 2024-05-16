@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**|Yang Hou et.al.|[2405.08838](http://arxiv.org/abs/2405.08838)|null|
 |**2024-05-12**|**Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation**|Changpeng Cai et.al.|[2405.07257](http://arxiv.org/abs/2405.07257)|null|
 |**2024-05-10**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
 |**2024-05-09**|**SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space**|Zeren Zhang et.al.|[2405.05636](http://arxiv.org/abs/2405.05636)|null|
