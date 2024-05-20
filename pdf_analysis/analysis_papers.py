@@ -1,4 +1,4 @@
-from api_client import Client
+from claude_api import Client
 from openai_api import OpenAIClient
 from random import randint
 from time import sleep
