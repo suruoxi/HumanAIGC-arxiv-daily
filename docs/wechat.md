@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.05.14
+> Updated on 2024.05.20
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -178,6 +178,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-10-13, **Pre-Avatar: An Automatic Presentation Generation Framework Leveraging Talking Avatar**, Aolan Sun et.al., Paper: [http://arxiv.org/abs/2210.06877](http://arxiv.org/abs/2210.06877)
 - 2021-04-22, **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation**, Hang Zhou et.al., Paper: [http://arxiv.org/abs/2104.11116](http://arxiv.org/abs/2104.11116), Code: **[https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)**
 - 2023-02-24, **Pose-Controllable 3D Facial Animation Synthesis using Hierarchical Audio-Vertex Attention**, Bin Liu et.al., Paper: [http://arxiv.org/abs/2302.12532](http://arxiv.org/abs/2302.12532)
+- 2024-05-14, **PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**, Yang Hou et.al., Paper: [http://arxiv.org/abs/2405.08838](http://arxiv.org/abs/2405.08838), Code: **[https://github.com/tobuta/PolyGlotFake](https://github.com/tobuta/PolyGlotFake)**
 - 2007-08-28, **Plate-forme Magicien d'Oz pour l'étude de l'apport des ACAs à l'interaction**, Jérôme Simonin et.al., Paper: [http://arxiv.org/abs/0708.3740](http://arxiv.org/abs/0708.3740)
 - 2023-10-25, **Personalized Speech-driven Expressive 3D Facial Animation Synthesis with Style Control**, Elif Bozkurt et.al., Paper: [http://arxiv.org/abs/2310.17011](http://arxiv.org/abs/2310.17011)
 - 2022-08-02, **Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer**, Ailin Huang et.al., Paper: [http://arxiv.org/abs/2206.12837](http://arxiv.org/abs/2206.12837), Code: **[https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration)**
@@ -333,6 +334,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-01, **FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset**, Hasam Khalid et.al., Paper: [http://arxiv.org/abs/2108.05080](http://arxiv.org/abs/2108.05080), Code: **[https://github.com/dash-lab/fakeavceleb](https://github.com/dash-lab/fakeavceleb)**
 - 2022-09-29, **Facial Landmark Predictions with Applications to Metaverse**, Qiao Han et.al., Paper: [http://arxiv.org/abs/2209.14698](http://arxiv.org/abs/2209.14698), Code: **[https://github.com/sweatybridge/text-to-anime](https://github.com/sweatybridge/text-to-anime)**
 - 2020-11-02, **Facial Keypoint Sequence Generation from Audio**, Prateek Manocha et.al., Paper: [http://arxiv.org/abs/2011.01114](http://arxiv.org/abs/2011.01114)
+- 2024-05-16, **Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**, Youngjoon Jang et.al., Paper: [http://arxiv.org/abs/2405.10272](http://arxiv.org/abs/2405.10272)
 - 2023-03-09, **FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning**, Kazi Injamamul Haque et.al., Paper: [http://arxiv.org/abs/2303.05416](http://arxiv.org/abs/2303.05416), Code: **[https://github.com/galib360/facexhubert](https://github.com/galib360/facexhubert)**
 - 2022-03-17, **FaceFormer: Speech-Driven 3D Facial Animation with Transformers**, Yingruo Fan et.al., Paper: [http://arxiv.org/abs/2112.05329](http://arxiv.org/abs/2112.05329), Code: **[https://github.com/EvelynFan/FaceFormer](https://github.com/EvelynFan/FaceFormer)**
 - 2023-09-20, **FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**, Stefan Stan et.al., Paper: [http://arxiv.org/abs/2309.11306](http://arxiv.org/abs/2309.11306), Code: **[https://github.com/uuembodiedsocialai/FaceDiffuser](https://github.com/uuembodiedsocialai/FaceDiffuser)**
@@ -530,7 +532,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 ## Image Animation
 
@@ -590,7 +592,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 Notes: 
 
