@@ -1,4 +1,4 @@
-from claude_api import Client
+from api_client import Client
 from openai_api import OpenAIClient
 from random import randint
 from time import sleep
@@ -26,9 +26,9 @@ def analysis_papers(args):
  
     # Initialize Claude API client
     if args.api == 'claudeai':
-        claude_api = Client(open(args.apikey).read().replace("\n", ""))
+        api_client = Client(open(args.apikey).read().replace("\n", ""))
     else:
-        claude_api = OpenAIClient(open(args.apikey).read().replace("\n", ""), args.default_url)
+        api_client = OpenAIClient(open(args.apikey).read().replace("\n", ""), args.default_url)
 
     # Write prompt content to file
     os.makedirs(claude_results, exist_ok=True)
@@ -60,8 +60,8 @@ def analysis_papers(args):
         # Send message to Claude API
         if args.api == 'claudeai':
             upload_file_format = convet_to_file_upload_format(text_parsed_path)
-            conversation_id = claude_api.create_new_chat()['uuid']
-            response = claude_api.send_message(upload_file_format, prompt_content, conversation_id)
+            conversation_id = api_client.create_new_chat()['uuid']
+            response = api_client.send_message(upload_file_format, prompt_content, conversation_id)
         
             # Skip if no response received
             if response is None:
@@ -78,7 +78,7 @@ def analysis_papers(args):
             with open(text_parsed_path, 'r') as f:
                 text_parsed_content = f.read()
 
-            response = claude_api.send_message(text_parsed_content + prompt_content)
+            response = api_client.send_message(text_parsed_content + prompt_content)
             json_result = {'conversation_id': conversation_id, 'response': response}
             with open(saved_to_json_path, 'w') as f:
                 json.dump(json_result, f)
