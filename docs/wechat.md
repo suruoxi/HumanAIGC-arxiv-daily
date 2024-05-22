@@ -342,6 +342,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-06-09, **Face-Dubbing++: Lip-Synchronous, Voice Preserving Translation of Videos**, Alexander Waibel et.al., Paper: [http://arxiv.org/abs/2206.04523](http://arxiv.org/abs/2206.04523)
 - 2012-03-30, **Face Expression Recognition and Analysis: The State of the Art**, Vinay Bettadapura et.al., Paper: [http://arxiv.org/abs/1203.6722](http://arxiv.org/abs/1203.6722)
 - 2023-04-06, **Face Animation with an Attribute-Guided Diffusion Model**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2304.03199](http://arxiv.org/abs/2304.03199), Code: **[https://github.com/zengbohan0217/fadm](https://github.com/zengbohan0217/fadm)**
+- 2024-05-21, **Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**, Yue Han et.al., Paper: [http://arxiv.org/abs/2405.12970](http://arxiv.org/abs/2405.12970)
 - 2020-05-13, **FaR-GAN for One-Shot Face Reenactment**, Hanxiang Hao et.al., Paper: [http://arxiv.org/abs/2005.06402](http://arxiv.org/abs/2005.06402)
 - 2023-07-08, **FTFDNet: Learning to Detect Talking Face Video Manipulation with Tri-Modality Interaction**, Ganglai Wang et.al., Paper: [http://arxiv.org/abs/2307.03990](http://arxiv.org/abs/2307.03990)
 - 2023-12-09, **FT2TF: First-Person Statement Text-To-Talking Face Generation**, Xingjian Diao et.al., Paper: [http://arxiv.org/abs/2312.05430](http://arxiv.org/abs/2312.05430)
