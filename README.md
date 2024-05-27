@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758](http://arxiv.org/abs/2405.15758)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
 |**2024-05-22**|**Metabook: An Automatically Generated Augmented Reality Storybook Interaction System to Improve Children's Engagement in Storytelling**|Yibo Wang et.al.|[2405.13701](http://arxiv.org/abs/2405.13701)|null|
 |**2024-05-21**|**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**|Yue Han et.al.|[2405.12970](http://arxiv.org/abs/2405.12970)|null|
