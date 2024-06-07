@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.06.06
+### Automatically Updated on 2024.06.07
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -49,8 +49,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
 |**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|null|
-|**2024-06-04**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
 |**2024-05-31**|**MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**|Saif Mahmud et.al.|[2405.21004](http://arxiv.org/abs/2405.21004)|null|
 |**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851](http://arxiv.org/abs/2405.20851)|**[link](https://github.com/megvii-research/megfaceanimate)**|
 |**2024-05-30**|**Audio2Rig: Artist-oriented deep learning tool for facial animation**|Bastien Arcelin et.al.|[2405.20412](http://arxiv.org/abs/2405.20412)|null|
