@@ -239,6 +239,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-11-19, **MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets**, Sungjoo Ha et.al., Paper: [http://arxiv.org/abs/1911.08139](http://arxiv.org/abs/1911.08139)
 - 2021-02-25, **MakeItTalk: Speaker-Aware Talking-Head Animation**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2004.12992](http://arxiv.org/abs/2004.12992)
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
+- 2024-06-12, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
 - 2023-12-13, **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2303.09797](http://arxiv.org/abs/2303.09797)
 - 2024-01-31, **MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**, Wenhao Guan et.al., Paper: [http://arxiv.org/abs/2312.10687](http://arxiv.org/abs/2312.10687)
@@ -382,6 +383,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-03-26, **Emotionally Enhanced Talking Face Generation**, Sahil Goyal et.al., Paper: [http://arxiv.org/abs/2303.11548](http://arxiv.org/abs/2303.11548), Code: **[https://github.com/sahilg06/EmoGen](https://github.com/sahilg06/EmoGen)**
 - 2023-06-06, **Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks**, Jianrong Wang et.al., Paper: [http://arxiv.org/abs/2306.03594](http://arxiv.org/abs/2306.03594)
 - 2023-09-26, **Emotional Speech-Driven Animation with Content-Emotion Disentanglement**, Radek Daněček et.al., Paper: [http://arxiv.org/abs/2306.08990](http://arxiv.org/abs/2306.08990)
+- 2024-06-12, **Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation**, Jiadong Liang et.al., Paper: [http://arxiv.org/abs/2406.07895](http://arxiv.org/abs/2406.07895)
 - 2022-05-02, **Emotion-Controllable Generalized Talking Face Generation**, Sanjana Sinha et.al., Paper: [http://arxiv.org/abs/2205.01155](http://arxiv.org/abs/2205.01155)
 - 2021-10-26, **Emotion recognition in talking-face videos using persistent entropy and neural networks**, Eduardo Paluzo-Hidalgo et.al., Paper: [http://arxiv.org/abs/2110.13571](http://arxiv.org/abs/2110.13571), Code: **[https://github.com/cimagroup/audiovisual-emotionrecognitionusingtda](https://github.com/cimagroup/audiovisual-emotionrecognitionusingtda)**
 - 2019-08-11, **Emotion Dependent Facial Animation from Affective Speech**, Rizwan Sadiq et.al., Paper: [http://arxiv.org/abs/1908.03904](http://arxiv.org/abs/1908.03904)
