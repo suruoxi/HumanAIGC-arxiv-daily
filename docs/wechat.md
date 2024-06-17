@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.06.16
+> Updated on 2024.06.17
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -446,7 +446,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-09-14, **DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Yaoyu Su et.al., Paper: [http://arxiv.org/abs/2309.07752](http://arxiv.org/abs/2309.07752)
 - 2023-12-21, **DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation**, Chenxu Zhang et.al., Paper: [http://arxiv.org/abs/2312.13578](http://arxiv.org/abs/2312.13578)
 - 2023-03-01, **DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**, Youxin Pang et.al., Paper: [http://arxiv.org/abs/2301.06281](http://arxiv.org/abs/2301.06281), Code: **[https://github.com/Carlyx/DPE](https://github.com/Carlyx/DPE)**
-- 2024-05-30, **DNPM: A Neural Parametric Model for the Synthesis of Facial Geometric Details**, Haitao Cao et.al., Paper: [http://arxiv.org/abs/2405.19688](http://arxiv.org/abs/2405.19688)
+- 2024-06-14, **DNPM: A Neural Parametric Model for the Synthesis of Facial Geometric Details**, Haitao Cao et.al., Paper: [http://arxiv.org/abs/2405.19688](http://arxiv.org/abs/2405.19688)
 - 2023-03-07, **DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video**, Zhimeng Zhang et.al., Paper: [http://arxiv.org/abs/2303.03988](http://arxiv.org/abs/2303.03988), Code: **[https://github.com/MRzzm/DINet](https://github.com/MRzzm/DINet)**
 - 2022-01-03, **DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering**, Shunyu Yao et.al., Paper: [http://arxiv.org/abs/2201.00791](http://arxiv.org/abs/2201.00791)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
@@ -546,7 +546,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
 
 ## Image Animation
 
@@ -613,7 +613,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
 
 Notes: 
 
