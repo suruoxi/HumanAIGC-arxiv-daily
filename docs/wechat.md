@@ -470,7 +470,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-02-28, **Context-aware Talking Face Video Generation**, Meidai Xuanyuan et.al., Paper: [http://arxiv.org/abs/2402.18092](http://arxiv.org/abs/2402.18092)
 - 2023-09-20, **Context-Aware Talking-Head Video Editing**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2308.00462](http://arxiv.org/abs/2308.00462)
 - 2022-10-07, **Compressing Video Calls using Synthetic Talking Heads**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.03692](http://arxiv.org/abs/2210.03692)
-- 2024-06-17, **Compressed Skinning for Facial Blendshapes**, Ladislav Kavan et.al., Paper: [http://arxiv.org/abs/2406.11597](http://arxiv.org/abs/2406.11597)
+- 2024-07-04, **Compressed Skinning for Facial Blendshapes**, Ladislav Kavan et.al., Paper: [http://arxiv.org/abs/2406.11597](http://arxiv.org/abs/2406.11597)
 - 2023-04-03, **CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2301.02379](http://arxiv.org/abs/2301.02379), Code: **[https://github.com/Doubiiu/CodeTalker](https://github.com/Doubiiu/CodeTalker)**
 - 2023-10-12, **CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**, Abdullah Hayajneh et.al., Paper: [http://arxiv.org/abs/2310.07969](http://arxiv.org/abs/2310.07969), Code: **[https://github.com/abdullah-tamu/CleftGAN](https://github.com/abdullah-tamu/CleftGAN)**
 - 2023-11-12, **ChatAnything: Facetime Chat with LLM-Enhanced Personas**, Yilin Zhao et.al., Paper: [http://arxiv.org/abs/2311.06772](http://arxiv.org/abs/2311.06772)
