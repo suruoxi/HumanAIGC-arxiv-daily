@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
 |**2024-07-08**|**MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**|Jianwen Jiang et.al.|[2407.05712](http://arxiv.org/abs/2407.05712)|null|
 |**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
 |**2024-07-04**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
@@ -560,10 +561,11 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
+|**2024-07-11**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|**[link](https://github.com/myniuuu/mofa-video)**|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
 |**2024-06-13**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
 |**2024-06-03**|**UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**|Xiang Wang et.al.|[2406.01188](http://arxiv.org/abs/2406.01188)|null|
-|**2024-06-02**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|**[link](https://github.com/myniuuu/mofa-video)**|
 |**2024-06-01**|**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**|Shenhao Zhu et.al.|[2403.14781](http://arxiv.org/abs/2403.14781)|**[link](https://github.com/fudan-generative-vision/champ)**|
 |**2024-05-29**|**Evaluating the efectiveness of sonifcation in science education using Edukoi**|Lucrezia Guiotto Nai Fovino et.al.|[2405.18908](http://arxiv.org/abs/2405.18908)|null|
 |**2024-05-28**|**VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**|Qilin Wang et.al.|[2405.18156](http://arxiv.org/abs/2405.18156)|null|
