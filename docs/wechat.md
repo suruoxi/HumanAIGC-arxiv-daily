@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2024.07.18
+> Updated on 2024.07.19
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -73,6 +73,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2012-09-22, **Using multimodal speech production data to evaluate articulatory animation for audiovisual speech synthesis**, Ingmar Steiner et.al., Paper: [http://arxiv.org/abs/1209.4982](http://arxiv.org/abs/1209.4982)
 - 2022-05-27, **Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast**, Boqing Zhu et.al., Paper: [http://arxiv.org/abs/2204.14057](http://arxiv.org/abs/2204.14057), Code: **[https://github.com/cocoxili/cmpc](https://github.com/cocoxili/cmpc)**
 - 2023-09-01, **Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**, Wolfgang Paier et.al., Paper: [http://arxiv.org/abs/2306.10006](http://arxiv.org/abs/2306.10006)
+- 2024-07-17, **Universal Facial Encoding of Codec Avatars from VR Headsets**, Shaojie Bai et.al., Paper: [http://arxiv.org/abs/2407.13038](http://arxiv.org/abs/2407.13038)
 - 2021-08-12, **UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing**, Meng Cao et.al., Paper: [http://arxiv.org/abs/2108.05650](http://arxiv.org/abs/2108.05650)
 - 2022-04-03, **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text**, Pulkit Tandon et.al., Paper: [http://arxiv.org/abs/2106.14014](http://arxiv.org/abs/2106.14014), Code: **[https://github.com/tpulkit/txt2vid](https://github.com/tpulkit/txt2vid)**
 - 2022-04-06, **Transformer-S2A: Robust and Efficient Speech-to-Animation**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2111.09771](http://arxiv.org/abs/2111.09771)
@@ -565,7 +566,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## Image Animation
 
@@ -634,7 +635,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 Notes: 
 

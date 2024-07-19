@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.07.18
+### Automatically Updated on 2024.07.19
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Universal Facial Encoding of Codec Avatars from VR Headsets**|Shaojie Bai et.al.|[2407.13038](http://arxiv.org/abs/2407.13038)|null|
 |**2024-07-17**|**EmoFace: Audio-driven Emotional 3D Face Animation**|Chang Liu et.al.|[2407.12501](http://arxiv.org/abs/2407.12501)|**[link](https://github.com/sjtu-lucy/emoface)**|
 |**2024-07-13**|**Learning Online Scale Transformation for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2407.09965](http://arxiv.org/abs/2407.09965)|null|
 |**2024-07-12**|**One-Shot Pose-Driving Face Animation Platform**|He Feng et.al.|[2407.08949](http://arxiv.org/abs/2407.08949)|null|
@@ -565,7 +566,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## Image Animation
 
@@ -637,7 +638,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 Notes: 
 
