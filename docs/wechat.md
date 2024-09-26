@@ -377,6 +377,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-10-06, **Finding Directions in GAN's Latent Space for Neural Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2202.00046](http://arxiv.org/abs/2202.00046), Code: **[https://github.com/stelabou/stylegan_directions_face_reenactment](https://github.com/stelabou/stylegan_directions_face_reenactment)**
 - 2019-10-28, **Few-shot Video-to-Video Synthesis**, Ting-Chun Wang et.al., Paper: [http://arxiv.org/abs/1910.12713](http://arxiv.org/abs/1910.12713)
 - 2019-09-25, **Few-Shot Adversarial Learning of Realistic Neural Talking Head Models**, Egor Zakharov et.al., Paper: [http://arxiv.org/abs/1905.08233](http://arxiv.org/abs/1905.08233)
+- 2024-09-24, **FastTalker: Jointly Generating Speech and Conversational Gestures from Text**, Zixin Guo et.al., Paper: [http://arxiv.org/abs/2409.16404](http://arxiv.org/abs/2409.16404)
 - 2022-07-13, **FastLTS: Non-Autoregressive End-to-End Unconstrained Lip-to-Speech Synthesis**, Yongqi Wang et.al., Paper: [http://arxiv.org/abs/2207.03800](http://arxiv.org/abs/2207.03800)
 - 2024-01-19, **Fast Registration of Photorealistic Avatars for VR Facial Animation**, Chaitanya Patel et.al., Paper: [http://arxiv.org/abs/2401.11002](http://arxiv.org/abs/2401.11002)
 - 2022-04-25, **Fast Facial Landmark Detection and Applications: A Survey**, Kostiantyn Khabarlak et.al., Paper: [http://arxiv.org/abs/2101.10808](http://arxiv.org/abs/2101.10808)

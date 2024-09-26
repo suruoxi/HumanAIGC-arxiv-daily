@@ -54,6 +54,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-25**|**ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**|Sichun Wu et.al.|[2409.07966](http://arxiv.org/abs/2409.07966)|**[link](https://github.com/uuembodiedsocialai/probtalk3d)**|
+|**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
 |**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
 |**2024-09-20**|**FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model**|Feng Qiu et.al.|[2409.13180](http://arxiv.org/abs/2409.13180)|null|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
