@@ -53,9 +53,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**RDD4D: 4D Attention-Guided Road Damage Detection And Classification**|Asma Alkalbani et.al.|[2501.02822](http://arxiv.org/abs/2501.02822)|**[link](https://github.com/msaqib17/road_damage_detection)**|
+|**2025-01-06**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427](http://arxiv.org/abs/2501.01427)|null|
 |**2025-01-03**|**MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**|Huaize Liu et.al.|[2501.01808](http://arxiv.org/abs/2501.01808)|null|
 |**2025-01-03**|**JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**|Qili Wang et.al.|[2501.01798](http://arxiv.org/abs/2501.01798)|**[link](https://github.com/JOY-MM/JoyGen)**|
-|**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427](http://arxiv.org/abs/2501.01427)|null|
 |**2024-12-30**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
 |**2024-12-28**|**DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis**|Kaijun Deng et.al.|[2412.20148](http://arxiv.org/abs/2412.20148)|**[link](https://github.com/cvi-szu/degstalk)**|
 |**2024-12-26**|**UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control**|Wenzhang Sun et.al.|[2412.19860](http://arxiv.org/abs/2412.19860)|null|
@@ -677,10 +678,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-04**|**Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**|Jiahao Cui et.al.|[2412.00733](http://arxiv.org/abs/2412.00733)|**[link](https://github.com/fudan-generative-vision/hallo3)**|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
 |**2024-12-13**|**DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**|Hongxiang Li et.al.|[2412.09349](http://arxiv.org/abs/2412.09349)|**[link](https://github.com/lihxxx/dispose)**|
 |**2024-12-11**|**Animate-X: Universal Character Image Animation with Enhanced Motion Representation**|Shuai Tan et.al.|[2410.10306](http://arxiv.org/abs/2410.10306)|null|
-|**2024-12-05**|**Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**|Jiahao Cui et.al.|[2412.00733](http://arxiv.org/abs/2412.00733)|**[link](https://github.com/fudan-generative-vision/hallo3)**|
 |**2024-12-04**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
 |**2024-11-30**|**DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses**|Yatian Pang et.al.|[2412.00397](http://arxiv.org/abs/2412.00397)|null|
 |**2024-11-28**|**JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**|Xuyang Cao et.al.|[2411.09209](http://arxiv.org/abs/2411.09209)|**[link](https://github.com/jdh-algo/JoyVASA)**|
