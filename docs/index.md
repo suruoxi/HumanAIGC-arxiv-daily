@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion**|Xingpei Ma et.al.|[2502.07203](http://arxiv.org/abs/2502.07203)|null|
 |**2025-02-07**|**Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark**|Han Zhang et.al.|[2502.04976](http://arxiv.org/abs/2502.04976)|null|
 |**2025-02-06**|**VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**|Eason Chen et.al.|[2502.04103](http://arxiv.org/abs/2502.04103)|null|
 |**2025-02-02**|**EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis**|Junuk Cha et.al.|[2502.00654](http://arxiv.org/abs/2502.00654)|null|
@@ -684,8 +685,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-10**|**Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance**|Li Hu et.al.|[2502.06145](http://arxiv.org/abs/2502.06145)|null|
-|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
 |**2025-01-30**|**Every Image Listens, Every Image Dances: Music-Driven Image Animation**|Zhikang Dong et.al.|[2501.18801](http://arxiv.org/abs/2501.18801)|null|
 |**2025-01-20**|**X-Dyna: Expressive Dynamic Human Image Animation**|Di Chang et.al.|[2501.10021](http://arxiv.org/abs/2501.10021)|**[link](https://github.com/bytedance/x-dyna)**|

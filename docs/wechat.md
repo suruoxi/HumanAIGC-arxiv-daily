@@ -222,6 +222,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-12-10, **PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**, Fatemeh Nazarieh et.al., Paper: [http://arxiv.org/abs/2412.07754](http://arxiv.org/abs/2412.07754)
 - 2024-05-14, **PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**, Yang Hou et.al., Paper: [http://arxiv.org/abs/2405.08838](http://arxiv.org/abs/2405.08838), Code: **[https://github.com/tobuta/PolyGlotFake](https://github.com/tobuta/PolyGlotFake)**
 - 2024-12-11, **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2412.08504](http://arxiv.org/abs/2412.08504)
+- 2025-02-11, **Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion**, Xingpei Ma et.al., Paper: [http://arxiv.org/abs/2502.07203](http://arxiv.org/abs/2502.07203)
 - 2007-08-28, **Plate-forme Magicien d'Oz pour l'étude de l'apport des ACAs à l'interaction**, Jérôme Simonin et.al., Paper: [http://arxiv.org/abs/0708.3740](http://arxiv.org/abs/0708.3740)
 - 2023-10-25, **Personalized Speech-driven Expressive 3D Facial Animation Synthesis with Style Control**, Elif Bozkurt et.al., Paper: [http://arxiv.org/abs/2310.17011](http://arxiv.org/abs/2310.17011)
 - 2024-09-09, **PersonaTalk: Bring Attention to Your Persona in Visual Dubbing**, Longhao Zhang et.al., Paper: [http://arxiv.org/abs/2409.05379](http://arxiv.org/abs/2409.05379)
@@ -691,7 +692,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-01-20, **X-Dyna: Expressive Dynamic Human Image Animation**, Di Chang et.al., Paper: [http://arxiv.org/abs/2501.10021](http://arxiv.org/abs/2501.10021), Code: **[https://github.com/bytedance/x-dyna](https://github.com/bytedance/x-dyna)**
 - 2024-05-28, **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**, Qilin Wang et.al., Paper: [http://arxiv.org/abs/2405.18156](http://arxiv.org/abs/2405.18156)
 - 2023-04-12, **VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**, Moayed Haji Ali et.al., Paper: [http://arxiv.org/abs/2304.06020](http://arxiv.org/abs/2304.06020)
-- 2025-02-09, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
+- 2025-02-11, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
 - 2024-06-03, **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2406.01188](http://arxiv.org/abs/2406.01188)
 - 2020-12-01, **Ultra-low bitrate video conferencing using deep image animation**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2012.00346](http://arxiv.org/abs/2012.00346)
