@@ -326,7 +326,7 @@ def json_to_md(recent_trend_path,
                     continue
                 kw = keyword.replace(' ','-')      
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
+            f.write("  </ol>\n\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
