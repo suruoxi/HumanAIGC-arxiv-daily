@@ -34,8 +34,10 @@ keywords:
     "TryOn":
         filters: ["Try on", "tryon", "virtual tryon"]
     "Music2Dance & Co-speech":
-        filters: ["Music2Dance", "Music Dance", "Co-Speech", "Co-Speech Video"]
+        filters: ["Music2Dance", "Music Dance", "Co-Speech", "Co-Speech Video", "Human motion", "dance video"]
     "Visual Edit":
         filters: ["image edit", "video edit", "visual edit"]
+    "Speech & Interaction":
+        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "dialogue", "voice interaction", "multimodal interaction",]
     "Others":
-        fitlers: ["Real time generation", "real time", "dialogue", "voice interaction", "multimodal interaction", "multimodal generation", "multi subject generation", "multi concept generation", "Video Personalization", "Speech interaction", "audio visual"]
+        fitlers: ["Real time generation", "real time",  "multimodal generation", "multi subject generation", "multi concept generation", "Video Personalization", "Speech interaction", "audio visual"]
