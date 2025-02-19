@@ -33,11 +33,11 @@ keywords:
         filters: ["Video Generation", "Video Synthesis", "Long Video Generation"]
     "TryOn":
         filters: ["Try on", "tryon", "virtual tryon"]
-    "Music2Dance & Co-speech":
+    "Music2Dance and Co-speech":
         filters: ["Music2Dance", "Music Dance", "Co-Speech", "Co-Speech Video", "Human motion", "dance video"]
     "Visual Edit":
         filters: ["image edit", "video edit", "visual edit"]
-    "Speech & Interaction":
+    "Speech and Interaction":
         filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "dialogue", "voice interaction", "multimodal interaction",]
     "Others":
         filters: ["Real time generation", "real time",  "multimodal generation", "multi subject generation", "multi concept generation", "Video Personalization", "Speech interaction", "audio visual"]
