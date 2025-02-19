@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Talking-Face Research Papers (With GPT Analysis)
+# HumanAIGC Research Papers
 ### Automatically Updated on 2025.02.19
 
 <details>
