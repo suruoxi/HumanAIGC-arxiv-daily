@@ -365,12 +365,9 @@ def json_to_md(recent_trend_path,
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
         
         f.write("Notes: \n\n")
-        f.write("* We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. \n\n")
-        f.write("* However, recent trends are still based on `ten` papers sorted by the initial publication date. \n\n")
-        f.write("Function added: \n\n")
-        f.write("* Support more reliable text parser. [Link](https://github.com/pdfminer/pdfminer.six) \n\n")
-        f.write("* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) \n\n")
-        f.write("* Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. \n\n")
+        f.write("* Codes are modified from https://github.com/liutaocode/talking-face-arxiv-daily \n\n")
+        f.write("* Talking face keywords are modified from https://github.com/liutaocode/talking-face-arxiv-daily \n\n")
+        f.wirte("* TTS keywords are modified from https://github.com/liutaocode/TTS-arxiv-daily")
         
         if show_badge == True:
             # we don't like long string, break it!
