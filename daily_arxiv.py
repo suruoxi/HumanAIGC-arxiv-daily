@@ -367,7 +367,7 @@ def json_to_md(recent_trend_path,
         f.write("Notes: \n\n")
         f.write("* Codes are modified from https://github.com/liutaocode/talking-face-arxiv-daily \n\n")
         f.write("* Talking face keywords are modified from https://github.com/liutaocode/talking-face-arxiv-daily \n\n")
-        f.wirte("* TTS keywords are modified from https://github.com/liutaocode/TTS-arxiv-daily")
+        f.write("* TTS keywords are modified from https://github.com/liutaocode/TTS-arxiv-daily")
         
         if show_badge == True:
             # we don't like long string, break it!
