@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 # HumanAIGC Research Papers
 > Updated on 2025.02.19
   <summary>Table of Contents</summary>
@@ -846,24 +841,8 @@
 
 Notes: 
 
-* We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. 
+* Codes are modified from https://github.com/liutaocode/talking-face-arxiv-daily 
 
-* However, recent trends are still based on `ten` papers sorted by the initial publication date. 
+* Talking face keywords are modified from https://github.com/liutaocode/talking-face-arxiv-daily 
 
-Function added: 
-
-* Support more reliable text parser. [Link](https://github.com/pdfminer/pdfminer.six) 
-
-* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) 
-
-* Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. 
-
-[contributors-shield]: https://img.shields.io/github/contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/liutaocode/talking-face-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/liutaocode/talking-face-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/liutaocode/talking-face-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/liutaocode/talking-face-arxiv-daily/issues
-
+* TTS keywords are modified from https://github.com/liutaocode/TTS-arxiv-daily
