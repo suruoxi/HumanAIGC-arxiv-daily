@@ -318,7 +318,6 @@ def json_to_md(recent_trend_path,
 
         #Add: table of contents
         if use_tc == True:
-            f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
             for keyword in data.keys():
@@ -328,7 +327,6 @@ def json_to_md(recent_trend_path,
                 kw = keyword.replace(' ','-')      
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
-            f.write("</details>\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
