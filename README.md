@@ -12,9 +12,7 @@
     <li><a href=#image-animation>Image Animation</a></li>
     <li><a href=#video-generation>Video Generation</a></li>
     <li><a href=#tryon>TryOn</a></li>
-    <li><a href=#music2dance-&-co-speech>Music2Dance & Co-speech</a></li>
     <li><a href=#visual-edit>Visual Edit</a></li>
-    <li><a href=#speech-&-interaction>Speech & Interaction</a></li>
     <li><a href=#others>Others</a></li>
     <li><a href=#music2dance-and-co-speech>Music2Dance and Co-speech</a></li>
     <li><a href=#speech-and-interaction>Speech and Interaction</a></li>
@@ -794,23 +792,6 @@
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
-## Music2Dance & Co-speech
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2025-02-18**|**Spatiotemporal Multi-Camera Calibration using Freely Moving People**|Sang-Eun Lee et.al.|[2502.12546](http://arxiv.org/abs/2502.12546)|null|
-|**2025-02-17**|**Early Detection of Human Handover Intentions in Human-Robot Collaboration: Comparing EEG, Gaze, and Hand Motion**|Parag Khanna et.al.|[2502.11752](http://arxiv.org/abs/2502.11752)|null|
-|**2025-02-17**|**InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**|Habib Larian et.al.|[2502.11644](http://arxiv.org/abs/2502.11644)|null|
-|**2025-02-16**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149](http://arxiv.org/abs/2502.11149)|null|
-|**2025-02-14**|**Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation**|Anshul Nayak et.al.|[2502.10585](http://arxiv.org/abs/2502.10585)|null|
-|**2025-02-12**|**AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions**|Yuwen Liao et.al.|[2502.05792](http://arxiv.org/abs/2502.05792)|**[link](https://github.com/centilinda/atom-human-prediction)**|
-|**2025-02-11**|**EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera**|Christen Millerdurai et.al.|[2502.07869](http://arxiv.org/abs/2502.07869)|null|
-|**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|**[link](https://github.com/tedhuang96/icp)**|
-|**2025-02-09**|**Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds**|Lu Chen et.al.|[2502.05857](http://arxiv.org/abs/2502.05857)|null|
-|**2025-02-08**|**Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**|Aayam Shrestha et.al.|[2502.05641](http://arxiv.org/abs/2502.05641)|null|
-
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
-
 ## Visual Edit
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -825,23 +806,6 @@
 |**2025-02-08**|**AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection**|Shuheng Zhang et.al.|[2502.05433](http://arxiv.org/abs/2502.05433)|null|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
 |**2025-02-06**|**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**|Aleksandar Cvejic et.al.|[2502.04050](http://arxiv.org/abs/2502.04050)|null|
-
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
-
-## Speech & Interaction
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
-|**2025-02-18**|**High-Fidelity Music Vocoder using Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2502.12759](http://arxiv.org/abs/2502.12759)|null|
-|**2025-02-18**|**TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching**|Wenxiang Guo et.al.|[2502.12572](http://arxiv.org/abs/2502.12572)|null|
-|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
-|**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
-|**2025-02-16**|**FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching**|Hui Wang et.al.|[2502.11128](http://arxiv.org/abs/2502.11128)|null|
-|**2025-02-16**|**SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**|Zhengyan Sheng et.al.|[2502.11094](http://arxiv.org/abs/2502.11094)|null|
-|**2025-02-14**|**VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect**|Qingyuan Fei et.al.|[2502.10329](http://arxiv.org/abs/2502.10329)|null|
-|**2025-02-14**|**ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**|Xin Wang et.al.|[2502.08857](http://arxiv.org/abs/2502.08857)|null|
-|**2025-02-13**|**TokenSynth: A Token-based Neural Synthesizer for Instrument Cloning and Text-to-Instrument**|Kyungsu Kim et.al.|[2502.08939](http://arxiv.org/abs/2502.08939)|**[link](https://github.com/kyungsukim42/tokensynth)**|
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
