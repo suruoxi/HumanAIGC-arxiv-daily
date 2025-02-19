@@ -1,3 +1,8 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 # HumanAIGC Research Papers
 ### Automatically Updated on 2025.02.19
   <summary>Table of Contents</summary>
@@ -11,8 +16,6 @@
     <li><a href=#music2dance-and-co-speech>Music2Dance and Co-speech</a></li>
     <li><a href=#speech-and-interaction>Speech and Interaction</a></li>
   </ol>
-
-
 ## Talking Face
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -762,7 +765,7 @@
 |**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
 |**2025-02-17**|**DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**|Zhihang Yuan et.al.|[2502.11897](http://arxiv.org/abs/2502.11897)|null|
 |**2025-02-17**|**Object-Centric Image to Video Generation with Language Guidance**|Angel Villar-Corrales et.al.|[2502.11655](http://arxiv.org/abs/2502.11655)|null|
-|**2025-02-17**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
+|**2025-02-17**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|**[link](https://github.com/stepfun-ai/step-video-t2v)**|
 |**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234](http://arxiv.org/abs/2502.11234)|null|
 |**2025-02-16**|**Phantom: Subject-consistent video generation via cross-modal alignment**|Lijie Liu et.al.|[2502.11079](http://arxiv.org/abs/2502.11079)|null|
 |**2025-02-15**|**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**|Di Qiu et.al.|[2502.10841](http://arxiv.org/abs/2502.10841)|null|
@@ -854,10 +857,26 @@
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
-Codes and some keywords are borrowed from  these repos
+Notes: 
 
-* https://github.com/liutaocode/talking-face-arxiv-daily
-* https://github.com/Vincentqyw/cv-arxiv-daily
-* https://github.com/liutaocode/TTS-arxiv-daily
+* We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. 
 
+* However, recent trends are still based on `ten` papers sorted by the initial publication date. 
+
+Function added: 
+
+* Support more reliable text parser. [Link](https://github.com/pdfminer/pdfminer.six) 
+
+* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) 
+
+* Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. 
+
+[contributors-shield]: https://img.shields.io/github/contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/liutaocode/talking-face-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/liutaocode/talking-face-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/liutaocode/talking-face-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/liutaocode/talking-face-arxiv-daily/issues
 

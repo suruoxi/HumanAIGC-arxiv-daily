@@ -5,7 +5,6 @@
 
 # HumanAIGC Research Papers
 > Updated on 2025.02.19
-<details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -17,8 +16,6 @@
     <li><a href=#music2dance-and-co-speech>Music2Dance and Co-speech</a></li>
     <li><a href=#speech-and-interaction>Speech and Interaction</a></li>
   </ol>
-</details>
-
 ## Talking Face
 
 - 2023-12-13, **uTalk: Bridging the Gap Between Humans and AI**, Hussam Azzuni et.al., Paper: [http://arxiv.org/abs/2310.02739](http://arxiv.org/abs/2310.02739)
@@ -758,7 +755,7 @@
 ## Video Generation
 
 - 2025-02-18, **VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation**, Xinlong Chen et.al., Paper: [http://arxiv.org/abs/2502.12782](http://arxiv.org/abs/2502.12782)
-- 2025-02-17, **Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**, Guoqing Ma et.al., Paper: [http://arxiv.org/abs/2502.10248](http://arxiv.org/abs/2502.10248)
+- 2025-02-17, **Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**, Guoqing Ma et.al., Paper: [http://arxiv.org/abs/2502.10248](http://arxiv.org/abs/2502.10248), Code: **[https://github.com/stepfun-ai/step-video-t2v](https://github.com/stepfun-ai/step-video-t2v)**
 - 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841)
 - 2025-02-16, **Phantom: Subject-consistent video generation via cross-modal alignment**, Lijie Liu et.al., Paper: [http://arxiv.org/abs/2502.11079](http://arxiv.org/abs/2502.11079)
 - 2025-02-17, **Object-Centric Image to Video Generation with Language Guidance**, Angel Villar-Corrales et.al., Paper: [http://arxiv.org/abs/2502.11655](http://arxiv.org/abs/2502.11655)
