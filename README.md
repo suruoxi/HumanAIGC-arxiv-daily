@@ -12,9 +12,9 @@
     <li><a href=#image-animation>Image Animation</a></li>
     <li><a href=#video-generation>Video Generation</a></li>
     <li><a href=#tryon>TryOn</a></li>
-    <li><a href=#music2dance-&-co-speech>Music2Dance & Co-speech</a></li>
+    <li><a href=#music2dance-and-co-speech>Music2Dance and Co-speech</a></li>
     <li><a href=#visual-edit>Visual Edit</a></li>
-    <li><a href=#speech-&-interaction>Speech & Interaction</a></li>
+    <li><a href=#speech-and-interaction>Speech and Interaction</a></li>
     <li><a href=#others>Others</a></li>
   </ol>
 </details>
@@ -792,7 +792,7 @@
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
-## Music2Dance & Co-speech
+## Music2Dance and Co-speech
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -826,7 +826,7 @@
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
-## Speech & Interaction
+## Speech and Interaction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
