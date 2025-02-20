@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Automatically Updated on 2025.02.19
+### Automatically Updated on 2025.02.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -743,7 +743,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-18**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945](http://arxiv.org/abs/2502.12945)|null|
+|**2025-02-19**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945](http://arxiv.org/abs/2502.12945)|null|
 |**2025-02-18**|**VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation**|Xinlong Chen et.al.|[2502.12782](http://arxiv.org/abs/2502.12782)|null|
 |**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632](http://arxiv.org/abs/2502.12632)|null|
 |**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
@@ -818,6 +818,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
 |**2025-02-18**|**RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations**|Jingxiao Chen et.al.|[2502.13134](http://arxiv.org/abs/2502.13134)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-18**|**Enhanced uncertainty quantification variational autoencoders for the solution of Bayesian inverse problems**|Andrea Tonini et.al.|[2502.13105](http://arxiv.org/abs/2502.13105)|null|
@@ -829,7 +830,6 @@ layout: default
 |**2025-02-18**|**Keep what you need : extracting efficient subnetworks from large audio representation models**|David Genova et.al.|[2502.12925](http://arxiv.org/abs/2502.12925)|null|
 |**2025-02-18**|**Testing and Combining Transient Spectral Classification Tools on 4MOST-like Blended Spectra**|Andrew Milligan et.al.|[2502.12890](http://arxiv.org/abs/2502.12890)|null|
 |**2025-02-18**|**NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**|Penghui Zhang et.al.|[2502.12834](http://arxiv.org/abs/2502.12834)|null|
-|**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
 |**2025-02-18**|**An Adaptive Model Order Reduction Approach for the Finite Element Method in Time Domain in Electromagnetics**|Ruth Medeiros et.al.|[2502.12785](http://arxiv.org/abs/2502.12785)|null|
 |**2025-02-18**|**Efficient Machine Translation Corpus Generation: Integrating Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755](http://arxiv.org/abs/2502.12755)|null|
 |**2025-02-18**|**MediaMind: Revolutionizing Media Monitoring using Agentification**|Ahmet Gunduz et.al.|[2502.12745](http://arxiv.org/abs/2502.12745)|null|
@@ -843,10 +843,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149](http://arxiv.org/abs/2502.11149)|null|
 |**2025-02-18**|**Spatiotemporal Multi-Camera Calibration using Freely Moving People**|Sang-Eun Lee et.al.|[2502.12546](http://arxiv.org/abs/2502.12546)|null|
 |**2025-02-17**|**Early Detection of Human Handover Intentions in Human-Robot Collaboration: Comparing EEG, Gaze, and Hand Motion**|Parag Khanna et.al.|[2502.11752](http://arxiv.org/abs/2502.11752)|null|
 |**2025-02-17**|**InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**|Habib Larian et.al.|[2502.11644](http://arxiv.org/abs/2502.11644)|null|
-|**2025-02-16**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149](http://arxiv.org/abs/2502.11149)|null|
 |**2025-02-14**|**Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation**|Anshul Nayak et.al.|[2502.10585](http://arxiv.org/abs/2502.10585)|null|
 |**2025-02-12**|**AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions**|Yuwen Liao et.al.|[2502.05792](http://arxiv.org/abs/2502.05792)|**[link](https://github.com/centilinda/atom-human-prediction)**|
 |**2025-02-11**|**EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera**|Christen Millerdurai et.al.|[2502.07869](http://arxiv.org/abs/2502.07869)|null|
@@ -871,7 +871,7 @@ layout: default
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-18**|**High-Fidelity Music Vocoder using Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2502.12759](http://arxiv.org/abs/2502.12759)|null|
 |**2025-02-18**|**TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching**|Wenxiang Guo et.al.|[2502.12572](http://arxiv.org/abs/2502.12572)|null|
-|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
+|**2025-02-18**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
 |**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
 |**2025-02-16**|**FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching**|Hui Wang et.al.|[2502.11128](http://arxiv.org/abs/2502.11128)|null|
 |**2025-02-16**|**SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**|Zhengyan Sheng et.al.|[2502.11094](http://arxiv.org/abs/2502.11094)|null|
