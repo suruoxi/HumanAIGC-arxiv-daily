@@ -312,7 +312,7 @@ def json_to_md(recent_trend_path,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("### Automatically Updated on " + DateNow + "\n")
+            f.write("### Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
