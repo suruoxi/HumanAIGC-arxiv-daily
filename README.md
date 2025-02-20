@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Automatically Updated on 2025.02.20
+### Updated on 2025.02.20
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
