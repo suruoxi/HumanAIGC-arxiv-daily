@@ -837,7 +837,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**GPU-Friendly Laplacian Texture Blending**|Bartlomiej Wronski et.al.|[2502.13945](http://arxiv.org/abs/2502.13945)|null|
+|**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891](http://arxiv.org/abs/2502.13891)|null|
+|**2025-02-19**|**A measurement-based approach to analyze the power consumption of the softwarized 5G core**|Arturo Bellin et.al.|[2502.13879](http://arxiv.org/abs/2502.13879)|null|
+|**2025-02-19**|**An Online Optimization-Based Trajectory Planning Approach for Cooperative Landing Tasks**|Jingshan Chen et.al.|[2502.13823](http://arxiv.org/abs/2502.13823)|null|
+|**2025-02-19**|**MGFI-Net: A Multi-Grained Feature Integration Network for Enhanced Medical Image Segmentation**|Yucheng Zeng et.al.|[2502.13808](http://arxiv.org/abs/2502.13808)|null|
+|**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789](http://arxiv.org/abs/2502.13789)|null|
+|**2025-02-19**|**An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice**|Wanke Xia et.al.|[2502.13764](http://arxiv.org/abs/2502.13764)|null|
+|**2025-02-19**|**A Digital Urban Twin Enabling Interactive Pollution Predictions and Enhanced Planning**|Dennis Teutscher et.al.|[2502.13746](http://arxiv.org/abs/2502.13746)|null|
+|**2025-02-19**|**TrustRAG: An Information Assistant with Retrieval Augmented Generation**|Yixing Fan et.al.|[2502.13719](http://arxiv.org/abs/2502.13719)|null|
+|**2025-02-19**|**Millimeter-Wave ISAC Testbed Using Programmable Digital Coding Dynamic Metasurface Antenna: Practical Design and Implementation**|Abdul Jabbar et.al.|[2502.13705](http://arxiv.org/abs/2502.13705)|null|
+|**2025-02-19**|**DNA Sensing with Whispering Gallery Mode Microlasers**|Soraya Caixeiro et.al.|[2502.13664](http://arxiv.org/abs/2502.13664)|null|
+|**2025-02-19**|**FlexDuo: A Pluggable System for Enabling Full-Duplex Capabilities in Speech Dialogue Systems**|Borui Liao et.al.|[2502.13472](http://arxiv.org/abs/2502.13472)|null|
+|**2025-02-19**|**Radio observations of the ultra-long GRB 220627A reveal a hot cocoon supporting the blue supergiant progenitor scenario**|James K. Leung et.al.|[2502.13435](http://arxiv.org/abs/2502.13435)|null|
+|**2025-02-19**|**Virtual Encounters of the Haptic Kind: Towards a Multi-User VR System for Real-Time Social Touch**|Premankur Banerjee et.al.|[2502.13421](http://arxiv.org/abs/2502.13421)|null|
+|**2025-02-19**|**Reflection of Episodes: Learning to Play Game from Expert and Self Experiences**|Xiaojie Xu et.al.|[2502.13388](http://arxiv.org/abs/2502.13388)|null|
+|**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
 |**2025-02-19**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
+|**2025-02-18**|**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**|Yucheng Shi et.al.|[2502.13233](http://arxiv.org/abs/2502.13233)|null|
 |**2025-02-18**|**RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations**|Jingxiao Chen et.al.|[2502.13134](http://arxiv.org/abs/2502.13134)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-18**|**Enhanced uncertainty quantification variational autoencoders for the solution of Bayesian inverse problems**|Andrea Tonini et.al.|[2502.13105](http://arxiv.org/abs/2502.13105)|null|
@@ -891,6 +908,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-18**|**High-Fidelity Music Vocoder using Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2502.12759](http://arxiv.org/abs/2502.12759)|null|
 |**2025-02-18**|**TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching**|Wenxiang Guo et.al.|[2502.12572](http://arxiv.org/abs/2502.12572)|null|
