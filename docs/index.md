@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.02.25
+### Updated on 2025.02.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -650,6 +650,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**|Hongxiang Li et.al.|[2412.09349](http://arxiv.org/abs/2412.09349)|**[link](https://github.com/lihxxx/dispose)**|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
 |**2025-02-15**|**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**|Di Qiu et.al.|[2502.10841](http://arxiv.org/abs/2502.10841)|**[link](https://github.com/SkyworkAI/SkyReels-A1)**|
 |**2025-02-11**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
@@ -661,7 +662,6 @@ layout: default
 |**2025-01-09**|**Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**|Yingjie Chen et.al.|[2501.05020](http://arxiv.org/abs/2501.05020)|null|
 |**2025-01-04**|**Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**|Jiahao Cui et.al.|[2412.00733](http://arxiv.org/abs/2412.00733)|**[link](https://github.com/fudan-generative-vision/hallo3)**|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
-|**2024-12-13**|**DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**|Hongxiang Li et.al.|[2412.09349](http://arxiv.org/abs/2412.09349)|**[link](https://github.com/lihxxx/dispose)**|
 |**2024-12-11**|**Animate-X: Universal Character Image Animation with Enhanced Motion Representation**|Shuai Tan et.al.|[2410.10306](http://arxiv.org/abs/2410.10306)|null|
 |**2024-12-04**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
 |**2024-11-30**|**DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses**|Yatian Pang et.al.|[2412.00397](http://arxiv.org/abs/2412.00397)|null|
@@ -748,7 +748,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
-|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|null|
+|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-21**|**RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**|Min Zhao et.al.|[2502.15894](http://arxiv.org/abs/2502.15894)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
 |**2025-02-21**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|
@@ -808,7 +808,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
 |**2025-02-23**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
@@ -838,7 +838,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
-|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|**[link](https://github.com/zzli2022/awesome-slow-reason-system)**|
 |**2025-02-24**|**Robust Confinement State Classification with Uncertainty Quantification through Ensembled Data-Driven Methods**|Yoeri Poels et.al.|[2502.17397](http://arxiv.org/abs/2502.17397)|null|
 |**2025-02-24**|**Data efficiency and long-term prediction capabilities for neural operator surrogate models of edge plasma simulations**|N. Carey et.al.|[2502.17386](http://arxiv.org/abs/2502.17386)|null|
 |**2025-02-24**|**Goal-Oriented Middleware Filtering at Transport Layer Based on Value of Updates**|Polina Kutsevol et.al.|[2502.17350](http://arxiv.org/abs/2502.17350)|null|
@@ -846,7 +846,7 @@ layout: default
 |**2025-02-24**|**A Web-Based Application Leveraging Geospatial Information to Automate On-Farm Trial Design**|Sneha Jha et.al.|[2502.17326](http://arxiv.org/abs/2502.17326)|null|
 |**2025-02-24**|**Hybrid Human-Machine Perception via Adaptive LiDAR for Advanced Driver Assistance Systems**|Federico Scarì et.al.|[2502.17309](http://arxiv.org/abs/2502.17309)|null|
 |**2025-02-24**|**Extremum Seeking Control for Antenna Pointing via Symmetric Product Approximation**|Bo Wang et.al.|[2502.17252](http://arxiv.org/abs/2502.17252)|null|
-|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|null|
+|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**A highly sensitive, self-adhesive, biocompatible DLP 3D printed organohydrogel for flexible sensors and wearable devices**|Ze Zhang et.al.|[2502.17208](http://arxiv.org/abs/2502.17208)|null|
 |**2025-02-24**|**A Novel Multiple Access Scheme for Heterogeneous Wireless Communications using Symmetry-aware Continual Deep Reinforcement Learning**|Hamidreza Mazandarani et.al.|[2502.17167](http://arxiv.org/abs/2502.17167)|null|
 |**2025-02-24**|**Real-time Monitoring of Economic Shocks using Company Websites**|Michael Koenig et.al.|[2502.17161](http://arxiv.org/abs/2502.17161)|null|
@@ -855,7 +855,7 @@ layout: default
 |**2025-02-24**|**220 GHz RIS-Aided Multi-user Terahertz Communication System: Prototype Design and Over-the-Air Experimental Trials**|Yanzhao Hou et.al.|[2502.16970](http://arxiv.org/abs/2502.16970)|null|
 |**2025-02-24**|**Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM**|Lian Liu et.al.|[2502.16963](http://arxiv.org/abs/2502.16963)|null|
 |**2025-02-24**|**Design of a communication system Images for identification of vehicle plates**|Fabrizio Andre Farfán Prado et.al.|[2502.16909](http://arxiv.org/abs/2502.16909)|null|
-|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|null|
+|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|**[link](https://github.com/scnu-rislab/mambaflow)**|
 |**2025-02-24**|**Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms**|Jialiang Hou et.al.|[2502.16887](http://arxiv.org/abs/2502.16887)|null|
 |**2025-02-21**|**A Deep Neural Network-based Frequency Predictor for Frequency-Constrained Optimal Power Flow**|Fan Jiang et.al.|[2502.15641](http://arxiv.org/abs/2502.15641)|null|
 |**2025-02-21**|**Reduced-Order Model Guided Contact-Implicit Model Predictive Control for Humanoid Locomotion**|Sergio A. Esteban et.al.|[2502.15630](http://arxiv.org/abs/2502.15630)|null|
@@ -971,7 +971,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|null|
+|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
 |**2025-02-21**|**Mind the Gap! Static and Interactive Evaluations of Large Audio Models**|Minzhi Li et.al.|[2502.15919](http://arxiv.org/abs/2502.15919)|null|
 |**2025-02-21**|**Advancing User-Voice Interaction: Exploring Emotion-Aware Voice Assistants Through a Role-Swapping Approach**|Yong Ma et.al.|[2502.15367](http://arxiv.org/abs/2502.15367)|null|
