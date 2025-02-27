@@ -195,10 +195,12 @@ def update_paper_links(filename):
             logging.info(f'keywords = {keywords}')
             for paper_id,contents in v.items():
                 contents = str(contents)
+                try:
+                    update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                    contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+                except:
+                    print("Error parsing arxiv string")             
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
-
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
                 
