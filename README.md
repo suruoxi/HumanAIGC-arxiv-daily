@@ -64,7 +64,7 @@
 |**2024-12-02**|**One Shot, One Talk: Whole-body Talking Avatar from a Single Image**|Jun Xiang et.al.|[2412.01106](http://arxiv.org/abs/2412.01106)|null|
 |**2024-12-01**|**Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation**|Shuling Zhao et.al.|[2412.00719](http://arxiv.org/abs/2412.00719)|null|
 |**2024-11-29**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525](http://arxiv.org/abs/2411.19525)|null|
-|**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
+|**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|**[link](https://github.com/antgroup/ditto-talkinghead)**|
 |**2024-11-29**|**V2SFlow: Video-to-Speech Generation with Speech Decomposition and Rectified Flow**|Jeongsoo Choi et.al.|[2411.19486](http://arxiv.org/abs/2411.19486)|null|
 |**2024-11-26**|**Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey**|Hong-Hanh Nguyen-Le et.al.|[2411.17911](http://arxiv.org/abs/2411.17911)|null|
 |**2024-11-25**|**Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**|Xiaozhong Ji et.al.|[2411.16331](http://arxiv.org/abs/2411.16331)|null|
@@ -105,7 +105,7 @@
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-14**|**StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads**|Suzhen Wang et.al.|[2409.09292](http://arxiv.org/abs/2409.09292)|null|
 |**2024-09-11**|**DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**|Steven Hogue et.al.|[2409.07649](http://arxiv.org/abs/2409.07649)|null|
-|**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
+|**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|**[link](https://github.com/JianZhang-chick/EMOdiffhead)**|
 |**2024-09-09**|**PersonaTalk: Bring Attention to Your Persona in Visual Dubbing**|Longhao Zhang et.al.|[2409.05379](http://arxiv.org/abs/2409.05379)|null|
 |**2024-09-09**|**KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation**|Hoang-Son Vo-Thanh et.al.|[2409.05330](http://arxiv.org/abs/2409.05330)|**[link](https://github.com/sowwnn/KFusion-Dual-Domain-for-Speech-to-Landmarks)**|
 |**2024-09-05**|**SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing**|Lingyu Xiong et.al.|[2409.03605](http://arxiv.org/abs/2409.03605)|null|
@@ -118,7 +118,7 @@
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-21**|**AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition**|Minheng Ni et.al.|[2408.11564](http://arxiv.org/abs/2408.11564)|null|
 |**2024-08-21**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
-|**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|null|
+|**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|**[link](https://github.com/initialneil/DEGAS)**|
 |**2024-08-18**|**FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model**|Ziyu Yao et.al.|[2408.09384](http://arxiv.org/abs/2408.09384)|null|
 |**2024-08-18**|**Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation**|Xukun Zhou et.al.|[2408.09357](http://arxiv.org/abs/2408.09357)|null|
 |**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347](http://arxiv.org/abs/2408.09347)|null|
@@ -146,7 +146,7 @@
 |**2024-07-13**|**Learning Online Scale Transformation for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2407.09965](http://arxiv.org/abs/2407.09965)|null|
 |**2024-07-12**|**Real Face Video Animation Platform**|Xiaokai Chen et.al.|[2407.18955](http://arxiv.org/abs/2407.18955)|null|
 |**2024-07-12**|**One-Shot Pose-Driving Face Animation Platform**|He Feng et.al.|[2407.08949](http://arxiv.org/abs/2407.08949)|null|
-|**2024-07-12**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
+|**2024-07-12**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|**[link](https://github.com/antgroup/echomimic)**|
 |**2024-07-08**|**MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**|Jianwen Jiang et.al.|[2407.05712](http://arxiv.org/abs/2407.05712)|null|
 |**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
 |**2024-07-04**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
@@ -156,7 +156,7 @@
 |**2024-06-24**|**The Effects of Embodiment and Personality Expression on Learning in LLM-based Educational Agents**|Sinan Sonlu et.al.|[2407.10993](http://arxiv.org/abs/2407.10993)|null|
 |**2024-06-21**|**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**|Hao Fei et.al.|[2406.15177](http://arxiv.org/abs/2406.15177)|**[link](https://github.com/scofield7419/empathyear)**|
 |**2024-06-20**|**MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset**|Kim Sung-Bin et.al.|[2406.14272](http://arxiv.org/abs/2406.14272)|null|
-|**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|null|
+|**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|**[link](https://github.com/YZY-stack/DF40)**|
 |**2024-06-19**|**AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**|Ken Chen et.al.|[2406.13272](http://arxiv.org/abs/2406.13272)|null|
 |**2024-06-18**|**RITA: A Real-time Interactive Talking Avatars Framework**|Wuxinlin Cheng et.al.|[2406.13093](http://arxiv.org/abs/2406.13093)|null|
 |**2024-06-18**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553](http://arxiv.org/abs/2406.10553)|null|
@@ -168,7 +168,7 @@
 |**2024-06-13**|**DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**|Neha Sahipjohn et.al.|[2406.08802](http://arxiv.org/abs/2406.08802)|null|
 |**2024-06-12**|**Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation**|Jiadong Liang et.al.|[2406.07895](http://arxiv.org/abs/2406.07895)|null|
 |**2024-06-07**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
-|**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|null|
+|**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|**[link](https://github.com/NetEase-Media/ControlTalk)**|
 |**2024-05-31**|**MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**|Saif Mahmud et.al.|[2405.21004](http://arxiv.org/abs/2405.21004)|null|
 |**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851](http://arxiv.org/abs/2405.20851)|**[link](https://github.com/megvii-research/megfaceanimate)**|
 |**2024-05-30**|**Audio2Rig: Artist-oriented deep learning tool for facial animation**|Bastien Arcelin et.al.|[2405.20412](http://arxiv.org/abs/2405.20412)|null|
@@ -190,7 +190,7 @@
 |**2024-04-29**|**CSTalk: Correlation Supervised Speech-driven 3D Emotional Facial Animation Generation**|Xiangyu Liang et.al.|[2404.18604](http://arxiv.org/abs/2404.18604)|null|
 |**2024-04-28**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-25**|**GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting**|Kyusun Cho et.al.|[2404.16012](http://arxiv.org/abs/2404.16012)|**[link](https://github.com/ku-cvlab/gaussiantalker)**|
-|**2024-04-23**|**TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**|Jiahe Li et.al.|[2404.15264](http://arxiv.org/abs/2404.15264)|null|
+|**2024-04-23**|**TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**|Jiahe Li et.al.|[2404.15264](http://arxiv.org/abs/2404.15264)|**[link](https://github.com/Fictionarry/TalkingGaussian)**|
 |**2024-04-19**|**Learn2Talk: 3D Talking Face Learns from 2D Talking Face**|Yixiang Zhuang et.al.|[2404.12888](http://arxiv.org/abs/2404.12888)|null|
 |**2024-04-16**|**VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**|Sicheng Xu et.al.|[2404.10667](http://arxiv.org/abs/2404.10667)|null|
 |**2024-04-15**|**FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features**|Andre Rochow et.al.|[2404.09736](http://arxiv.org/abs/2404.09736)|null|
@@ -218,8 +218,8 @@
 |**2024-03-23**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|**[link](https://github.com/yerfor/Real3DPortrait)**|
 |**2024-03-22**|**LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example**|Soyeon Yoon et.al.|[2403.15227](http://arxiv.org/abs/2403.15227)|**[link](https://github.com/kwanyun/LeGO_code)**|
 |**2024-03-22**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
-|**2024-03-19**|**EmoVOCA: Speech-Driven Emotional 3D Talking Heads**|Federico Nocentini et.al.|[2403.12886](http://arxiv.org/abs/2403.12886)|null|
-|**2024-03-19**|**ScanTalk: 3D Talking Heads from Unregistered Scans**|Federico Nocentini et.al.|[2403.10942](http://arxiv.org/abs/2403.10942)|null|
+|**2024-03-19**|**EmoVOCA: Speech-Driven Emotional 3D Talking Heads**|Federico Nocentini et.al.|[2403.12886](http://arxiv.org/abs/2403.12886)|**[link](https://github.com/miccunifi/EmoVOCA)**|
+|**2024-03-19**|**ScanTalk: 3D Talking Heads from Unregistered Scans**|Federico Nocentini et.al.|[2403.10942](http://arxiv.org/abs/2403.10942)|**[link](https://github.com/miccunifi/scantalk)**|
 |**2024-03-15**|**StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation**|Dongchan Min et.al.|[2208.10922](http://arxiv.org/abs/2208.10922)|null|
 |**2024-03-14**|**GAIA: Zero-shot Talking Avatar Generation**|Tianyu He et.al.|[2311.15230](http://arxiv.org/abs/2311.15230)|null|
 |**2024-03-13**|**Say Anything with Any Style**|Shuai Tan et.al.|[2403.06363](http://arxiv.org/abs/2403.06363)|null|
@@ -236,7 +236,7 @@
 |**2024-02-26**|**Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**|Yifei Li et.al.|[2402.16599](http://arxiv.org/abs/2402.16599)|null|
 |**2024-02-25**|**AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**|Yasheng Sun et.al.|[2402.16124](http://arxiv.org/abs/2402.16124)|null|
 |**2024-02-21**|**Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**|Zechen Bai et.al.|[2402.13724](http://arxiv.org/abs/2402.13724)|**[link](https://github.com/showlab/byoc)**|
-|**2024-02-21**|**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**|Gaoxiang Cong et.al.|[2402.12636](http://arxiv.org/abs/2402.12636)|null|
+|**2024-02-21**|**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**|Gaoxiang Cong et.al.|[2402.12636](http://arxiv.org/abs/2402.12636)|**[link](https://github.com/galaxycong/styledubber)**|
 |**2024-02-12**|**StyleLipSync: Style-based Personalized Lip-sync Video Generation**|Taekyung Ki et.al.|[2305.00521](http://arxiv.org/abs/2305.00521)|null|
 |**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712](http://arxiv.org/abs/2402.05712)|**[link](https://github.com/theericma/diffspeaker)**|
 |**2024-02-05**|**One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space**|Stella Bounareli et.al.|[2402.03553](http://arxiv.org/abs/2402.03553)|null|
@@ -249,10 +249,10 @@
 |**2024-01-25**|**SAiD: Speech-driven Blendshape Facial Animation with Diffusion**|Inkyu Park et.al.|[2401.08655](http://arxiv.org/abs/2401.08655)|**[link](https://github.com/yunik1004/said)**|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
 |**2024-01-19**|**Fast Registration of Photorealistic Avatars for VR Facial Animation**|Chaitanya Patel et.al.|[2401.11002](http://arxiv.org/abs/2401.11002)|null|
-|**2024-01-18**|**Exposing Lip-syncing Deepfakes from Mouth Inconsistencies**|Soumyya Kanti Datta et.al.|[2401.10113](http://arxiv.org/abs/2401.10113)|null|
+|**2024-01-18**|**Exposing Lip-syncing Deepfakes from Mouth Inconsistencies**|Soumyya Kanti Datta et.al.|[2401.10113](http://arxiv.org/abs/2401.10113)|**[link](https://github.com/skrantidatta/lipinc)**|
 |**2024-01-18**|**Text-driven Talking Face Synthesis by Reprogramming Audio-driven Models**|Jeongsoo Choi et.al.|[2306.16003](http://arxiv.org/abs/2306.16003)|null|
 |**2024-01-16**|**EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**|Bingyuan Zhang et.al.|[2401.08049](http://arxiv.org/abs/2401.08049)|null|
-|**2024-01-12**|**DiffDub: Person-generic Visual Dubbing Using Inpainting Renderer with Diffusion Auto-encoder**|Tao Liu et.al.|[2311.01811](http://arxiv.org/abs/2311.01811)|null|
+|**2024-01-12**|**DiffDub: Person-generic Visual Dubbing Using Inpainting Renderer with Diffusion Auto-encoder**|Tao Liu et.al.|[2311.01811](http://arxiv.org/abs/2311.01811)|**[link](https://github.com/liutaocode/DiffDub)**|
 |**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126](http://arxiv.org/abs/2401.06126)|null|
 |**2024-01-11**|**Jump Cut Smoothing for Talking Heads**|Xiaojuan Wang et.al.|[2401.04718](http://arxiv.org/abs/2401.04718)|null|
 |**2024-01-08**|**AdaMesh: Personalized Facial Expressions and Head Poses for Adaptive Speech-Driven 3D Facial Animation**|Liyang Chen et.al.|[2310.07236](http://arxiv.org/abs/2310.07236)|null|
@@ -266,7 +266,7 @@
 |**2023-12-18**|**VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**|Hao Hu et.al.|[2312.11568](http://arxiv.org/abs/2312.11568)|null|
 |**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
 |**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877](http://arxiv.org/abs/2312.10877)|null|
-|**2023-12-15**|**DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**|Yifeng Ma et.al.|[2312.09767](http://arxiv.org/abs/2312.09767)|null|
+|**2023-12-15**|**DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**|Yifeng Ma et.al.|[2312.09767](http://arxiv.org/abs/2312.09767)|**[link](https://github.com/ali-vilab/dreamtalk)**|
 |**2023-12-15**|**Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2312.09750](http://arxiv.org/abs/2312.09750)|null|
 |**2023-12-13**|**uTalk: Bridging the Gap Between Humans and AI**|Hussam Azzuni et.al.|[2310.02739](http://arxiv.org/abs/2310.02739)|null|
 |**2023-12-13**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
@@ -464,7 +464,7 @@
 |**2022-07-20**|**NARRATE: A Normal Assisted Free-View Portrait Stylizer**|Youjia Wang et.al.|[2207.00974](http://arxiv.org/abs/2207.00974)|null|
 |**2022-07-20**|**VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection**|Joanna Hong et.al.|[2206.07458](http://arxiv.org/abs/2206.07458)|null|
 |**2022-07-20**|**Responsive Listening Head Generation: A Benchmark Dataset and Baseline**|Mohan Zhou et.al.|[2112.13548](http://arxiv.org/abs/2112.13548)|null|
-|**2022-07-13**|**FastLTS: Non-Autoregressive End-to-End Unconstrained Lip-to-Speech Synthesis**|Yongqi Wang et.al.|[2207.03800](http://arxiv.org/abs/2207.03800)|null|
+|**2022-07-13**|**FastLTS: Non-Autoregressive End-to-End Unconstrained Lip-to-Speech Synthesis**|Yongqi Wang et.al.|[2207.03800](http://arxiv.org/abs/2207.03800)|**[link](https://github.com/cyanbx/FastLTS)**|
 |**2022-06-29**|**Cut Inner Layers: A Structured Pruning Strategy for Efficient U-Net GANs**|Bo-Kyeong Kim et.al.|[2206.14658](http://arxiv.org/abs/2206.14658)|null|
 |**2022-06-09**|**Face-Dubbing++: Lip-Synchronous, Voice Preserving Translation of Videos**|Alexander Waibel et.al.|[2206.04523](http://arxiv.org/abs/2206.04523)|null|
 |**2022-05-31**|**Text/Speech-Driven Full-Body Animation**|Wenlin Zhuang et.al.|[2205.15573](http://arxiv.org/abs/2205.15573)|null|
@@ -688,7 +688,7 @@
 |**2024-09-22**|**Dormant: Defending against Pose-driven Human Image Animation**|Jiachen Zhou et.al.|[2409.14424](http://arxiv.org/abs/2409.14424)|**[link](https://github.com/Manu21JC/Dormant)**|
 |**2024-07-23**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642](http://arxiv.org/abs/2407.15642)|**[link](https://github.com/maxin-cn/Cinemo)**|
 |**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012](http://arxiv.org/abs/2407.09012)|null|
-|**2024-07-12**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
+|**2024-07-12**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|**[link](https://github.com/antgroup/echomimic)**|
 |**2024-07-11**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|**[link](https://github.com/myniuuu/mofa-video)**|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
 |**2024-06-13**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
@@ -699,7 +699,7 @@
 |**2024-05-28**|**Controllable Longer Image Animation with Diffusion Models**|Qiang Wang et.al.|[2405.17306](http://arxiv.org/abs/2405.17306)|null|
 |**2024-03-25**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964](http://arxiv.org/abs/2312.13964)|**[link](https://github.com/open-mmlab/PIA)**|
 |**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
-|**2024-03-08**|**Audio-Synchronized Visual Animation**|Lin Zhang et.al.|[2403.05659](http://arxiv.org/abs/2403.05659)|null|
+|**2024-03-08**|**Audio-Synchronized Visual Animation**|Lin Zhang et.al.|[2403.05659](http://arxiv.org/abs/2403.05659)|**[link](https://github.com/lzhangbj/ASVA)**|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-01-17**|**Continuous Piecewise-Affine Based Motion Model for Image Animation**|Hexiang Wang et.al.|[2401.09146](http://arxiv.org/abs/2401.09146)|**[link](https://github.com/devilpg/aaai2024-cpabmm)**|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
@@ -880,17 +880,17 @@
 |**2025-02-26**|**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**|Qingpei Guo et.al.|[2502.18778](http://arxiv.org/abs/2502.18778)|null|
 |**2025-02-26**|**M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type**|Weiming Hu et.al.|[2502.18755](http://arxiv.org/abs/2502.18755)|null|
 |**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
-|**2025-02-25**|**Ion counting and temperature determination of Coulomb-crystallized laser-cooled ions in traps using convolutional neural networks**|Yanning Yin et.al.|[2502.18442](http://arxiv.org/abs/2502.18442)|null|
+|**2025-02-25**|**Ion counting and temperature determination of Coulomb-crystallized laser-cooled ions in traps using convolutional neural networks**|Yanning Yin et.al.|[2502.18442](http://arxiv.org/abs/2502.18442)|**[link](https://github.com/yanningyin/coulomb-crystal-cnn)**|
 |**2025-02-25**|**CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**|Yafei Ou et.al.|[2502.18437](http://arxiv.org/abs/2502.18437)|null|
 |**2025-02-25**|**Semantic and Goal-oriented Wireless Network Coverage: The Area of Effectiveness**|Mattia Merluzzi et.al.|[2502.18381](http://arxiv.org/abs/2502.18381)|null|
 |**2025-02-25**|**Causal AI-based Root Cause Identification: Research to Practice at Scale**|Saurabh Jha et.al.|[2502.18240](http://arxiv.org/abs/2502.18240)|null|
 |**2025-02-25**|**Software implemented fault diagnosis of natural gas pumping unit based on feedforward neural network**|Mykola Kozlenko et.al.|[2502.18233](http://arxiv.org/abs/2502.18233)|null|
 |**2025-02-25**|**Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent**|Xiaofeng Wang et.al.|[2502.18228](http://arxiv.org/abs/2502.18228)|null|
 |**2025-02-25**|**Intersubjective Model of AI-mediated Communication: Augmenting Human-Human Text Chat through LLM-based Adaptive Agent Pair**|Shutaro Aoyama et.al.|[2502.18201](http://arxiv.org/abs/2502.18201)|null|
-|**2025-02-25**|**Recurrent Neural Networks for Dynamic VWAP Execution: Adaptive Trading Strategies with Temporal Kolmogorov-Arnold Networks**|Remi Genet et.al.|[2502.18177](http://arxiv.org/abs/2502.18177)|null|
+|**2025-02-25**|**Recurrent Neural Networks for Dynamic VWAP Execution: Adaptive Trading Strategies with Temporal Kolmogorov-Arnold Networks**|Remi Genet et.al.|[2502.18177](http://arxiv.org/abs/2502.18177)|**[link](https://github.com/remigenet/deepdynamicvwap)**|
 |**2025-02-25**|**Edge Training and Inference with Analog ReRAM Technology for Hand Gesture Recognition**|Victoria Clerico et.al.|[2502.18152](http://arxiv.org/abs/2502.18152)|null|
 |**2025-02-25**|**A Real-time Spatio-Temporal Trajectory Planner for Autonomous Vehicles with Semantic Graph Optimization**|Shan He et.al.|[2502.18151](http://arxiv.org/abs/2502.18151)|null|
-|**2025-02-25**|**LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking**|Yunfeng Li et.al.|[2502.18143](http://arxiv.org/abs/2502.18143)|null|
+|**2025-02-25**|**LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking**|Yunfeng Li et.al.|[2502.18143](http://arxiv.org/abs/2502.18143)|**[link](https://github.com/liyunfenglyf/lightfc-x)**|
 |**2025-02-25**|**Enhancing 5G O-RAN Communication Efficiency Through AI-Based Latency Forecasting**|Raúl Parada et.al.|[2502.18046](http://arxiv.org/abs/2502.18046)|null|
 |**2025-02-25**|**Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based Inference**|Zhuo Chen et.al.|[2502.18023](http://arxiv.org/abs/2502.18023)|null|
 |**2025-02-25**|**Advising Agent for Supporting Human-Multi-Drone Team Collaboration**|Hodaya Barr et.al.|[2502.17960](http://arxiv.org/abs/2502.17960)|null|
@@ -933,7 +933,7 @@
 |**2025-02-21**|**A Data-Driven Real-Time Optimal Power Flow Algorithm Using Local Feedback**|Heng Liang et.al.|[2502.15306](http://arxiv.org/abs/2502.15306)|null|
 |**2025-02-21**|**A deep learning-based noise correction method for light-field fluorescence microscopy**|Bohan Qu et.al.|[2502.15259](http://arxiv.org/abs/2502.15259)|null|
 |**2025-02-21**|**Real-Time Moving Flock Detection in Pedestrian Trajectories Using Sequential Deep Learning Models**|Amartaivan Sanjjamts et.al.|[2502.15252](http://arxiv.org/abs/2502.15252)|null|
-|**2025-02-21**|**Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles**|Ruofei Bai et.al.|[2502.15162](http://arxiv.org/abs/2502.15162)|null|
+|**2025-02-21**|**Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles**|Ruofei Bai et.al.|[2502.15162](http://arxiv.org/abs/2502.15162)|**[link](https://github.com/bairuofei/los_constrained_navigation)**|
 |**2025-02-21**|**Improving Streaming Speech Recognition With Time-Shifted Contextual Attention And Dynamic Right Context Masking**|Khanh Le et.al.|[2502.15158](http://arxiv.org/abs/2502.15158)|null|
 |**2025-02-20**|**MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation**|Renascence Tarafder Prapty et.al.|[2502.15098](http://arxiv.org/abs/2502.15098)|null|
 |**2025-02-20**|**ODS: A self-reporting system for radio telescopes to coexist with adaptive satellite constellations**|Bang D. Nhan et.al.|[2502.15068](http://arxiv.org/abs/2502.15068)|null|
@@ -967,7 +967,7 @@
 |**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789](http://arxiv.org/abs/2502.13789)|null|
 |**2025-02-19**|**An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice**|Wanke Xia et.al.|[2502.13764](http://arxiv.org/abs/2502.13764)|null|
 |**2025-02-19**|**A Digital Urban Twin Enabling Interactive Pollution Predictions and Enhanced Planning**|Dennis Teutscher et.al.|[2502.13746](http://arxiv.org/abs/2502.13746)|null|
-|**2025-02-19**|**TrustRAG: An Information Assistant with Retrieval Augmented Generation**|Yixing Fan et.al.|[2502.13719](http://arxiv.org/abs/2502.13719)|null|
+|**2025-02-19**|**TrustRAG: An Information Assistant with Retrieval Augmented Generation**|Yixing Fan et.al.|[2502.13719](http://arxiv.org/abs/2502.13719)|**[link](https://github.com/gomate-community/trustrag)**|
 |**2025-02-19**|**Millimeter-Wave ISAC Testbed Using Programmable Digital Coding Dynamic Metasurface Antenna: Practical Design and Implementation**|Abdul Jabbar et.al.|[2502.13705](http://arxiv.org/abs/2502.13705)|null|
 |**2025-02-19**|**DNA Sensing with Whispering Gallery Mode Microlasers**|Soraya Caixeiro et.al.|[2502.13664](http://arxiv.org/abs/2502.13664)|null|
 |**2025-02-19**|**FlexDuo: A Pluggable System for Enabling Full-Duplex Capabilities in Speech Dialogue Systems**|Borui Liao et.al.|[2502.13472](http://arxiv.org/abs/2502.13472)|null|
@@ -985,14 +985,14 @@
 |**2025-02-18**|**Instance-Level Moving Object Segmentation from a Single Image with Events**|Zhexiong Wan et.al.|[2502.12975](http://arxiv.org/abs/2502.12975)|null|
 |**2025-02-18**|**Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger**|Wenjun Li et.al.|[2502.12961](http://arxiv.org/abs/2502.12961)|null|
 |**2025-02-18**|**Neuro-oscillatory models of cortical speech processing**|Olesia Dogonasheva et.al.|[2502.12935](http://arxiv.org/abs/2502.12935)|null|
-|**2025-02-18**|**Keep what you need : extracting efficient subnetworks from large audio representation models**|David Genova et.al.|[2502.12925](http://arxiv.org/abs/2502.12925)|null|
+|**2025-02-18**|**Keep what you need : extracting efficient subnetworks from large audio representation models**|David Genova et.al.|[2502.12925](http://arxiv.org/abs/2502.12925)|**[link](https://github.com/gnvircam/audio-representation-trimming)**|
 |**2025-02-18**|**Testing and Combining Transient Spectral Classification Tools on 4MOST-like Blended Spectra**|Andrew Milligan et.al.|[2502.12890](http://arxiv.org/abs/2502.12890)|null|
 |**2025-02-18**|**NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**|Penghui Zhang et.al.|[2502.12834](http://arxiv.org/abs/2502.12834)|null|
 |**2025-02-18**|**An Adaptive Model Order Reduction Approach for the Finite Element Method in Time Domain in Electromagnetics**|Ruth Medeiros et.al.|[2502.12785](http://arxiv.org/abs/2502.12785)|null|
-|**2025-02-18**|**Efficient Machine Translation Corpus Generation: Integrating Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755](http://arxiv.org/abs/2502.12755)|null|
+|**2025-02-18**|**Efficient Machine Translation Corpus Generation: Integrating Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755](http://arxiv.org/abs/2502.12755)|**[link](https://github.com/aixplain/Efficient-MT)**|
 |**2025-02-18**|**MediaMind: Revolutionizing Media Monitoring using Agentification**|Ahmet Gunduz et.al.|[2502.12745](http://arxiv.org/abs/2502.12745)|null|
 |**2025-02-18**|**Soft Arm-Motor Thrust Characterization for a Pneumatically Actuated Soft Morphing Quadrotor**|Vidya Sumathy et.al.|[2502.12716](http://arxiv.org/abs/2502.12716)|null|
-|**2025-02-18**|**LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System**|Jianping Li et.al.|[2502.12655](http://arxiv.org/abs/2502.12655)|null|
+|**2025-02-18**|**LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System**|Jianping Li et.al.|[2502.12655](http://arxiv.org/abs/2502.12655)|**[link](https://github.com/kafeiyin00/limo-calib)**|
 |**2025-02-18**|**A Graph-Enhanced Deep-Reinforcement Learning Framework for the Aircraft Landing Problem**|Vatsal Maru et.al.|[2502.12617](http://arxiv.org/abs/2502.12617)|null|
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
