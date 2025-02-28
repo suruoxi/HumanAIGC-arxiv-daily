@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.02.27
+### Updated on 2025.02.28
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -840,12 +840,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
 |**2025-02-26**|**Nontrapping Tunable Topological Photonic Memory**|Amirreza Ahmadnejad et.al.|[2502.19398](http://arxiv.org/abs/2502.19398)|null|
 |**2025-02-26**|**Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization**|Harish K. Dureppagari et.al.|[2502.19354](http://arxiv.org/abs/2502.19354)|null|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
 |**2025-02-26**|**Operando XPS in Reactive Plasmas: The Importance of The Wall Reactions**|J. Trey Diulus et.al.|[2502.19303](http://arxiv.org/abs/2502.19303)|null|
 |**2025-02-26**|**Pilot and Data Power Control for Uplink Cell-free massive MIMO**|Saeed Mohammadzadeh et.al.|[2502.19282](http://arxiv.org/abs/2502.19282)|null|
-|**2025-02-26**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
 |**2025-02-26**|**Few Shot Alternating GD and Minimization for Generalizable Real-Time MRI**|Silpa Babu et.al.|[2502.19220](http://arxiv.org/abs/2502.19220)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
 |**2025-02-26**|**Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs**|Zhaowei Zhang et.al.|[2502.19148](http://arxiv.org/abs/2502.19148)|null|
