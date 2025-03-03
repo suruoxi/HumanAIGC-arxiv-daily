@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.03.02
+### Updated on 2025.03.03
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -659,7 +659,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Image Animation
 
@@ -757,12 +757,13 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|
 |**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
 |**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126](http://arxiv.org/abs/2502.20126)|null|
 |**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
@@ -775,7 +776,6 @@
 |**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-21**|**RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**|Min Zhao et.al.|[2502.15894](http://arxiv.org/abs/2502.15894)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
-|**2025-02-21**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|
 |**2025-02-21**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
 |**2025-02-20**|**Hardware-Friendly Static Quantization Method for Video Diffusion Transformers**|Sanghyun Yi et.al.|[2502.15077](http://arxiv.org/abs/2502.15077)|null|
 |**2025-02-20**|**LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection**|Qingyuan Liu et.al.|[2502.14994](http://arxiv.org/abs/2502.14994)|null|
@@ -802,7 +802,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## TryOn
 
@@ -830,7 +830,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -865,12 +865,13 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Others
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
 |**2025-02-27**|**Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation**|Zhi Cen et.al.|[2502.20370](http://arxiv.org/abs/2502.20370)|null|
 |**2025-02-27**|**Modeling Driver Behavior in Speed Advisory Systems: Koopman-based Approach with Online Update**|Mehmet Fatih Ozkan et.al.|[2502.20347](http://arxiv.org/abs/2502.20347)|null|
@@ -887,7 +888,6 @@
 |**2025-02-27**|**ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments**|Jinghao Xin et.al.|[2502.19892](http://arxiv.org/abs/2502.19892)|null|
 |**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|null|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769](http://arxiv.org/abs/2502.19769)|null|
-|**2025-02-27**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
 |**2025-02-27**|**LUCAS: Layered Universal Codec Avatars**|Di Liu et.al.|[2502.19739](http://arxiv.org/abs/2502.19739)|null|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 |**2025-02-27**|**Speculative Decoding and Beyond: An In-Depth Review of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
@@ -1029,7 +1029,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -1069,7 +1069,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -1109,7 +1109,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 Notes: 
 

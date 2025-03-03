@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.03.02
+### Updated on 2025.03.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -750,6 +750,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|
 |**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
 |**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126](http://arxiv.org/abs/2502.20126)|null|
 |**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
@@ -762,7 +763,6 @@ layout: default
 |**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-21**|**RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**|Min Zhao et.al.|[2502.15894](http://arxiv.org/abs/2502.15894)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
-|**2025-02-21**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|
 |**2025-02-21**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
 |**2025-02-20**|**Hardware-Friendly Static Quantization Method for Video Diffusion Transformers**|Sanghyun Yi et.al.|[2502.15077](http://arxiv.org/abs/2502.15077)|null|
 |**2025-02-20**|**LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection**|Qingyuan Liu et.al.|[2502.14994](http://arxiv.org/abs/2502.14994)|null|
@@ -852,6 +852,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
 |**2025-02-27**|**Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation**|Zhi Cen et.al.|[2502.20370](http://arxiv.org/abs/2502.20370)|null|
 |**2025-02-27**|**Modeling Driver Behavior in Speed Advisory Systems: Koopman-based Approach with Online Update**|Mehmet Fatih Ozkan et.al.|[2502.20347](http://arxiv.org/abs/2502.20347)|null|
@@ -868,7 +869,6 @@ layout: default
 |**2025-02-27**|**ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments**|Jinghao Xin et.al.|[2502.19892](http://arxiv.org/abs/2502.19892)|null|
 |**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|null|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769](http://arxiv.org/abs/2502.19769)|null|
-|**2025-02-27**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
 |**2025-02-27**|**LUCAS: Layered Universal Codec Avatars**|Di Liu et.al.|[2502.19739](http://arxiv.org/abs/2502.19739)|null|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 |**2025-02-27**|**Speculative Decoding and Beyond: An In-Depth Review of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|

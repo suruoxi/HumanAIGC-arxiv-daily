@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.03.02
+> Updated on 2025.03.03
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -659,7 +659,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Image Animation
 
@@ -754,7 +754,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Video Generation
 
@@ -767,7 +767,7 @@
 - 2025-02-17, **Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**, Guoqing Ma et.al., Paper: [http://arxiv.org/abs/2502.10248](http://arxiv.org/abs/2502.10248), Code: **[https://github.com/stepfun-ai/step-video-t2v](https://github.com/stepfun-ai/step-video-t2v)**
 - 2025-02-25, **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**, Jintao Zhang et.al., Paper: [http://arxiv.org/abs/2502.18137](http://arxiv.org/abs/2502.18137), Code: **[https://github.com/thu-ml/spargeattn](https://github.com/thu-ml/spargeattn)**
 - 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841), Code: **[https://github.com/SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1)**
-- 2025-02-21, **RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, Ke Cao et.al., Paper: [http://arxiv.org/abs/2502.14377](http://arxiv.org/abs/2502.14377)
+- 2025-02-28, **RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, Ke Cao et.al., Paper: [http://arxiv.org/abs/2502.14377](http://arxiv.org/abs/2502.14377)
 - 2025-02-14, **RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control**, Teng Li et.al., Paper: [http://arxiv.org/abs/2502.10059](http://arxiv.org/abs/2502.10059)
 - 2025-02-21, **RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**, Min Zhao et.al., Paper: [http://arxiv.org/abs/2502.15894](http://arxiv.org/abs/2502.15894)
 - 2025-02-16, **Phantom: Subject-consistent video generation via cross-modal alignment**, Lijie Liu et.al., Paper: [http://arxiv.org/abs/2502.11079](http://arxiv.org/abs/2502.11079)
@@ -797,7 +797,7 @@
 - 2025-02-12, **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance**, Zhao Wang et.al., Paper: [http://arxiv.org/abs/2502.08189](http://arxiv.org/abs/2502.08189)
 - 2025-02-25, **ASurvey: Spatiotemporal Consistency in Video Generation**, Zhiyu Yin et.al., Paper: [http://arxiv.org/abs/2502.17863](http://arxiv.org/abs/2502.17863)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## TryOn
 
@@ -823,7 +823,7 @@
 - 2025-01-27, **Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks**, Hailong Guo et.al., Paper: [http://arxiv.org/abs/2501.15891](http://arxiv.org/abs/2501.15891)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -856,7 +856,7 @@
 - 2025-02-18, **AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**, Ming Xie et.al., Paper: [http://arxiv.org/abs/2502.11158](http://arxiv.org/abs/2502.11158)
 - 2025-02-08, **AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection**, Shuheng Zhang et.al., Paper: [http://arxiv.org/abs/2502.05433](http://arxiv.org/abs/2502.05433)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Others
 
@@ -923,7 +923,7 @@
 - 2025-02-20, **MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation**, Renascence Tarafder Prapty et.al., Paper: [http://arxiv.org/abs/2502.15098](http://arxiv.org/abs/2502.15098)
 - 2025-02-26, **M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**, Qingpei Guo et.al., Paper: [http://arxiv.org/abs/2502.18778](http://arxiv.org/abs/2502.18778)
 - 2025-02-26, **M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type**, Weiming Hu et.al., Paper: [http://arxiv.org/abs/2502.18755](http://arxiv.org/abs/2502.18755)
-- 2025-02-27, **Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**, Jiaxing Li et.al., Paper: [http://arxiv.org/abs/2502.19751](http://arxiv.org/abs/2502.19751)
+- 2025-02-28, **Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**, Jiaxing Li et.al., Paper: [http://arxiv.org/abs/2502.19751](http://arxiv.org/abs/2502.19751)
 - 2025-02-25, **LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking**, Yunfeng Li et.al., Paper: [http://arxiv.org/abs/2502.18143](http://arxiv.org/abs/2502.18143)
 - 2025-02-18, **LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System**, Jianping Li et.al., Paper: [http://arxiv.org/abs/2502.12655](http://arxiv.org/abs/2502.12655)
 - 2025-02-20, **Leveraging Small LLMs for Argument Mining in Education: Argument Component Identification, Classification, and Assessment**, Lucile Favero et.al., Paper: [http://arxiv.org/abs/2502.14389](http://arxiv.org/abs/2502.14389)
@@ -1018,7 +1018,7 @@
 - 2025-02-20, **A Collaborative Jade Recognition System for Mobile Devices Based on Lightweight and Large Models**, Zhenyu Wang et.al., Paper: [http://arxiv.org/abs/2502.14332](http://arxiv.org/abs/2502.14332)
 - 2025-02-24, **220 GHz RIS-Aided Multi-user Terahertz Communication System: Prototype Design and Over-the-Air Experimental Trials**, Yanzhao Hou et.al., Paper: [http://arxiv.org/abs/2502.16970](http://arxiv.org/abs/2502.16970)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -1056,7 +1056,7 @@
 - 2025-02-08, **ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**, Tairan He et.al., Paper: [http://arxiv.org/abs/2502.01143](http://arxiv.org/abs/2502.01143), Code: **[https://github.com/lecar-lab/asap](https://github.com/lecar-lab/asap)**
 - 2025-02-05, **A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions**, Hao Yin et.al., Paper: [http://arxiv.org/abs/2502.02817](http://arxiv.org/abs/2502.02817)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -1094,7 +1094,7 @@
 - 2025-02-14, **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2502.08857](http://arxiv.org/abs/2502.08857)
 - 2025-02-18, **A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**, Shreya Shukla et.al., Paper: [http://arxiv.org/abs/2502.12048](http://arxiv.org/abs/2502.12048)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 Notes: 
 
