@@ -908,7 +908,7 @@
 |**2025-03-05**|**Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs**|Karthik Barma et.al.|[2503.03428](http://arxiv.org/abs/2503.03428)|null|
 |**2025-03-05**|**REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph**|Phuoc Nguyen et.al.|[2503.03412](http://arxiv.org/abs/2503.03412)|null|
 |**2025-03-05**|**Multi-Agent DRL for Queue-Aware Task Offloading in Hierarchical MEC-Enabled Air-Ground Networks**|Muhammet Hevesli et.al.|[2503.03391](http://arxiv.org/abs/2503.03391)|null|
-|**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379](http://arxiv.org/abs/2503.03379)|null|
+|**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379](http://arxiv.org/abs/2503.03379)|**[link](https://github.com/dubcyfor3/Prosperity)**|
 |**2025-03-05**|**A Novel Multi-Criteria Local Latin Hypercube Refinement System for Commutation Angle Improvement in IPMSMs**|Pedram Asef et.al.|[2503.03372](http://arxiv.org/abs/2503.03372)|null|
 |**2025-03-05**|**SEAL: Safety Enhanced Trajectory Planning and Control Framework for Quadrotor Flight in Complex Environments**|Yiming Wang et.al.|[2503.03346](http://arxiv.org/abs/2503.03346)|null|
 |**2025-03-05**|**IoT Integration Protocol for Enhanced Hospital Care**|Ellie Zontou et.al.|[2503.03334](http://arxiv.org/abs/2503.03334)|null|

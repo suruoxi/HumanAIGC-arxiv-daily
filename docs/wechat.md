@@ -947,7 +947,7 @@
 - 2025-03-05, **REACT: Real-time Efficient Attribute Clustering and Transfer for Updatable 3D Scene Graph**, Phuoc Nguyen et.al., Paper: [http://arxiv.org/abs/2503.03412](http://arxiv.org/abs/2503.03412)
 - 2025-02-27, **QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**, Elkhan Ismayilzada et.al., Paper: [http://arxiv.org/abs/2502.19769](http://arxiv.org/abs/2502.19769)
 - 2025-02-27, **ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**, Qihang Peng et.al., Paper: [http://arxiv.org/abs/2502.19247](http://arxiv.org/abs/2502.19247)
-- 2025-03-05, **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**, Chiyue Wei et.al., Paper: [http://arxiv.org/abs/2503.03379](http://arxiv.org/abs/2503.03379)
+- 2025-03-05, **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**, Chiyue Wei et.al., Paper: [http://arxiv.org/abs/2503.03379](http://arxiv.org/abs/2503.03379), Code: **[https://github.com/dubcyfor3/Prosperity](https://github.com/dubcyfor3/Prosperity)**
 - 2025-03-05, **Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs**, Karthik Barma et.al., Paper: [http://arxiv.org/abs/2503.03428](http://arxiv.org/abs/2503.03428)
 - 2025-02-24, **Primitive-Swarm: An Ultra-lightweight and Scalable Planner for Large-scale Aerial Swarms**, Jialiang Hou et.al., Paper: [http://arxiv.org/abs/2502.16887](http://arxiv.org/abs/2502.16887)
 - 2025-03-04, **Prediction of amino acid content in live black soldier fly larvae using near infrared spectroscopy**, R. M. Zaalberg et.al., Paper: [http://arxiv.org/abs/2503.02569](http://arxiv.org/abs/2503.02569)
