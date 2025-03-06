@@ -871,6 +871,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Real-time station monitor and stationtest pipelines for LOFAR 2.0**|Jun Wang et.al.|[2503.02425](http://arxiv.org/abs/2503.02425)|null|
+|**2025-03-05**|**SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**|Xiaoying Li et.al.|[2503.02412](http://arxiv.org/abs/2503.02412)|null|
+|**2025-03-05**|**BHViT: Binarized Hybrid Vision Transformer**|Tian Gao et.al.|[2503.02394](http://arxiv.org/abs/2503.02394)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|null|
 |**2025-03-04**|**Evaluation of Architectural Synthesis Using Generative AI**|Jingfei Huang et.al.|[2503.02861](http://arxiv.org/abs/2503.02861)|null|
 |**2025-03-04**|**CADDI: An in-Class Activity Detection Dataset using IMU data from low-cost sensors**|Luis Marquez-Carpintero et.al.|[2503.02853](http://arxiv.org/abs/2503.02853)|null|
@@ -885,10 +888,7 @@ layout: default
 |**2025-03-04**|**The Stochastic Light Confinement of LiquidO**|LiquidO Collaboration et.al.|[2503.02541](http://arxiv.org/abs/2503.02541)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**Artificial Intelligence in Reactor Physics: Current Status and Future Prospects**|Ruizhi Zhang et.al.|[2503.02440](http://arxiv.org/abs/2503.02440)|null|
-|**2025-03-04**|**Real-time station monitor and stationtest pipelines for LOFAR 2.01**|Jun Wanga et.al.|[2503.02425](http://arxiv.org/abs/2503.02425)|null|
-|**2025-03-04**|**SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**|Xiaoying Li et.al.|[2503.02412](http://arxiv.org/abs/2503.02412)|null|
 |**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|null|
-|**2025-03-04**|**BHViT: Binarized Hybrid Vision Transformer**|Tian Gao et.al.|[2503.02394](http://arxiv.org/abs/2503.02394)|null|
 |**2025-03-04**|**Long distance local local oscillator continuous variable quantum key distribution with digital signal processing**|Dengke Qi et.al.|[2503.02392](http://arxiv.org/abs/2503.02392)|null|
 |**2025-03-04**|**Towards Large Language Model Guided Kernel Direct Fuzzing**|Xie Li et.al.|[2503.02301](http://arxiv.org/abs/2503.02301)|null|
 |**2025-02-28**|**Solar prosumage under different pricing regimes: Interactions with the transmission grid**|Dana Kirchem et.al.|[2502.21306](http://arxiv.org/abs/2502.21306)|null|
@@ -1074,6 +1074,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-04**|**SPG: Improving Motion Diffusion by Smooth Perturbation Guidance**|Boseong Jeon et.al.|[2503.02577](http://arxiv.org/abs/2503.02577)|null|
+|**2025-03-04**|**Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**|Parag Khanna et.al.|[2502.17834](http://arxiv.org/abs/2502.17834)|null|
 |**2025-03-03**|**Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior**|Chen Guo et.al.|[2503.01610](http://arxiv.org/abs/2503.01610)|null|
 |**2025-03-03**|**SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance**|Peishan Cong et.al.|[2503.01291](http://arxiv.org/abs/2503.01291)|null|
 |**2025-03-01**|**Zero-Power Backscatter Sensing and Communication Proof-of-Concept**|Yu Zhang et.al.|[2503.00602](http://arxiv.org/abs/2503.00602)|null|
@@ -1085,7 +1086,6 @@ layout: default
 |**2025-02-26**|**Fatigue-PINN: Physics-Informed Fatigue-Driven Motion Modulation and Synthesis**|Iliana Loi et.al.|[2502.19056](http://arxiv.org/abs/2502.19056)|null|
 |**2025-02-26**|**Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation**|Patrick Seifner et.al.|[2502.19049](http://arxiv.org/abs/2502.19049)|null|
 |**2025-02-25**|**EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**|Dominik Hollidt et.al.|[2502.18373](http://arxiv.org/abs/2502.18373)|null|
-|**2025-02-25**|**Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**|Parag Khanna et.al.|[2502.17834](http://arxiv.org/abs/2502.17834)|null|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
 |**2025-02-24**|**HVIS: A Human-like Vision and Inference System for Human Motion Prediction**|Kedi Lyu et.al.|[2502.16913](http://arxiv.org/abs/2502.16913)|null|
 |**2025-02-24**|**Design of a low-cost and lightweight 6 DoF bimanual arm for dynamic and contact-rich manipulation**|Jaehyung Kim et.al.|[2502.16908](http://arxiv.org/abs/2502.16908)|null|

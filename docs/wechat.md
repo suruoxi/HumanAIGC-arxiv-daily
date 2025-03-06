@@ -905,7 +905,7 @@
 - 2025-02-25, **Semantic and Goal-oriented Wireless Network Coverage: The Area of Effectiveness**, Mattia Merluzzi et.al., Paper: [http://arxiv.org/abs/2502.18381](http://arxiv.org/abs/2502.18381)
 - 2025-02-18, **SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**, Yucheng Shi et.al., Paper: [http://arxiv.org/abs/2502.13233](http://arxiv.org/abs/2502.13233)
 - 2025-02-21, **SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention**, Jiaqi Wu et.al., Paper: [http://arxiv.org/abs/2502.15594](http://arxiv.org/abs/2502.15594)
-- 2025-03-04, **SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**, Xiaoying Li et.al., Paper: [http://arxiv.org/abs/2503.02412](http://arxiv.org/abs/2503.02412)
+- 2025-03-05, **SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**, Xiaoying Li et.al., Paper: [http://arxiv.org/abs/2503.02412](http://arxiv.org/abs/2503.02412)
 - 2025-02-28, **S4ConvD: Adaptive Scaling and Frequency Adjustment for Energy-Efficient Sensor Networks in Smart Buildings**, Melanie Schaller et.al., Paper: [http://arxiv.org/abs/2502.21035](http://arxiv.org/abs/2502.21035), Code: **[https://github.com/MilanShao/S4ConvD](https://github.com/MilanShao/S4ConvD)**
 - 2025-02-20, **Role of the Pretraining and the Adaptation data sizes for low-resource real-time MRI video segmentation**, Masoud Thajudeen Tholan et.al., Paper: [http://arxiv.org/abs/2502.14418](http://arxiv.org/abs/2502.14418)
 - 2025-02-28, **Robust Deterministic Policy Gradient for Disturbance Attenuation and Its Application to Quadrotor Control**, Taeho Lee et.al., Paper: [http://arxiv.org/abs/2502.21057](http://arxiv.org/abs/2502.21057)
@@ -916,7 +916,7 @@
 - 2025-02-21, **Reduced-Order Model Guided Contact-Implicit Model Predictive Control for Humanoid Locomotion**, Sergio A. Esteban et.al., Paper: [http://arxiv.org/abs/2502.15630](http://arxiv.org/abs/2502.15630)
 - 2025-02-25, **Recurrent Neural Networks for Dynamic VWAP Execution: Adaptive Trading Strategies with Temporal Kolmogorov-Arnold Networks**, Remi Genet et.al., Paper: [http://arxiv.org/abs/2502.18177](http://arxiv.org/abs/2502.18177)
 - 2025-02-21, **Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles**, Ruofei Bai et.al., Paper: [http://arxiv.org/abs/2502.15162](http://arxiv.org/abs/2502.15162)
-- 2025-03-04, **Real-time station monitor and stationtest pipelines for LOFAR 2.01**, Jun Wanga et.al., Paper: [http://arxiv.org/abs/2503.02425](http://arxiv.org/abs/2503.02425)
+- 2025-03-05, **Real-time station monitor and stationtest pipelines for LOFAR 2.0**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2503.02425](http://arxiv.org/abs/2503.02425)
 - 2025-02-18, **Real-time interpretation of neutron vibrational spectra with symmetry-equivariant Hessian matrix prediction**, Bowen Han et.al., Paper: [http://arxiv.org/abs/2502.13070](http://arxiv.org/abs/2502.13070)
 - 2025-02-26, **Real-time Sign-Problem-Suppressed Quantum Monte Carlo Algorithm For Noisy Quantum Circuit Simulations**, Tong Shen et.al., Paper: [http://arxiv.org/abs/2502.18929](http://arxiv.org/abs/2502.18929)
 - 2025-02-24, **Real-time Monitoring of Economic Shocks using Company Websites**, Michael Koenig et.al., Paper: [http://arxiv.org/abs/2502.17161](http://arxiv.org/abs/2502.17161)
@@ -1035,7 +1035,7 @@
 - 2025-02-25, **CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**, Yafei Ou et.al., Paper: [http://arxiv.org/abs/2502.18437](http://arxiv.org/abs/2502.18437)
 - 2025-03-04, **CADDI: An in-Class Activity Detection Dataset using IMU data from low-cost sensors**, Luis Marquez-Carpintero et.al., Paper: [http://arxiv.org/abs/2503.02853](http://arxiv.org/abs/2503.02853)
 - 2025-02-24, **Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**, Tianpeng Li et.al., Paper: [http://arxiv.org/abs/2502.17239](http://arxiv.org/abs/2502.17239), Code: **[https://github.com/baichuan-inc/baichuan-audio](https://github.com/baichuan-inc/baichuan-audio)**
-- 2025-03-04, **BHViT: Binarized Hybrid Vision Transformer**, Tian Gao et.al., Paper: [http://arxiv.org/abs/2503.02394](http://arxiv.org/abs/2503.02394)
+- 2025-03-05, **BHViT: Binarized Hybrid Vision Transformer**, Tian Gao et.al., Paper: [http://arxiv.org/abs/2503.02394](http://arxiv.org/abs/2503.02394)
 - 2025-02-27, **BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**, Yufei Wei et.al., Paper: [http://arxiv.org/abs/2502.20078](http://arxiv.org/abs/2502.20078)
 - 2025-02-25, **BD Currency Detection: A CNN Based Approach with Mobile App Integration**, Syed Jubayer Jaman et.al., Paper: [http://arxiv.org/abs/2502.17907](http://arxiv.org/abs/2502.17907)
 - 2025-02-20, **Augmenting Coaching with GenAI: Insights into Use, Effectiveness, and Future Potential**, Jennifer Haase et.al., Paper: [http://arxiv.org/abs/2502.14632](http://arxiv.org/abs/2502.14632)
@@ -1096,7 +1096,7 @@
 - 2025-03-01, **Jointly Understand Your Command and Intention:Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis**, Xuehao Gao et.al., Paper: [http://arxiv.org/abs/2503.00371](http://arxiv.org/abs/2503.00371)
 - 2025-02-10, **Interaction-aware Conformal Prediction for Crowd Navigation**, Zhe Huang et.al., Paper: [http://arxiv.org/abs/2502.06221](http://arxiv.org/abs/2502.06221), Code: **[https://github.com/tedhuang96/icp](https://github.com/tedhuang96/icp)**
 - 2025-02-17, **InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**, Habib Larian et.al., Paper: [http://arxiv.org/abs/2502.11644](http://arxiv.org/abs/2502.11644), Code: **[https://github.com/idaslab/intec_framework](https://github.com/idaslab/intec_framework)**
-- 2025-02-25, **Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**, Parag Khanna et.al., Paper: [http://arxiv.org/abs/2502.17834](http://arxiv.org/abs/2502.17834)
+- 2025-03-04, **Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**, Parag Khanna et.al., Paper: [http://arxiv.org/abs/2502.17834](http://arxiv.org/abs/2502.17834)
 - 2025-02-21, **Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**, Pengxiang Ding et.al., Paper: [http://arxiv.org/abs/2502.14795](http://arxiv.org/abs/2502.14795)
 - 2025-02-10, **HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation**, Qijun Gan et.al., Paper: [http://arxiv.org/abs/2502.04847](http://arxiv.org/abs/2502.04847)
 - 2025-02-21, **Human Motion Prediction, Reconstruction, and Generation**, Canxuan Gang et.al., Paper: [http://arxiv.org/abs/2502.15956](http://arxiv.org/abs/2502.15956)
