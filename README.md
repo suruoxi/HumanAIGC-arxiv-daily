@@ -1003,7 +1003,7 @@
 |**2025-02-28**|**Real time simulations of scalar fields with kernelled complex Langevin equation**|Daniel Alvestad et.al.|[2502.20876](http://arxiv.org/abs/2502.20876)|null|
 |**2025-02-28**|**Movable Antenna Aided Multiuser Communications: Antenna Position Optimization Based on Statistical Channel Information**|Ge Yan et.al.|[2502.20856](http://arxiv.org/abs/2502.20856)|null|
 |**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|null|
-|**2025-02-28**|**Towards Practical Real-Time Neural Video Compression**|Zhaoyang Jia et.al.|[2502.20762](http://arxiv.org/abs/2502.20762)|null|
+|**2025-02-28**|**Towards Practical Real-Time Neural Video Compression**|Zhaoyang Jia et.al.|[2502.20762](http://arxiv.org/abs/2502.20762)|**[link](https://github.com/microsoft/dcvc)**|
 |**2025-02-28**|**Computationally Efficient Safe Control of Linear Systems under Severe Sensor Attacks**|Xiao Tan et.al.|[2502.20718](http://arxiv.org/abs/2502.20718)|null|
 |**2025-02-28**|**The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection**|Rishi Mukherjee et.al.|[2502.20651](http://arxiv.org/abs/2502.20651)|null|
 |**2025-02-28**|**RTGen: Real-Time Generative Detection Transformer**|Chi Ruan et.al.|[2502.20622](http://arxiv.org/abs/2502.20622)|null|
@@ -1021,8 +1021,8 @@
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-27**|**Methodology for GPU Frequency Switching Latency Measurement**|Daniel Velicka et.al.|[2502.20075](http://arxiv.org/abs/2502.20075)|null|
 |**2025-02-27**|**Text2VDM: Text to Vector Displacement Maps for Expressive and Interactive 3D Sculpting**|Hengyu Meng et.al.|[2502.20045](http://arxiv.org/abs/2502.20045)|null|
-|**2025-02-27**|**ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments**|Jinghao Xin et.al.|[2502.19892](http://arxiv.org/abs/2502.19892)|null|
-|**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|null|
+|**2025-02-27**|**ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments**|Jinghao Xin et.al.|[2502.19892](http://arxiv.org/abs/2502.19892)|**[link](https://github.com/xinjinghao/colordynamic)**|
+|**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|**[link](https://github.com/brandon-johns/servolnn)**|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769](http://arxiv.org/abs/2502.19769)|null|
 |**2025-02-27**|**LUCAS: Layered Universal Codec Avatars**|Di Liu et.al.|[2502.19739](http://arxiv.org/abs/2502.19739)|null|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
@@ -1030,7 +1030,7 @@
 |**2025-02-27**|**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**|Qihang Peng et.al.|[2502.19247](http://arxiv.org/abs/2502.19247)|null|
 |**2025-02-26**|**Nontrapping Tunable Topological Photonic Memory**|Amirreza Ahmadnejad et.al.|[2502.19398](http://arxiv.org/abs/2502.19398)|null|
 |**2025-02-26**|**Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization**|Harish K. Dureppagari et.al.|[2502.19354](http://arxiv.org/abs/2502.19354)|null|
-|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
 |**2025-02-26**|**Operando XPS in Reactive Plasmas: The Importance of The Wall Reactions**|J. Trey Diulus et.al.|[2502.19303](http://arxiv.org/abs/2502.19303)|null|
 |**2025-02-26**|**Pilot and Data Power Control for Uplink Cell-free massive MIMO**|Saeed Mohammadzadeh et.al.|[2502.19282](http://arxiv.org/abs/2502.19282)|null|
 |**2025-02-26**|**Few Shot Alternating GD and Minimization for Generalizable Real-Time MRI**|Silpa Babu et.al.|[2502.19220](http://arxiv.org/abs/2502.19220)|null|
@@ -1040,10 +1040,10 @@
 |**2025-02-26**|**Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for LLMs**|Yiheng Yang et.al.|[2502.19078](http://arxiv.org/abs/2502.19078)|null|
 |**2025-02-26**|**A Multi-Agent DRL-Based Framework for Optimal Resource Allocation and Twin Migration in the Multi-Tier Vehicular Metaverse**|Nahom Abishu Hayla et.al.|[2502.19004](http://arxiv.org/abs/2502.19004)|null|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982](http://arxiv.org/abs/2502.18982)|null|
-|**2025-02-26**|**Real-time Sign-Problem-Suppressed Quantum Monte Carlo Algorithm For Noisy Quantum Circuit Simulations**|Tong Shen et.al.|[2502.18929](http://arxiv.org/abs/2502.18929)|null|
+|**2025-02-26**|**Real-time Sign-Problem-Suppressed Quantum Monte Carlo Algorithm For Noisy Quantum Circuit Simulations**|Tong Shen et.al.|[2502.18929](http://arxiv.org/abs/2502.18929)|**[link](https://github.com/uscqserver/datarepo_qmcopensysdynamics)**|
 |**2025-02-26**|**Exploring Rewriting Approaches for Different Conversational Tasks**|Md Mehrab Tanjim et.al.|[2502.18860](http://arxiv.org/abs/2502.18860)|null|
 |**2025-02-26**|**RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**|Zhitao Wang et.al.|[2502.18846](http://arxiv.org/abs/2502.18846)|null|
-|**2025-02-26**|**REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems**|Longling Geng et.al.|[2502.18836](http://arxiv.org/abs/2502.18836)|null|
+|**2025-02-26**|**REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems**|Longling Geng et.al.|[2502.18836](http://arxiv.org/abs/2502.18836)|**[link](https://github.com/genglongling/realm-bench)**|
 |**2025-02-26**|**Work Statistics via Real-Time Effective Field Theory: Application to Work Extraction from Thermal Bath with Qubit Coupling**|Jhh-Jing Hong et.al.|[2502.18812](http://arxiv.org/abs/2502.18812)|null|
 |**2025-02-26**|**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**|Qingpei Guo et.al.|[2502.18778](http://arxiv.org/abs/2502.18778)|null|
 |**2025-02-26**|**M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type**|Weiming Hu et.al.|[2502.18755](http://arxiv.org/abs/2502.18755)|null|
