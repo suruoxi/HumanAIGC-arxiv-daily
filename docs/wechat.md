@@ -803,7 +803,7 @@
 - 2025-02-19, **LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**, Junchen Fu et.al., Paper: [http://arxiv.org/abs/2502.12945](http://arxiv.org/abs/2502.12945)
 - 2025-02-20, **LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection**, Qingyuan Liu et.al., Paper: [http://arxiv.org/abs/2502.14994](http://arxiv.org/abs/2502.14994)
 - 2025-02-20, **Improving the Diffusability of Autoencoders**, Ivan Skorokhodov et.al., Paper: [http://arxiv.org/abs/2502.14831](http://arxiv.org/abs/2502.14831)
-- 2025-03-05, **High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**, Yuna Kato et.al., Paper: [http://arxiv.org/abs/2503.03558](http://arxiv.org/abs/2503.03558)
+- 2025-03-05, **High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**, Yuna Kato et.al., Paper: [http://arxiv.org/abs/2503.03558](http://arxiv.org/abs/2503.03558), Code: **[https://github.com/isogawalab/singleviewsurgicalvideo](https://github.com/isogawalab/singleviewsurgicalvideo)**
 - 2025-02-20, **Hardware-Friendly Static Quantization Method for Video Diffusion Transformers**, Sanghyun Yi et.al., Paper: [http://arxiv.org/abs/2502.15077](http://arxiv.org/abs/2502.15077)
 - 2025-02-28, **HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2502.20811](http://arxiv.org/abs/2502.20811)
 - 2025-02-26, **Glad: A Streaming Scene Generator for Autonomous Driving**, Bin Xie et.al., Paper: [http://arxiv.org/abs/2503.00045](http://arxiv.org/abs/2503.00045)
@@ -815,7 +815,7 @@
 - 2025-02-27, **FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**, Sotiris Anagnostidis et.al., Paper: [http://arxiv.org/abs/2502.20126](http://arxiv.org/abs/2502.20126)
 - 2025-02-19, **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**, Yunpeng Zhang et.al., Paper: [http://arxiv.org/abs/2502.13995](http://arxiv.org/abs/2502.13995), Code: **[https://github.com/Fantasy-AMAP/fantasy-id](https://github.com/Fantasy-AMAP/fantasy-id)**
 - 2025-02-26, **FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**, Lingzhou Mu et.al., Paper: [http://arxiv.org/abs/2502.19455](http://arxiv.org/abs/2502.19455)
-- 2025-03-02, **Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**, Jie Tian et.al., Paper: [http://arxiv.org/abs/2503.00948](http://arxiv.org/abs/2503.00948)
+- 2025-03-02, **Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**, Jie Tian et.al., Paper: [http://arxiv.org/abs/2503.00948](http://arxiv.org/abs/2503.00948), Code: **[https://github.com/Chuge0335/EDG](https://github.com/Chuge0335/EDG)**
 - 2025-02-13, **Enhance-A-Video: Better Generated Video for Free**, Yang Luo et.al., Paper: [http://arxiv.org/abs/2502.07508](http://arxiv.org/abs/2502.07508), Code: **[https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video)**
 - 2025-03-05, **DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**, Zhao Yang et.al., Paper: [http://arxiv.org/abs/2503.03689](http://arxiv.org/abs/2503.03689)
 - 2025-02-24, **Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**, Zhong Li et.al., Paper: [http://arxiv.org/abs/2502.17119](http://arxiv.org/abs/2502.17119), Code: **[https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**
@@ -857,7 +857,7 @@
 ## Visual Edit
 
 - 2025-03-04, **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**, Toan Nguyen et.al., Paper: [http://arxiv.org/abs/2503.02187](http://arxiv.org/abs/2503.02187)
-- 2025-03-07, **VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**, Yuxuan Bian et.al., Paper: [http://arxiv.org/abs/2503.05639](http://arxiv.org/abs/2503.05639)
+- 2025-03-07, **VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**, Yuxuan Bian et.al., Paper: [http://arxiv.org/abs/2503.05639](http://arxiv.org/abs/2503.05639), Code: **[https://github.com/TencentARC/VideoPainter](https://github.com/TencentARC/VideoPainter)**
 - 2025-03-03, **VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**, Juil Koo et.al., Paper: [http://arxiv.org/abs/2503.01107](http://arxiv.org/abs/2503.01107)
 - 2025-02-24, **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**, Xiangpeng Yang et.al., Paper: [http://arxiv.org/abs/2502.17258](http://arxiv.org/abs/2502.17258)
 - 2025-02-14, **VideoDiff: Human-AI Video Co-Creation with Alternatives**, Mina Huh et.al., Paper: [http://arxiv.org/abs/2502.10190](http://arxiv.org/abs/2502.10190)
@@ -1220,11 +1220,11 @@
 - 2025-02-19, **Speech to Speech Translation with Translatotron: A State of the Art Review**, Jules R. Kala et.al., Paper: [http://arxiv.org/abs/2502.05980](http://arxiv.org/abs/2502.05980)
 - 2025-03-04, **Speculative Decoding and Beyond: An In-Depth Survey of Techniques**, Yunhai Hu et.al., Paper: [http://arxiv.org/abs/2502.19732](http://arxiv.org/abs/2502.19732)
 - 2025-02-26, **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis**, Ziyue Jiang et.al., Paper: [http://arxiv.org/abs/2502.18924](http://arxiv.org/abs/2502.18924)
-- 2025-03-03, **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**, Xinsheng Wang et.al., Paper: [http://arxiv.org/abs/2503.01710](http://arxiv.org/abs/2503.01710)
+- 2025-03-03, **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**, Xinsheng Wang et.al., Paper: [http://arxiv.org/abs/2503.01710](http://arxiv.org/abs/2503.01710), Code: **[https://github.com/sparkaudio/spark-tts](https://github.com/sparkaudio/spark-tts)**
 - 2025-03-06, **Scaling Rich Style-Prompted Text-to-Speech Datasets**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2503.04713](http://arxiv.org/abs/2503.04713)
 - 2025-02-16, **Recent Advances in Discrete Speech Tokens: A Review**, Yiwei Guo et.al., Paper: [http://arxiv.org/abs/2502.06490](http://arxiv.org/abs/2502.06490)
 - 2025-02-20, **ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**, Abhijit Mishra et.al., Paper: [http://arxiv.org/abs/2502.14780](http://arxiv.org/abs/2502.14780)
-- 2025-03-01, **PodAgent: A Comprehensive Framework for Podcast Generation**, Yujia Xiao et.al., Paper: [http://arxiv.org/abs/2503.00455](http://arxiv.org/abs/2503.00455)
+- 2025-03-01, **PodAgent: A Comprehensive Framework for Podcast Generation**, Yujia Xiao et.al., Paper: [http://arxiv.org/abs/2503.00455](http://arxiv.org/abs/2503.00455), Code: **[https://github.com/yujxx/podagent](https://github.com/yujxx/podagent)**
 - 2025-02-09, **Non-invasive electromyographic speech neuroprosthesis: a geometric perspective**, Harshavardhana T. Gowda et.al., Paper: [http://arxiv.org/abs/2502.05762](http://arxiv.org/abs/2502.05762)
 - 2025-02-17, **NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**, Yifan Liang et.al., Paper: [http://arxiv.org/abs/2502.12002](http://arxiv.org/abs/2502.12002)
 - 2025-02-25, **Multimodal Interaction and Intention Communication for Industrial Robots**, Tim Schreiter et.al., Paper: [http://arxiv.org/abs/2502.17971](http://arxiv.org/abs/2502.17971)

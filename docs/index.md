@@ -766,14 +766,14 @@ layout: default
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
-|**2025-03-05**|**High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**|Yuna Kato et.al.|[2503.03558](http://arxiv.org/abs/2503.03558)|null|
+|**2025-03-05**|**High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**|Yuna Kato et.al.|[2503.03558](http://arxiv.org/abs/2503.03558)|**[link](https://github.com/isogawalab/singleviewsurgicalvideo)**|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-03-04**|**GRADEO: Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning**|Zhun Mou et.al.|[2503.02341](http://arxiv.org/abs/2503.02341)|null|
 |**2025-03-04**|**Unified Video Action Model**|Shuang Li et.al.|[2503.00200](http://arxiv.org/abs/2503.00200)|null|
 |**2025-03-03**|**VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation**|Wenhao Wang et.al.|[2503.01739](http://arxiv.org/abs/2503.01739)|null|
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
 |**2025-03-03**|**TransVDM: Motion-Constrained Video Diffusion Model for Transparent Video Synthesis**|Menghao Li et.al.|[2502.19454](http://arxiv.org/abs/2502.19454)|null|
-|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|null|
+|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|**[link](https://github.com/Chuge0335/EDG)**|
 |**2025-03-01**|**Learning to Animate Images from A Few Videos to Portray Delicate Human Actions**|Haoxin Li et.al.|[2503.00276](http://arxiv.org/abs/2503.00276)|null|
 |**2025-02-28**|**Training-free and Adaptive Sparse Attention for Efficient Long Video Generation**|Yifei Xia et.al.|[2502.21079](http://arxiv.org/abs/2502.21079)|null|
 |**2025-02-28**|**HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models**|Xiao Wang et.al.|[2502.20811](http://arxiv.org/abs/2502.20811)|null|
@@ -848,7 +848,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424](http://arxiv.org/abs/2503.05424)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
 |**2025-03-05**|**GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors**|Yaopei Zeng et.al.|[2503.03944](http://arxiv.org/abs/2503.03944)|null|
@@ -1207,11 +1207,11 @@ layout: default
 |**2025-03-04**|**InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**|Dingdong Wang et.al.|[2503.02769](http://arxiv.org/abs/2503.02769)|null|
 |**2025-03-04**|**Speculative Decoding and Beyond: An In-Depth Survey of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
 |**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
-|**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|null|
+|**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**Voice Cloning for Dysarthric Speech Synthesis: Addressing Data Scarcity in Speech-Language Pathology**|Birger Moell et.al.|[2503.01266](http://arxiv.org/abs/2503.01266)|null|
 |**2025-03-02**|**Language-agnostic, automated assessment of listeners' speech recall using large language models**|Björn Herrmann et.al.|[2503.01045](http://arxiv.org/abs/2503.01045)|null|
 |**2025-03-02**|**UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation**|Alexander H. Liu et.al.|[2503.00733](http://arxiv.org/abs/2503.00733)|null|
-|**2025-03-01**|**PodAgent: A Comprehensive Framework for Podcast Generation**|Yujia Xiao et.al.|[2503.00455](http://arxiv.org/abs/2503.00455)|null|
+|**2025-03-01**|**PodAgent: A Comprehensive Framework for Podcast Generation**|Yujia Xiao et.al.|[2503.00455](http://arxiv.org/abs/2503.00455)|**[link](https://github.com/yujxx/podagent)**|
 |**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
 |**2025-02-27**|**DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**|Weihao wu et.al.|[2502.19924](http://arxiv.org/abs/2502.19924)|null|
 |**2025-02-27**|**Does Your Voice Assistant Remember? Analyzing Conversational Context Recall and Utilization in Voice Interaction Models**|Heeseung Kim et.al.|[2502.19759](http://arxiv.org/abs/2502.19759)|null|
