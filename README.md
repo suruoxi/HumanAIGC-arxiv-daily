@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.03.14
+### Updated on 2025.03.15
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -669,7 +669,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Image Animation
 
@@ -767,7 +767,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Video Generation
 
@@ -787,10 +787,10 @@
 |**2025-03-12**|**I2V3D: Controllable image-to-video generation with 3D guidance**|Zhiyuan Zhang et.al.|[2503.09733](http://arxiv.org/abs/2503.09733)|null|
 |**2025-03-12**|**Accelerating Diffusion Sampling via Exploiting Local Transition Coherence**|Shangwen Zhu et.al.|[2503.09675](http://arxiv.org/abs/2503.09675)|null|
 |**2025-03-12**|**Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k**|Xiangyu Peng et.al.|[2503.09642](http://arxiv.org/abs/2503.09642)|null|
-|**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
+|**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|**[link](https://github.com/vision-x-nyu/pisa-experiments)**|
 |**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344](http://arxiv.org/abs/2503.09344)|null|
 |**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[2503.09215](http://arxiv.org/abs/2503.09215)|null|
-|**2025-03-12**|**SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video**|Chengshu Zhao et.al.|[2503.09154](http://arxiv.org/abs/2503.09154)|null|
+|**2025-03-12**|**SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video**|Chengshu Zhao et.al.|[2503.09154](http://arxiv.org/abs/2503.09154)|**[link](https://github.com/pku-yuangroup/swapanyone)**|
 |**2025-03-12**|**Reangle-A-Video: 4D Video Generation as Video-to-Video Translation**|Hyeonho Jeong et.al.|[2503.09151](http://arxiv.org/abs/2503.09151)|null|
 |**2025-03-12**|**$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307](http://arxiv.org/abs/2503.08307)|null|
 |**2025-03-12**|**Object-Centric World Model for Language-Guided Manipulation**|Youngjoon Jeong et.al.|[2503.06170](http://arxiv.org/abs/2503.06170)|null|
@@ -879,7 +879,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## TryOn
 
@@ -908,7 +908,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -920,7 +920,7 @@
 |**2025-03-13**|**MoEdit: On Learning Quantity Perception for Multi-object Image Editing**|Yanfeng Li et.al.|[2503.10112](http://arxiv.org/abs/2503.10112)|null|
 |**2025-03-13**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-12**|**On the Limitations of Vision-Language Models in Understanding Image Transforms**|Ahmad Mustafa Anis et.al.|[2503.09837](http://arxiv.org/abs/2503.09837)|null|
-|**2025-03-12**|**Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**|Yifan Zhou et.al.|[2503.09419](http://arxiv.org/abs/2503.09419)|null|
+|**2025-03-12**|**Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**|Yifan Zhou et.al.|[2503.09419](http://arxiv.org/abs/2503.09419)|**[link](https://github.com/singlezombie/afldm)**|
 |**2025-03-12**|**InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images**|Jiun Tian Hoe et.al.|[2503.09130](http://arxiv.org/abs/2503.09130)|null|
 |**2025-03-12**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
 |**2025-03-11**|**Aligning Text to Image in Diffusion Models is Easier Than You Think**|Jaa-Yeon Lee et.al.|[2503.08250](http://arxiv.org/abs/2503.08250)|null|
@@ -933,7 +933,7 @@
 |**2025-03-10**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-09**|**Consistent Image Layout Editing with Diffusion Models**|Tao Xia et.al.|[2503.06419](http://arxiv.org/abs/2503.06419)|null|
 |**2025-03-08**|**Get In Video: Add Anything You Want to the Video**|Shaobin Zhuang et.al.|[2503.06268](http://arxiv.org/abs/2503.06268)|null|
-|**2025-03-08**|**X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**|Jian Ma et.al.|[2503.06134](http://arxiv.org/abs/2503.06134)|null|
+|**2025-03-08**|**X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**|Jian Ma et.al.|[2503.06134](http://arxiv.org/abs/2503.06134)|**[link](https://github.com/oppo-mente-lab/x2i)**|
 |**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424](http://arxiv.org/abs/2503.05424)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
 |**2025-03-05**|**GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors**|Yaopei Zeng et.al.|[2503.03944](http://arxiv.org/abs/2503.03944)|null|
@@ -969,7 +969,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Others
 
@@ -1319,7 +1319,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -1377,7 +1377,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -1392,9 +1392,9 @@
 |**2025-03-10**|**BEARCUBS: A benchmark for computer-using web agents**|Yixiao Song et.al.|[2503.07919](http://arxiv.org/abs/2503.07919)|null|
 |**2025-03-09**|**ProSE: Diffusion Priors for Speech Enhancement**|Sonal Kumar et.al.|[2503.06375](http://arxiv.org/abs/2503.06375)|null|
 |**2025-03-08**|**Clip-TTS: Contrastive Text-content and Mel-spectrogram, A High-Quality Text-to-Speech Method based on Contextual Semantic Understanding**|Tianyun Liu et.al.|[2502.18889](http://arxiv.org/abs/2502.18889)|null|
-|**2025-03-07**|**DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**|Yifan Liu et.al.|[2503.05223](http://arxiv.org/abs/2503.05223)|null|
+|**2025-03-07**|**DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**|Yifan Liu et.al.|[2503.05223](http://arxiv.org/abs/2503.05223)|**[link](https://github.com/pussycat0700/divise)**|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
-|**2025-03-06**|**Scaling Rich Style-Prompted Text-to-Speech Datasets**|Anuj Diwan et.al.|[2503.04713](http://arxiv.org/abs/2503.04713)|null|
+|**2025-03-06**|**Scaling Rich Style-Prompted Text-to-Speech Datasets**|Anuj Diwan et.al.|[2503.04713](http://arxiv.org/abs/2503.04713)|**[link](https://github.com/ajd12342/paraspeechcaps)**|
 |**2025-03-06**|**InterChat: Enhancing Generative Visual Analytics using Multimodal Interactions**|Juntong Chen et.al.|[2503.04110](http://arxiv.org/abs/2503.04110)|null|
 |**2025-03-05**|**Good practices for evaluation of synthesized speech**|Erica Cooper et.al.|[2503.03250](http://arxiv.org/abs/2503.03250)|null|
 |**2025-03-04**|**InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**|Dingdong Wang et.al.|[2503.02769](http://arxiv.org/abs/2503.02769)|null|
@@ -1436,7 +1436,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 Notes: 
 

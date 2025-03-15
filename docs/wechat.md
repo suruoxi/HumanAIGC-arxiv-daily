@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.03.14
+> Updated on 2025.03.15
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -669,7 +669,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Image Animation
 
@@ -764,7 +764,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Video Generation
 
@@ -797,7 +797,7 @@
 - 2025-03-08, **The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**, Aoxiong Yin et.al., Paper: [http://arxiv.org/abs/2503.04606](http://arxiv.org/abs/2503.04606)
 - 2025-03-08, **Text2Story: Advancing Video Storytelling with Text Guidance**, Taewon Kang et.al., Paper: [http://arxiv.org/abs/2503.06310](http://arxiv.org/abs/2503.06310)
 - 2025-03-09, **TR-DQ: Time-Rotation Diffusion Quantization**, Yihua Shao et.al., Paper: [http://arxiv.org/abs/2503.06564](http://arxiv.org/abs/2503.06564)
-- 2025-03-12, **SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video**, Chengshu Zhao et.al., Paper: [http://arxiv.org/abs/2503.09154](http://arxiv.org/abs/2503.09154)
+- 2025-03-12, **SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video**, Chengshu Zhao et.al., Paper: [http://arxiv.org/abs/2503.09154](http://arxiv.org/abs/2503.09154), Code: **[https://github.com/pku-yuangroup/swapanyone](https://github.com/pku-yuangroup/swapanyone)**
 - 2025-02-17, **Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**, Guoqing Ma et.al., Paper: [http://arxiv.org/abs/2502.10248](http://arxiv.org/abs/2502.10248), Code: **[https://github.com/stepfun-ai/step-video-t2v](https://github.com/stepfun-ai/step-video-t2v)**
 - 2025-02-25, **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**, Jintao Zhang et.al., Paper: [http://arxiv.org/abs/2502.18137](http://arxiv.org/abs/2502.18137), Code: **[https://github.com/thu-ml/spargeattn](https://github.com/thu-ml/spargeattn)**
 - 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841), Code: **[https://github.com/SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1)**
@@ -813,7 +813,7 @@
 - 2025-03-09, **QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation**, Junyi Wu et.al., Paper: [http://arxiv.org/abs/2503.06545](http://arxiv.org/abs/2503.06545)
 - 2025-03-05, **ProReflow: Progressive Reflow with Decomposed Velocity**, Lei Ke et.al., Paper: [http://arxiv.org/abs/2503.04824](http://arxiv.org/abs/2503.04824)
 - 2025-02-16, **Phantom: Subject-consistent video generation via cross-modal alignment**, Lijie Liu et.al., Paper: [http://arxiv.org/abs/2502.11079](http://arxiv.org/abs/2502.11079)
-- 2025-03-12, **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**, Chenyu Li et.al., Paper: [http://arxiv.org/abs/2503.09595](http://arxiv.org/abs/2503.09595)
+- 2025-03-12, **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**, Chenyu Li et.al., Paper: [http://arxiv.org/abs/2503.09595](http://arxiv.org/abs/2503.09595), Code: **[https://github.com/vision-x-nyu/pisa-experiments](https://github.com/vision-x-nyu/pisa-experiments)**
 - 2025-03-12, **Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2503.09215](http://arxiv.org/abs/2503.09215)
 - 2025-03-12, **Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k**, Xiangyu Peng et.al., Paper: [http://arxiv.org/abs/2503.09642](http://arxiv.org/abs/2503.09642)
 - 2025-02-26, **Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**, Long Cheng et.al., Paper: [http://arxiv.org/abs/2503.01873](http://arxiv.org/abs/2503.01873)
@@ -874,7 +874,7 @@
 - 2025-03-10, **AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**, Mingzhen Sun et.al., Paper: [http://arxiv.org/abs/2503.07418](http://arxiv.org/abs/2503.07418)
 - 2025-03-12, **$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2503.08307](http://arxiv.org/abs/2503.08307)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## TryOn
 
@@ -901,12 +901,12 @@
 - 2025-01-27, **Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks**, Hailong Guo et.al., Paper: [http://arxiv.org/abs/2501.15891](http://arxiv.org/abs/2501.15891)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Visual Edit
 
 - 2025-03-04, **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**, Toan Nguyen et.al., Paper: [http://arxiv.org/abs/2503.02187](http://arxiv.org/abs/2503.02187)
-- 2025-03-08, **X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**, Jian Ma et.al., Paper: [http://arxiv.org/abs/2503.06134](http://arxiv.org/abs/2503.06134)
+- 2025-03-08, **X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**, Jian Ma et.al., Paper: [http://arxiv.org/abs/2503.06134](http://arxiv.org/abs/2503.06134), Code: **[https://github.com/oppo-mente-lab/x2i](https://github.com/oppo-mente-lab/x2i)**
 - 2025-03-10, **VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**, Yuxuan Bian et.al., Paper: [http://arxiv.org/abs/2503.05639](http://arxiv.org/abs/2503.05639), Code: **[https://github.com/TencentARC/VideoPainter](https://github.com/TencentARC/VideoPainter)**
 - 2025-03-03, **VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**, Juil Koo et.al., Paper: [http://arxiv.org/abs/2503.01107](http://arxiv.org/abs/2503.01107)
 - 2025-02-24, **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**, Xiangpeng Yang et.al., Paper: [http://arxiv.org/abs/2502.17258](http://arxiv.org/abs/2502.17258)
@@ -957,10 +957,10 @@
 - 2025-02-26, **Bayesian Optimization for Controlled Image Editing via LLMs**, Chengkun Cai et.al., Paper: [http://arxiv.org/abs/2502.18116](http://arxiv.org/abs/2502.18116)
 - 2025-02-18, **AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**, Ming Xie et.al., Paper: [http://arxiv.org/abs/2502.11158](http://arxiv.org/abs/2502.11158)
 - 2025-03-11, **Aligning Text to Image in Diffusion Models is Easier Than You Think**, Jaa-Yeon Lee et.al., Paper: [http://arxiv.org/abs/2503.08250](http://arxiv.org/abs/2503.08250)
-- 2025-03-12, **Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**, Yifan Zhou et.al., Paper: [http://arxiv.org/abs/2503.09419](http://arxiv.org/abs/2503.09419)
+- 2025-03-12, **Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**, Yifan Zhou et.al., Paper: [http://arxiv.org/abs/2503.09419](http://arxiv.org/abs/2503.09419), Code: **[https://github.com/singlezombie/afldm](https://github.com/singlezombie/afldm)**
 - 2025-02-08, **AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection**, Shuheng Zhang et.al., Paper: [http://arxiv.org/abs/2502.05433](http://arxiv.org/abs/2502.05433)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Others
 
@@ -1308,7 +1308,7 @@
 - 2025-03-04, **2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**, Qipeng Yan et.al., Paper: [http://arxiv.org/abs/2503.02452](http://arxiv.org/abs/2503.02452)
 - 2025-02-24, **220 GHz RIS-Aided Multi-user Terahertz Communication System: Prototype Design and Over-the-Air Experimental Trials**, Yanzhao Hou et.al., Paper: [http://arxiv.org/abs/2502.16970](http://arxiv.org/abs/2502.16970)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -1364,7 +1364,7 @@
 - 2025-02-08, **ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**, Tairan He et.al., Paper: [http://arxiv.org/abs/2502.01143](http://arxiv.org/abs/2502.01143), Code: **[https://github.com/lecar-lab/asap](https://github.com/lecar-lab/asap)**
 - 2025-02-05, **A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions**, Hao Yin et.al., Paper: [http://arxiv.org/abs/2502.02817](http://arxiv.org/abs/2502.02817)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -1382,7 +1382,7 @@
 - 2025-03-04, **Speculative Decoding and Beyond: An In-Depth Survey of Techniques**, Yunhai Hu et.al., Paper: [http://arxiv.org/abs/2502.19732](http://arxiv.org/abs/2502.19732)
 - 2025-02-26, **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis**, Ziyue Jiang et.al., Paper: [http://arxiv.org/abs/2502.18924](http://arxiv.org/abs/2502.18924)
 - 2025-03-03, **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**, Xinsheng Wang et.al., Paper: [http://arxiv.org/abs/2503.01710](http://arxiv.org/abs/2503.01710), Code: **[https://github.com/sparkaudio/spark-tts](https://github.com/sparkaudio/spark-tts)**
-- 2025-03-06, **Scaling Rich Style-Prompted Text-to-Speech Datasets**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2503.04713](http://arxiv.org/abs/2503.04713)
+- 2025-03-06, **Scaling Rich Style-Prompted Text-to-Speech Datasets**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2503.04713](http://arxiv.org/abs/2503.04713), Code: **[https://github.com/ajd12342/paraspeechcaps](https://github.com/ajd12342/paraspeechcaps)**
 - 2025-03-13, **SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**, Dimitri Ognibene et.al., Paper: [http://arxiv.org/abs/2503.10241](http://arxiv.org/abs/2503.10241)
 - 2025-02-16, **Recent Advances in Discrete Speech Tokens: A Review**, Yiwei Guo et.al., Paper: [http://arxiv.org/abs/2502.06490](http://arxiv.org/abs/2502.06490)
 - 2025-02-20, **ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**, Abhijit Mishra et.al., Paper: [http://arxiv.org/abs/2502.14780](http://arxiv.org/abs/2502.14780)
@@ -1408,7 +1408,7 @@
 - 2025-02-27, **Does Your Voice Assistant Remember? Analyzing Conversational Context Recall and Utilization in Voice Interaction Models**, Heeseung Kim et.al., Paper: [http://arxiv.org/abs/2502.19759](http://arxiv.org/abs/2502.19759)
 - 2025-03-03, **Direct Speech to Speech Translation: A Review**, Mohammad Sarim et.al., Paper: [http://arxiv.org/abs/2503.04799](http://arxiv.org/abs/2503.04799)
 - 2025-02-27, **DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**, Weihao wu et.al., Paper: [http://arxiv.org/abs/2502.19924](http://arxiv.org/abs/2502.19924)
-- 2025-03-07, **DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**, Yifan Liu et.al., Paper: [http://arxiv.org/abs/2503.05223](http://arxiv.org/abs/2503.05223)
+- 2025-03-07, **DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**, Yifan Liu et.al., Paper: [http://arxiv.org/abs/2503.05223](http://arxiv.org/abs/2503.05223), Code: **[https://github.com/pussycat0700/divise](https://github.com/pussycat0700/divise)**
 - 2025-03-08, **Clip-TTS: Contrastive Text-content and Mel-spectrogram, A High-Quality Text-to-Speech Method based on Contextual Semantic Understanding**, Tianyun Liu et.al., Paper: [http://arxiv.org/abs/2502.18889](http://arxiv.org/abs/2502.18889)
 - 2025-02-09, **BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**, Mohammad Jahid Ibna Basher et.al., Paper: [http://arxiv.org/abs/2502.05729](http://arxiv.org/abs/2502.05729)
 - 2025-02-24, **Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**, Jiatong Shi et.al., Paper: [http://arxiv.org/abs/2502.16897](http://arxiv.org/abs/2502.16897)
@@ -1421,7 +1421,7 @@
 - 2025-02-14, **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2502.08857](http://arxiv.org/abs/2502.08857)
 - 2025-02-18, **A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**, Shreya Shukla et.al., Paper: [http://arxiv.org/abs/2502.12048](http://arxiv.org/abs/2502.12048)
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 Notes: 
 
