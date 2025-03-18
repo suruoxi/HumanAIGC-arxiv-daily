@@ -3,15 +3,15 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.03.17
+### Updated on 2025.03.18
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**Versatile Multimodal Controls for Whole-Body Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|
 |**2025-03-14**|**EmoDiffusion: Enhancing Emotional 3D Facial Animation with Latent Diffusion Models**|Yixuan Zhang et.al.|[2503.11028](http://arxiv.org/abs/2503.11028)|null|
 |**2025-03-12**|**StyleSpeaker: Audio-Enhanced Fine-Grained Style Modeling for Speech-Driven 3D Facial Animation**|An Yang et.al.|[2503.09852](http://arxiv.org/abs/2503.09852)|null|
 |**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787](http://arxiv.org/abs/2503.09787)|null|
-|**2025-03-10**|**Versatile Multimodal Controls for Whole-Body Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|
 |**2025-03-09**|**Removing Averaging: Personalized Lip-Sync Driven Characters Based on Identity Adapter**|Yanyu Zhu et.al.|[2503.06397](http://arxiv.org/abs/2503.06397)|null|
 |**2025-03-07**|**MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**|Hongwei Yi et.al.|[2503.05978](http://arxiv.org/abs/2503.05978)|null|
 |**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067](http://arxiv.org/abs/2503.04067)|null|
@@ -878,12 +878,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-15**|**ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text**|Haifeng Ni et.al.|[2501.16757](http://arxiv.org/abs/2501.16757)|null|
 |**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650](http://arxiv.org/abs/2503.08650)|null|
 |**2025-03-11**|**RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency**|Siqi Li et.al.|[2501.08682](http://arxiv.org/abs/2501.08682)|null|
 |**2025-02-20**|**CrossVTON: Mimicking the Logic Reasoning on Cross-category Virtual Try-on guided by Tri-zone Priors**|Donghao Luo et.al.|[2502.14373](http://arxiv.org/abs/2502.14373)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-03**|**MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer**|Le Shen et.al.|[2502.01626](http://arxiv.org/abs/2502.01626)|null|
-|**2025-01-28**|**ITVTON:Virtual Try-On Diffusion Transformer Model Based on Integrated Image and Text**|Haifeng Ni et.al.|[2501.16757](http://arxiv.org/abs/2501.16757)|null|
 |**2025-01-27**|**Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks**|Hailong Guo et.al.|[2501.15891](http://arxiv.org/abs/2501.15891)|null|
 |**2025-01-26**|**IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter**|Xiaojing Zhong et.al.|[2501.15616](http://arxiv.org/abs/2501.15616)|null|
 |**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571](http://arxiv.org/abs/2501.15571)|null|
@@ -907,8 +907,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571](http://arxiv.org/abs/2503.11571)|null|
 |**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|null|
+|**2025-03-14**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
 |**2025-03-14**|**On the Limitations of Vision-Language Models in Understanding Image Transforms**|Ahmad Mustafa Anis et.al.|[2503.09837](http://arxiv.org/abs/2503.09837)|null|
-|**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
 |**2025-03-13**|**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**|Zexuan Yan et.al.|[2503.10270](http://arxiv.org/abs/2503.10270)|**[link](https://github.com/yuriyanzexuan/eedit)**|
 |**2025-03-13**|**MoEdit: On Learning Quantity Perception for Multi-object Image Editing**|Yanfeng Li et.al.|[2503.10112](http://arxiv.org/abs/2503.10112)|**[link](https://github.com/tear-kitty/moedit)**|
@@ -1334,12 +1334,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-15**|**ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis**|Xukun Zhou et.al.|[2503.06499](http://arxiv.org/abs/2503.06499)|null|
 |**2025-03-12**|**Natural Humanoid Robot Locomotion with Generative Motion Prior**|Haodong Zhang et.al.|[2503.09015](http://arxiv.org/abs/2503.09015)|null|
 |**2025-03-12**|**Motion Anything: Any to Motion Generation**|Zeyu Zhang et.al.|[2503.06955](http://arxiv.org/abs/2503.06955)|**[link](https://github.com/steve-zeyu-zhang/MotionAnything)**|
 |**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|**[link](https://github.com/johannwyh/meat)**|
 |**2025-03-11**|**HERO: Human Reaction Generation from Videos**|Chengjun Yu et.al.|[2503.08270](http://arxiv.org/abs/2503.08270)|null|
 |**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|null|
-|**2025-03-09**|**ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis**|Xukun Zhou et.al.|[2503.06499](http://arxiv.org/abs/2503.06499)|null|
 |**2025-03-08**|**BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**|Zixi Kang et.al.|[2503.06151](http://arxiv.org/abs/2503.06151)|null|
 |**2025-03-07**|**Jointly Understand Your Command and Intention:Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis**|Xuehao Gao et.al.|[2503.00371](http://arxiv.org/abs/2503.00371)|null|
 |**2025-03-06**|**Modeling Dynamic Hand-Object Interactions with Applications to Human-Robot Handovers**|Sammy Christen et.al.|[2503.04879](http://arxiv.org/abs/2503.04879)|null|
@@ -1391,9 +1391,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-14**|**MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**|Sungwoo Cho et.al.|[2503.11026](http://arxiv.org/abs/2503.11026)|null|
+|**2025-03-14**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
 |**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
 |**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
-|**2025-03-12**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
 |**2025-03-12**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
 |**2025-03-11**|**An Exhaustive Evaluation of TTS- and VC-based Data Augmentation for ASR**|Sewade Ogun et.al.|[2503.08954](http://arxiv.org/abs/2503.08954)|null|
 |**2025-03-11**|**Exploring Socio-Cultural Challenges and Opportunities in Designing Mental Health Chatbots for Adolescents in India**|Neil K. R. Sehgal et.al.|[2503.08562](http://arxiv.org/abs/2503.08562)|null|
