@@ -3,11 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.03.19
+### Updated on 2025.03.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**|Antoni Bigata et.al.|[2503.01715](http://arxiv.org/abs/2503.01715)|null|
 |**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295](http://arxiv.org/abs/2503.14295)|null|
 |**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371](http://arxiv.org/abs/2503.13371)|null|
 |**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963](http://arxiv.org/abs/2503.12963)|null|
@@ -18,7 +19,6 @@ layout: default
 |**2025-03-09**|**Removing Averaging: Personalized Lip-Sync Driven Characters Based on Identity Adapter**|Yanyu Zhu et.al.|[2503.06397](http://arxiv.org/abs/2503.06397)|null|
 |**2025-03-07**|**MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**|Hongwei Yi et.al.|[2503.05978](http://arxiv.org/abs/2503.05978)|null|
 |**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067](http://arxiv.org/abs/2503.04067)|null|
-|**2025-03-03**|**KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**|Antoni Bigata et.al.|[2503.01715](http://arxiv.org/abs/2503.01715)|null|
 |**2025-03-02**|**FaceShot: Bring Any Character into Life**|Junyao Gao et.al.|[2503.00740](http://arxiv.org/abs/2503.00740)|null|
 |**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
 |**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803](http://arxiv.org/abs/2502.20803)|null|
@@ -1471,7 +1471,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|null|
+|**2025-03-19**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|null|
 |**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|
 |**2025-03-18**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|**[link](https://github.com/jinyanglii/ovtr)**|
 |**2025-03-17**|**Adapting to the Unknown: Training-Free Audio-Visual Event Perception with Dynamic Thresholds**|Eitan Shaar et.al.|[2503.13693](http://arxiv.org/abs/2503.13693)|null|
