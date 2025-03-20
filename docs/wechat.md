@@ -42,7 +42,7 @@
 - 2012-09-22, **Using multimodal speech production data to evaluate articulatory animation for audiovisual speech synthesis**, Ingmar Steiner et.al., Paper: [http://arxiv.org/abs/1209.4982](http://arxiv.org/abs/1209.4982)
 - 2022-05-27, **Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast**, Boqing Zhu et.al., Paper: [http://arxiv.org/abs/2204.14057](http://arxiv.org/abs/2204.14057), Code: **[https://github.com/cocoxili/cmpc](https://github.com/cocoxili/cmpc)**
 - 2023-09-01, **Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**, Wolfgang Paier et.al., Paper: [http://arxiv.org/abs/2306.10006](http://arxiv.org/abs/2306.10006)
-- 2025-03-17, **Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**, Chaolong Yang et.al., Paper: [http://arxiv.org/abs/2503.12963](http://arxiv.org/abs/2503.12963)
+- 2025-03-17, **Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**, Chaolong Yang et.al., Paper: [http://arxiv.org/abs/2503.12963](http://arxiv.org/abs/2503.12963), Code: **[https://github.com/chaolongy/kdtalker](https://github.com/chaolongy/kdtalker)**
 - 2024-07-17, **Universal Facial Encoding of Codec Avatars from VR Headsets**, Shaojie Bai et.al., Paper: [http://arxiv.org/abs/2407.13038](http://arxiv.org/abs/2407.13038)
 - 2024-08-01, **UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**, Xiangyu Fan et.al., Paper: [http://arxiv.org/abs/2408.00762](http://arxiv.org/abs/2408.00762)
 - 2021-08-12, **UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing**, Meng Cao et.al., Paper: [http://arxiv.org/abs/2108.05650](http://arxiv.org/abs/2108.05650)
@@ -851,7 +851,7 @@
 - 2025-03-11, **LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**, Quanjian Song et.al., Paper: [http://arxiv.org/abs/2503.06508](http://arxiv.org/abs/2503.06508)
 - 2025-03-01, **Learning to Animate Images from A Few Videos to Portray Delicate Human Actions**, Haoxin Li et.al., Paper: [http://arxiv.org/abs/2503.00276](http://arxiv.org/abs/2503.00276)
 - 2025-02-12, **Learning Human Skill Generators at Key-Step Levels**, Yilu Wu et.al., Paper: [http://arxiv.org/abs/2502.08234](http://arxiv.org/abs/2502.08234)
-- 2025-03-18, **LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**, Yu Cheng et.al., Paper: [http://arxiv.org/abs/2503.14325](http://arxiv.org/abs/2503.14325)
+- 2025-03-18, **LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**, Yu Cheng et.al., Paper: [http://arxiv.org/abs/2503.14325](http://arxiv.org/abs/2503.14325), Code: **[https://github.com/westlake-repl/leanvae](https://github.com/westlake-repl/leanvae)**
 - 2025-03-17, **Language-guided Open-world Video Anomaly Detection**, Zihao Liu et.al., Paper: [http://arxiv.org/abs/2503.13160](http://arxiv.org/abs/2503.13160)
 - 2025-02-21, **LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**, Florian Sestak et.al., Paper: [http://arxiv.org/abs/2502.12128](http://arxiv.org/abs/2502.12128), Code: **[https://github.com/ml-jku/lam-slide](https://github.com/ml-jku/lam-slide)**
 - 2025-02-19, **LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**, Junchen Fu et.al., Paper: [http://arxiv.org/abs/2502.12945](http://arxiv.org/abs/2502.12945)
@@ -917,7 +917,7 @@
 - 2025-02-03, **MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer**, Le Shen et.al., Paper: [http://arxiv.org/abs/2502.01626](http://arxiv.org/abs/2502.01626)
 - 2025-03-11, **MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**, Zhenchen Wan et.al., Paper: [http://arxiv.org/abs/2503.08650](http://arxiv.org/abs/2503.08650)
 - 2025-01-10, **MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer**, Junsheng Luan et.al., Paper: [http://arxiv.org/abs/2501.03630](http://arxiv.org/abs/2501.03630)
-- 2025-03-18, **Limb-Aware Virtual Try-On Network with Progressive Clothing Warping**, Shengping Zhang et.al., Paper: [http://arxiv.org/abs/2503.14074](http://arxiv.org/abs/2503.14074)
+- 2025-03-18, **Limb-Aware Virtual Try-On Network with Progressive Clothing Warping**, Shengping Zhang et.al., Paper: [http://arxiv.org/abs/2503.14074](http://arxiv.org/abs/2503.14074), Code: **[https://github.com/aipixel/pl-vtonv2](https://github.com/aipixel/pl-vtonv2)**
 - 2025-03-15, **ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text**, Haifeng Ni et.al., Paper: [http://arxiv.org/abs/2501.16757](http://arxiv.org/abs/2501.16757)
 - 2025-01-26, **IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter**, Xiaojing Zhong et.al., Paper: [http://arxiv.org/abs/2501.15616](http://arxiv.org/abs/2501.15616)
 - 2025-01-07, **HYB-VITON: A Hybrid Approach to Virtual Try-On Combining Explicit and Implicit Warping**, Kosuke Takemoto et.al., Paper: [http://arxiv.org/abs/2501.03910](http://arxiv.org/abs/2501.03910)
@@ -974,7 +974,7 @@
 - 2025-03-13, **MoEdit: On Learning Quantity Perception for Multi-object Image Editing**, Yanfeng Li et.al., Paper: [http://arxiv.org/abs/2503.10112](http://arxiv.org/abs/2503.10112), Code: **[https://github.com/tear-kitty/moedit](https://github.com/tear-kitty/moedit)**
 - 2025-01-24, **MATCHA:Towards Matching Anything**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2501.14945](http://arxiv.org/abs/2501.14945)
 - 2025-02-05, **Lost in Edits? A $λ$ -Compass for AIGC Provenance**, Wenhao You et.al., Paper: [http://arxiv.org/abs/2502.04364](http://arxiv.org/abs/2502.04364)
-- 2025-03-14, **LUSD: Localized Update Score Distillation for Text-Guided Image Editing**, Worameth Chinchuthakun et.al., Paper: [http://arxiv.org/abs/2503.11054](http://arxiv.org/abs/2503.11054)
+- 2025-03-14, **LUSD: Localized Update Score Distillation for Text-Guided Image Editing**, Worameth Chinchuthakun et.al., Paper: [http://arxiv.org/abs/2503.11054](http://arxiv.org/abs/2503.11054), Code: **[https://github.com/sincostanx/lusd](https://github.com/sincostanx/lusd)**
 - 2025-02-25, **KV-Edit: Training-Free Image Editing for Precise Background Preservation**, Tianrui Zhu et.al., Paper: [http://arxiv.org/abs/2502.17363](http://arxiv.org/abs/2502.17363), Code: **[https://github.com/Xilluill/KV-Edit](https://github.com/Xilluill/KV-Edit)**
 - 2025-03-10, **Interactive Tumor Progression Modeling via Sketch-Based Image Editing**, Gexin Huang et.al., Paper: [http://arxiv.org/abs/2503.06809](http://arxiv.org/abs/2503.06809)
 - 2025-03-12, **InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images**, Jiun Tian Hoe et.al., Paper: [http://arxiv.org/abs/2503.09130](http://arxiv.org/abs/2503.09130)
@@ -1536,7 +1536,7 @@
 - 2025-02-09, **Non-invasive electromyographic speech neuroprosthesis: a geometric perspective**, Harshavardhana T. Gowda et.al., Paper: [http://arxiv.org/abs/2502.05762](http://arxiv.org/abs/2502.05762)
 - 2025-02-17, **NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**, Yifan Liang et.al., Paper: [http://arxiv.org/abs/2502.12002](http://arxiv.org/abs/2502.12002)
 - 2025-02-25, **Multimodal Interaction and Intention Communication for Industrial Robots**, Tim Schreiter et.al., Paper: [http://arxiv.org/abs/2502.17971](http://arxiv.org/abs/2502.17971)
-- 2025-03-19, **MoonCast: High-Quality Zero-Shot Podcast Generation**, Zeqian Ju et.al., Paper: [http://arxiv.org/abs/2503.14345](http://arxiv.org/abs/2503.14345)
+- 2025-03-19, **MoonCast: High-Quality Zero-Shot Podcast Generation**, Zeqian Ju et.al., Paper: [http://arxiv.org/abs/2503.14345](http://arxiv.org/abs/2503.14345), Code: **[https://github.com/jzq2000/mooncast](https://github.com/jzq2000/mooncast)**
 - 2025-02-21, **Mind the Gap! Static and Interactive Evaluations of Large Audio Models**, Minzhi Li et.al., Paper: [http://arxiv.org/abs/2502.15919](http://arxiv.org/abs/2502.15919)
 - 2025-03-14, **MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**, Sungwoo Cho et.al., Paper: [http://arxiv.org/abs/2503.11026](http://arxiv.org/abs/2503.11026)
 - 2025-02-11, **LoRP-TTS: Low-Rank Personalized Text-To-Speech**, Łukasz Bondaruk et.al., Paper: [http://arxiv.org/abs/2502.07562](http://arxiv.org/abs/2502.07562)
