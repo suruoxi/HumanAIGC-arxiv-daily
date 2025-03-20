@@ -22,6 +22,7 @@
 |**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371](http://arxiv.org/abs/2503.13371)|null|
 |**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963](http://arxiv.org/abs/2503.12963)|null|
 |**2025-03-16**|**Versatile Multimodal Controls for Whole-Body Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|
+|**2025-03-14**|**Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control**|Hejia Chen et.al.|[2503.14517](http://arxiv.org/abs/2503.14517)|null|
 |**2025-03-14**|**EmoDiffusion: Enhancing Emotional 3D Facial Animation with Latent Diffusion Models**|Yixuan Zhang et.al.|[2503.11028](http://arxiv.org/abs/2503.11028)|null|
 |**2025-03-12**|**StyleSpeaker: Audio-Enhanced Fine-Grained Style Modeling for Speech-Driven 3D Facial Animation**|An Yang et.al.|[2503.09852](http://arxiv.org/abs/2503.09852)|null|
 |**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787](http://arxiv.org/abs/2503.09787)|null|
@@ -777,6 +778,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
+|**2025-03-19**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
+|**2025-03-19**|**Ultrasound Image-to-Video Synthesis via Latent Dynamic Diffusion Models**|Tingxiu Chen et.al.|[2503.14966](http://arxiv.org/abs/2503.14966)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation**|Hongyu Zhang et.al.|[2503.14428](http://arxiv.org/abs/2503.14428)|null|
 |**2025-03-18**|**Impossible Videos**|Zechen Bai et.al.|[2503.14378](http://arxiv.org/abs/2503.14378)|null|
@@ -791,6 +795,7 @@
 |**2025-03-17**|**Long-Video Audio Synthesis with Multi-Agent Collaboration**|Yehang Zhang et.al.|[2503.10719](http://arxiv.org/abs/2503.10719)|null|
 |**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
 |**2025-03-16**|**VMBench: A Benchmark for Perception-Aligned Video Motion Generation**|Xinran Ling et.al.|[2503.10076](http://arxiv.org/abs/2503.10076)|**[link](https://github.com/gd-aigc/vmbench)**|
+|**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
 |**2025-03-15**|**SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering**|Byeongjun Park et.al.|[2503.12024](http://arxiv.org/abs/2503.12024)|**[link](https://github.com/byeongjun-park/SteerX)**|
 |**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
@@ -1018,6 +1023,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
+|**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
+|**2025-03-19**|**Online Matching under KIID: Enhanced Competitive Analysis through Ordinary Differential Equation Systems**|Pan Xu et.al.|[2503.15399](http://arxiv.org/abs/2503.15399)|null|
+|**2025-03-19**|**Advancing MG Energy Management: A Rolling Horizon Optimization Framework for Three-Phase Unbalanced Networks Integrating Convex Formulations**|Pablo Cortés et.al.|[2503.15394](http://arxiv.org/abs/2503.15394)|null|
+|**2025-03-19**|**Priority-driven Constraints Softening in Safe MPC for Perturbed Systems**|Ying Shuai Quan et.al.|[2503.15373](http://arxiv.org/abs/2503.15373)|null|
+|**2025-03-19**|**Data-driven Azimuthal RHEED construction for in-situ crystal growth characterization**|Abdourahman Khaireh-Walieh et.al.|[2503.15339](http://arxiv.org/abs/2503.15339)|null|
+|**2025-03-19**|**Beacon2Science: Enhancing STEREO/HI beacon data1 with machine learning for efficient CME tracking**|Justin Le Louëdec et.al.|[2503.15288](http://arxiv.org/abs/2503.15288)|null|
+|**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
+|**2025-03-19**|**Perception-aware Planning for Quadrotor Flight in Unknown and Feature-limited Environments**|Chenxin Yu et.al.|[2503.15273](http://arxiv.org/abs/2503.15273)|null|
+|**2025-03-19**|**A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees**|Faseeh Ahmad et.al.|[2503.15202](http://arxiv.org/abs/2503.15202)|null|
+|**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185](http://arxiv.org/abs/2503.15185)|null|
+|**2025-03-19**|**Food Delivery Time Prediction in Indian Cities Using Machine Learning Models**|Ananya Garg et.al.|[2503.15177](http://arxiv.org/abs/2503.15177)|null|
+|**2025-03-19**|**Communication Access Real-Time Translation Through Collaborative Correction of Automatic Speech Recognition**|Korbinian Kuhn et.al.|[2503.15120](http://arxiv.org/abs/2503.15120)|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-19**|**Exploring the Perspectives of Social VR-Aware Non-Parent Adults and Parents on Children's Use of Social Virtual Reality**|Cristina Fiani et.al.|[2503.15100](http://arxiv.org/abs/2503.15100)|null|
+|**2025-03-19**|**Virtual Voyages: Evaluating the Role of Real-Time and Narrated Virtual Tours in Shaping User Experience and Memories**|Lillian Maria Eagan et.al.|[2503.15098](http://arxiv.org/abs/2503.15098)|null|
+|**2025-03-19**|**A method of Extracting Flat Field from Real Time Solar Observation Data**|YaHui Jin et.al.|[2503.15094](http://arxiv.org/abs/2503.15094)|null|
+|**2025-03-19**|**Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact**|Ziqiu Zeng et.al.|[2503.15078](http://arxiv.org/abs/2503.15078)|null|
+|**2025-03-19**|**Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model**|Etienne Ménager et.al.|[2503.15009](http://arxiv.org/abs/2503.15009)|null|
+|**2025-03-19**|**Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features**|Michael Neri et.al.|[2503.15001](http://arxiv.org/abs/2503.15001)|null|
 |**2025-03-18**|**Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**|NVIDIA et.al.|[2503.14492](http://arxiv.org/abs/2503.14492)|null|
 |**2025-03-18**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|null|
 |**2025-03-18**|**Optimized 3D Gaussian Splatting using Coarse-to-Fine Image Frequency Modulation**|Umar Farooq et.al.|[2503.14475](http://arxiv.org/abs/2503.14475)|null|
@@ -1428,6 +1453,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
+|**2025-03-19**|**A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**|Tommaso Van Der Meer et.al.|[2503.15127](http://arxiv.org/abs/2503.15127)|null|
+|**2025-03-19**|**StyleLoco: Generative Adversarial Distillation for Natural Humanoid Robot Locomotion**|Le Ma et.al.|[2503.15082](http://arxiv.org/abs/2503.15082)|null|
+|**2025-03-19**|**GenM $^3$ : Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation**|Junyu Shi et.al.|[2503.14919](http://arxiv.org/abs/2503.14919)|null|
+|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard**|Yifei Dong et.al.|[2503.14229](http://arxiv.org/abs/2503.14229)|null|
 |**2025-03-18**|**MAG: Multi-Modal Aligned Autoregressive Co-Speech Gesture Generation without Vector Quantization**|Binjie Liu et.al.|[2503.14040](http://arxiv.org/abs/2503.14040)|null|
@@ -1494,6 +1524,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Shushing! Let's Imagine an Authentic Speech from the Silent Video**|Jiaxin Ye et.al.|[2503.14928](http://arxiv.org/abs/2503.14928)|null|
 |**2025-03-19**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|null|
 |**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|
 |**2025-03-18**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|**[link](https://github.com/jinyanglii/ovtr)**|
