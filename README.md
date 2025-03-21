@@ -17,7 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**UniSync: A Unified Framework for Audio-Visual Synchronization**|Tao Feng et.al.|[2503.16357](http://arxiv.org/abs/2503.16357)|null|
 |**2025-03-20**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295](http://arxiv.org/abs/2503.14295)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
 |**2025-03-19**|**KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**|Antoni Bigata et.al.|[2503.01715](http://arxiv.org/abs/2503.01715)|null|
 |**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371](http://arxiv.org/abs/2503.13371)|null|
 |**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963](http://arxiv.org/abs/2503.12963)|**[link](https://github.com/chaolongy/kdtalker)**|
@@ -778,6 +780,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
+|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421](http://arxiv.org/abs/2503.16421)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
+|**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
+|**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[2503.15875](http://arxiv.org/abs/2503.15875)|null|
+|**2025-03-20**|**VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**|Hyojun Go et.al.|[2503.15855](http://arxiv.org/abs/2503.15855)|null|
 |**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
 |**2025-03-19**|**Ultrasound Image-to-Video Synthesis via Latent Dynamic Diffusion Models**|Tingxiu Chen et.al.|[2503.14966](http://arxiv.org/abs/2503.14966)|null|
@@ -915,6 +925,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model**|Yingmao Miao et.al.|[2503.16065](http://arxiv.org/abs/2503.16065)|null|
 |**2025-03-18**|**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**|Yong Zhong et.al.|[2503.14151](http://arxiv.org/abs/2503.14151)|null|
 |**2025-03-18**|**Limb-Aware Virtual Try-On Network with Progressive Clothing Warping**|Shengping Zhang et.al.|[2503.14074](http://arxiv.org/abs/2503.14074)|**[link](https://github.com/aipixel/pl-vtonv2)**|
 |**2025-03-16**|**Progressive Limb-Aware Virtual Try-On**|Xiaoyu Han et.al.|[2503.12588](http://arxiv.org/abs/2503.12588)|null|
@@ -948,6 +959,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**|Tianyi Wei et.al.|[2503.16153](http://arxiv.org/abs/2503.16153)|null|
+|**2025-03-20**|**Single Image Iterative Subject-driven Generation and Editing**|Yair Shpitzer et.al.|[2503.16025](http://arxiv.org/abs/2503.16025)|null|
+|**2025-03-19**|**Multi-focal Conditioned Latent Diffusion for Person Image Synthesis**|Jiaqi Liu et.al.|[2503.15686](http://arxiv.org/abs/2503.15686)|null|
 |**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing**|Yulin Pan et.al.|[2503.14482](http://arxiv.org/abs/2503.14482)|null|
 |**2025-03-18**|**TarPro: Targeted Protection against Malicious Image Editing**|Kaixin Shen et.al.|[2503.13994](http://arxiv.org/abs/2503.13994)|null|
@@ -1023,6 +1037,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Parallel Domain-Decomposition Algorithms for Complexity Certification of Branch-and-Bound Algorithms for Mixed-Integer Linear and Quadratic Programming**|Shamisa Shoja et.al.|[2503.16411](http://arxiv.org/abs/2503.16411)|null|
+|**2025-03-20**|**SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World**|Chen Chen et.al.|[2503.16399](http://arxiv.org/abs/2503.16399)|null|
+|**2025-03-20**|**UniSync: A Unified Framework for Audio-Visual Synchronization**|Tao Feng et.al.|[2503.16357](http://arxiv.org/abs/2503.16357)|null|
+|**2025-03-20**|**Real-time simulations of laser-induced electron excitations in crystalline ZnO**|Xiao Chen et.al.|[2503.16329](http://arxiv.org/abs/2503.16329)|null|
+|**2025-03-20**|**Securing Satellite Communications: Real-Time Video Encryption Scheme on Satellite Payloads**|Hanshuo Qiu et.al.|[2503.16287](http://arxiv.org/abs/2503.16287)|null|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
+|**2025-03-20**|**A Unifying Complexity-Certification Framework for Branch-and-Bound Algorithms for Mixed-Integer Linear and Quadratic Programming**|Shamisa Shoja et.al.|[2503.16235](http://arxiv.org/abs/2503.16235)|null|
+|**2025-03-20**|**Coupling deep and handcrafted features to assess smile genuineness**|Benedykt Pawlus et.al.|[2503.16128](http://arxiv.org/abs/2503.16128)|null|
+|**2025-03-20**|**PromptMobile: Efficient Promptus for Low Bandwidth Mobile Video Streaming**|Liming Liu et.al.|[2503.16112](http://arxiv.org/abs/2503.16112)|null|
+|**2025-03-20**|**Learn to Bid as a Price-Maker Wind Power Producer**|Shobhit Singhal et.al.|[2503.16107](http://arxiv.org/abs/2503.16107)|null|
+|**2025-03-20**|**Hyperspectral Imaging for Identifying Foreign Objects on Pork Belly**|Gabriela Ghimpeteanu et.al.|[2503.16086](http://arxiv.org/abs/2503.16086)|null|
+|**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
+|**2025-03-20**|**Efficient Service Differentiation and Energy Management in Hybrid WiFi/LiFi Networks**|Asim Ihsan et.al.|[2503.16061](http://arxiv.org/abs/2503.16061)|null|
+|**2025-03-20**|**Temporal-Spatial Attention Network (TSAN) for DoS Attack Detection in Network Traffic**|Bisola Faith Kayode et.al.|[2503.16047](http://arxiv.org/abs/2503.16047)|null|
+|**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
+|**2025-03-20**|**Representation of Global Viscosity Solutions for Tonelli Hamiltonians**|Skander Charfi et.al.|[2503.16035](http://arxiv.org/abs/2503.16035)|null|
+|**2025-03-20**|**Digital Asset Data Lakehouse. The concept based on a blockchain research center**|Raul Cristian Bag et.al.|[2503.15968](http://arxiv.org/abs/2503.15968)|null|
+|**2025-03-20**|**Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment**|Gaole Dai et.al.|[2503.15937](http://arxiv.org/abs/2503.15937)|null|
+|**2025-03-20**|**A multi-model approach using XAI and anomaly detection to predict asteroid hazards**|Amit Kumar Mondal et.al.|[2503.15901](http://arxiv.org/abs/2503.15901)|null|
+|**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
 |**2025-03-20**|**A method of Extracting Flat Field from Real Time Solar Observation Data**|YaHui Jin et.al.|[2503.15094](http://arxiv.org/abs/2503.15094)|null|
 |**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
@@ -1453,6 +1487,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**|Tommaso Van Der Meer et.al.|[2503.15127](http://arxiv.org/abs/2503.15127)|null|
 |**2025-03-19**|**StyleLoco: Generative Adversarial Distillation for Natural Humanoid Robot Locomotion**|Le Ma et.al.|[2503.15082](http://arxiv.org/abs/2503.15082)|null|
