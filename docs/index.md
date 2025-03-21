@@ -3,13 +3,13 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.03.20
+### Updated on 2025.03.21
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295](http://arxiv.org/abs/2503.14295)|null|
 |**2025-03-19**|**KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**|Antoni Bigata et.al.|[2503.01715](http://arxiv.org/abs/2503.01715)|null|
-|**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295](http://arxiv.org/abs/2503.14295)|null|
 |**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371](http://arxiv.org/abs/2503.13371)|null|
 |**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963](http://arxiv.org/abs/2503.12963)|**[link](https://github.com/chaolongy/kdtalker)**|
 |**2025-03-16**|**Versatile Multimodal Controls for Whole-Body Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|
@@ -765,8 +765,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
-|**2025-03-19**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-19**|**Ultrasound Image-to-Video Synthesis via Latent Dynamic Diffusion Models**|Tingxiu Chen et.al.|[2503.14966](http://arxiv.org/abs/2503.14966)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation**|Hongyu Zhang et.al.|[2503.14428](http://arxiv.org/abs/2503.14428)|null|
@@ -931,8 +931,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing**|Yulin Pan et.al.|[2503.14482](http://arxiv.org/abs/2503.14482)|null|
-|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**TarPro: Targeted Protection against Malicious Image Editing**|Kaixin Shen et.al.|[2503.13994](http://arxiv.org/abs/2503.13994)|null|
 |**2025-03-17**|**FiVE: A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models**|Minghan Li et.al.|[2503.13684](http://arxiv.org/abs/2503.13684)|null|
 |**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
@@ -1004,6 +1004,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-20**|**A method of Extracting Flat Field from Real Time Solar Observation Data**|YaHui Jin et.al.|[2503.15094](http://arxiv.org/abs/2503.15094)|null|
 |**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
 |**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
 |**2025-03-19**|**Online Matching under KIID: Enhanced Competitive Analysis through Ordinary Differential Equation Systems**|Pan Xu et.al.|[2503.15399](http://arxiv.org/abs/2503.15399)|null|
@@ -1017,10 +1019,8 @@ layout: default
 |**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185](http://arxiv.org/abs/2503.15185)|null|
 |**2025-03-19**|**Food Delivery Time Prediction in Indian Cities Using Machine Learning Models**|Ananya Garg et.al.|[2503.15177](http://arxiv.org/abs/2503.15177)|null|
 |**2025-03-19**|**Communication Access Real-Time Translation Through Collaborative Correction of Automatic Speech Recognition**|Korbinian Kuhn et.al.|[2503.15120](http://arxiv.org/abs/2503.15120)|null|
-|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
 |**2025-03-19**|**Exploring the Perspectives of Social VR-Aware Non-Parent Adults and Parents on Children's Use of Social Virtual Reality**|Cristina Fiani et.al.|[2503.15100](http://arxiv.org/abs/2503.15100)|null|
 |**2025-03-19**|**Virtual Voyages: Evaluating the Role of Real-Time and Narrated Virtual Tours in Shaping User Experience and Memories**|Lillian Maria Eagan et.al.|[2503.15098](http://arxiv.org/abs/2503.15098)|null|
-|**2025-03-19**|**A method of Extracting Flat Field from Real Time Solar Observation Data**|YaHui Jin et.al.|[2503.15094](http://arxiv.org/abs/2503.15094)|null|
 |**2025-03-19**|**Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact**|Ziqiu Zeng et.al.|[2503.15078](http://arxiv.org/abs/2503.15078)|null|
 |**2025-03-19**|**Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model**|Etienne Ménager et.al.|[2503.15009](http://arxiv.org/abs/2503.15009)|null|
 |**2025-03-19**|**Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features**|Michael Neri et.al.|[2503.15001](http://arxiv.org/abs/2503.15001)|null|
