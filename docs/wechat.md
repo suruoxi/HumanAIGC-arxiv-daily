@@ -926,7 +926,7 @@
 - 2025-02-12, **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance**, Zhao Wang et.al., Paper: [http://arxiv.org/abs/2502.08189](http://arxiv.org/abs/2502.08189)
 - 2025-03-20, **Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**, Marc Benedí San Millán et.al., Paper: [http://arxiv.org/abs/2503.15996](http://arxiv.org/abs/2503.15996)
 - 2025-03-21, **AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**, Junjie Hu et.al., Paper: [http://arxiv.org/abs/2503.17029](http://arxiv.org/abs/2503.17029)
-- 2025-03-24, **Aether: Geometric-Aware Unified World Modeling**, Aether Team et.al., Paper: [http://arxiv.org/abs/2503.18945](http://arxiv.org/abs/2503.18945)
+- 2025-03-25, **Aether: Geometric-Aware Unified World Modeling**, Aether Team et.al., Paper: [http://arxiv.org/abs/2503.18945](http://arxiv.org/abs/2503.18945)
 - 2025-03-12, **Accelerating Diffusion Sampling via Exploiting Local Transition Coherence**, Shangwen Zhu et.al., Paper: [http://arxiv.org/abs/2503.09675](http://arxiv.org/abs/2503.09675)
 - 2025-03-17, **AUTV: Creating Underwater Video Datasets with Pixel-wise Annotations**, Quang Trung Truong et.al., Paper: [http://arxiv.org/abs/2503.12828](http://arxiv.org/abs/2503.12828)
 - 2025-02-25, **ASurvey: Spatiotemporal Consistency in Video Generation**, Zhiyu Yin et.al., Paper: [http://arxiv.org/abs/2502.17863](http://arxiv.org/abs/2502.17863)
