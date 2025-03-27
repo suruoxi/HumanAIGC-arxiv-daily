@@ -1272,7 +1272,7 @@
 - 2025-03-21, **Parallel splitting method for large-scale quadratic programs**, Matteo Vandelli et.al., Paper: [http://arxiv.org/abs/2503.16977](http://arxiv.org/abs/2503.16977)
 - 2025-03-20, **Parallel Domain-Decomposition Algorithms for Complexity Certification of Branch-and-Bound Algorithms for Mixed-Integer Linear and Quadratic Programming**, Shamisa Shoja et.al., Paper: [http://arxiv.org/abs/2503.16411](http://arxiv.org/abs/2503.16411)
 - 2025-03-05, **PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**, Ryozo Masukawa et.al., Paper: [http://arxiv.org/abs/2503.03747](http://arxiv.org/abs/2503.03747)
-- 2025-03-26, **PVLens: Enhancing Pharmacovigilance Through Automated Label Extraction**, Jeffery L Painter et.al., Paper: [http://arxiv.org/abs/2503.20639](http://arxiv.org/abs/2503.20639)
+- 2025-03-26, **PVLens: Enhancing Pharmacovigilance Through Automated Label Extraction**, Jeffery L Painter et.al., Paper: [http://arxiv.org/abs/2503.20639](http://arxiv.org/abs/2503.20639), Code: **[https://github.com/jlpainter/AMIA2025/tree/main/pvlens](https://github.com/jlpainter/AMIA2025/tree/main/pvlens)**
 - 2025-03-21, **PP-DocLayout: A Unified Document Layout Detection Model to Accelerate Large-Scale Data Construction**, Ting Sun et.al., Paper: [http://arxiv.org/abs/2503.17213](http://arxiv.org/abs/2503.17213)
 - 2025-03-17, **PD-Skygroundhook Controller for Semi-Active Suspension System Using Magnetorheological Fluid Dampers**, Hansol Lim et.al., Paper: [http://arxiv.org/abs/2503.12891](http://arxiv.org/abs/2503.12891)
 - 2025-03-25, **PAVE: Patching and Adapting Video Large Language Models**, Zhuoming Liu et.al., Paper: [http://arxiv.org/abs/2503.19794](http://arxiv.org/abs/2503.19794)
