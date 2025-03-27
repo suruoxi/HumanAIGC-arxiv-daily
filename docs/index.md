@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.03.26
+### Updated on 2025.03.27
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -777,13 +777,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**|Jaihoon Kim et.al.|[2503.19385](http://arxiv.org/abs/2503.19385)|null|
+|**2025-03-26**|**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models**|Yufei Cai et.al.|[2503.19369](http://arxiv.org/abs/2503.19369)|null|
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
 |**2025-03-25**|**Mask $^2$ DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881](http://arxiv.org/abs/2503.19881)|null|
 |**2025-03-25**|**AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**|Jiazhi Guan et.al.|[2503.19824](http://arxiv.org/abs/2503.19824)|null|
 |**2025-03-25**|**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset**|Haiyu Zhang et.al.|[2503.19462](http://arxiv.org/abs/2503.19462)|null|
-|**2025-03-25**|**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**|Jaihoon Kim et.al.|[2503.19385](http://arxiv.org/abs/2503.19385)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
-|**2025-03-25**|**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models**|Yufei Cai et.al.|[2503.19369](http://arxiv.org/abs/2503.19369)|null|
 |**2025-03-25**|**Long-Context Autoregressive Video Modeling with Next-Frame Prediction**|Yuchao Gu et.al.|[2503.19325](http://arxiv.org/abs/2503.19325)|null|
 |**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
@@ -945,6 +945,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks**|Hailong Guo et.al.|[2501.15891](http://arxiv.org/abs/2501.15891)|null|
 |**2025-03-25**|**Exploring Disentangled and Controllable Human Image Synthesis: From End-to-End to Stage-by-Stage**|Zhengwentai Sun et.al.|[2503.19486](http://arxiv.org/abs/2503.19486)|null|
 |**2025-03-20**|**Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model**|Yingmao Miao et.al.|[2503.16065](http://arxiv.org/abs/2503.16065)|null|
 |**2025-03-18**|**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**|Yong Zhong et.al.|[2503.14151](http://arxiv.org/abs/2503.14151)|null|
@@ -957,7 +958,6 @@ layout: default
 |**2025-02-20**|**CrossVTON: Mimicking the Logic Reasoning on Cross-category Virtual Try-on guided by Tri-zone Priors**|Donghao Luo et.al.|[2502.14373](http://arxiv.org/abs/2502.14373)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-03**|**MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer**|Le Shen et.al.|[2502.01626](http://arxiv.org/abs/2502.01626)|null|
-|**2025-01-27**|**Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks**|Hailong Guo et.al.|[2501.15891](http://arxiv.org/abs/2501.15891)|null|
 |**2025-01-26**|**IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter**|Xiaojing Zhong et.al.|[2501.15616](http://arxiv.org/abs/2501.15616)|null|
 |**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571](http://arxiv.org/abs/2501.15571)|null|
 |**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
@@ -1574,11 +1574,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**ARFlow: Human Action-Reaction Flow Matching with Physical Guidance**|Wentao Jiang et.al.|[2503.16973](http://arxiv.org/abs/2503.16973)|null|
 |**2025-03-25**|**Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion**|Haim Sawdayee et.al.|[2503.19557](http://arxiv.org/abs/2503.19557)|null|
+|**2025-03-25**|**SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction**|Zhengyuan Li et.al.|[2503.18211](http://arxiv.org/abs/2503.18211)|**[link](https://github.com/lzhyu/simmotionedit)**|
 |**2025-03-24**|**Human Motion Unlearning**|Edoardo De Matteis et.al.|[2503.18674](http://arxiv.org/abs/2503.18674)|null|
-|**2025-03-23**|**SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction**|Zhengyuan Li et.al.|[2503.18211](http://arxiv.org/abs/2503.18211)|**[link](https://github.com/lzhyu/simmotionedit)**|
 |**2025-03-23**|**PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition**|Dominique Nshimyimana et.al.|[2503.17978](http://arxiv.org/abs/2503.17978)|null|
-|**2025-03-21**|**ARFlow: Human Action-Reaction Flow Matching with Physical Guidance**|Wentao Jiang et.al.|[2503.16973](http://arxiv.org/abs/2503.16973)|null|
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**|Tommaso Van Der Meer et.al.|[2503.15127](http://arxiv.org/abs/2503.15127)|**[link](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**|
@@ -1649,6 +1649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|
 |**2025-03-25**|**RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation**|Sheng Wang et.al.|[2503.19510](http://arxiv.org/abs/2503.19510)|null|
 |**2025-03-25**|**CyanKitten: AI-Driven Markerless Motion Capture for Improved Elderly Well-Being**|Mengyao Guo et.al.|[2503.19398](http://arxiv.org/abs/2503.19398)|null|
 |**2025-03-25**|**Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment**|Ghazanfar Ali et.al.|[2503.19334](http://arxiv.org/abs/2503.19334)|null|
@@ -1660,7 +1661,6 @@ layout: default
 |**2025-03-20**|**WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching**|Tianze Luo et.al.|[2503.16689](http://arxiv.org/abs/2503.16689)|null|
 |**2025-03-19**|**Shushing! Let's Imagine an Authentic Speech from the Silent Video**|Jiaxin Ye et.al.|[2503.14928](http://arxiv.org/abs/2503.14928)|null|
 |**2025-03-19**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|**[link](https://github.com/jzq2000/mooncast)**|
-|**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|
 |**2025-03-18**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|**[link](https://github.com/jinyanglii/ovtr)**|
 |**2025-03-15**|**Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations**|Xue Jiang et.al.|[2503.12115](http://arxiv.org/abs/2503.12115)|null|
 |**2025-03-14**|**MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**|Sungwoo Cho et.al.|[2503.11026](http://arxiv.org/abs/2503.11026)|null|
