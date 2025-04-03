@@ -3,11 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.02
+### Updated on 2025.04.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**|Xuli Shen et.al.|[2503.19416](http://arxiv.org/abs/2503.19416)|null|
 |**2025-03-31**|**Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics**|Lee Chae-Yeon et.al.|[2503.20308](http://arxiv.org/abs/2503.20308)|null|
 |**2025-03-30**|**MoCha: Towards Movie-Grade Talking Character Synthesis**|Cong Wei et.al.|[2503.23307](http://arxiv.org/abs/2503.23307)|null|
 |**2025-03-29**|**STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing**|Zijun Ding et.al.|[2503.23039](http://arxiv.org/abs/2503.23039)|null|
@@ -16,7 +17,6 @@ layout: default
 |**2025-03-27**|**ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model**|Jinwei Qi et.al.|[2503.21144](http://arxiv.org/abs/2503.21144)|null|
 |**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728](http://arxiv.org/abs/2503.22728)|null|
 |**2025-03-25**|**AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**|Jiazhi Guan et.al.|[2503.19824](http://arxiv.org/abs/2503.19824)|null|
-|**2025-03-25**|**EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**|Xuli Shen et.al.|[2503.19416](http://arxiv.org/abs/2503.19416)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
 |**2025-03-25**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|
 |**2025-03-25**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
@@ -785,6 +785,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Towards Physically Plausible Video Generation via VLM Planning**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
 |**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
@@ -792,7 +793,6 @@ layout: default
 |**2025-03-31**|**HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation**|Kun Liu et.al.|[2503.23715](http://arxiv.org/abs/2503.23715)|null|
 |**2025-03-30**|**VideoGen-Eval: Agent-based System for Video Generation Evaluation**|Yuhang Yang et.al.|[2503.23452](http://arxiv.org/abs/2503.23452)|null|
 |**2025-03-30**|**JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization**|Kai Liu et.al.|[2503.23377](http://arxiv.org/abs/2503.23377)|null|
-|**2025-03-30**|**Towards Physically Plausible Video Generation via VLM Planning**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
 |**2025-03-30**|**MoCha: Towards Movie-Grade Talking Character Synthesis**|Cong Wei et.al.|[2503.23307](http://arxiv.org/abs/2503.23307)|null|
 |**2025-03-30**|**SketchVideo: Sketch-based Video Generation and Editing**|Feng-Lin Liu et.al.|[2503.23284](http://arxiv.org/abs/2503.23284)|null|
 |**2025-03-29**|**Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models**|Prin Phunyaphibarn et.al.|[2503.20240](http://arxiv.org/abs/2503.20240)|null|
@@ -1788,7 +1788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-01**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-03-31**|**SpeechDialogueFactory: Generating High-Quality Speech Dialogue Data to Accelerate Your Speech-LLM Development**|Minghan Wang et.al.|[2503.23848](http://arxiv.org/abs/2503.23848)|**[link](https://github.com/yuriak/SpeechDialogueFactory)**|
 |**2025-03-31**|**DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance**|Junjie Zheng et.al.|[2503.23660](http://arxiv.org/abs/2503.23660)|null|
