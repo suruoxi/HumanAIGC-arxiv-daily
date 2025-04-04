@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.04.03
+> Updated on 2025.04.04
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -695,7 +695,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Image Animation
 
@@ -766,7 +766,7 @@
 - 2023-11-27, **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2310.12190](http://arxiv.org/abs/2310.12190), Code: **[https://github.com/Doubiiu/DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter)**
 - 2023-02-02, **Dreamix: Video Diffusion Models are General Video Editors**, Eyal Molad et.al., Paper: [http://arxiv.org/abs/2302.01329](http://arxiv.org/abs/2302.01329)
 - 2024-11-30, **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses**, Yatian Pang et.al., Paper: [http://arxiv.org/abs/2412.00397](http://arxiv.org/abs/2412.00397)
-- 2025-04-02, **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**, Yuxuan Luo et.al., Paper: [http://arxiv.org/abs/2504.01724](http://arxiv.org/abs/2504.01724)
+- 2025-04-03, **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**, Yuxuan Luo et.al., Paper: [http://arxiv.org/abs/2504.01724](http://arxiv.org/abs/2504.01724)
 - 2024-09-22, **Dormant: Defending against Pose-driven Human Image Animation**, Jiachen Zhou et.al., Paper: [http://arxiv.org/abs/2409.14424](http://arxiv.org/abs/2409.14424), Code: **[https://github.com/Manu21JC/Dormant](https://github.com/Manu21JC/Dormant)**
 - 2025-02-25, **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**, Hongxiang Li et.al., Paper: [http://arxiv.org/abs/2412.09349](http://arxiv.org/abs/2412.09349), Code: **[https://github.com/lihxxx/dispose](https://github.com/lihxxx/dispose)**
 - 2023-11-19, **Differential Motion Evolution for Fine-Grained Motion Deformation in Unsupervised Image Animation**, Peirong Liu et.al., Paper: [http://arxiv.org/abs/2110.04658](http://arxiv.org/abs/2110.04658)
@@ -792,7 +792,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Video Generation
 
@@ -807,7 +807,7 @@
 - 2025-03-26, **Wan: Open and Advanced Large-Scale Video Generative Models**, WanTeam et.al., Paper: [http://arxiv.org/abs/2503.20314](http://arxiv.org/abs/2503.20314), Code: **[https://github.com/wan-video/wan2.1](https://github.com/wan-video/wan2.1)**
 - 2025-03-11, **WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation**, Jing Wang et.al., Paper: [http://arxiv.org/abs/2503.08153](http://arxiv.org/abs/2503.08153)
 - 2025-03-03, **VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation**, Wenhao Wang et.al., Paper: [http://arxiv.org/abs/2503.01739](http://arxiv.org/abs/2503.01739)
-- 2025-04-02, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956](http://arxiv.org/abs/2504.01956)
+- 2025-04-03, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956](http://arxiv.org/abs/2504.01956)
 - 2025-03-20, **VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**, Hyojun Go et.al., Paper: [http://arxiv.org/abs/2503.15855](http://arxiv.org/abs/2503.15855)
 - 2025-03-09, **VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation**, Hritik Bansal et.al., Paper: [http://arxiv.org/abs/2503.06800](http://arxiv.org/abs/2503.06800)
 - 2025-03-13, **VideoMerge: Towards Training-free Long Video Generation**, Siyang Zhang et.al., Paper: [http://arxiv.org/abs/2503.09926](http://arxiv.org/abs/2503.09926)
@@ -995,7 +995,7 @@
 - 2025-03-20, **A Recipe for Generating 3D Worlds From a Single Image**, Katja Schwarz et.al., Paper: [http://arxiv.org/abs/2503.16611](http://arxiv.org/abs/2503.16611)
 - 2025-03-12, **$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2503.08307](http://arxiv.org/abs/2503.08307)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## TryOn
 
@@ -1030,7 +1030,7 @@
 - 2025-03-26, **Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks**, Hailong Guo et.al., Paper: [http://arxiv.org/abs/2501.15891](http://arxiv.org/abs/2501.15891)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1091,7 +1091,7 @@
 - 2025-03-26, **InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction**, Yuhui Wu et.al., Paper: [http://arxiv.org/abs/2503.20287](http://arxiv.org/abs/2503.20287), Code: **[https://github.com/langmanbusi/insvie](https://github.com/langmanbusi/insvie)**
 - 2025-02-27, **Identity-preserving Distillation Sampling by Fixed-Point Iterator**, SeonHwa Kim et.al., Paper: [http://arxiv.org/abs/2502.19930](http://arxiv.org/abs/2502.19930)
 - 2025-01-23, **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**, Jiayi Lei et.al., Paper: [http://arxiv.org/abs/2501.13920](http://arxiv.org/abs/2501.13920)
-- 2025-04-02, **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**, Runhui Huang et.al., Paper: [http://arxiv.org/abs/2504.01934](http://arxiv.org/abs/2504.01934)
+- 2025-04-03, **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**, Runhui Huang et.al., Paper: [http://arxiv.org/abs/2504.01934](http://arxiv.org/abs/2504.01934)
 - 2025-03-18, **ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing**, Yulin Pan et.al., Paper: [http://arxiv.org/abs/2503.14482](http://arxiv.org/abs/2503.14482)
 - 2025-03-21, **HyperNVD: Accelerating Neural Video Decomposition via Hypernetworks**, Maria Pilligua et.al., Paper: [http://arxiv.org/abs/2503.17276](http://arxiv.org/abs/2503.17276)
 - 2025-02-14, **Hands-off Image Editing: Language-guided Editing without any Task-specific Labeling, Masking or even Training**, Rodrigo Santos et.al., Paper: [http://arxiv.org/abs/2502.10064](http://arxiv.org/abs/2502.10064)
@@ -1132,7 +1132,7 @@
 - 2025-03-31, **AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**, Jiaxiang Chen et.al., Paper: [http://arxiv.org/abs/2503.23948](http://arxiv.org/abs/2503.23948)
 - 2025-04-02, **A Diffusion-Based Framework for Occluded Object Movement**, Zheng-Peng Duan et.al., Paper: [http://arxiv.org/abs/2504.01873](http://arxiv.org/abs/2504.01873)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Others
 
@@ -1680,7 +1680,7 @@
 - 2025-02-20, **Adaptive Syndrome Extraction**, Noah Berthusen et.al., Paper: [http://arxiv.org/abs/2502.14835](http://arxiv.org/abs/2502.14835)
 - 2025-03-07, **Adaptive Neural Unscented Kalman Filter**, Amit Levy et.al., Paper: [http://arxiv.org/abs/2503.05490](http://arxiv.org/abs/2503.05490)
 - 2025-03-31, **Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation**, Xiaoran Zhang et.al., Paper: [http://arxiv.org/abs/2503.24368](http://arxiv.org/abs/2503.24368)
-- 2025-04-02, **Accelerating IoV Intrusion Detection: Benchmarking GPU-Accelerated vs CPU-Based ML Libraries**, Furkan Çolhak et.al., Paper: [http://arxiv.org/abs/2504.01905](http://arxiv.org/abs/2504.01905)
+- 2025-04-03, **Accelerating IoV Intrusion Detection: Benchmarking GPU-Accelerated vs CPU-Based ML Libraries**, Furkan Çolhak et.al., Paper: [http://arxiv.org/abs/2504.01905](http://arxiv.org/abs/2504.01905)
 - 2025-02-18, **AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2502.13133](http://arxiv.org/abs/2502.13133)
 - 2025-02-27, **ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**, Dexter Ong et.al., Paper: [http://arxiv.org/abs/2502.20386](http://arxiv.org/abs/2502.20386)
 - 2025-02-27, **ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2502.20323](http://arxiv.org/abs/2502.20323)
@@ -1688,7 +1688,7 @@
 - 2025-02-28, **ALVI Interface: Towards Full Hand Motion Decoding for Amputees Using sEMG**, Aleksandr Kovalev et.al., Paper: [http://arxiv.org/abs/2502.21256](http://arxiv.org/abs/2502.21256)
 - 2025-02-28, **AI-Enhanced Self-Triggering for Extensive Air Showers: Performance and FPGA Feasibility**, Qader Dorosti et.al., Paper: [http://arxiv.org/abs/2502.21198](http://arxiv.org/abs/2502.21198)
 - 2025-03-05, **AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking**, Mashrur Rashik et.al., Paper: [http://arxiv.org/abs/2503.03532](http://arxiv.org/abs/2503.03532), Code: **[https://github.com/mashrur29/AI-Enabled-Conversational-Journaling-Agent](https://github.com/mashrur29/AI-Enabled-Conversational-Journaling-Agent)**
-- 2025-04-02, **AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**, Mrityunjoy Gain et.al., Paper: [http://arxiv.org/abs/2504.01730](http://arxiv.org/abs/2504.01730)
+- 2025-04-03, **AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**, Mrityunjoy Gain et.al., Paper: [http://arxiv.org/abs/2504.01730](http://arxiv.org/abs/2504.01730)
 - 2025-03-28, **AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation**, Chenyang Xu et.al., Paper: [http://arxiv.org/abs/2503.22324](http://arxiv.org/abs/2503.22324)
 - 2025-02-27, **ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications**, Azuka Chiejina et.al., Paper: [http://arxiv.org/abs/2502.20320](http://arxiv.org/abs/2502.20320)
 - 2025-03-18, **A novel method for quantifying enzyme immobilization in porous carriers using simple NMR relaxometry**, M. Raquel Serial et.al., Paper: [http://arxiv.org/abs/2503.14308](http://arxiv.org/abs/2503.14308)
@@ -1740,7 +1740,7 @@
 - 2025-03-04, **2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**, Qipeng Yan et.al., Paper: [http://arxiv.org/abs/2503.02452](http://arxiv.org/abs/2503.02452)
 - 2025-02-24, **220 GHz RIS-Aided Multi-user Terahertz Communication System: Prototype Design and Over-the-Air Experimental Trials**, Yanzhao Hou et.al., Paper: [http://arxiv.org/abs/2502.16970](http://arxiv.org/abs/2502.16970)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -1825,7 +1825,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -1911,7 +1911,7 @@
 - 2025-02-14, **ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2502.08857](http://arxiv.org/abs/2502.08857)
 - 2025-02-18, **A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**, Shreya Shukla et.al., Paper: [http://arxiv.org/abs/2502.12048](http://arxiv.org/abs/2502.12048)
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 Notes: 
 
