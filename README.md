@@ -836,7 +836,7 @@
 |**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755](http://arxiv.org/abs/2503.21755)|**[link](https://github.com/vchitect/vbench)**|
 |**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
 |**2025-03-27**|**ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model**|Jinwei Qi et.al.|[2503.21144](http://arxiv.org/abs/2503.21144)|null|
-|**2025-03-26**|**Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**|Haitong Liu et.al.|[2503.21824](http://arxiv.org/abs/2503.21824)|null|
+|**2025-03-26**|**Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**|Haitong Liu et.al.|[2503.21824](http://arxiv.org/abs/2503.21824)|**[link](https://github.com/ttthhl/protecting_your_video_content)**|
 |**2025-03-26**|**Synthetic Video Enhances Physical Fidelity in Video Synthesis**|Qi Zhao et.al.|[2503.20822](http://arxiv.org/abs/2503.20822)|null|
 |**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|**[link](https://github.com/fmp453/rectable)**|
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
@@ -1191,7 +1191,7 @@
 |**2025-04-02**|**CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection**|Diego Cajaraville-Aboy et.al.|[2504.01882](http://arxiv.org/abs/2504.01882)|null|
 |**2025-04-02**|**Topological Feature of Real-time Fisher Zeros**|Yuchen Meng et.al.|[2504.01824](http://arxiv.org/abs/2504.01824)|null|
 |**2025-04-02**|**Quattro: Transformer-Accelerated Iterative Linear Quadratic Regulator Framework for Fast Trajectory Optimization**|Yue Wang et.al.|[2504.01806](http://arxiv.org/abs/2504.01806)|null|
-|**2025-04-02**|**Memory-efficient Low-latency Remote Photoplethysmography through Temporal-Spatial State Space Duality**|Kegang Wang et.al.|[2504.01774](http://arxiv.org/abs/2504.01774)|null|
+|**2025-04-02**|**Memory-efficient Low-latency Remote Photoplethysmography through Temporal-Spatial State Space Duality**|Kegang Wang et.al.|[2504.01774](http://arxiv.org/abs/2504.01774)|**[link](https://github.com/health-hci-group/me-rppg-demo)**|
 |**2025-04-02**|**Satellite Edge Artificial Intelligence with Large Models: Architectures and Technologies**|Yuanming Shi et.al.|[2504.01676](http://arxiv.org/abs/2504.01676)|null|
 |**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi et.al.|[2504.01654](http://arxiv.org/abs/2504.01654)|null|
 |**2025-04-02**|**FlowR: Flowing from Sparse to Dense 3D Reconstructions**|Tobias Fischer et.al.|[2504.01647](http://arxiv.org/abs/2504.01647)|null|
@@ -1199,10 +1199,10 @@
 |**2025-04-02**|**The Mini-SiTian Array: White Paper**|Henggeng Han et.al.|[2504.01610](http://arxiv.org/abs/2504.01610)|null|
 |**2025-04-02**|**The Mini-SiTian Array: the mini-SiTian Realtime Image Processing pipeline (STRIP)**|Hongrui Gu et.al.|[2504.01609](http://arxiv.org/abs/2504.01609)|null|
 |**2025-04-02**|**The Mini-SiTian Array: real-bogus classification using deep learning**|Jing-Hang Shi et.al.|[2504.01608](http://arxiv.org/abs/2504.01608)|null|
-|**2025-04-02**|**LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree**|Xinyi Li et.al.|[2504.01583](http://arxiv.org/abs/2504.01583)|null|
+|**2025-04-02**|**LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree**|Xinyi Li et.al.|[2504.01583](http://arxiv.org/abs/2504.01583)|**[link](https://github.com/m-evanovic/ll-localizer)**|
 |**2025-04-02**|**FastER: Fast On-Demand Entity Resolution in Property Graphs**|Shujing Wang et.al.|[2504.01557](http://arxiv.org/abs/2504.01557)|null|
 |**2025-04-02**|**Rapid Muon Tomography for Border Security**|Anzori Sh. Georgadze et.al.|[2504.01525](http://arxiv.org/abs/2504.01525)|null|
-|**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503](http://arxiv.org/abs/2504.01503)|null|
+|**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503](http://arxiv.org/abs/2504.01503)|**[link](https://github.com/cuiziteng/Luminance-GS)**|
 |**2025-04-01**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
 |**2025-03-31**|**Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation**|Xiaoran Zhang et.al.|[2503.24368](http://arxiv.org/abs/2503.24368)|null|
 |**2025-03-31**|**Coordinating Distributed Energy Resources with Nodal Pricing in Distribution Networks: a Game-Theoretic Approach**|Eli Brock et.al.|[2503.24342](http://arxiv.org/abs/2503.24342)|null|
@@ -1237,7 +1237,7 @@
 |**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363](http://arxiv.org/abs/2503.22363)|null|
 |**2025-03-28**|**AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation**|Chenyang Xu et.al.|[2503.22324](http://arxiv.org/abs/2503.22324)|null|
 |**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265](http://arxiv.org/abs/2503.22265)|null|
-|**2025-03-28**|**WeatherMesh-3: Fast and accurate operational global weather forecasting**|Haoxing Du et.al.|[2503.22235](http://arxiv.org/abs/2503.22235)|null|
+|**2025-03-28**|**WeatherMesh-3: Fast and accurate operational global weather forecasting**|Haoxing Du et.al.|[2503.22235](http://arxiv.org/abs/2503.22235)|**[link](https://github.com/windborne/weathermesh-3)**|
 |**2025-03-28**|**Extremely Simple Out-of-distribution Detection for Audio-visual Generalized Zero-shot Learning**|Yang Liu et.al.|[2503.22197](http://arxiv.org/abs/2503.22197)|null|
 |**2025-03-28**|**Estimating City-wide operating mode Distribution of Light-Duty Vehicles: A Neural Network-based Approach**|Muhammad Usama et.al.|[2503.22118](http://arxiv.org/abs/2503.22118)|null|
 |**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087](http://arxiv.org/abs/2503.22087)|**[link](https://github.com/moonseokha/streamocc)**|
@@ -1249,7 +1249,7 @@
 |**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699](http://arxiv.org/abs/2503.21699)|null|
 |**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|**[link](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)**|
 |**2025-03-27**|**Mapping the Digital Diplomatic Infrastructure: A Comparative Evaluation of Global Online Directories for Diplomatic Missions**|Sinisa Grgic et.al.|[2503.21645](http://arxiv.org/abs/2503.21645)|null|
-|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|null|
+|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|**[link](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)**|
 |**2025-03-27**|**Real-time Tracking System with partially coupled sources**|Saeid Sadeghi Vilni et.al.|[2503.21552](http://arxiv.org/abs/2503.21552)|null|
 |**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548](http://arxiv.org/abs/2503.21548)|null|
 |**2025-03-27**|**Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing**|Siavash Mahmoudi et.al.|[2503.21491](http://arxiv.org/abs/2503.21491)|null|
@@ -1276,15 +1276,15 @@
 |**2025-03-26**|**A Deep Learning Pipeline for Large Earthquake Analysis using High-Rate Global Navigation Satellite System Data**|Claudia Quinteros-Cartaya et.al.|[2503.20584](http://arxiv.org/abs/2503.20584)|null|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
-|**2025-03-26**|**A multi-agentic framework for real-time, autonomous freeform metasurface design**|Robert Lupoiu et.al.|[2503.20479](http://arxiv.org/abs/2503.20479)|null|
-|**2025-03-26**|**Learning Data-Driven Uncertainty Set Partitions for Robust and Adaptive Energy Forecasting with Missing Data**|Akylas Stratigakos et.al.|[2503.20410](http://arxiv.org/abs/2503.20410)|null|
+|**2025-03-26**|**A multi-agentic framework for real-time, autonomous freeform metasurface design**|Robert Lupoiu et.al.|[2503.20479](http://arxiv.org/abs/2503.20479)|**[link](https://github.com/jonfanlab/metachat)**|
+|**2025-03-26**|**Learning Data-Driven Uncertainty Set Partitions for Robust and Adaptive Energy Forecasting with Missing Data**|Akylas Stratigakos et.al.|[2503.20410](http://arxiv.org/abs/2503.20410)|**[link](https://github.com/akylasstrat/wind-forecast-missing-data)**|
 |**2025-03-26**|**Power Networks SCADA Communication Cybersecurity, A Qiskit Implementation**|Hillol Biswas et.al.|[2503.20365](http://arxiv.org/abs/2503.20365)|null|
 |**2025-03-26**|**UnReference: analysis of the effect of spoofing on RTK reference stations for connected rovers**|Marco Spanghero et.al.|[2503.20364](http://arxiv.org/abs/2503.20364)|null|
 |**2025-03-26**|**Theory of two-electrons optics experiments with smooth potentials: Flying electron molecules**|P. G. Silvestrov et.al.|[2503.20325](http://arxiv.org/abs/2503.20325)|null|
 |**2025-03-26**|**Derivation and analysis of power offset in fiber-longitudinal power profile estimation using pre-FEC hard-decision data**|Du Tang et.al.|[2503.20323](http://arxiv.org/abs/2503.20323)|null|
 |**2025-03-26**|**3D Convolutional Neural Networks for Improved Detection of Intracranial bleeding in CT Imaging**|Bargava Subramanian et.al.|[2503.20306](http://arxiv.org/abs/2503.20306)|null|
 |**2025-03-25**|**Real-time all-optical signal equalisation with silicon photonic recurrent neural networks**|Ruben Van Assche et.al.|[2503.19911](http://arxiv.org/abs/2503.19911)|null|
-|**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|
+|**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|**[link](https://github.com/haoyu-bu/CAFe)**|
 |**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876](http://arxiv.org/abs/2503.19876)|null|
 |**2025-03-25**|**Programmable on-chip nonlinear photonics**|Ryotatsu Yanagimoto et.al.|[2503.19861](http://arxiv.org/abs/2503.19861)|null|
 |**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851](http://arxiv.org/abs/2503.19851)|**[link](https://github.com/sampson-lee/onlinemmsi)**|
@@ -1293,7 +1293,7 @@
 |**2025-03-25**|**Real-Time Electro-Optic Dual Comb Detection of Ultrasound Waves**|Debanuj Chatterjee et.al.|[2503.19659](http://arxiv.org/abs/2503.19659)|null|
 |**2025-03-25**|**femtoPro: Real-time linear and nonlinear optics simulations**|Tobias Brixner et.al.|[2503.19627](http://arxiv.org/abs/2503.19627)|null|
 |**2025-03-25**|**Energy-aware Joint Orchestration of 5G and Robots: Experimental Testbed and Field Validation**|Milan Groshev et.al.|[2503.19613](http://arxiv.org/abs/2503.19613)|null|
-|**2025-03-25**|**Enabling Rapid Shared Human-AI Mental Model Alignment via the After-Action Review**|Edward Gu et.al.|[2503.19607](http://arxiv.org/abs/2503.19607)|null|
+|**2025-03-25**|**Enabling Rapid Shared Human-AI Mental Model Alignment via the After-Action Review**|Edward Gu et.al.|[2503.19607](http://arxiv.org/abs/2503.19607)|**[link](https://github.com/MITLL-SMMAAL/pub_HMT_AAEtool_and_testbed)**|
 |**2025-03-25**|**Optimizing train dispatching for the Union Pacific Railroad**|Maurizio Boccia et.al.|[2503.19535](http://arxiv.org/abs/2503.19535)|null|
 |**2025-03-25**|**Conditional Autoencoder for Generating BNS Waveforms with Tidal and Precession Effects**|Mengfei Sun et.al.|[2503.19512](http://arxiv.org/abs/2503.19512)|null|
 |**2025-03-25**|**Single-Step Latent Consistency Model for Remote Sensing Image Super-Resolution**|Xiaohui Sun et.al.|[2503.19505](http://arxiv.org/abs/2503.19505)|null|
@@ -1472,7 +1472,7 @@
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 |**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
 |**2025-03-12**|**A Model-based Approach for Glucose Control via Physical Activity**|Pierluigi Francesco De Paola et.al.|[2503.09435](http://arxiv.org/abs/2503.09435)|null|
-|**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|null|
+|**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|**[link](https://github.com/CASTLE-Benchmark/CASTLE-Benchmark)**|
 |**2025-03-12**|**IUP: Integrated and Programmable User Plane for Next-Generation Mobile Networks**|Chieh-Chun Chen et.al.|[2503.09430](http://arxiv.org/abs/2503.09430)|null|
 |**2025-03-12**|**Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation**|Yaorui Shi et.al.|[2503.09427](http://arxiv.org/abs/2503.09427)|**[link](https://github.com/syr-cn/scmmgpt)**|
 |**2025-03-12**|**VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers**|Ruanjun Li et.al.|[2503.09387](http://arxiv.org/abs/2503.09387)|null|
@@ -1799,7 +1799,7 @@
 |**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-03-31**|**Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction**|Yizhou Huang et.al.|[2503.24272](http://arxiv.org/abs/2503.24272)|null|
 |**2025-03-30**|**Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation**|Jiexin Wang et.al.|[2503.23381](http://arxiv.org/abs/2503.23381)|null|
-|**2025-03-30**|**Progressive Human Motion Generation Based on Text and Few Motion Frames**|Ling-An Zeng et.al.|[2503.13300](http://arxiv.org/abs/2503.13300)|null|
+|**2025-03-30**|**Progressive Human Motion Generation Based on Text and Few Motion Frames**|Ling-An Zeng et.al.|[2503.13300](http://arxiv.org/abs/2503.13300)|**[link](https://github.com/qinghuannn/pmg)**|
 |**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Xianqi Zhang et.al.|[2503.22249](http://arxiv.org/abs/2503.22249)|null|
 |**2025-03-28**|**Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model**|Changchang Sun et.al.|[2503.22138](http://arxiv.org/abs/2503.22138)|null|
 |**2025-03-27**|**ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate**|Ming Yan et.al.|[2503.21268](http://arxiv.org/abs/2503.21268)|null|
