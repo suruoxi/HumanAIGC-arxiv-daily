@@ -3,12 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.06
+### Updated on 2025.04.07
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-03**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
+|**2025-04-04**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
 |**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
 |**2025-04-02**|**Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies**|Soumyya Kanti Datta et.al.|[2504.01470](http://arxiv.org/abs/2504.01470)|**[link](https://github.com/skrantidatta/lipinc-v2)**|
@@ -791,12 +791,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
+|**2025-04-04**|**MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition**|Takahiro Shirakawa et.al.|[2504.02361](http://arxiv.org/abs/2504.02361)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
 |**2025-04-03**|**Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**|Shengjun Zhang et.al.|[2504.02764](http://arxiv.org/abs/2504.02764)|null|
-|**2025-04-03**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
 |**2025-04-03**|**ConMo: Controllable Motion Disentanglement and Recomposition for Zero-Shot Motion Transfer**|Jiayi Gao et.al.|[2504.02451](http://arxiv.org/abs/2504.02451)|null|
 |**2025-04-03**|**SkyReels-A2: Compose Anything in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2504.02436](http://arxiv.org/abs/2504.02436)|null|
-|**2025-04-03**|**MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition**|Takahiro Shirakawa et.al.|[2504.02361](http://arxiv.org/abs/2504.02361)|null|
 |**2025-04-03**|**OmniCam: Unified Multimodal Video Generation via Camera Control**|Xiaoda Yang et.al.|[2504.02312](http://arxiv.org/abs/2504.02312)|null|
 |**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045](http://arxiv.org/abs/2504.02045)|null|
@@ -1144,11 +1144,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
 |**2025-04-03**|**Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay**|Alexander C. Jenkins et.al.|[2504.02829](http://arxiv.org/abs/2504.02829)|null|
 |**2025-04-03**|**Dynamic Directional Routing of Freight in the Physical Internet**|Sahrish Jaleel Shaikh et.al.|[2504.02722](http://arxiv.org/abs/2504.02722)|null|
 |**2025-04-03**|**UAV-Assisted 5G Networks: Mobility-Aware 3D Trajectory Optimization and Resource Allocation for Dynamic Environments**|Asad Mahmood et.al.|[2504.02613](http://arxiv.org/abs/2504.02613)|null|
 |**2025-04-03**|**Human-Centered Development of an Explainable AI Framework for Real-Time Surgical Risk Surveillance**|Andrea E Davidson et.al.|[2504.02551](http://arxiv.org/abs/2504.02551)|null|
-|**2025-04-03**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
 |**2025-04-03**|**Online Multivariate Regularized Distributional Regression for High-dimensional Probabilistic Electricity Price Forecasting**|Simon Hirsch et.al.|[2504.02518](http://arxiv.org/abs/2504.02518)|null|
 |**2025-04-03**|**Industrial Internet Robot Collaboration System and Edge Computing Optimization**|Qian Zuo et.al.|[2504.02492](http://arxiv.org/abs/2504.02492)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
