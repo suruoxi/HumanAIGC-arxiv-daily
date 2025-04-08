@@ -18,6 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-07**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
+|**2025-04-06**|**FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**|Shiyan Liu et.al.|[2504.04427](http://arxiv.org/abs/2504.04427)|null|
 |**2025-04-04**|**A Human Digital Twin Architecture for Knowledge-based Interactions and Context-Aware Conversations**|Abdul Mannan Mohammed et.al.|[2504.03147](http://arxiv.org/abs/2504.03147)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
 |**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
@@ -705,6 +706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-05**|**Multi-identity Human Image Animation with Structural Video Diffusion**|Zhenzhi Wang et.al.|[2504.04126](http://arxiv.org/abs/2504.04126)|null|
 |**2025-04-03**|**DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**|Yuxuan Luo et.al.|[2504.01724](http://arxiv.org/abs/2504.01724)|null|
 |**2025-04-01**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-03-27**|**DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation**|Haoyu Zhao et.al.|[2503.21246](http://arxiv.org/abs/2503.21246)|null|
@@ -805,7 +807,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
+|**2025-04-07**|**Video-Bench: Human-Aligned Video Generation Benchmark**|Hui Han et.al.|[2504.04907](http://arxiv.org/abs/2504.04907)|null|
 |**2025-04-07**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
+|**2025-04-05**|**Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**|Yikai Wang et.al.|[2504.04153](http://arxiv.org/abs/2504.04153)|null|
+|**2025-04-05**|**Multi-identity Human Image Animation with Structural Video Diffusion**|Zhenzhi Wang et.al.|[2504.04126](http://arxiv.org/abs/2504.04126)|null|
+|**2025-04-05**|**Can You Count to Nine? A Human Evaluation Benchmark for Counting Limits in Modern Text-to-Video Models**|Xuyang Guo et.al.|[2504.04051](http://arxiv.org/abs/2504.04051)|null|
+|**2025-04-05**|**DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion**|Maksim Siniukov et.al.|[2504.04010](http://arxiv.org/abs/2504.04010)|null|
 |**2025-04-04**|**Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**|Xuran Ma et.al.|[2504.03140](http://arxiv.org/abs/2504.03140)|null|
 |**2025-04-04**|**MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition**|Takahiro Shirakawa et.al.|[2504.02361](http://arxiv.org/abs/2504.02361)|null|
 |**2025-04-03**|**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models**|Pascal Chang et.al.|[2504.03072](http://arxiv.org/abs/2504.03072)|null|
@@ -816,6 +824,7 @@
 |**2025-04-03**|**SkyReels-A2: Compose Anything in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2504.02436](http://arxiv.org/abs/2504.02436)|null|
 |**2025-04-03**|**OmniCam: Unified Multimodal Video Generation via Camera Control**|Xiaoda Yang et.al.|[2504.02312](http://arxiv.org/abs/2504.02312)|null|
 |**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-02**|**Proof of Humanity: A Multi-Layer Network Framework for Certifying Human-Originated Content in an AI-Dominated Internet**|Sebastian Barros et.al.|[2504.03752](http://arxiv.org/abs/2504.03752)|null|
 |**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045](http://arxiv.org/abs/2504.02045)|null|
 |**2025-04-02**|**Towards Physically Plausible Video Generation via VLM Planning**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
 |**2025-04-01**|**AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**|Junhao Cheng et.al.|[2504.01014](http://arxiv.org/abs/2504.01014)|null|
@@ -1021,6 +1030,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**From Keypoints to Realism: A Realistic and Accurate Virtual Try-on Network from 2D Images**|Maliheh Toozandehjani et.al.|[2504.03807](http://arxiv.org/abs/2504.03807)|null|
 |**2025-04-03**|**MAD: Makeup All-in-One with Cross-Domain Diffusion Model**|Bo-Kai Ruan et.al.|[2504.02545](http://arxiv.org/abs/2504.02545)|null|
 |**2025-04-01**|**Diffusion Model-Based Size Variable Virtual Try-On Technology and Evaluation Method**|Shufang Zhang et.al.|[2504.00562](http://arxiv.org/abs/2504.00562)|null|
 |**2025-03-26**|**ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On**|Ji Woo Hong et.al.|[2503.20418](http://arxiv.org/abs/2503.20418)|null|
@@ -1059,6 +1069,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
+|**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
 |**2025-04-07**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641](http://arxiv.org/abs/2504.03641)|null|
 |**2025-04-04**|**Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices**|Yang He et.al.|[2504.03155](http://arxiv.org/abs/2504.03155)|null|
 |**2025-04-03**|**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models**|Pascal Chang et.al.|[2504.03072](http://arxiv.org/abs/2504.03072)|null|
@@ -1171,6 +1183,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291](http://arxiv.org/abs/2504.05291)|null|
+|**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287](http://arxiv.org/abs/2504.05287)|null|
+|**2025-04-07**|**A Telecentric Offset Reflective Imaging System (TORIS) for Terahertz Imaging and Spectroscopy**|Pouyan Rezapoor et.al.|[2504.05267](http://arxiv.org/abs/2504.05267)|null|
+|**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265](http://arxiv.org/abs/2504.05265)|null|
+|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
+|**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
+|**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
+|**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao et.al.|[2504.05148](http://arxiv.org/abs/2504.05148)|null|
+|**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107](http://arxiv.org/abs/2504.05107)|null|
+|**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
+|**2025-04-07**|**Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion**|Eran Beeri Bamani et.al.|[2504.05084](http://arxiv.org/abs/2504.05084)|null|
+|**2025-04-07**|**AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**|Victor Monzon Baeza et.al.|[2504.05071](http://arxiv.org/abs/2504.05071)|null|
+|**2025-04-07**|**SILVIA: Ultra-precision formation flying demonstration for space-based interferometry**|Takahiro Ito et.al.|[2504.05001](http://arxiv.org/abs/2504.05001)|null|
+|**2025-04-07**|**Transforming Future Data Center Operations and Management via Physical AI**|Zhiwei Cao et.al.|[2504.04982](http://arxiv.org/abs/2504.04982)|null|
+|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-07**|**Boosting Relational Deep Learning with Pretrained Tabular Models**|Veronica Lachi et.al.|[2504.04934](http://arxiv.org/abs/2504.04934)|null|
+|**2025-04-07**|**Real-time tuneable bright bonding plasmonic modes in Ga nanostructures**|Renu Raman Sahu et.al.|[2504.04922](http://arxiv.org/abs/2504.04922)|null|
+|**2025-04-07**|**Parallelization is All System Identification Needs: End-to-end Vibration Diagnostics on a multi-core RISC-V edge device**|Amirhossein Kiamarzi et.al.|[2504.04884](http://arxiv.org/abs/2504.04884)|null|
+|**2025-04-07**|**Closed-Loop Neural Operator-Based Observer of Traffic Density**|Alice Harting et.al.|[2504.04873](http://arxiv.org/abs/2504.04873)|null|
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|null|
 |**2025-04-04**|**CAMINO: Cloud-native Autonomous Management and Intent-based Orchestrator**|Konstantinos Antonakoglou et.al.|[2504.03586](http://arxiv.org/abs/2504.03586)|null|
 |**2025-04-04**|**The building blocks of software work explain coding careers and language popularity**|Xiangnan Feng et.al.|[2504.03581](http://arxiv.org/abs/2504.03581)|null|
 |**2025-04-04**|**Online Traffic Density Estimation using Physics-Informed Neural Networks**|Dennis Wilkman et.al.|[2504.03483](http://arxiv.org/abs/2504.03483)|null|
@@ -1819,6 +1851,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046](http://arxiv.org/abs/2504.05046)|null|
+|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639](http://arxiv.org/abs/2504.03639)|null|
 |**2025-04-02**|**FlowMotion: Target-Predictive Flow Matching for Realistic Text-Driven Human Motion Generation**|Manolo Canales Cuba et.al.|[2504.01338](http://arxiv.org/abs/2504.01338)|null|
 |**2025-04-01**|**Beyond Static Scenes: Camera-controllable Background Generation for Human Motion**|Mingshuai Yao et.al.|[2504.02004](http://arxiv.org/abs/2504.02004)|null|
@@ -1908,6 +1942,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197](http://arxiv.org/abs/2504.05197)|null|
+|**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
+|**2025-04-05**|**Real-Time Auralization for First-Person Vocal Interaction in Immersive Virtual Environments**|Mauricio Flores-Vargas et.al.|[2504.04075](http://arxiv.org/abs/2504.04075)|null|
+|**2025-04-05**|**VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation**|Yuhao Wang et.al.|[2504.04060](http://arxiv.org/abs/2504.04060)|null|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|null|
 |**2025-04-03**|**F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
