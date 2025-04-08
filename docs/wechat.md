@@ -1255,7 +1255,7 @@
 - 2025-03-10, **Streaming Self-Corrected Dual-Comb Spectrometer**, Alexander Eber et.al., Paper: [http://arxiv.org/abs/2503.07005](http://arxiv.org/abs/2503.07005)
 - 2025-03-13, **Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion**, Evgeniia Vu et.al., Paper: [http://arxiv.org/abs/2503.10488](http://arxiv.org/abs/2503.10488)
 - 2025-03-10, **Strat{é}gies de contr{ô}le pour les {é}oliennes flottantes : {é}tat de l'art et perspectives**, Flavie Didier et.al., Paper: [http://arxiv.org/abs/2503.07138](http://arxiv.org/abs/2503.07138)
-- 2025-04-07, **Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**, Yasuhiro Yao et.al., Paper: [http://arxiv.org/abs/2504.05148](http://arxiv.org/abs/2504.05148)
+- 2025-04-07, **Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**, Yasuhiro Yao et.al., Paper: [http://arxiv.org/abs/2504.05148](http://arxiv.org/abs/2504.05148), Code: **[https://github.com/yshry/libSGM_lidar](https://github.com/yshry/libSGM_lidar)**
 - 2025-04-04, **Stance-Driven Multimodal Controlled Statement Generation: New Dataset and Task**, Bingqian Wang et.al., Paper: [http://arxiv.org/abs/2504.03295](http://arxiv.org/abs/2504.03295)
 - 2025-03-12, **Spiritus: An AI-Assisted Tool for Creating 2D Characters and Animations**, Qirui Sun et.al., Paper: [http://arxiv.org/abs/2503.09127](http://arxiv.org/abs/2503.09127)
 - 2025-03-13, **Speedy MASt3R**, Jingxing Li et.al., Paper: [http://arxiv.org/abs/2503.10017](http://arxiv.org/abs/2503.10017)
