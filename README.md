@@ -811,6 +811,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
+|**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
+|**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
+|**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
 |**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
 |**2025-04-08**|**Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants**|Nikolaj T. Mücke et.al.|[2504.05852](http://arxiv.org/abs/2504.05852)|null|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
@@ -1075,6 +1079,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model**|Qi Mao et.al.|[2504.05594](http://arxiv.org/abs/2504.05594)|null|
 |**2025-04-08**|**TAPNext: Tracking Any Point (TAP) as Next Token Prediction**|Artem Zholus et.al.|[2504.05579](http://arxiv.org/abs/2504.05579)|null|
@@ -1192,6 +1197,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**|Jiacheng Liu et.al.|[2504.07096](http://arxiv.org/abs/2504.07096)|null|
+|**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
+|**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
+|**2025-04-09**|**Audio-visual Event Localization on Portrait Mode Short Videos**|Wuyang Liu et.al.|[2504.06884](http://arxiv.org/abs/2504.06884)|null|
+|**2025-04-09**|**Determining Fetal Orientations From Blind Sweep Ultrasound Video**|Jakub Maciej Wiśniewski et.al.|[2504.06836](http://arxiv.org/abs/2504.06836)|null|
+|**2025-04-09**|**Integrated Sensing and Communications Over the Years: An Evolution Perspective**|Di Zhang et.al.|[2504.06830](http://arxiv.org/abs/2504.06830)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
+|**2025-04-09**|**Modeling and analysis methods for early detection of leakage points in gas transmission systems**|Ilgar Aliyev et.al.|[2504.06809](http://arxiv.org/abs/2504.06809)|null|
+|**2025-04-09**|**How do Copilot Suggestions Impact Developers' Frustration and Productivity?**|Emanuela Guglielmi et.al.|[2504.06808](http://arxiv.org/abs/2504.06808)|null|
+|**2025-04-09**|**Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|null|
+|**2025-04-09**|**Bridging Research and Standardization: Innovations and Methodology for 6G Standard Contributions**|Francesca Conserva et.al.|[2504.06682](http://arxiv.org/abs/2504.06682)|null|
+|**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[2504.06670](http://arxiv.org/abs/2504.06670)|null|
+|**2025-04-09**|**Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention**|Osama Ahmad et.al.|[2504.06660](http://arxiv.org/abs/2504.06660)|null|
+|**2025-04-09**|**InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction**|Yi Zhang et.al.|[2504.06620](http://arxiv.org/abs/2504.06620)|null|
+|**2025-04-09**|**InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features**|Sujay Khandagale et.al.|[2504.06609](http://arxiv.org/abs/2504.06609)|null|
+|**2025-04-09**|**Overcoming Dynamic Environments: A Hybrid Approach to Motion Planning for Manipulators**|Ho Minh Quang Ngo et.al.|[2504.06596](http://arxiv.org/abs/2504.06596)|null|
+|**2025-04-09**|**NAPER: Fault Protection for Real-Time Resource-Constrained Deep Neural Networks**|Rian Adam Rajagede et.al.|[2504.06591](http://arxiv.org/abs/2504.06591)|null|
+|**2025-04-09**|**A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication**|Xiao-Hang Jiang et.al.|[2504.06561](http://arxiv.org/abs/2504.06561)|null|
+|**2025-04-09**|**ICPS: Real-Time Resource Configuration for Cloud Serverless Functions Considering Affinity**|Long Chen et.al.|[2504.06512](http://arxiv.org/abs/2504.06512)|null|
+|**2025-04-09**|**Equivalent Circuit Modeling of a Lumped-element Loaded Metasurface under Arbitrary Incidence and Polarization**|Athanasios Nousiou et.al.|[2504.06501](http://arxiv.org/abs/2504.06501)|null|
 |**2025-04-08**|**A Case for Network-wide Orchestration of Host-based Intrusion Detection and Response**|Mark Timmons et.al.|[2504.06241](http://arxiv.org/abs/2504.06241)|null|
 |**2025-04-08**|**Accessible and Pedagogically-Grounded Explainability for Human-Robot Interaction: A Framework Based on UDL and Symbolic Interfaces**|Francisco J. Rodríguez Lera et.al.|[2504.06189](http://arxiv.org/abs/2504.06189)|null|
 |**2025-04-08**|**Efficient algorithms to solve atom reconfiguration problems. III. The bird and batching algorithms and other parallel implementations on GPUs**|Fouad Afiouni et.al.|[2504.06182](http://arxiv.org/abs/2504.06182)|null|
@@ -1971,6 +1996,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593](http://arxiv.org/abs/2504.06593)|null|
 |**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-08**|**AVENet: Disentangling Features by Approximating Average Features for Voice Conversion**|Wenyu Wang et.al.|[2504.05833](http://arxiv.org/abs/2504.05833)|null|
 |**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197](http://arxiv.org/abs/2504.05197)|null|
