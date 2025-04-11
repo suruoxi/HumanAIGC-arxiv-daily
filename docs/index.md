@@ -3,11 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.10
+### Updated on 2025.04.11
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**|Zhihua Xu et.al.|[2504.05746](http://arxiv.org/abs/2504.05746)|null|
 |**2025-04-08**|**Contrastive Decoupled Representation Learning and Regularization for Speech-Preserving Facial Expression Manipulation**|Tianshui Chen et.al.|[2504.05672](http://arxiv.org/abs/2504.05672)|null|
@@ -798,6 +799,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
+|**2025-04-10**|**Diffusion Transformers for Tabular Data Time Series Generation**|Fabrizio Garuti et.al.|[2504.07566](http://arxiv.org/abs/2504.07566)|null|
 |**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
@@ -1062,7 +1066,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|null|
+|**2025-04-10**|**Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**|Chenxi Sun et.al.|[2504.07424](http://arxiv.org/abs/2504.07424)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
+|**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model**|Qi Mao et.al.|[2504.05594](http://arxiv.org/abs/2504.05594)|null|
 |**2025-04-08**|**TAPNext: Tracking Any Point (TAP) as Next Token Prediction**|Artem Zholus et.al.|[2504.05579](http://arxiv.org/abs/2504.05579)|null|
@@ -1178,6 +1185,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**A Review of HPC-Accelerated CFD in National Security and Defense**|James Afful et.al.|[2504.07837](http://arxiv.org/abs/2504.07837)|null|
+|**2025-04-10**|**A Hybrid Semantic RAN Protocol Stack Design for 6G System and Its Implementation**|Luhan wang et.al.|[2504.07829](http://arxiv.org/abs/2504.07829)|null|
+|**2025-04-10**|**MMLA: Multi-Environment, Multi-Species, Low-Altitude Aerial Footage Dataset**|Jenna Kline et.al.|[2504.07744](http://arxiv.org/abs/2504.07744)|null|
+|**2025-04-10**|**A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows**|Palak Patel et.al.|[2504.07736](http://arxiv.org/abs/2504.07736)|null|
+|**2025-04-10**|**Finite-temperature real-time properties of magnetic polarons in two-dimensional quantum antiferromagnets**|Toni Guthardt et.al.|[2504.07715](http://arxiv.org/abs/2504.07715)|null|
+|**2025-04-10**|**Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases**|Andrés Bell-Navas et.al.|[2504.07606](http://arxiv.org/abs/2504.07606)|null|
+|**2025-04-10**|**Tuning chirality amplitude at ultrafast timescales**|Hiroki Ueda et.al.|[2504.07599](http://arxiv.org/abs/2504.07599)|null|
+|**2025-04-10**|**MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting**|Minjae Seo et.al.|[2504.07543](http://arxiv.org/abs/2504.07543)|null|
+|**2025-04-10**|**Intelligent DoS and DDoS Detection: A Hybrid GRU-NTM Approach to Network Security**|Caroline Panggabean et.al.|[2504.07478](http://arxiv.org/abs/2504.07478)|null|
+|**2025-04-10**|**Nonlinear Optimal Guidance for Intercepting Moving Targets**|Han Wang et.al.|[2504.07430](http://arxiv.org/abs/2504.07430)|null|
+|**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
+|**2025-04-10**|**WK-Pnet: FM-Based Positioning via Wavelet Packet Decomposition and Knowledge Distillation**|Shilian Zheng et.al.|[2504.07399](http://arxiv.org/abs/2504.07399)|null|
+|**2025-04-10**|**MicroNAS: An Automated Framework for Developing a Fall Detection System**|Seyed Mojtaba Mohasel et.al.|[2504.07397](http://arxiv.org/abs/2504.07397)|null|
+|**2025-04-09**|**CiMBA: Accelerating Genome Sequencing through On-Device Basecalling via Compute-in-Memory**|William Andrew Simon et.al.|[2504.07298](http://arxiv.org/abs/2504.07298)|null|
+|**2025-04-09**|**Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm**|Amin Vahidi-Moghaddam et.al.|[2504.07292](http://arxiv.org/abs/2504.07292)|null|
+|**2025-04-09**|**Enabling Continuous 5G Connectivity in Aircraft through Low Earth Orbit Satellites**|Raúl Parada et.al.|[2504.07262](http://arxiv.org/abs/2504.07262)|null|
+|**2025-04-09**|**Visual-Aware Speech Recognition for Noisy Scenarios**|Lakshmipathi Balaji et.al.|[2504.07229](http://arxiv.org/abs/2504.07229)|null|
+|**2025-04-09**|**Discovery of extreme Quasi-Periodic Eruptions in a newly accreting massive black hole**|Lorena Hernández-García et.al.|[2504.07169](http://arxiv.org/abs/2504.07169)|null|
 |**2025-04-09**|**OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**|Jiacheng Liu et.al.|[2504.07096](http://arxiv.org/abs/2504.07096)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
 |**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
@@ -1973,6 +1998,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858](http://arxiv.org/abs/2504.07858)|null|
+|**2025-04-10**|**SlimSpeech: Lightweight and Efficient Text-to-Speech with Slim Rectified Flow**|Kaidi Wang et.al.|[2504.07776](http://arxiv.org/abs/2504.07776)|null|
 |**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593](http://arxiv.org/abs/2504.06593)|null|
 |**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-08**|**AVENet: Disentangling Features by Approximating Average Features for Voice Conversion**|Wenyu Wang et.al.|[2504.05833](http://arxiv.org/abs/2504.05833)|null|

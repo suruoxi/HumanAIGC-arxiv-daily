@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.04.10
+### Updated on 2025.04.11
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**|Zhihua Xu et.al.|[2504.05746](http://arxiv.org/abs/2504.05746)|null|
 |**2025-04-08**|**Contrastive Decoupled Representation Learning and Regularization for Speech-Preserving Facial Expression Manipulation**|Tianshui Chen et.al.|[2504.05672](http://arxiv.org/abs/2504.05672)|null|
@@ -703,7 +704,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Image Animation
 
@@ -805,12 +806,15 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
+|**2025-04-10**|**Diffusion Transformers for Tabular Data Time Series Generation**|Fabrizio Garuti et.al.|[2504.07566](http://arxiv.org/abs/2504.07566)|null|
 |**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
@@ -1034,7 +1038,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## TryOn
 
@@ -1073,13 +1077,16 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Visual Edit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|null|
+|**2025-04-10**|**Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**|Chenxi Sun et.al.|[2504.07424](http://arxiv.org/abs/2504.07424)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
+|**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model**|Qi Mao et.al.|[2504.05594](http://arxiv.org/abs/2504.05594)|null|
 |**2025-04-08**|**TAPNext: Tracking Any Point (TAP) as Next Token Prediction**|Artem Zholus et.al.|[2504.05579](http://arxiv.org/abs/2504.05579)|null|
@@ -1191,12 +1198,30 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Others
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**A Review of HPC-Accelerated CFD in National Security and Defense**|James Afful et.al.|[2504.07837](http://arxiv.org/abs/2504.07837)|null|
+|**2025-04-10**|**A Hybrid Semantic RAN Protocol Stack Design for 6G System and Its Implementation**|Luhan wang et.al.|[2504.07829](http://arxiv.org/abs/2504.07829)|null|
+|**2025-04-10**|**MMLA: Multi-Environment, Multi-Species, Low-Altitude Aerial Footage Dataset**|Jenna Kline et.al.|[2504.07744](http://arxiv.org/abs/2504.07744)|null|
+|**2025-04-10**|**A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows**|Palak Patel et.al.|[2504.07736](http://arxiv.org/abs/2504.07736)|null|
+|**2025-04-10**|**Finite-temperature real-time properties of magnetic polarons in two-dimensional quantum antiferromagnets**|Toni Guthardt et.al.|[2504.07715](http://arxiv.org/abs/2504.07715)|null|
+|**2025-04-10**|**Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases**|Andrés Bell-Navas et.al.|[2504.07606](http://arxiv.org/abs/2504.07606)|null|
+|**2025-04-10**|**Tuning chirality amplitude at ultrafast timescales**|Hiroki Ueda et.al.|[2504.07599](http://arxiv.org/abs/2504.07599)|null|
+|**2025-04-10**|**MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting**|Minjae Seo et.al.|[2504.07543](http://arxiv.org/abs/2504.07543)|null|
+|**2025-04-10**|**Intelligent DoS and DDoS Detection: A Hybrid GRU-NTM Approach to Network Security**|Caroline Panggabean et.al.|[2504.07478](http://arxiv.org/abs/2504.07478)|null|
+|**2025-04-10**|**Nonlinear Optimal Guidance for Intercepting Moving Targets**|Han Wang et.al.|[2504.07430](http://arxiv.org/abs/2504.07430)|null|
+|**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
+|**2025-04-10**|**WK-Pnet: FM-Based Positioning via Wavelet Packet Decomposition and Knowledge Distillation**|Shilian Zheng et.al.|[2504.07399](http://arxiv.org/abs/2504.07399)|null|
+|**2025-04-10**|**MicroNAS: An Automated Framework for Developing a Fall Detection System**|Seyed Mojtaba Mohasel et.al.|[2504.07397](http://arxiv.org/abs/2504.07397)|null|
+|**2025-04-09**|**CiMBA: Accelerating Genome Sequencing through On-Device Basecalling via Compute-in-Memory**|William Andrew Simon et.al.|[2504.07298](http://arxiv.org/abs/2504.07298)|null|
+|**2025-04-09**|**Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm**|Amin Vahidi-Moghaddam et.al.|[2504.07292](http://arxiv.org/abs/2504.07292)|null|
+|**2025-04-09**|**Enabling Continuous 5G Connectivity in Aircraft through Low Earth Orbit Satellites**|Raúl Parada et.al.|[2504.07262](http://arxiv.org/abs/2504.07262)|null|
+|**2025-04-09**|**Visual-Aware Speech Recognition for Noisy Scenarios**|Lakshmipathi Balaji et.al.|[2504.07229](http://arxiv.org/abs/2504.07229)|null|
+|**2025-04-09**|**Discovery of extreme Quasi-Periodic Eruptions in a newly accreting massive black hole**|Lorena Hernández-García et.al.|[2504.07169](http://arxiv.org/abs/2504.07169)|null|
 |**2025-04-09**|**OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**|Jiacheng Liu et.al.|[2504.07096](http://arxiv.org/abs/2504.07096)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
 |**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
@@ -1899,7 +1924,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -1990,12 +2015,14 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Speech and Interaction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858](http://arxiv.org/abs/2504.07858)|null|
+|**2025-04-10**|**SlimSpeech: Lightweight and Efficient Text-to-Speech with Slim Rectified Flow**|Kaidi Wang et.al.|[2504.07776](http://arxiv.org/abs/2504.07776)|null|
 |**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593](http://arxiv.org/abs/2504.06593)|null|
 |**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-08**|**AVENet: Disentangling Features by Approximating Average Features for Voice Conversion**|Wenyu Wang et.al.|[2504.05833](http://arxiv.org/abs/2504.05833)|null|
@@ -2087,7 +2114,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 Notes: 
 
