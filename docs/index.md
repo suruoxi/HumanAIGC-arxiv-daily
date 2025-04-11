@@ -12,7 +12,7 @@ layout: default
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**|Zhihua Xu et.al.|[2504.05746](http://arxiv.org/abs/2504.05746)|null|
 |**2025-04-08**|**Contrastive Decoupled Representation Learning and Regularization for Speech-Preserving Facial Expression Manipulation**|Tianshui Chen et.al.|[2504.05672](http://arxiv.org/abs/2504.05672)|null|
-|**2025-04-07**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
+|**2025-04-07**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|**[link](https://github.com/harlanhong/actalker)**|
 |**2025-04-06**|**FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**|Shiyan Liu et.al.|[2504.04427](http://arxiv.org/abs/2504.04427)|null|
 |**2025-04-04**|**A Human Digital Twin Architecture for Knowledge-based Interactions and Context-Aware Conversations**|Abdul Mannan Mohammed et.al.|[2504.03147](http://arxiv.org/abs/2504.03147)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
@@ -815,7 +815,7 @@ layout: default
 |**2025-04-05**|**Multi-identity Human Image Animation with Structural Video Diffusion**|Zhenzhi Wang et.al.|[2504.04126](http://arxiv.org/abs/2504.04126)|null|
 |**2025-04-05**|**Can You Count to Nine? A Human Evaluation Benchmark for Counting Limits in Modern Text-to-Video Models**|Xuyang Guo et.al.|[2504.04051](http://arxiv.org/abs/2504.04051)|null|
 |**2025-04-05**|**DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion**|Maksim Siniukov et.al.|[2504.04010](http://arxiv.org/abs/2504.04010)|null|
-|**2025-04-04**|**Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**|Xuran Ma et.al.|[2504.03140](http://arxiv.org/abs/2504.03140)|null|
+|**2025-04-04**|**Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**|Xuran Ma et.al.|[2504.03140](http://arxiv.org/abs/2504.03140)|**[link](https://github.com/geekguru123/profilingdit)**|
 |**2025-04-04**|**MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition**|Takahiro Shirakawa et.al.|[2504.02361](http://arxiv.org/abs/2504.02361)|null|
 |**2025-04-03**|**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models**|Pascal Chang et.al.|[2504.03072](http://arxiv.org/abs/2504.03072)|null|
 |**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[2504.02918](http://arxiv.org/abs/2504.02918)|null|
@@ -1073,15 +1073,15 @@ layout: default
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model**|Qi Mao et.al.|[2504.05594](http://arxiv.org/abs/2504.05594)|null|
 |**2025-04-08**|**TAPNext: Tracking Any Point (TAP) as Next Token Prediction**|Artem Zholus et.al.|[2504.05579](http://arxiv.org/abs/2504.05579)|null|
-|**2025-04-08**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|null|
+|**2025-04-08**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|**[link](https://github.com/phoenixz810/risebench)**|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
 |**2025-04-07**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641](http://arxiv.org/abs/2504.03641)|null|
 |**2025-04-04**|**Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices**|Yang He et.al.|[2504.03155](http://arxiv.org/abs/2504.03155)|null|
 |**2025-04-03**|**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models**|Pascal Chang et.al.|[2504.03072](http://arxiv.org/abs/2504.03072)|null|
-|**2025-04-03**|**VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**|Xianwei Zhuang et.al.|[2504.02949](http://arxiv.org/abs/2504.02949)|null|
+|**2025-04-03**|**VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**|Xianwei Zhuang et.al.|[2504.02949](http://arxiv.org/abs/2504.02949)|**[link](https://github.com/vargpt-family/vargpt-v1.1)**|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
-|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
+|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|**[link](https://github.com/picotrex/gpt-imgeval)**|
 |**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**FreSca: Unveiling the Scaling Space in Diffusion Models**|Chao Huang et.al.|[2504.02154](http://arxiv.org/abs/2504.02154)|null|
 |**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
@@ -2007,7 +2007,7 @@ layout: default
 |**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
 |**2025-04-05**|**Real-Time Auralization for First-Person Vocal Interaction in Immersive Virtual Environments**|Mauricio Flores-Vargas et.al.|[2504.04075](http://arxiv.org/abs/2504.04075)|null|
 |**2025-04-05**|**VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation**|Yuhao Wang et.al.|[2504.04060](http://arxiv.org/abs/2504.04060)|null|
-|**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|null|
+|**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|**[link](https://github.com/yynil/rwkvtts)**|
 |**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|**[link](https://github.com/jimmyma99/teleantifraud)**|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|

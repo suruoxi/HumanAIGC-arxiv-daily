@@ -629,7 +629,7 @@
 - 2024-05-30, **Audio2Rig: Artist-oriented deep learning tool for facial animation**, Bastien Arcelin et.al., Paper: [http://arxiv.org/abs/2405.20412](http://arxiv.org/abs/2405.20412)
 - 2021-07-20, **Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion**, Suzhen Wang et.al., Paper: [http://arxiv.org/abs/2107.09293](http://arxiv.org/abs/2107.09293), Code: **[https://github.com/wangsuzhen/Audio2Head](https://github.com/wangsuzhen/Audio2Head)**
 - 2019-05-27, **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**, Guanzhong Tian et.al., Paper: [http://arxiv.org/abs/1905.11142](http://arxiv.org/abs/1905.11142)
-- 2025-04-07, **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2504.02542](http://arxiv.org/abs/2504.02542)
+- 2025-04-07, **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2504.02542](http://arxiv.org/abs/2504.02542), Code: **[https://github.com/harlanhong/actalker](https://github.com/harlanhong/actalker)**
 - 2020-03-05, **Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose**, Ran Yi et.al., Paper: [http://arxiv.org/abs/2002.10137](http://arxiv.org/abs/2002.10137), Code: **[https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)**
 - 2023-12-11, **Audio-driven Talking Face Generation by Overcoming Unintended Information Flow**, Dogucan Yaman et.al., Paper: [http://arxiv.org/abs/2307.09368](http://arxiv.org/abs/2307.09368)
 - 2024-07-08, **Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**, Jiacheng Su et.al., Paper: [http://arxiv.org/abs/2407.05577](http://arxiv.org/abs/2407.05577)
@@ -916,7 +916,7 @@
 - 2025-03-18, **MusicInfuser: Making Video Diffusion Listen and Dance**, Susung Hong et.al., Paper: [http://arxiv.org/abs/2503.14505](http://arxiv.org/abs/2503.14505)
 - 2025-04-05, **Multi-identity Human Image Animation with Structural Video Diffusion**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2504.04126](http://arxiv.org/abs/2504.04126)
 - 2025-04-03, **Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**, Chenyu Zhang et.al., Paper: [http://arxiv.org/abs/2504.02918](http://arxiv.org/abs/2504.02918)
-- 2025-04-04, **Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**, Xuran Ma et.al., Paper: [http://arxiv.org/abs/2504.03140](http://arxiv.org/abs/2504.03140)
+- 2025-04-04, **Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**, Xuran Ma et.al., Paper: [http://arxiv.org/abs/2504.03140](http://arxiv.org/abs/2504.03140), Code: **[https://github.com/geekguru123/profilingdit](https://github.com/geekguru123/profilingdit)**
 - 2025-02-27, **Mobius: Text to Seamless Looping Video Generation via Latent Shift**, Xiuli Bi et.al., Paper: [http://arxiv.org/abs/2502.20307](http://arxiv.org/abs/2502.20307), Code: **[https://github.com/yisuitt/mobius](https://github.com/yisuitt/mobius)**
 - 2025-03-30, **MoCha: Towards Movie-Grade Talking Character Synthesis**, Cong Wei et.al., Paper: [http://arxiv.org/abs/2503.23307](http://arxiv.org/abs/2503.23307)
 - 2025-03-20, **MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**, Haiguang Wang et.al., Paper: [http://arxiv.org/abs/2503.15875](http://arxiv.org/abs/2503.15875), Code: **[https://github.com/xiaomi-mlab/mila.github.io](https://github.com/xiaomi-mlab/mila.github.io)**
@@ -1085,7 +1085,7 @@
 - 2025-02-24, **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**, Xiangpeng Yang et.al., Paper: [http://arxiv.org/abs/2502.17258](http://arxiv.org/abs/2502.17258)
 - 2025-02-14, **VideoDiff: Human-AI Video Co-Creation with Alternatives**, Mina Huh et.al., Paper: [http://arxiv.org/abs/2502.10190](http://arxiv.org/abs/2502.10190)
 - 2025-03-19, **VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**, Shoubin Yu et.al., Paper: [http://arxiv.org/abs/2503.14350](http://arxiv.org/abs/2503.14350)
-- 2025-04-03, **VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**, Xianwei Zhuang et.al., Paper: [http://arxiv.org/abs/2504.02949](http://arxiv.org/abs/2504.02949)
+- 2025-04-03, **VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**, Xianwei Zhuang et.al., Paper: [http://arxiv.org/abs/2504.02949](http://arxiv.org/abs/2504.02949), Code: **[https://github.com/vargpt-family/vargpt-v1.1](https://github.com/vargpt-family/vargpt-v1.1)**
 - 2025-03-11, **VACE: All-in-One Video Creation and Editing**, Zeyinzi Jiang et.al., Paper: [http://arxiv.org/abs/2503.07598](http://arxiv.org/abs/2503.07598)
 - 2025-03-14, **V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**, Yanming Zhang et.al., Paper: [http://arxiv.org/abs/2503.10634](http://arxiv.org/abs/2503.10634)
 - 2025-03-14, **Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**, Ruchika Chavhan et.al., Paper: [http://arxiv.org/abs/2503.11905](http://arxiv.org/abs/2503.11905)
@@ -1149,7 +1149,7 @@
 - 2025-03-05, **GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors**, Yaopei Zeng et.al., Paper: [http://arxiv.org/abs/2503.03944](http://arxiv.org/abs/2503.03944)
 - 2025-03-08, **Get In Video: Add Anything You Want to the Video**, Shaobin Zhuang et.al., Paper: [http://arxiv.org/abs/2503.06268](http://arxiv.org/abs/2503.06268)
 - 2025-03-01, **GenVDM: Generating Vector Displacement Maps From a Single Image**, Yuezhi Yang et.al., Paper: [http://arxiv.org/abs/2503.00605](http://arxiv.org/abs/2503.00605)
-- 2025-04-03, **GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2504.02782](http://arxiv.org/abs/2504.02782)
+- 2025-04-03, **GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2504.02782](http://arxiv.org/abs/2504.02782), Code: **[https://github.com/picotrex/gpt-imgeval](https://github.com/picotrex/gpt-imgeval)**
 - 2025-03-17, **GIFT: Generated Indoor video frames for Texture-less point tracking**, Jianzheng Huang et.al., Paper: [http://arxiv.org/abs/2503.12944](http://arxiv.org/abs/2503.12944)
 - 2025-03-29, **FreeInv: Free Lunch for Improving DDIM Inversion**, Yuxiang Bao et.al., Paper: [http://arxiv.org/abs/2503.23035](http://arxiv.org/abs/2503.23035)
 - 2025-03-20, **FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**, Tianyi Wei et.al., Paper: [http://arxiv.org/abs/2503.16153](http://arxiv.org/abs/2503.16153)
@@ -1161,7 +1161,7 @@
 - 2025-03-17, **FiVE: A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models**, Minghan Li et.al., Paper: [http://arxiv.org/abs/2503.13684](http://arxiv.org/abs/2503.13684)
 - 2025-03-24, **FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing**, Yufan Ren et.al., Paper: [http://arxiv.org/abs/2503.19191](http://arxiv.org/abs/2503.19191)
 - 2025-02-04, **Exploring the latent space of diffusion models directly through singular value decomposition**, Li Wang et.al., Paper: [http://arxiv.org/abs/2502.02225](http://arxiv.org/abs/2502.02225)
-- 2025-04-08, **Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**, Xiangyu Zhao et.al., Paper: [http://arxiv.org/abs/2504.02826](http://arxiv.org/abs/2504.02826)
+- 2025-04-08, **Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**, Xiangyu Zhao et.al., Paper: [http://arxiv.org/abs/2504.02826](http://arxiv.org/abs/2504.02826), Code: **[https://github.com/phoenixz810/risebench](https://github.com/phoenixz810/risebench)**
 - 2025-03-06, **Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**, Rui Jiang et.al., Paper: [http://arxiv.org/abs/2503.04215](http://arxiv.org/abs/2503.04215)
 - 2025-02-04, **Efficient Dynamic Scene Editing via 4D Gaussian-based Static-Dynamic Separation**, JooHyun Kwon et.al., Paper: [http://arxiv.org/abs/2502.02091](http://arxiv.org/abs/2502.02091)
 - 2025-02-04, **EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues**, Rohit Girmaji et.al., Paper: [http://arxiv.org/abs/2502.02172](http://arxiv.org/abs/2502.02172)
@@ -2041,7 +2041,7 @@
 - 2025-02-16, **Recent Advances in Discrete Speech Tokens: A Review**, Yiwei Guo et.al., Paper: [http://arxiv.org/abs/2502.06490](http://arxiv.org/abs/2502.06490)
 - 2025-04-05, **Real-Time Auralization for First-Person Vocal Interaction in Immersive Virtual Environments**, Mauricio Flores-Vargas et.al., Paper: [http://arxiv.org/abs/2504.04075](http://arxiv.org/abs/2504.04075)
 - 2025-02-20, **ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**, Abhijit Mishra et.al., Paper: [http://arxiv.org/abs/2502.14780](http://arxiv.org/abs/2502.14780)
-- 2025-04-04, **RWKVTTS: Yet another TTS based on RWKV-7**, Lin yueyu et.al., Paper: [http://arxiv.org/abs/2504.03289](http://arxiv.org/abs/2504.03289)
+- 2025-04-04, **RWKVTTS: Yet another TTS based on RWKV-7**, Lin yueyu et.al., Paper: [http://arxiv.org/abs/2504.03289](http://arxiv.org/abs/2504.03289), Code: **[https://github.com/yynil/rwkvtts](https://github.com/yynil/rwkvtts)**
 - 2025-03-26, **Qwen2.5-Omni Technical Report**, Jin Xu et.al., Paper: [http://arxiv.org/abs/2503.20215](http://arxiv.org/abs/2503.20215)
 - 2025-03-14, **Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**, Sebastian Möller et.al., Paper: [http://arxiv.org/abs/2503.10298](http://arxiv.org/abs/2503.10298)
 - 2025-03-09, **ProSE: Diffusion Priors for Speech Enhancement**, Sonal Kumar et.al., Paper: [http://arxiv.org/abs/2503.06375](http://arxiv.org/abs/2503.06375)
