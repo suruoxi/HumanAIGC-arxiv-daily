@@ -828,7 +828,7 @@
 - 2025-02-24, **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**, Xiangpeng Yang et.al., Paper: [http://arxiv.org/abs/2502.17258](http://arxiv.org/abs/2502.17258)
 - 2025-03-20, **VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**, Mingzhe Zheng et.al., Paper: [http://arxiv.org/abs/2503.15138](http://arxiv.org/abs/2503.15138)
 - 2025-03-30, **VideoGen-Eval: Agent-based System for Video Generation Evaluation**, Yuhang Yang et.al., Paper: [http://arxiv.org/abs/2503.23452](http://arxiv.org/abs/2503.23452), Code: **[https://github.com/ailab-cvc/videogen-eval](https://github.com/ailab-cvc/videogen-eval)**
-- 2025-04-05, **Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**, Yikai Wang et.al., Paper: [http://arxiv.org/abs/2504.04153](http://arxiv.org/abs/2504.04153)
+- 2025-04-05, **Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**, Yikai Wang et.al., Paper: [http://arxiv.org/abs/2504.04153](http://arxiv.org/abs/2504.04153), Code: **[https://github.com/yikaiw/vidu4d](https://github.com/yikaiw/vidu4d)**
 - 2025-03-24, **Video-T1: Test-Time Scaling for Video Generation**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2503.18942](http://arxiv.org/abs/2503.18942)
 - 2025-04-07, **Video-Bench: Human-Aligned Video Generation Benchmark**, Hui Han et.al., Paper: [http://arxiv.org/abs/2504.04907](http://arxiv.org/abs/2504.04907)
 - 2025-03-05, **Video Super-Resolution: All You Need is a Video Diffusion Model**, Zhihao Zhan et.al., Paper: [http://arxiv.org/abs/2503.03355](http://arxiv.org/abs/2503.03355)
@@ -1129,7 +1129,7 @@
 - 2025-01-24, **MATCHA:Towards Matching Anything**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2501.14945](http://arxiv.org/abs/2501.14945)
 - 2025-02-05, **Lost in Edits? A $λ$ -Compass for AIGC Provenance**, Wenhao You et.al., Paper: [http://arxiv.org/abs/2502.04364](http://arxiv.org/abs/2502.04364)
 - 2025-03-30, **Leveraging Vision-Language Foundation Models to Reveal Hidden Image-Attribute Relationships in Medical Imaging**, Amar Kumar et.al., Paper: [http://arxiv.org/abs/2503.23618](http://arxiv.org/abs/2503.23618)
-- 2025-04-10, **Learning Universal Features for Generalizable Image Forgery Localization**, Hengrun Zhao et.al., Paper: [http://arxiv.org/abs/2504.07462](http://arxiv.org/abs/2504.07462)
+- 2025-04-10, **Learning Universal Features for Generalizable Image Forgery Localization**, Hengrun Zhao et.al., Paper: [http://arxiv.org/abs/2504.07462](http://arxiv.org/abs/2504.07462), Code: **[https://github.com/zhaohengrun/gifl](https://github.com/zhaohengrun/gifl)**
 - 2025-03-14, **LUSD: Localized Update Score Distillation for Text-Guided Image Editing**, Worameth Chinchuthakun et.al., Paper: [http://arxiv.org/abs/2503.11054](http://arxiv.org/abs/2503.11054), Code: **[https://github.com/sincostanx/lusd](https://github.com/sincostanx/lusd)**
 - 2025-03-28, **LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**, Achint Soni et.al., Paper: [http://arxiv.org/abs/2503.21541](http://arxiv.org/abs/2503.21541), Code: **[https://github.com/locatedit/locatedit](https://github.com/locatedit/locatedit)**
 - 2025-02-25, **KV-Edit: Training-Free Image Editing for Precise Background Preservation**, Tianrui Zhu et.al., Paper: [http://arxiv.org/abs/2502.17363](http://arxiv.org/abs/2502.17363), Code: **[https://github.com/Xilluill/KV-Edit](https://github.com/Xilluill/KV-Edit)**
