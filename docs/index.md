@@ -3,11 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.13
+### Updated on 2025.04.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**ChildlikeSHAPES: Semantic Hierarchical Region Parsing for Animating Figure Drawings**|Astitva Srivastava et.al.|[2504.08022](http://arxiv.org/abs/2504.08022)|null|
 |**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**|Zhihua Xu et.al.|[2504.05746](http://arxiv.org/abs/2504.05746)|null|
@@ -799,6 +800,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685](http://arxiv.org/abs/2504.08685)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
+|**2025-04-11**|**EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model**|Renda Li et.al.|[2504.08344](http://arxiv.org/abs/2504.08344)|null|
+|**2025-04-11**|**RealCam-Vid: High-resolution Video Dataset with Dynamic Scenes and Metric-scale Camera Movements**|Guangcong Zheng et.al.|[2504.08212](http://arxiv.org/abs/2504.08212)|null|
+|**2025-04-11**|**TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation**|Ruineng Li et.al.|[2504.08181](http://arxiv.org/abs/2504.08181)|null|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
 |**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
 |**2025-04-10**|**Diffusion Transformers for Tabular Data Time Series Generation**|Fabrizio Garuti et.al.|[2504.07566](http://arxiv.org/abs/2504.07566)|null|
@@ -1029,6 +1036,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**|Ren Li et.al.|[2504.08353](http://arxiv.org/abs/2504.08353)|null|
+|**2025-04-11**|**VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction**|Zijian He et.al.|[2503.12165](http://arxiv.org/abs/2503.12165)|null|
 |**2025-04-04**|**From Keypoints to Realism: A Realistic and Accurate Virtual Try-on Network from 2D Images**|Maliheh Toozandehjani et.al.|[2504.03807](http://arxiv.org/abs/2504.03807)|null|
 |**2025-04-03**|**MAD: Makeup All-in-One with Cross-Domain Diffusion Model**|Bo-Kai Ruan et.al.|[2504.02545](http://arxiv.org/abs/2504.02545)|null|
 |**2025-04-01**|**Diffusion Model-Based Size Variable Virtual Try-On Technology and Evaluation Method**|Shufang Zhang et.al.|[2504.00562](http://arxiv.org/abs/2504.00562)|null|
@@ -1039,7 +1048,6 @@ layout: default
 |**2025-03-18**|**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**|Yong Zhong et.al.|[2503.14151](http://arxiv.org/abs/2503.14151)|null|
 |**2025-03-18**|**Limb-Aware Virtual Try-On Network with Progressive Clothing Warping**|Shengping Zhang et.al.|[2503.14074](http://arxiv.org/abs/2503.14074)|**[link](https://github.com/aipixel/pl-vtonv2)**|
 |**2025-03-16**|**Progressive Limb-Aware Virtual Try-On**|Xiaoyu Han et.al.|[2503.12588](http://arxiv.org/abs/2503.12588)|null|
-|**2025-03-15**|**VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction**|Zijian He et.al.|[2503.12165](http://arxiv.org/abs/2503.12165)|null|
 |**2025-03-15**|**ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text**|Haifeng Ni et.al.|[2501.16757](http://arxiv.org/abs/2501.16757)|null|
 |**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650](http://arxiv.org/abs/2503.08650)|null|
 |**2025-03-11**|**RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency**|Siqi Li et.al.|[2501.08682](http://arxiv.org/abs/2501.08682)|null|
@@ -1066,6 +1074,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
+|**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111](http://arxiv.org/abs/2504.08111)|null|
 |**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|**[link](https://github.com/zhaohengrun/gifl)**|
 |**2025-04-10**|**Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**|Chenxi Sun et.al.|[2504.07424](http://arxiv.org/abs/2504.07424)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
@@ -1185,6 +1195,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694](http://arxiv.org/abs/2504.08694)|null|
+|**2025-04-11**|**Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**|Xiaobing Dai et.al.|[2504.08661](http://arxiv.org/abs/2504.08661)|null|
+|**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|null|
+|**2025-04-11**|**Enhancing Neutrino Reconstruction in Water-Cherenkov Air Shower Arrays Using Multi-Photosensors**|J. Alvarez-Muñiz et.al.|[2504.08652](http://arxiv.org/abs/2504.08652)|null|
+|**2025-04-11**|**TorchFX: A modern approach to Audio DSP with PyTorch and GPU acceleration**|Matteo Spanio et.al.|[2504.08624](http://arxiv.org/abs/2504.08624)|null|
+|**2025-04-11**|**Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies**|Vineeth Sai Narajala et.al.|[2504.08623](http://arxiv.org/abs/2504.08623)|null|
+|**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603](http://arxiv.org/abs/2504.08603)|null|
+|**2025-04-11**|**POD-Based Sparse Stochastic Estimation of Wind Turbine Blade Vibrations**|Lorenzo Schena et.al.|[2504.08505](http://arxiv.org/abs/2504.08505)|null|
+|**2025-04-11**|**AI-Driven Smart Sportswear for Real-Time Fitness Monitoring Using Textile Strain Sensors**|Chenyu Tang et.al.|[2504.08500](http://arxiv.org/abs/2504.08500)|null|
+|**2025-04-11**|**A Comparative Study of Recommender Systems under Big Data Constraints**|Arimondo Scrivano et.al.|[2504.08457](http://arxiv.org/abs/2504.08457)|null|
+|**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|null|
+|**2025-04-11**|**The Composite Visual-Laser Navigation Method Applied in Indoor Poultry Farming Environments**|Jiafan Lu et.al.|[2504.08431](http://arxiv.org/abs/2504.08431)|null|
+|**2025-04-11**|**Light-YOLOv8-Flame: A Lightweight High-Performance Flame Detection Algorithm**|Jiawei Lan et.al.|[2504.08389](http://arxiv.org/abs/2504.08389)|null|
+|**2025-04-11**|**MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft**|Junliang Guo et.al.|[2504.08388](http://arxiv.org/abs/2504.08388)|null|
+|**2025-04-11**|**PCA-RAG: Principal Component Analysis for Efficient Retrieval-Augmented Generation**|Arman Khaledian et.al.|[2504.08386](http://arxiv.org/abs/2504.08386)|null|
+|**2025-04-11**|**DRIP: DRop unImportant data Points -- Enhancing Machine Learning Efficiency with Grad-CAM-Based Real-Time Data Prioritization for On-Device Training**|Marcus Rüb et.al.|[2504.08364](http://arxiv.org/abs/2504.08364)|null|
+|**2025-04-11**|**RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments**|Zhang Zhaopeng et.al.|[2504.08338](http://arxiv.org/abs/2504.08338)|null|
+|**2025-04-11**|**Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing**|Tobias Pfandzelter et.al.|[2504.08337](http://arxiv.org/abs/2504.08337)|null|
+|**2025-04-11**|**Towards a Digital Twin of Noisy Quantum Computers: Calibration-Driven Emulation of Transmon Qubits**|Ronny Müller et.al.|[2504.08313](http://arxiv.org/abs/2504.08313)|null|
+|**2025-04-11**|**Gigabit-rate Quantum Key Distribution on Integrated Photonic Chips**|Si Qi Ng et.al.|[2504.08298](http://arxiv.org/abs/2504.08298)|null|
 |**2025-04-10**|**A Review of HPC-Accelerated CFD in National Security and Defense**|James Afful et.al.|[2504.07837](http://arxiv.org/abs/2504.07837)|null|
 |**2025-04-10**|**A Hybrid Semantic RAN Protocol Stack Design for 6G System and Its Implementation**|Luhan wang et.al.|[2504.07829](http://arxiv.org/abs/2504.07829)|null|
 |**2025-04-10**|**MMLA: Multi-Environment, Multi-Species, Low-Altitude Aerial Footage Dataset**|Jenna Kline et.al.|[2504.07744](http://arxiv.org/abs/2504.07744)|null|
@@ -1909,6 +1939,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input**|Jian Wang et.al.|[2504.08449](http://arxiv.org/abs/2504.08449)|null|
+|**2025-04-11**|**TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation**|Ruineng Li et.al.|[2504.08181](http://arxiv.org/abs/2504.08181)|null|
 |**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
 |**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046](http://arxiv.org/abs/2504.05046)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639](http://arxiv.org/abs/2504.03639)|null|
@@ -1998,6 +2030,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Voice Interaction With Conversational AI Could Facilitate Thoughtful Reflection and Substantive Revision in Writing**|Jiho Kim et.al.|[2504.08687](http://arxiv.org/abs/2504.08687)|null|
+|**2025-04-11**|**Generalized Multilingual Text-to-Speech Generation with Language-Aware Style Adaptation**|Haowei Lou et.al.|[2504.08274](http://arxiv.org/abs/2504.08274)|null|
 |**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858](http://arxiv.org/abs/2504.07858)|null|
 |**2025-04-10**|**SlimSpeech: Lightweight and Efficient Text-to-Speech with Slim Rectified Flow**|Kaidi Wang et.al.|[2504.07776](http://arxiv.org/abs/2504.07776)|null|
 |**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593](http://arxiv.org/abs/2504.06593)|null|
