@@ -1260,7 +1260,7 @@
 - 2025-03-04, **Towards Large Language Model Guided Kernel Direct Fuzzing**, Xie Li et.al., Paper: [http://arxiv.org/abs/2503.02301](http://arxiv.org/abs/2503.02301)
 - 2025-03-25, **Towards Build Optimization Using Digital Twins**, Henri Aïdasso et.al., Paper: [http://arxiv.org/abs/2503.19381](http://arxiv.org/abs/2503.19381)
 - 2025-03-26, **Toward Dynamic Control of Tendon-Driven Continuum Robots using Clarke Transform**, Christian Muhmann et.al., Paper: [http://arxiv.org/abs/2503.20693](http://arxiv.org/abs/2503.20693)
-- 2025-04-11, **TorchFX: A modern approach to Audio DSP with PyTorch and GPU acceleration**, Matteo Spanio et.al., Paper: [http://arxiv.org/abs/2504.08624](http://arxiv.org/abs/2504.08624)
+- 2025-04-11, **TorchFX: A modern approach to Audio DSP with PyTorch and GPU acceleration**, Matteo Spanio et.al., Paper: [http://arxiv.org/abs/2504.08624](http://arxiv.org/abs/2504.08624), Code: **[https://github.com/matteospanio/torchfx](https://github.com/matteospanio/torchfx)**
 - 2025-04-02, **Topological Feature of Real-time Fisher Zeros**, Yuchen Meng et.al., Paper: [http://arxiv.org/abs/2504.01824](http://arxiv.org/abs/2504.01824)
 - 2025-04-11, **TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**, Neil Reichlin et.al., Paper: [http://arxiv.org/abs/2504.08655](http://arxiv.org/abs/2504.08655)
 - 2025-03-17, **Timing the Match: A Deep Reinforcement Learning Approach for Ride-Hailing and Ride-Pooling Services**, Yiman Bao et.al., Paper: [http://arxiv.org/abs/2503.13200](http://arxiv.org/abs/2503.13200)
