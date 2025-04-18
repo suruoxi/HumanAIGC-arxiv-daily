@@ -1086,7 +1086,7 @@
 - 2024-12-19, **FashionComposer: Compositional Fashion Image Generation**, Sihui Ji et.al., Paper: [http://arxiv.org/abs/2412.14168](http://arxiv.org/abs/2412.14168)
 - 2025-03-25, **Exploring Disentangled and Controllable Human Image Synthesis: From End-to-End to Stage-by-Stage**, Zhengwentai Sun et.al., Paper: [http://arxiv.org/abs/2503.19486](http://arxiv.org/abs/2503.19486)
 - 2025-01-08, **Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling**, Nannan Li et.al., Paper: [http://arxiv.org/abs/2501.04666](http://arxiv.org/abs/2501.04666)
-- 2025-04-17, **Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**, Riza Velioglu et.al., Paper: [http://arxiv.org/abs/2504.13078](http://arxiv.org/abs/2504.13078)
+- 2025-04-17, **Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**, Riza Velioglu et.al., Paper: [http://arxiv.org/abs/2504.13078](http://arxiv.org/abs/2504.13078), Code: **[https://github.com/rizavelioglu/tryoffdiff](https://github.com/rizavelioglu/tryoffdiff)**
 - 2025-01-20, **EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**, Mostafa Atef et.al., Paper: [http://arxiv.org/abs/2501.11776](http://arxiv.org/abs/2501.11776)
 - 2025-02-05, **Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**, Xuan Li et.al., Paper: [http://arxiv.org/abs/2502.03449](http://arxiv.org/abs/2502.03449)
 - 2025-01-17, **Disharmony: Forensics using Reverse Lighting Harmonization**, Philip Wootaek Shin et.al., Paper: [http://arxiv.org/abs/2501.10212](http://arxiv.org/abs/2501.10212)
