@@ -717,7 +717,7 @@
 - 2025-04-01, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
 - 2024-06-03, **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2406.01188](http://arxiv.org/abs/2406.01188)
-- 2025-04-15, **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11289](http://arxiv.org/abs/2504.11289)
+- 2025-04-15, **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11289](http://arxiv.org/abs/2504.11289), Code: **[https://github.com/ali-vilab/unianimate-dit](https://github.com/ali-vilab/unianimate-dit)**
 - 2020-12-01, **Ultra-low bitrate video conferencing using deep image animation**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2012.00346](http://arxiv.org/abs/2012.00346)
 - 2010-01-04, **Tutoring System for Dance Learning**, Rajkumar Kannan et.al., Paper: [http://arxiv.org/abs/1001.0440](http://arxiv.org/abs/1001.0440)
 - 2024-03-05, **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**, Weijie Li et.al., Paper: [http://arxiv.org/abs/2403.02827](http://arxiv.org/abs/2403.02827)
@@ -915,7 +915,7 @@
 - 2025-04-08, **Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants**, Nikolaj T. Mücke et.al., Paper: [http://arxiv.org/abs/2504.05852](http://arxiv.org/abs/2504.05852), Code: **[https://github.com/nmucke/StochasticInterpolants.jl](https://github.com/nmucke/StochasticInterpolants.jl)**
 - 2025-02-16, **Phantom: Subject-consistent video generation via cross-modal alignment**, Lijie Liu et.al., Paper: [http://arxiv.org/abs/2502.11079](http://arxiv.org/abs/2502.11079)
 - 2025-04-09, **Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**, Ruotian Peng et.al., Paper: [http://arxiv.org/abs/2504.06666](http://arxiv.org/abs/2504.06666)
-- 2025-04-17, **Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**, Lvmin Zhang et.al., Paper: [http://arxiv.org/abs/2504.12626](http://arxiv.org/abs/2504.12626)
+- 2025-04-17, **Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**, Lvmin Zhang et.al., Paper: [http://arxiv.org/abs/2504.12626](http://arxiv.org/abs/2504.12626), Code: **[https://github.com/lllyasviel/framepack](https://github.com/lllyasviel/framepack)**
 - 2025-03-12, **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**, Chenyu Li et.al., Paper: [http://arxiv.org/abs/2503.09595](http://arxiv.org/abs/2503.09595), Code: **[https://github.com/vision-x-nyu/pisa-experiments](https://github.com/vision-x-nyu/pisa-experiments)**
 - 2025-03-12, **Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2503.09215](http://arxiv.org/abs/2503.09215)
 - 2025-03-12, **Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k**, Xiangyu Peng et.al., Paper: [http://arxiv.org/abs/2503.09642](http://arxiv.org/abs/2503.09642), Code: **[https://github.com/hpcaitech/open-sora](https://github.com/hpcaitech/open-sora)**
@@ -1142,7 +1142,7 @@
 - 2025-02-10, **Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists**, Bojia Zi et.al., Paper: [http://arxiv.org/abs/2502.06734](http://arxiv.org/abs/2502.06734)
 - 2025-03-10, **Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model**, Lixue Gong et.al., Paper: [http://arxiv.org/abs/2503.07703](http://arxiv.org/abs/2503.07703)
 - 2025-02-26, **SVGEditBench V2: A Benchmark for Instruction-based SVG Editing**, Kunato Nishina et.al., Paper: [http://arxiv.org/abs/2502.19453](http://arxiv.org/abs/2502.19453), Code: **[https://github.com/mti-lab/svgeditbenchv2](https://github.com/mti-lab/svgeditbenchv2)**
-- 2025-04-13, **SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**, Kenan Tang et.al., Paper: [http://arxiv.org/abs/2504.09697](http://arxiv.org/abs/2504.09697)
+- 2025-04-13, **SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**, Kenan Tang et.al., Paper: [http://arxiv.org/abs/2504.09697](http://arxiv.org/abs/2504.09697), Code: **[https://github.com/kenantang/spice](https://github.com/kenantang/spice)**
 - 2025-04-10, **Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**, Chenxi Sun et.al., Paper: [http://arxiv.org/abs/2504.07424](http://arxiv.org/abs/2504.07424)
 - 2025-03-24, **Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**, Sicong Feng et.al., Paper: [http://arxiv.org/abs/2503.18386](http://arxiv.org/abs/2503.18386)
 - 2025-03-30, **ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**, Tianming Liang et.al., Paper: [http://arxiv.org/abs/2503.23509](http://arxiv.org/abs/2503.23509), Code: **[https://github.com/isee-laboratory/referdino-plus](https://github.com/isee-laboratory/referdino-plus)**
@@ -1174,7 +1174,7 @@
 - 2025-03-22, **InstructVEdit: A Holistic Approach for Instructional Video Editing**, Chi Zhang et.al., Paper: [http://arxiv.org/abs/2503.17641](http://arxiv.org/abs/2503.17641)
 - 2025-03-25, **Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**, Sherry X. Chen et.al., Paper: [http://arxiv.org/abs/2503.18406](http://arxiv.org/abs/2503.18406), Code: **[https://github.com/sherryxtchen/instruct-clip](https://github.com/sherryxtchen/instruct-clip)**
 - 2025-03-26, **InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction**, Yuhui Wu et.al., Paper: [http://arxiv.org/abs/2503.20287](http://arxiv.org/abs/2503.20287), Code: **[https://github.com/langmanbusi/insvie](https://github.com/langmanbusi/insvie)**
-- 2025-04-17, **Image-Editing Specialists: An RLAIF Approach for Diffusion Models**, Elior Benarous et.al., Paper: [http://arxiv.org/abs/2504.12833](http://arxiv.org/abs/2504.12833)
+- 2025-04-17, **Image-Editing Specialists: An RLAIF Approach for Diffusion Models**, Elior Benarous et.al., Paper: [http://arxiv.org/abs/2504.12833](http://arxiv.org/abs/2504.12833), Code: **[https://github.com/ebenarous/editspecialists](https://github.com/ebenarous/editspecialists)**
 - 2025-02-27, **Identity-preserving Distillation Sampling by Fixed-Point Iterator**, SeonHwa Kim et.al., Paper: [http://arxiv.org/abs/2502.19930](http://arxiv.org/abs/2502.19930)
 - 2025-01-23, **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**, Jiayi Lei et.al., Paper: [http://arxiv.org/abs/2501.13920](http://arxiv.org/abs/2501.13920)
 - 2025-04-03, **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**, Runhui Huang et.al., Paper: [http://arxiv.org/abs/2504.01934](http://arxiv.org/abs/2504.01934)
@@ -1211,7 +1211,7 @@
 - 2025-01-30, **DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**, Ruofan Liang et.al., Paper: [http://arxiv.org/abs/2501.18590](http://arxiv.org/abs/2501.18590)
 - 2025-02-06, **DICE: Distilling Classifier-Free Guidance into Text Embeddings**, Zhenyu Zhou et.al., Paper: [http://arxiv.org/abs/2502.03726](http://arxiv.org/abs/2502.03726)
 - 2025-03-21, **DCEdit: Dual-Level Controlled Image Editing via Precisely Localized Semantics**, Yihan Hu et.al., Paper: [http://arxiv.org/abs/2503.16795](http://arxiv.org/abs/2503.16795)
-- 2025-04-17, **DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**, Mengshi Qi et.al., Paper: [http://arxiv.org/abs/2504.12080](http://arxiv.org/abs/2504.12080)
+- 2025-04-17, **DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**, Mengshi Qi et.al., Paper: [http://arxiv.org/abs/2504.12080](http://arxiv.org/abs/2504.12080), Code: **[https://github.com/zaplm/dc-sam](https://github.com/zaplm/dc-sam)**
 - 2025-03-09, **Consistent Image Layout Editing with Diffusion Models**, Tao Xia et.al., Paper: [http://arxiv.org/abs/2503.06419](http://arxiv.org/abs/2503.06419)
 - 2025-04-03, **Concept Lancet: Image Editing with Compositional Representation Transplant**, Jinqi Luo et.al., Paper: [http://arxiv.org/abs/2504.02828](http://arxiv.org/abs/2504.02828)
 - 2025-03-23, **Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance**, Harang Ju et.al., Paper: [http://arxiv.org/abs/2503.18238](http://arxiv.org/abs/2503.18238)
@@ -1223,7 +1223,7 @@
 - 2025-03-13, **Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**, Armando Fortes et.al., Paper: [http://arxiv.org/abs/2503.08434](http://arxiv.org/abs/2503.08434)
 - 2025-02-26, **Bayesian Optimization for Controlled Image Editing via LLMs**, Chengkun Cai et.al., Paper: [http://arxiv.org/abs/2502.18116](http://arxiv.org/abs/2502.18116)
 - 2025-02-18, **AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**, Ming Xie et.al., Paper: [http://arxiv.org/abs/2502.11158](http://arxiv.org/abs/2502.11158)
-- 2025-04-14, **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**, Taihang Hu et.al., Paper: [http://arxiv.org/abs/2504.10434](http://arxiv.org/abs/2504.10434)
+- 2025-04-14, **Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**, Taihang Hu et.al., Paper: [http://arxiv.org/abs/2504.10434](http://arxiv.org/abs/2504.10434), Code: **[https://github.com/hutaihang/atm](https://github.com/hutaihang/atm)**
 - 2025-04-14, **Analysis of Attention in Video Diffusion Transformers**, Yuxin Wen et.al., Paper: [http://arxiv.org/abs/2504.10317](http://arxiv.org/abs/2504.10317)
 - 2025-03-11, **Aligning Text to Image in Diffusion Models is Easier Than You Think**, Jaa-Yeon Lee et.al., Paper: [http://arxiv.org/abs/2503.08250](http://arxiv.org/abs/2503.08250)
 - 2025-03-12, **Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**, Yifan Zhou et.al., Paper: [http://arxiv.org/abs/2503.09419](http://arxiv.org/abs/2503.09419), Code: **[https://github.com/singlezombie/afldm](https://github.com/singlezombie/afldm)**
@@ -2185,7 +2185,7 @@
 - 2025-04-10, **SlimSpeech: Lightweight and Efficient Text-to-Speech with Slim Rectified Flow**, Kaidi Wang et.al., Paper: [http://arxiv.org/abs/2504.07776](http://arxiv.org/abs/2504.07776)
 - 2025-03-19, **Shushing! Let's Imagine an Authentic Speech from the Silent Video**, Jiaxin Ye et.al., Paper: [http://arxiv.org/abs/2503.14928](http://arxiv.org/abs/2503.14928)
 - 2025-03-06, **Scaling Rich Style-Prompted Text-to-Speech Datasets**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2503.04713](http://arxiv.org/abs/2503.04713), Code: **[https://github.com/ajd12342/paraspeechcaps](https://github.com/ajd12342/paraspeechcaps)**
-- 2025-04-14, **SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis**, Zhisheng Zhang et.al., Paper: [http://arxiv.org/abs/2504.09839](http://arxiv.org/abs/2504.09839)
+- 2025-04-14, **SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis**, Zhisheng Zhang et.al., Paper: [http://arxiv.org/abs/2504.09839](http://arxiv.org/abs/2504.09839), Code: **[https://github.com/wxzyd123/safespeech](https://github.com/wxzyd123/safespeech)**
 - 2025-03-31, **SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**, Ngoc Dung Huynh et.al., Paper: [http://arxiv.org/abs/2503.24164](http://arxiv.org/abs/2503.24164)
 - 2025-04-17, **SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning**, Prabhat Pandey et.al., Paper: [http://arxiv.org/abs/2504.09081](http://arxiv.org/abs/2504.09081)
 - 2025-03-13, **SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**, Dimitri Ognibene et.al., Paper: [http://arxiv.org/abs/2503.10241](http://arxiv.org/abs/2503.10241)
