@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.20
+### Updated on 2025.04.21
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -803,14 +803,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**Vivid4D: Improving 4D Reconstruction from Monocular Video by Video Inpainting**|Jiaxin Huang et.al.|[2504.11092](http://arxiv.org/abs/2504.11092)|null|
 |**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|**[link](https://github.com/lllyasviel/framepack)**|
 |**2025-04-17**|**Understanding Attention Mechanism in Video Diffusion Models**|Bingyan Liu et.al.|[2504.12027](http://arxiv.org/abs/2504.12027)|null|
+|**2025-04-17**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
 |**2025-04-16**|**VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate**|Zhihang Yuan et.al.|[2504.12259](http://arxiv.org/abs/2504.12259)|null|
 |**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048](http://arxiv.org/abs/2504.12048)|null|
 |**2025-04-16**|**The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation**|Bingjie Gao et.al.|[2504.11739](http://arxiv.org/abs/2504.11739)|null|
-|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
-|**2025-04-15**|**Vivid4D: Improving 4D Reconstruction from Monocular Video by Video Inpainting**|Jiaxin Huang et.al.|[2504.11092](http://arxiv.org/abs/2504.11092)|null|
 |**2025-04-15**|**InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation**|Yukang Lin et.al.|[2504.10905](http://arxiv.org/abs/2504.10905)|null|
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
 |**2025-04-14**|**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**|Zhanbo Huang et.al.|[2504.10676](http://arxiv.org/abs/2504.10676)|null|
@@ -2147,7 +2147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-17**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
+|**2025-04-18**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
 |**2025-04-17**|**SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning**|Prabhat Pandey et.al.|[2504.09081](http://arxiv.org/abs/2504.09081)|null|
 |**2025-04-15**|**GOAT-TTS: LLM-based Text-To-Speech Generation Optimized via A Dual-Branch Architecture**|Yaodong Song et.al.|[2504.12339](http://arxiv.org/abs/2504.12339)|null|
 |**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002](http://arxiv.org/abs/2504.11002)|null|
