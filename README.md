@@ -817,6 +817,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
+|**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Ying Li et.al.|[2504.16464](http://arxiv.org/abs/2504.16464)|null|
+|**2025-04-23**|**VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models**|Xuming Hu et.al.|[2504.16359](http://arxiv.org/abs/2504.16359)|null|
 |**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016](http://arxiv.org/abs/2504.16016)|null|
 |**2025-04-22**|**Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning**|Wang Lin et.al.|[2504.15932](http://arxiv.org/abs/2504.15932)|null|
@@ -1272,6 +1275,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
+|**2025-04-23**|**An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**|Shiyao Lv et.al.|[2504.16906](http://arxiv.org/abs/2504.16906)|null|
+|**2025-04-23**|**Reconfigurable Intelligent Surface Control for a Moving Receiver**|Hamed Radpour et.al.|[2504.16874](http://arxiv.org/abs/2504.16874)|null|
+|**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782](http://arxiv.org/abs/2504.16782)|null|
+|**2025-04-23**|**Evaluation Framework for AI Systems in "the Wild"**|Sarah Jabbour et.al.|[2504.16778](http://arxiv.org/abs/2504.16778)|null|
+|**2025-04-23**|**Deep photonic reservoir computer for nonlinear equalization of 16-level quadrature amplitude modulation signals**|Rui-Qian Li et.al.|[2504.16769](http://arxiv.org/abs/2504.16769)|null|
+|**2025-04-23**|**Beating the break-even point with autonomous quantum error correction**|Yi Li et.al.|[2504.16746](http://arxiv.org/abs/2504.16746)|null|
+|**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Pei Lin et.al.|[2504.16649](http://arxiv.org/abs/2504.16649)|null|
+|**2025-04-23**|**Bridging Econometrics and AI: VaR Estimation via Reinforcement Learning and GARCH Models**|Fredy Pokou et.al.|[2504.16635](http://arxiv.org/abs/2504.16635)|null|
+|**2025-04-23**|**Data-Assimilated Model-Based Reinforcement Learning for Partially Observed Chaotic Flows**|Defne E. Ozan et.al.|[2504.16588](http://arxiv.org/abs/2504.16588)|null|
+|**2025-04-23**|**PsyCounAssist: A Full-Cycle AI-Powered Psychological Counseling Assistant System**|Xianghe Liu et.al.|[2504.16573](http://arxiv.org/abs/2504.16573)|null|
+|**2025-04-23**|**A Collaborative Intrusion Detection System Using Snort IDS Nodes**|Tom Davies et.al.|[2504.16550](http://arxiv.org/abs/2504.16550)|null|
+|**2025-04-23**|**6G EdgeAI: Performance Evaluation and Analysis**|Chien-Sheng Yang et.al.|[2504.16529](http://arxiv.org/abs/2504.16529)|null|
+|**2025-04-23**|**Intelligent Depression Prevention via LLM-Based Dialogue Analysis: Overcoming the Limitations of Scale-Dependent Diagnosis through Precise Emotional Pattern Recognition**|Zhenguang Zhong et.al.|[2504.16504](http://arxiv.org/abs/2504.16504)|null|
+|**2025-04-23**|**FeedQUAC: Quick Unobtrusive AI-Generated Commentary**|Tao Long et.al.|[2504.16416](http://arxiv.org/abs/2504.16416)|null|
+|**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[2504.16397](http://arxiv.org/abs/2504.16397)|null|
+|**2025-04-23**|**Fast and Modular Whole-Body Lagrangian Dynamics of Legged Robots with Changing Morphology**|Sahand Farghdani et.al.|[2504.16383](http://arxiv.org/abs/2504.16383)|null|
+|**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[2504.16377](http://arxiv.org/abs/2504.16377)|null|
+|**2025-04-23**|**Fast Online Adaptive Neural MPC via Meta-Learning**|Yu Mei et.al.|[2504.16369](http://arxiv.org/abs/2504.16369)|null|
+|**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368](http://arxiv.org/abs/2504.16368)|null|
 |**2025-04-22**|**PRIME: Fast Primal-Dual Feedback Optimization for Markets with Application to Optimal Power Flow**|Nicholas Julian Behr et.al.|[2504.16048](http://arxiv.org/abs/2504.16048)|null|
 |**2025-04-22**|**A Comparative and Measurement-Based Study on Real-Time Network KPI Extraction Methods for 5G and Beyond Applications**|Batuhan Kaplan et.al.|[2504.16039](http://arxiv.org/abs/2504.16039)|null|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032](http://arxiv.org/abs/2504.16032)|null|
@@ -2158,6 +2181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning**|Yingjie Xi et.al.|[2504.16722](http://arxiv.org/abs/2504.16722)|null|
 |**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
 |**2025-04-20**|**K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics**|Jiwei Li et.al.|[2504.14602](http://arxiv.org/abs/2504.14602)|null|
 |**2025-04-20**|**FlowMotion: Target-Predictive Conditional Flow Matching for Jitter-Reduced Text-Driven Human Motion Generation**|Manolo Canales Cuba et.al.|[2504.01338](http://arxiv.org/abs/2504.01338)|null|
