@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.28
+### Updated on 2025.04.29
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1123,9 +1123,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
 |**2025-04-24**|**VEU-Bench: Towards Comprehensive Understanding of Video Editing**|Bozheng Li et.al.|[2504.17828](http://arxiv.org/abs/2504.17828)|null|
-|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
 |**2025-04-24**|**Enhancing Variational Autoencoders with Smooth Robust Latent Encoding**|Hyomin Lee et.al.|[2504.17219](http://arxiv.org/abs/2504.17219)|null|
 |**2025-04-24**|**Vidi: Large Multimodal Models for Video Understanding and Editing**|Vidi Team et.al.|[2504.15681](http://arxiv.org/abs/2504.15681)|null|
