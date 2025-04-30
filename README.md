@@ -2397,7 +2397,7 @@
 |**2025-04-29**|**Towards Flow-Matching-based TTS without Classifier-Free Guidance**|Yuzhe Liang et.al.|[2504.20334](http://arxiv.org/abs/2504.20334)|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016](http://arxiv.org/abs/2504.20016)|null|
 |**2025-04-27**|**Generative Adversarial Network based Voice Conversion: Techniques, Challenges, and Recent Advancements**|Sandipan Dhar et.al.|[2504.19197](http://arxiv.org/abs/2504.19197)|null|
-|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|null|
+|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|**[link](https://github.com/MYZY-AI/Muyan-TTS)**|
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
 |**2025-04-22**|**A Multi-Agent Framework for Automated Qinqiang Opera Script Generation Using Large Language Models**|Gengxian Cao et.al.|[2504.15552](http://arxiv.org/abs/2504.15552)|null|
 |**2025-04-22**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
