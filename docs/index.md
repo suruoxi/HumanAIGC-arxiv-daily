@@ -3,12 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.29
+### Updated on 2025.04.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for PhotorealisticTalking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
+|**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-27**|**Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions**|Mohammad Mahdi Abootorabi et.al.|[2504.19056](http://arxiv.org/abs/2504.19056)|null|
 |**2025-04-26**|**Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**|Yifan Xie et.al.|[2504.18810](http://arxiv.org/abs/2504.18810)|null|
 |**2025-04-25**|**Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation**|Weipeng Tan et.al.|[2504.18087](http://arxiv.org/abs/2504.18087)|null|
@@ -809,6 +809,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
+|**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
+|**2025-04-29**|**Advance Fake Video Detection via Vision Transformers**|Joy Battocchio et.al.|[2504.20669](http://arxiv.org/abs/2504.20669)|null|
 |**2025-04-28**|**CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition**|Quynh Phung et.al.|[2504.19894](http://arxiv.org/abs/2504.19894)|null|
 |**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614](http://arxiv.org/abs/2504.19614)|null|
 |**2025-04-26**|**Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**|Yifan Xie et.al.|[2504.18810](http://arxiv.org/abs/2504.18810)|null|
@@ -1086,6 +1089,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403](http://arxiv.org/abs/2504.20403)|null|
 |**2025-04-24**|**FashionM3: Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model**|Kaicheng Pang et.al.|[2504.17826](http://arxiv.org/abs/2504.17826)|null|
 |**2025-04-24**|**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**|Min Wei et.al.|[2504.17414](http://arxiv.org/abs/2504.17414)|null|
 |**2025-04-21**|**Shape-Guided Clothing Warping for Virtual Try-On**|Xiaoyu Han et.al.|[2504.15232](http://arxiv.org/abs/2504.15232)|**[link](https://github.com/xyhanhit/scw-vton)**|
@@ -1132,6 +1136,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
+|**2025-04-29**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
 |**2025-04-28**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-27**|**CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes**|Tuan Nguyen et.al.|[2504.19212](http://arxiv.org/abs/2504.19212)|null|
 |**2025-04-26**|**REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models**|Gal Almog et.al.|[2504.18989](http://arxiv.org/abs/2504.18989)|null|
@@ -1281,6 +1287,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
+|**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970](http://arxiv.org/abs/2504.20970)|null|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**Mìmir: A real-time interactive visualization library for CUDA programs**|Francisco Carter et.al.|[2504.20937](http://arxiv.org/abs/2504.20937)|null|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
+|**2025-04-29**|**Integrating Human Feedback into a Reinforcement Learning-Based Framework for Adaptive User Interfaces**|Daniel Gaspar-Figueiredo et.al.|[2504.20782](http://arxiv.org/abs/2504.20782)|null|
+|**2025-04-29**|**An Online Cross-layered Defense Strategy with Bandwidth Allocation for Multi-channel Systems under DoS Attacks**|Liheng Wan et.al.|[2504.20762](http://arxiv.org/abs/2504.20762)|null|
+|**2025-04-29**|**Confidence-based Intent Prediction for Teleoperation in Bimanual Robotic Suturing**|Zhaoyang Jacopo Hu et.al.|[2504.20761](http://arxiv.org/abs/2504.20761)|null|
+|**2025-04-29**|**Graph-Based Fault Diagnosis for Rotating Machinery: Adaptive Segmentation and Structural Feature Integration**|Moirangthem Tiken Singh et.al.|[2504.20756](http://arxiv.org/abs/2504.20756)|null|
+|**2025-04-29**|**Formal and Empirical Study of Metadata-Based Profiling for Resource Management in the Computing Continuum**|Andrea Morichetta et.al.|[2504.20740](http://arxiv.org/abs/2504.20740)|null|
+|**2025-04-29**|**Intelligent Task Offloading in VANETs: A Hybrid AI-Driven Approach for Low-Latency and Energy Efficiency**|Tariq Qayyum et.al.|[2504.20735](http://arxiv.org/abs/2504.20735)|null|
+|**2025-04-29**|**A High-Granularity Proton CT Enhanced by Track Discrimination**|Huang-Chao Shi et.al.|[2504.20698](http://arxiv.org/abs/2504.20698)|null|
+|**2025-04-29**|**Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion**|Zesheng Wang et.al.|[2504.20685](http://arxiv.org/abs/2504.20685)|null|
+|**2025-04-29**|**Quantum Computation for Jets in Heavy Ion Collisions**|Wenyang Qian et.al.|[2504.20683](http://arxiv.org/abs/2504.20683)|null|
+|**2025-04-29**|**FBRT-YOLO: Faster and Better for Real-Time Aerial Image Detection**|Yao Xiao et.al.|[2504.20670](http://arxiv.org/abs/2504.20670)|null|
+|**2025-04-29**|**Quantum-Enhanced Hybrid Reinforcement Learning Framework for Dynamic Path Planning in Autonomous Systems**|Sahil Tomar et.al.|[2504.20660](http://arxiv.org/abs/2504.20660)|null|
+|**2025-04-29**|**PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval**|Zihan Niu et.al.|[2504.20624](http://arxiv.org/abs/2504.20624)|null|
+|**2025-04-29**|**Information Retrieval in the Age of Generative AI: The RGB Model**|Michele Garetto et.al.|[2504.20610](http://arxiv.org/abs/2504.20610)|null|
+|**2025-04-29**|**WakeLoc: An Ultra-Low Power, Accurate and Scalable On-Demand RTLS using Wake-Up Radios**|Silvano Cortesi et.al.|[2504.20545](http://arxiv.org/abs/2504.20545)|null|
+|**2025-04-29**|**Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**|Kazuma Nonomura et.al.|[2504.20542](http://arxiv.org/abs/2504.20542)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
 |**2025-04-28**|**HJRNO: Hamilton-Jacobi Reachability with Neural Operators**|Yankai Li et.al.|[2504.19989](http://arxiv.org/abs/2504.19989)|null|
 |**2025-04-28**|**Real-Time Imitation of Human Head Motions, Blinks and Emotions by Nao Robot: A Closed-Loop Approach**|Keyhan Rayati et.al.|[2504.19985](http://arxiv.org/abs/2504.19985)|null|
@@ -2343,6 +2369,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
+|**2025-04-29**|**ClonEval: An Open Voice Cloning Benchmark**|Iwona Christop et.al.|[2504.20581](http://arxiv.org/abs/2504.20581)|null|
+|**2025-04-29**|**Towards Flow-Matching-based TTS without Classifier-Free Guidance**|Yuzhe Liang et.al.|[2504.20334](http://arxiv.org/abs/2504.20334)|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016](http://arxiv.org/abs/2504.20016)|null|
 |**2025-04-27**|**Generative Adversarial Network based Voice Conversion: Techniques, Challenges, and Recent Advancements**|Sandipan Dhar et.al.|[2504.19197](http://arxiv.org/abs/2504.19197)|null|
 |**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|null|
