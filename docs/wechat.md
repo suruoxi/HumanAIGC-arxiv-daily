@@ -1900,7 +1900,7 @@
 - 2025-04-10, **Finite-temperature real-time properties of magnetic polarons in two-dimensional quantum antiferromagnets**, Toni Guthardt et.al., Paper: [http://arxiv.org/abs/2504.07715](http://arxiv.org/abs/2504.07715)
 - 2025-04-11, **FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**, Sebastián Barbas Laina et.al., Paper: [http://arxiv.org/abs/2504.08603](http://arxiv.org/abs/2504.08603)
 - 2025-02-26, **Few Shot Alternating GD and Minimization for Generalizable Real-Time MRI**, Silpa Babu et.al., Paper: [http://arxiv.org/abs/2502.19220](http://arxiv.org/abs/2502.19220)
-- 2025-04-28, **Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**, Aristide Emanuele Casucci et.al., Paper: [http://arxiv.org/abs/2504.19965](http://arxiv.org/abs/2504.19965)
+- 2025-04-29, **Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**, Aristide Emanuele Casucci et.al., Paper: [http://arxiv.org/abs/2504.19965](http://arxiv.org/abs/2504.19965)
 - 2025-04-23, **FeedQUAC: Quick Unobtrusive AI-Generated Commentary**, Tao Long et.al., Paper: [http://arxiv.org/abs/2504.16416](http://arxiv.org/abs/2504.16416)
 - 2025-03-06, **Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**, Thien Pham et.al., Paper: [http://arxiv.org/abs/2503.04528](http://arxiv.org/abs/2503.04528)
 - 2025-03-05, **Feature Point Extraction for Extra-Affine Image**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2503.03479](http://arxiv.org/abs/2503.03479)

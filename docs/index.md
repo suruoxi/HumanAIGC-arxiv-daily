@@ -1307,11 +1307,11 @@ layout: default
 |**2025-04-29**|**Information Retrieval in the Age of Generative AI: The RGB Model**|Michele Garetto et.al.|[2504.20610](http://arxiv.org/abs/2504.20610)|null|
 |**2025-04-29**|**WakeLoc: An Ultra-Low Power, Accurate and Scalable On-Demand RTLS using Wake-Up Radios**|Silvano Cortesi et.al.|[2504.20545](http://arxiv.org/abs/2504.20545)|null|
 |**2025-04-29**|**Digital Twin-Empowered Cooperative Autonomous Car-sharing Services: Proof-of-Concept**|Kazuma Nonomura et.al.|[2504.20542](http://arxiv.org/abs/2504.20542)|null|
+|**2025-04-29**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965](http://arxiv.org/abs/2504.19965)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
 |**2025-04-28**|**HJRNO: Hamilton-Jacobi Reachability with Neural Operators**|Yankai Li et.al.|[2504.19989](http://arxiv.org/abs/2504.19989)|null|
 |**2025-04-28**|**Real-Time Imitation of Human Head Motions, Blinks and Emotions by Nao Robot: A Closed-Loop Approach**|Keyhan Rayati et.al.|[2504.19985](http://arxiv.org/abs/2504.19985)|null|
 |**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970](http://arxiv.org/abs/2504.19970)|null|
-|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965](http://arxiv.org/abs/2504.19965)|null|
 |**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933](http://arxiv.org/abs/2504.19933)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854](http://arxiv.org/abs/2504.19854)|null|
 |**2025-04-28**|**Optimizing the Charging of Open Quantum Batteries using Long Short-Term Memory-Driven Reinforcement Learning**|Shadab Zakavati et.al.|[2504.19840](http://arxiv.org/abs/2504.19840)|null|
