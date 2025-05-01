@@ -3,11 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.04.30
+### Updated on 2025.05.01
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|null|
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-27**|**Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions**|Mohammad Mahdi Abootorabi et.al.|[2504.19056](http://arxiv.org/abs/2504.19056)|null|
 |**2025-04-26**|**Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**|Yifan Xie et.al.|[2504.18810](http://arxiv.org/abs/2504.18810)|null|
@@ -809,6 +810,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
+|**2025-04-30**|**Simple Visual Artifact Detection in Sora-Generated Videos**|Misora Sugiyama et.al.|[2504.21334](http://arxiv.org/abs/2504.21334)|null|
+|**2025-04-30**|**Capturing Conditional Dependence via Auto-regressive Diffusion Models**|Xunpeng Huang et.al.|[2504.21314](http://arxiv.org/abs/2504.21314)|null|
 |**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
 |**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
 |**2025-04-29**|**Advance Fake Video Detection via Vision Transformers**|Joy Battocchio et.al.|[2504.20669](http://arxiv.org/abs/2504.20669)|null|
@@ -1136,8 +1141,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
 |**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
-|**2025-04-29**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
 |**2025-04-28**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-27**|**CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes**|Tuan Nguyen et.al.|[2504.19212](http://arxiv.org/abs/2504.19212)|null|
 |**2025-04-26**|**REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models**|Gal Almog et.al.|[2504.18989](http://arxiv.org/abs/2504.18989)|null|
@@ -1287,6 +1292,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
+|**2025-04-30**|**Differentiable Room Acoustic Rendering with Multi-View Vision Priors**|Derong Jin et.al.|[2504.21847](http://arxiv.org/abs/2504.21847)|null|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
+|**2025-04-30**|**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**|Xiaoxi Li et.al.|[2504.21776](http://arxiv.org/abs/2504.21776)|null|
+|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
+|**2025-04-30**|**MovementVR: An open-source tool for the study of motor control and learning in virtual reality**|Cristina Rossi et.al.|[2504.21696](http://arxiv.org/abs/2504.21696)|null|
+|**2025-04-30**|**Enhancing Health Mention Classification Performance: A Study on Advancements in Parameter Efficient Tuning**|Reem Abdel-Salam et.al.|[2504.21685](http://arxiv.org/abs/2504.21685)|null|
+|**2025-04-30**|**Effect of eccentric mixing parameters on chaotic characteristics and mixing time for viscous liquid based on sound decibels**|Ronfgang Wang et.al.|[2504.21621](http://arxiv.org/abs/2504.21621)|null|
+|**2025-04-30**|**Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans**|Hannes Reichert et.al.|[2504.21602](http://arxiv.org/abs/2504.21602)|null|
+|**2025-04-30**|**Real-time Program Evaluation using Anytime-valid Rank Tests**|Sam van Meer et.al.|[2504.21595](http://arxiv.org/abs/2504.21595)|null|
+|**2025-04-30**|**Toward Realization of Low-Altitude Economy Networks: Core Architecture, Integrated Technologies, and Future Directions**|Yixian Wang et.al.|[2504.21583](http://arxiv.org/abs/2504.21583)|null|
+|**2025-04-30**|**Scientific Workflow Scheduling in Cloud Considering Cold Start and Variable Pricing Model**|Suvarthi Sarkar et.al.|[2504.21536](http://arxiv.org/abs/2504.21536)|null|
+|**2025-04-30**|**Efficient Conversational Search via Topical Locality in Dense Retrieval**|Cristina Ioana Muntean et.al.|[2504.21507](http://arxiv.org/abs/2504.21507)|null|
+|**2025-04-30**|**Turning a Disposable Bronchoscope into a Dynamic Speckle Imaging Tool: Yes, It Works**|Aurélien plyer et.al.|[2504.21469](http://arxiv.org/abs/2504.21469)|null|
+|**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434](http://arxiv.org/abs/2504.21434)|null|
+|**2025-04-30**|**Enhanced Semi-Supervised Stamping Process Monitoring with Physically-Informed Feature Extraction**|Jianyu Zhang et.al.|[2504.21389](http://arxiv.org/abs/2504.21389)|null|
+|**2025-04-30**|**DGFNet: End-to-End Audio-Visual Source Separation Based on Dynamic Gating Fusion**|Yinfeng Yu et.al.|[2504.21366](http://arxiv.org/abs/2504.21366)|null|
+|**2025-04-30**|**ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality**|Jaewook Lee et.al.|[2504.21360](http://arxiv.org/abs/2504.21360)|null|
+|**2025-04-30**|**Generative QoE Modeling: A Lightweight Approach for Telecom Networks**|Vinti Nayar et.al.|[2504.21353](http://arxiv.org/abs/2504.21353)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
 |**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970](http://arxiv.org/abs/2504.20970)|null|
 |**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
@@ -2369,6 +2394,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
+|**2025-04-30**|**Sadeed: Advancing Arabic Diacritization Through Small Language Model**|Zeina Aldallal et.al.|[2504.21635](http://arxiv.org/abs/2504.21635)|null|
 |**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
 |**2025-04-29**|**ClonEval: An Open Voice Cloning Benchmark**|Iwona Christop et.al.|[2504.20581](http://arxiv.org/abs/2504.20581)|null|
 |**2025-04-29**|**Towards Flow-Matching-based TTS without Classifier-Free Guidance**|Yuzhe Liang et.al.|[2504.20334](http://arxiv.org/abs/2504.20334)|null|
