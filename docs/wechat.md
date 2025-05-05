@@ -1744,7 +1744,7 @@
 - 2025-04-09, **Modeling and analysis methods for early detection of leakage points in gas transmission systems**, Ilgar Aliyev et.al., Paper: [http://arxiv.org/abs/2504.06809](http://arxiv.org/abs/2504.06809)
 - 2025-02-27, **Modeling Driver Behavior in Speed Advisory Systems: Koopman-based Approach with Online Update**, Mehmet Fatih Ozkan et.al., Paper: [http://arxiv.org/abs/2502.20347](http://arxiv.org/abs/2502.20347)
 - 2025-03-26, **Model-free Vehicle Rollover Prevention: A Data-driven Predictive Control Approach**, Mohammad R. Hajidavalloo et.al., Paper: [http://arxiv.org/abs/2503.20705](http://arxiv.org/abs/2503.20705)
-- 2025-05-02, **Model Tensor Planning**, An T. Le et.al., Paper: [http://arxiv.org/abs/2505.01059](http://arxiv.org/abs/2505.01059)
+- 2025-05-02, **Model Tensor Planning**, An T. Le et.al., Paper: [http://arxiv.org/abs/2505.01059](http://arxiv.org/abs/2505.01059), Code: **[https://github.com/anindex/mtp](https://github.com/anindex/mtp)**
 - 2025-04-03, **Model Predictive Control with Visibility Graphs for Humanoid Path Planning and Tracking Against Adversarial Opponents**, Ruochen Hou et.al., Paper: [http://arxiv.org/abs/2504.02184](http://arxiv.org/abs/2504.02184)
 - 2025-03-27, **Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2503.21782](http://arxiv.org/abs/2503.21782), Code: **[https://github.com/amshaker/mobile-videogpt](https://github.com/amshaker/mobile-videogpt)**
 - 2025-04-04, **Mitigating the Impact of Electrode Shift on Classification Performance in Electromyography-Based Motion Prediction Using Sliding-Window Normalization**, Taichi Tanaka et.al., Paper: [http://arxiv.org/abs/2504.03196](http://arxiv.org/abs/2504.03196)
