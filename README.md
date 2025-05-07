@@ -1349,7 +1349,7 @@
 |**2025-05-06**|**Simulation to Reality: Testbeds and Architectures for Connected and Automated Vehicles**|David Klüner et.al.|[2505.03472](http://arxiv.org/abs/2505.03472)|null|
 |**2025-05-06**|**Mitigating Backdoor Triggered and Targeted Data Poisoning Attacks in Voice Authentication Systems**|Alireza Mohammadi et.al.|[2505.03455](http://arxiv.org/abs/2505.03455)|null|
 |**2025-05-06**|**Advancing Remote and Continuous Cardiovascular Patient Monitoring through a Novel and Resource-efficient IoT-Driven Framework**|Sanam Nayab et.al.|[2505.03409](http://arxiv.org/abs/2505.03409)|null|
-|**2025-05-06**|**Quantum Feature Space of a Qubit Coupled to an Arbitrary Bath**|Chris Wise et.al.|[2505.03397](http://arxiv.org/abs/2505.03397)|null|
+|**2025-05-06**|**Quantum Feature Space of a Qubit Coupled to an Arbitrary Bath**|Chris Wise et.al.|[2505.03397](http://arxiv.org/abs/2505.03397)|**[link](https://github.com/ChrisWise07/quantum_feature_space)**|
 |**2025-05-06**|**DroidRetriever: An Autonomous Navigation and Information Integration System Facilitating Mobile Sensemaking**|Yiheng Bian et.al.|[2505.03364](http://arxiv.org/abs/2505.03364)|null|
 |**2025-05-06**|**GUAVA: Generalizable Upper Body 3D Gaussian Avatar**|Dongbin Zhang et.al.|[2505.03351](http://arxiv.org/abs/2505.03351)|null|
 |**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315](http://arxiv.org/abs/2505.03315)|null|
