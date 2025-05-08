@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.05.07
+### Updated on 2025.05.08
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -815,13 +815,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
 |**2025-05-06**|**Transformers for Learning on Noisy and Task-Level Manifolds: Approximation and Generalization Insights**|Zhaiming Shen et.al.|[2505.03205](http://arxiv.org/abs/2505.03205)|null|
 |**2025-05-04**|**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization**|Wenchuan Wang et.al.|[2505.02192](http://arxiv.org/abs/2505.02192)|null|
 |**2025-05-03**|**GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**|Anushka Agarwal et.al.|[2505.01928](http://arxiv.org/abs/2505.01928)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
-|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|null|
-|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|null|
+|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|**[link](https://github.com/zli12321/videohallu)**|
+|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|**[link](https://github.com/josephtitan/freepca)**|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation**|Xuyang Guo et.al.|[2505.00337](http://arxiv.org/abs/2505.00337)|null|
 |**2025-04-30**|**Direct Motion Models for Assessing Generated Videos**|Kelsey Allen et.al.|[2505.00209](http://arxiv.org/abs/2505.00209)|null|
@@ -1157,9 +1158,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
-|**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
-|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
+|**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320](http://arxiv.org/abs/2505.04320)|null|
+|**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
+|**2025-05-06**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|**[link](https://github.com/stepfun-ai/step1x-edit)**|
+|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|**[link](https://github.com/bytedance/superedit)**|
+|**2025-05-04**|**Video Forgery Detection for Surveillance Cameras: A Review**|Noor B. Tayfor et.al.|[2505.03832](http://arxiv.org/abs/2505.03832)|null|
 |**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079](http://arxiv.org/abs/2505.01079)|null|
 |**2025-05-02**|**A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories**|Ziqi Ding et.al.|[2505.01067](http://arxiv.org/abs/2505.01067)|null|
 |**2025-05-02**|**Photoshop Batch Rendering Using Actions for Stylistic Video Editing**|Tessa De La Fuente et.al.|[2505.01001](http://arxiv.org/abs/2505.01001)|null|
@@ -1316,6 +1319,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
+|**2025-05-07**|**Runtime Advocates: A Persona-Driven Framework for Requirements@Runtime Decision Support**|Demetrius Hernandez et.al.|[2505.04551](http://arxiv.org/abs/2505.04551)|null|
+|**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524](http://arxiv.org/abs/2505.04524)|null|
+|**2025-05-07**|**Leveraging Simultaneous Usage of Edge GPU Hardware Engines for Video Face Detection and Recognition**|Asma Baobaid et.al.|[2505.04502](http://arxiv.org/abs/2505.04502)|null|
+|**2025-05-07**|**Estimating Dynamic Soft Continuum Robot States From Boundaries**|Tongjia Zheng et.al.|[2505.04491](http://arxiv.org/abs/2505.04491)|null|
+|**2025-05-07**|**"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**|Ziyi Zhang et.al.|[2505.04488](http://arxiv.org/abs/2505.04488)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**Meta-Learning Driven Lightweight Phase Shift Compression for IRS-Assisted Wireless Systems**|Xianhua Yu et.al.|[2505.04453](http://arxiv.org/abs/2505.04453)|null|
+|**2025-05-07**|**Phase Shift Information Compression in IRS-aided Wireless Systems: Challenges and Opportunities**|Xianhua Yu et.al.|[2505.04449](http://arxiv.org/abs/2505.04449)|null|
+|**2025-05-07**|**SwinLip: An Efficient Visual Speech Encoder for Lip Reading Using Swin Transformer**|Young-Hu Park et.al.|[2505.04394](http://arxiv.org/abs/2505.04394)|null|
+|**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[2505.04392](http://arxiv.org/abs/2505.04392)|null|
+|**2025-05-07**|**Design and Evaluation of an NDN-Based Network for Distributed Digital Twins**|Chen Chen et.al.|[2505.04326](http://arxiv.org/abs/2505.04326)|null|
+|**2025-05-07**|**Massive MIMO: Instantaneous versus Statistical CSI-Based Power Allocation**|Zahra Mobini et.al.|[2505.04294](http://arxiv.org/abs/2505.04294)|null|
+|**2025-05-07**|**Integrated Airline Fleet and Crew Recovery through Local Search**|Philip de Bruin et.al.|[2505.04274](http://arxiv.org/abs/2505.04274)|null|
+|**2025-05-07**|**RGB-Event Fusion with Self-Attention for Collision Prediction**|Pietro Bonazzi et.al.|[2505.04258](http://arxiv.org/abs/2505.04258)|null|
+|**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[2505.04231](http://arxiv.org/abs/2505.04231)|null|
+|**2025-05-07**|**An Enhanced YOLOv8 Model for Real-Time and Accurate Pothole Detection and Measurement**|Mustafa Yurdakul et.al.|[2505.04207](http://arxiv.org/abs/2505.04207)|null|
+|**2025-05-07**|**Spatial-Wavelength Multiplexing Reliable Photonic Integrated General-Purpose Analog Computing System**|Tao Zhu et.al.|[2505.04197](http://arxiv.org/abs/2505.04197)|null|
+|**2025-05-07**|**Beyond Task Performance: Human Experience in Human-Robot Collaboration**|Sean Kille et.al.|[2505.04182](http://arxiv.org/abs/2505.04182)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[2505.03695](http://arxiv.org/abs/2505.03695)|null|
@@ -2400,7 +2423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
+|**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
 |**2025-05-05**|**TSTMotion: Training-free Scene-aware Text-to-motion Generation**|Ziyan Guo et.al.|[2505.01182](http://arxiv.org/abs/2505.01182)|null|
@@ -2505,12 +2528,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|null|
+|**2025-05-07**|**Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**|Xueyao Zhang et.al.|[2505.04113](http://arxiv.org/abs/2505.04113)|null|
+|**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**SonicRAG : High Fidelity Sound Effects Synthesis Based on Retrival Augmented Generation**|Yu-Ren Guo et.al.|[2505.03244](http://arxiv.org/abs/2505.03244)|null|
+|**2025-05-05**|**GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation**|Kangsheng Wang et.al.|[2505.03846](http://arxiv.org/abs/2505.03846)|null|
 |**2025-05-05**|**Generating Narrated Lecture Videos from Slides with Synchronized Highlights**|Alexander Holmberg et.al.|[2505.02966](http://arxiv.org/abs/2505.02966)|null|
-|**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|null|
-|**2025-05-05**|**LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis**|Qingkai Fang et.al.|[2505.02625](http://arxiv.org/abs/2505.02625)|null|
-|**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
+|**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|**[link](https://github.com/maitrix-org/voila)**|
+|**2025-05-05**|**LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis**|Qingkai Fang et.al.|[2505.02625](http://arxiv.org/abs/2505.02625)|**[link](https://github.com/ictnlp/llama-omni2)**|
 |**2025-05-02**|**Grounding Task Assistance with Multimodal Cues from a Single Demonstration**|Gabriel Sarch et.al.|[2505.01578](http://arxiv.org/abs/2505.01578)|null|
 |**2025-05-02**|**Towards Flow-Matching-based TTS without Classifier-Free Guidance**|Yuzhe Liang et.al.|[2504.20334](http://arxiv.org/abs/2504.20334)|null|
 |**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
