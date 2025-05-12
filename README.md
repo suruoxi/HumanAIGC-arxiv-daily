@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**OXSeg: Multidimensional attention UNet-based lip segmentation using semi-supervised lip contours**|Hanie Moghaddasi et.al.|[2505.05531](http://arxiv.org/abs/2505.05531)|null|
 |**2025-05-03**|**OT-Talk: Animating 3D Talking Head with Optimal Transportation**|Xinmu Wang et.al.|[2505.01932](http://arxiv.org/abs/2505.01932)|null|
 |**2025-05-03**|**GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**|Anushka Agarwal et.al.|[2505.01928](http://arxiv.org/abs/2505.01928)|null|
 |**2025-05-02**|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|Yifang Pan et.al.|[2505.01319](http://arxiv.org/abs/2505.01319)|null|
@@ -1344,6 +1345,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
+|**2025-05-09**|**Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework**|Alice Rueda et.al.|[2505.06151](http://arxiv.org/abs/2505.06151)|null|
+|**2025-05-09**|**S2MNet: Speckle-To-Mesh Net for Three-Dimensional Cardiac Morphology Reconstruction via Echocardiogram**|Xilin Gong et.al.|[2505.06105](http://arxiv.org/abs/2505.06105)|null|
+|**2025-05-09**|**HashKitty: Distributed Password Analysis**|Pedro Antunes et.al.|[2505.06084](http://arxiv.org/abs/2505.06084)|null|
+|**2025-05-09**|**Centralized Decision-Making for Platooning By Using SPaT-Driven Reference Speeds**|Melih Yazgan et.al.|[2505.06071](http://arxiv.org/abs/2505.06071)|null|
+|**2025-05-09**|**Context Informed Incremental Learning Improves Myoelectric Control Performance in Virtual Reality Object Manipulation Tasks**|Gabriel Gagné et.al.|[2505.06064](http://arxiv.org/abs/2505.06064)|null|
+|**2025-05-09**|**Fast Differentiable Modal Simulation of Non-linear Strings, Membranes, and Plates**|Rodrigo Diaz et.al.|[2505.05940](http://arxiv.org/abs/2505.05940)|null|
+|**2025-05-09**|**Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**|Francesco Prignoli et.al.|[2505.05933](http://arxiv.org/abs/2505.05933)|null|
+|**2025-05-09**|**Multi-armed Bandit for Stochastic Shortest Path in Mixed Autonomy**|Yu Bai et.al.|[2505.05878](http://arxiv.org/abs/2505.05878)|null|
+|**2025-05-09**|**DaringFed: A Dynamic Bayesian Persuasion Pricing for Online Federated Learning under Two-sided Incomplete Information**|Yun Xin et.al.|[2505.05842](http://arxiv.org/abs/2505.05842)|null|
+|**2025-05-09**|**Human-in-the-Loop AI for HVAC Management Enhancing Comfort and Energy Efficiency**|Xinyu Liang et.al.|[2505.05796](http://arxiv.org/abs/2505.05796)|null|
+|**2025-05-09**|**Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping**|Zhongyuan Liao et.al.|[2505.05725](http://arxiv.org/abs/2505.05725)|null|
+|**2025-05-08**|**An Efficient Transport-Based Dissimilarity Measure for Time Series Classification under Warping Distortions**|Akram Aldroubi et.al.|[2505.05676](http://arxiv.org/abs/2505.05676)|null|
+|**2025-05-08**|**Adaptive Stress Testing Black-Box LLM Planners**|Neeloy Chakraborty et.al.|[2505.05665](http://arxiv.org/abs/2505.05665)|null|
+|**2025-05-08**|**UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**|Mark C. Eid et.al.|[2505.05643](http://arxiv.org/abs/2505.05643)|null|
+|**2025-05-08**|**LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities**|Kalyan Nakka et.al.|[2505.05619](http://arxiv.org/abs/2505.05619)|**[link](https://github.com/kalyan-nakka/litelmguard_mlc-llm)**|
+|**2025-05-08**|**Trading Under Uncertainty: A Distribution-Based Strategy for Futures Markets Using FutureQuant Transformer**|Wenhao Guo et.al.|[2505.05595](http://arxiv.org/abs/2505.05595)|null|
+|**2025-05-08**|**Flight Validation of Learning-Based Trajectory Optimization for the Astrobee Free-Flyer**|Somrita Banerjee et.al.|[2505.05588](http://arxiv.org/abs/2505.05588)|null|
+|**2025-05-08**|**Steepest Descent Density Control for Compact 3D Gaussian Splatting**|Peihao Wang et.al.|[2505.05587](http://arxiv.org/abs/2505.05587)|null|
+|**2025-05-08**|**Quantum-network nodes with real-time noise mitigation using spectator qubits**|S. J. H. Loenen et.al.|[2505.05582](http://arxiv.org/abs/2505.05582)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
@@ -2470,6 +2491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
 |**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
 |**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
 |**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
