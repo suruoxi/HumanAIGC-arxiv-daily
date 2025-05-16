@@ -1372,20 +1372,20 @@
 |**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547](http://arxiv.org/abs/2505.10547)|null|
 |**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537](http://arxiv.org/abs/2505.10537)|null|
 |**2025-05-15**|**Internal State Estimation in Groups via Active Information Gathering**|Xuebo Ji et.al.|[2505.10415](http://arxiv.org/abs/2505.10415)|null|
-|**2025-05-15**|**Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning**|Wenhao Ding et.al.|[2505.10407](http://arxiv.org/abs/2505.10407)|null|
+|**2025-05-15**|**Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning**|Wenhao Ding et.al.|[2505.10407](http://arxiv.org/abs/2505.10407)|**[link](https://github.com/anonymousaneug/aneug)**|
 |**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392](http://arxiv.org/abs/2505.10392)|null|
 |**2025-05-15**|**Arbitrarily Small Execution-Time Certificate: What was Missed in Analog Optimization**|Liang Wu et.al.|[2505.10366](http://arxiv.org/abs/2505.10366)|null|
 |**2025-05-15**|**FactsR: A Safer Method for Producing High Quality Healthcare Documentation**|Victor Petrén Bach Hansen et.al.|[2505.10360](http://arxiv.org/abs/2505.10360)|null|
 |**2025-05-15**|**Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10296](http://arxiv.org/abs/2505.10296)|null|
-|**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|null|
+|**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|**[link](https://github.com/somewordstoolate/quicker)**|
 |**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273](http://arxiv.org/abs/2505.10273)|null|
 |**2025-05-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al.|[2505.10192](http://arxiv.org/abs/2505.10192)|null|
 |**2025-05-15**|**KAITIAN: A Unified Communication Framework for Enabling Efficient Collaboration Across Heterogeneous Accelerators in Embodied AI Systems**|Jieke Lin et.al.|[2505.10183](http://arxiv.org/abs/2505.10183)|null|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
 |**2025-05-15**|**High-performance local automaton decoders for defect matching in 1D**|Louis Paletta et.al.|[2505.10162](http://arxiv.org/abs/2505.10162)|null|
 |**2025-05-15**|**CFARNet: Learning-Based High-Resolution Multi-Target Detection for Rainbow Beam Radar**|Qiushi Liang et.al.|[2505.10150](http://arxiv.org/abs/2505.10150)|null|
-|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|null|
-|**2025-05-15**|**IMITATE: Image Registration with Context for unknown time frame recovery**|Ziad Kheil et.al.|[2505.10124](http://arxiv.org/abs/2505.10124)|null|
+|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
+|**2025-05-15**|**IMITATE: Image Registration with Context for unknown time frame recovery**|Ziad Kheil et.al.|[2505.10124](http://arxiv.org/abs/2505.10124)|**[link](https://github.com/kheil-z/imitate)**|
 |**2025-05-15**|**Learning Virtual Machine Scheduling in Cloud Computing through Language Agents**|JieHao Wu et.al.|[2505.10117](http://arxiv.org/abs/2505.10117)|null|
 |**2025-05-15**|**LAV: Audio-Driven Dynamic Visual Generation with Neural Compression and StyleGAN2**|Jongmin Jung et.al.|[2505.10101](http://arxiv.org/abs/2505.10101)|null|
 |**2025-05-14**|**UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**|Yung-Hsuan Lai et.al.|[2505.09615](http://arxiv.org/abs/2505.09615)|null|
