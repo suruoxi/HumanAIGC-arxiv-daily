@@ -833,7 +833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687](http://arxiv.org/abs/2505.14687)|null|
+|**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687](http://arxiv.org/abs/2505.14687)|**[link](https://github.com/oliverrensu/grat)**|
 |**2025-05-20**|**LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer**|Changgu Chen et.al.|[2505.14167](http://arxiv.org/abs/2505.14167)|null|
 |**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
 |**2025-05-20**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238](http://arxiv.org/abs/2505.10238)|**[link](https://github.com/dingyanb/mtvcrafter)**|
@@ -1404,9 +1404,12 @@
 |**2025-05-20**|**SafetyNet: Detecting Harmful Outputs in LLMs by Modeling and Monitoring Deceptive Behaviors**|Maheep Chaudhary et.al.|[2505.14300](http://arxiv.org/abs/2505.14300)|null|
 |**2025-05-20**|**AquaSignal: An Integrated Framework for Robust Underwater Acoustic Analysis**|Eirini Panteli et.al.|[2505.14285](http://arxiv.org/abs/2505.14285)|null|
 |**2025-05-20**|**Hybrid Adaptive Modeling in Process Monitoring: Leveraging Sequence Encoders and Physics-Informed Neural Networks**|Mouad Elaarabi et.al.|[2505.14252](http://arxiv.org/abs/2505.14252)|null|
-|**2025-05-20**|**Visual Agentic Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2505.14246](http://arxiv.org/abs/2505.14246)|null|
+|**2025-05-20**|**Visual Agentic Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2505.14246](http://arxiv.org/abs/2505.14246)|**[link](https://github.com/liuziyu77/visual-rft)**|
 |**2025-05-20**|**Automatic Dataset Generation for Knowledge Intensive Question Answering Tasks**|Sizhe Yuen et.al.|[2505.14212](http://arxiv.org/abs/2505.14212)|null|
 |**2025-05-20**|**Dynamic Replanning for Improved Public Transport Routing**|Abdallah Abuaisha et.al.|[2505.14193](http://arxiv.org/abs/2505.14193)|null|
+|**2025-05-20**|**QSVM-QNN: Quantum Support Vector Machine Based Quantum Neural Network Learning Algorithm for Brain-Computer Interfacing Systems**|Bikash K. Behera et.al.|[2505.14192](http://arxiv.org/abs/2505.14192)|null|
+|**2025-05-20**|**Gaming Strategies in European Imbalance Settlement Mechanisms**|Seyed Soroush Karimi Madahi et.al.|[2505.14133](http://arxiv.org/abs/2505.14133)|null|
+|**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068](http://arxiv.org/abs/2505.14068)|**[link](https://github.com/cv4ra/sota-place-recognitioner)**|
 |**2025-05-19**|**Quantum Hardware-in-the-Loop for Optimal Power Flow in Renewable-Integrated Power Systems**|Zeynab Kaseb et.al.|[2505.13356](http://arxiv.org/abs/2505.13356)|null|
 |**2025-05-19**|**Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity**|Sharanya Venkatesh et.al.|[2505.13350](http://arxiv.org/abs/2505.13350)|null|
 |**2025-05-19**|**Level Generation with Quantum Reservoir Computing**|João S. Ferreira et.al.|[2505.13287](http://arxiv.org/abs/2505.13287)|null|
