@@ -40,8 +40,5 @@ keywords:
     "Speech and Interaction":
         filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "dialogue", "voice interaction", "multimodal interaction",]
     "Others":
-        filters: ["Vision-Language-Action", "Real time generation", "real time", "multi subject generation", "multi concept generation", "Video Personalization"]
-    "Multimodal":
-        filters: ["Multimodal generation", "audio-video", "audio-visual", "Omni generation"]
-    "Training-free":
-        filters: ["training-free"]
+        filters: ["training-free","Vision-Language-Action", "Real time generation", "real time", "multi subject generation", "multi concept generation", "Video Personalization","Multimodal generation", "audio-video", "audio-visual", "Omni generation"]
+
