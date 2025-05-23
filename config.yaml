@@ -26,7 +26,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
+        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Talking Video",  "Face Reenactment", "Wav2lip", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
     "Image Animation":
         filters: ["Image Animator", "Image Animation"]
     "Video Generation":
@@ -40,5 +40,5 @@ keywords:
     "Speech and Interaction":
         filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "dialogue", "voice interaction", "multimodal interaction",]
     "Others":
-        filters: ["training-free","Vision-Language-Action", "Real time generation", "real time", "multi subject generation", "multi concept generation", "Video Personalization","Multimodal generation", "audio-video", "audio-visual", "Omni generation"]
+        filters: ["training-free","Vision-Language-Action", "Real time generation", "real time", "Video Personalization","Multimodal generation", "audio-video", "audio-visual"]
 
