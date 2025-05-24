@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.05.23
+> Updated on 2025.05.24
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -720,7 +720,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Image Animation
 
@@ -824,7 +824,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Video Generation
 
@@ -955,7 +955,7 @@
 - 2025-05-16, **QVGen: Pushing the Limit of Quantized Video Generative Models**, Yushi Huang et.al., Paper: [http://arxiv.org/abs/2505.11497](http://arxiv.org/abs/2505.11497)
 - 2025-03-26, **Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**, Haitong Liu et.al., Paper: [http://arxiv.org/abs/2503.21824](http://arxiv.org/abs/2503.21824)
 - 2025-04-02, **Proof of Humanity: A Multi-Layer Network Framework for Certifying Human-Originated Content in an AI-Dominated Internet**, Sebastian Barros et.al., Paper: [http://arxiv.org/abs/2504.03752](http://arxiv.org/abs/2504.03752)
-- 2025-05-20, **Programmatic Video Prediction Using Large Language Models**, Hao Tang et.al., Paper: [http://arxiv.org/abs/2505.14948](http://arxiv.org/abs/2505.14948)
+- 2025-05-20, **Programmatic Video Prediction Using Large Language Models**, Hao Tang et.al., Paper: [http://arxiv.org/abs/2505.14948](http://arxiv.org/abs/2505.14948), Code: **[https://github.com/metro-smiles/ProgGen](https://github.com/metro-smiles/ProgGen)**
 - 2025-03-05, **ProReflow: Progressive Reflow with Decomposed Velocity**, Lei Ke et.al., Paper: [http://arxiv.org/abs/2503.04824](http://arxiv.org/abs/2503.04824)
 - 2025-05-10, **ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images**, Xianghao Kong et.al., Paper: [http://arxiv.org/abs/2505.06537](http://arxiv.org/abs/2505.06537)
 - 2025-03-21, **Position: Interactive Generative Video as Next-Generation Game Engine**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2503.17359](http://arxiv.org/abs/2503.17359)
@@ -1162,7 +1162,7 @@
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474](http://arxiv.org/abs/2505.05474), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-03-12, **$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2503.08307](http://arxiv.org/abs/2503.08307)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## TryOn
 
@@ -1211,7 +1211,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1334,7 +1334,7 @@
 - 2025-03-29, **FreeInv: Free Lunch for Improving DDIM Inversion**, Yuxiang Bao et.al., Paper: [http://arxiv.org/abs/2503.23035](http://arxiv.org/abs/2503.23035)
 - 2025-03-20, **FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**, Tianyi Wei et.al., Paper: [http://arxiv.org/abs/2503.16153](http://arxiv.org/abs/2503.16153)
 - 2025-04-02, **FreSca: Unveiling the Scaling Space in Diffusion Models**, Chao Huang et.al., Paper: [http://arxiv.org/abs/2504.02154](http://arxiv.org/abs/2504.02154)
-- 2025-05-21, **FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**, Zhen Sun et.al., Paper: [http://arxiv.org/abs/2505.15644](http://arxiv.org/abs/2505.15644)
+- 2025-05-21, **FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**, Zhen Sun et.al., Paper: [http://arxiv.org/abs/2505.15644](http://arxiv.org/abs/2505.15644), Code: **[https://github.com/Vincent-HKUSTGZ/FragFake](https://github.com/Vincent-HKUSTGZ/FragFake)**
 - 2025-03-28, **Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**, Haijie Yang et.al., Paper: [http://arxiv.org/abs/2503.22225](http://arxiv.org/abs/2503.22225)
 - 2025-04-09, **FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**, Gene Chou et.al., Paper: [http://arxiv.org/abs/2504.07093](http://arxiv.org/abs/2504.07093)
 - 2025-03-29, **FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**, Jun Zhou et.al., Paper: [http://arxiv.org/abs/2503.19839](http://arxiv.org/abs/2503.19839)
@@ -1389,7 +1389,7 @@
 - 2025-05-15, **3D-Fixup: Advancing Photo Editing with 3D Priors**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2505.10566](http://arxiv.org/abs/2505.10566)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Others
 
@@ -2716,7 +2716,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -2843,7 +2843,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3020,7 +3020,7 @@
 - 2025-05-08, **A Multi-Agent AI Framework for Immersive Audiobook Production through Spatial Audio and Neural Narration**, Shaja Arul Selvamani et.al., Paper: [http://arxiv.org/abs/2505.04885](http://arxiv.org/abs/2505.04885)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 Notes: 
 

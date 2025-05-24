@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.05.23
+### Updated on 2025.05.24
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -720,7 +720,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Image Animation
 
@@ -827,7 +827,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Video Generation
 
@@ -843,7 +843,7 @@
 |**2025-05-21**|**CineTechBench: A Benchmark for Cinematographic Technique Understanding and Generation**|Xinran Wang et.al.|[2505.15145](http://arxiv.org/abs/2505.15145)|**[link](https://github.com/pris-cv/cinetechbench)**|
 |**2025-05-21**|**BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation**|Haiquan Wen et.al.|[2505.12620](http://arxiv.org/abs/2505.12620)|**[link](https://github.com/l8cv/busterx)**|
 |**2025-05-21**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
-|**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[2505.14948](http://arxiv.org/abs/2505.14948)|null|
+|**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[2505.14948](http://arxiv.org/abs/2505.14948)|**[link](https://github.com/metro-smiles/ProgGen)**|
 |**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687](http://arxiv.org/abs/2505.14687)|**[link](https://github.com/oliverrensu/grat)**|
 |**2025-05-20**|**LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer**|Changgu Chen et.al.|[2505.14167](http://arxiv.org/abs/2505.14167)|null|
 |**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
@@ -1167,7 +1167,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## TryOn
 
@@ -1218,7 +1218,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1226,7 +1226,7 @@
 |---|---|---|---|---|
 |**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707](http://arxiv.org/abs/2505.16707)|null|
 |**2025-05-22**|**Understanding Generative AI Capabilities in Everyday Image Editing Tasks**|Mohammad Reza Taesiri et.al.|[2505.16181](http://arxiv.org/abs/2505.16181)|null|
-|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
+|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|**[link](https://github.com/Vincent-HKUSTGZ/FragFake)**|
 |**2025-05-20**|**DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model**|Siwei Xia et.al.|[2505.12427](http://arxiv.org/abs/2505.12427)|**[link](https://github.com/sylvie-x/draglora)**|
 |**2025-05-20**|**CompBench: Benchmarking Complex Instruction-guided Image Editing**|Bohan Jia et.al.|[2505.12200](http://arxiv.org/abs/2505.12200)|null|
 |**2025-05-18**|**From Shots to Stories: LLM-Assisted Video Editing with Unified Language Representations**|Yuzhi Li et.al.|[2505.12237](http://arxiv.org/abs/2505.12237)|null|
@@ -1398,7 +1398,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Others
 
@@ -2727,7 +2727,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -2856,7 +2856,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3035,7 +3035,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250524>back to top</a>)</p>
 
 Notes: 
 
