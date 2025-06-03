@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.02
+### Updated on 2025.06.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3075,6 +3075,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling**|Haiyang Sun et.al.|[2505.19669](http://arxiv.org/abs/2505.19669)|null|
 |**2025-05-30**|**ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation**|Jiatong Shi et.al.|[2505.24518](http://arxiv.org/abs/2505.24518)|null|
 |**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
 |**2025-05-30**|**DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec**|Peijie Chen et.al.|[2505.24314](http://arxiv.org/abs/2505.24314)|null|
@@ -3094,7 +3095,6 @@ layout: default
 |**2025-05-26**|**Accelerating Flow-Matching-Based Text-to-Speech via Empirically Pruned Step Sampling**|Qixi Zheng et.al.|[2505.19931](http://arxiv.org/abs/2505.19931)|null|
 |**2025-05-26**|**DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech**|Deok-Hyeon Cho et.al.|[2505.19687](http://arxiv.org/abs/2505.19687)|null|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
-|**2025-05-26**|**Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling**|Haiyang Sun et.al.|[2505.19669](http://arxiv.org/abs/2505.19669)|null|
 |**2025-05-26**|**GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style Adaptor**|Seokgi Lee et.al.|[2505.19384](http://arxiv.org/abs/2505.19384)|null|
 |**2025-05-25**|**SpeakStream: Streaming Text-to-Speech with Interleaved Data**|Richard He Bai et.al.|[2505.19206](http://arxiv.org/abs/2505.19206)|null|
 |**2025-05-25**|**I2MoE: Interpretable Multimodal Interaction-aware Mixture-of-Experts**|Jiayi Xin et.al.|[2505.19190](http://arxiv.org/abs/2505.19190)|**[link](https://github.com/raina-xin/i2moe)**|
