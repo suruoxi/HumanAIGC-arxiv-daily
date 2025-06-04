@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.06.03
+> Updated on 2025.06.04
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -733,7 +733,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Image Animation
 
@@ -839,7 +839,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Video Generation
 
@@ -1233,7 +1233,7 @@
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474](http://arxiv.org/abs/2505.05474), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-03-12, **$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2503.08307](http://arxiv.org/abs/2503.08307)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## TryOn
 
@@ -1287,7 +1287,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1489,7 +1489,7 @@
 - 2025-05-15, **3D-Fixup: Advancing Photo Editing with 3D Priors**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2505.10566](http://arxiv.org/abs/2505.10566)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Others
 
@@ -2936,7 +2936,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -2976,7 +2976,7 @@
 - 2025-04-23, **PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning**, Yingjie Xi et.al., Paper: [http://arxiv.org/abs/2504.16722](http://arxiv.org/abs/2504.16722)
 - 2025-03-23, **PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition**, Dominique Nshimyimana et.al., Paper: [http://arxiv.org/abs/2503.17978](http://arxiv.org/abs/2503.17978)
 - 2025-05-05, **Online Phase Estimation of Human Oscillatory Motions using Deep Learning**, Antonio Grotta et.al., Paper: [http://arxiv.org/abs/2505.02668](http://arxiv.org/abs/2505.02668)
-- 2025-05-24, **One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**, Yahao Fan et.al., Paper: [http://arxiv.org/abs/2505.18780](http://arxiv.org/abs/2505.18780)
+- 2025-06-03, **One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**, Yahao Fan et.al., Paper: [http://arxiv.org/abs/2505.18780](http://arxiv.org/abs/2505.18780)
 - 2025-03-12, **Natural Humanoid Robot Locomotion with Generative Motion Prior**, Haodong Zhang et.al., Paper: [http://arxiv.org/abs/2503.09015](http://arxiv.org/abs/2503.09015)
 - 2025-03-18, **MusicInfuser: Making Video Diffusion Listen and Dance**, Susung Hong et.al., Paper: [http://arxiv.org/abs/2503.14505](http://arxiv.org/abs/2503.14505)
 - 2025-05-19, **Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform**, Li Lin et.al., Paper: [http://arxiv.org/abs/2505.12631](http://arxiv.org/abs/2505.12631), Code: **[https://github.com/xhaughearl/haarmodic](https://github.com/xhaughearl/haarmodic)**
@@ -3079,7 +3079,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3289,7 +3289,7 @@
 - 2025-05-28, **A Linguistically Motivated Analysis of Intonational Phrasing in Text-to-Speech Systems: Revealing Gaps in Syntactic Sensitivity**, Charlotte Pouw et.al., Paper: [http://arxiv.org/abs/2505.22236](http://arxiv.org/abs/2505.22236)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 Notes: 
 

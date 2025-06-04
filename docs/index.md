@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.03
+### Updated on 2025.06.04
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2932,6 +2932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**|Yahao Fan et.al.|[2505.18780](http://arxiv.org/abs/2505.18780)|null|
 |**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
 |**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465](http://arxiv.org/abs/2505.23465)|null|
 |**2025-05-29**|**HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions**|Shuolin Xu et.al.|[2505.22977](http://arxiv.org/abs/2505.22977)|**[link](https://github.com/vivoCameraResearch/Hyper-Motion)**|
@@ -2946,7 +2947,6 @@ layout: default
 |**2025-05-26**|**HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**|Jue Gong et.al.|[2505.19742](http://arxiv.org/abs/2505.19742)|**[link](https://github.com/gobunu/haodiff)**|
 |**2025-05-26**|**SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control**|Haoyu Zhao et.al.|[2505.19463](http://arxiv.org/abs/2505.19463)|null|
 |**2025-05-25**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithani et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
-|**2025-05-24**|**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**|Yahao Fan et.al.|[2505.18780](http://arxiv.org/abs/2505.18780)|null|
 |**2025-05-23**|**How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control**|Kunhang Li et.al.|[2505.21531](http://arxiv.org/abs/2505.21531)|null|
 |**2025-05-23**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
 |**2025-05-21**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|

@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.06.03
+### Updated on 2025.06.04
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -733,7 +733,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Image Animation
 
@@ -842,7 +842,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Video Generation
 
@@ -1238,7 +1238,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## TryOn
 
@@ -1294,7 +1294,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1498,7 +1498,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Others
 
@@ -2947,12 +2947,13 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**|Yahao Fan et.al.|[2505.18780](http://arxiv.org/abs/2505.18780)|null|
 |**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
 |**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465](http://arxiv.org/abs/2505.23465)|null|
 |**2025-05-29**|**HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions**|Shuolin Xu et.al.|[2505.22977](http://arxiv.org/abs/2505.22977)|**[link](https://github.com/vivoCameraResearch/Hyper-Motion)**|
@@ -2967,7 +2968,6 @@
 |**2025-05-26**|**HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**|Jue Gong et.al.|[2505.19742](http://arxiv.org/abs/2505.19742)|**[link](https://github.com/gobunu/haodiff)**|
 |**2025-05-26**|**SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control**|Haoyu Zhao et.al.|[2505.19463](http://arxiv.org/abs/2505.19463)|null|
 |**2025-05-25**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithani et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
-|**2025-05-24**|**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**|Yahao Fan et.al.|[2505.18780](http://arxiv.org/abs/2505.18780)|null|
 |**2025-05-23**|**How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control**|Kunhang Li et.al.|[2505.21531](http://arxiv.org/abs/2505.21531)|null|
 |**2025-05-23**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
 |**2025-05-21**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|
@@ -3092,7 +3092,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3304,7 +3304,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 Notes: 
 
