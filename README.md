@@ -1552,7 +1552,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-04**|**MS-YOLO: A Multi-Scale Model for Accurate and Efficient Blood Cell Detection**|Guohua Wu et.al.|[2506.03972](http://arxiv.org/abs/2506.03972)|null|
-|**2025-06-04**|**FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**|Cédric Léonard et.al.|[2506.03938](http://arxiv.org/abs/2506.03938)|null|
+|**2025-06-04**|**FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**|Cédric Léonard et.al.|[2506.03938](http://arxiv.org/abs/2506.03938)|**[link](https://github.com/CedricLeon/Survey_RS-ML-FPGA)**|
 |**2025-06-04**|**Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks**|Martina Rama et.al.|[2506.03897](http://arxiv.org/abs/2506.03897)|null|
 |**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872](http://arxiv.org/abs/2506.03872)|null|
 |**2025-06-04**|**Construction of Urban Greenland Resources Collaborative Management Platform**|Dongyang Lyu et.al.|[2506.03830](http://arxiv.org/abs/2506.03830)|null|

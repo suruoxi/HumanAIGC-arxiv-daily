@@ -2489,7 +2489,7 @@
 - 2025-02-27, **Fast $\ell_1$ -Regularized EEG Source Localization Using Variable Projection**, Jack Michael Solomon et.al., Paper: [http://arxiv.org/abs/2502.20304](http://arxiv.org/abs/2502.20304)
 - 2025-05-02, **FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**, Yan Miao et.al., Paper: [http://arxiv.org/abs/2505.01383](http://arxiv.org/abs/2505.01383)
 - 2025-05-15, **FactsR: A Safer Method for Producing High Quality Healthcare Documentation**, Victor Petrén Bach Hansen et.al., Paper: [http://arxiv.org/abs/2505.10360](http://arxiv.org/abs/2505.10360)
-- 2025-06-04, **FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**, Cédric Léonard et.al., Paper: [http://arxiv.org/abs/2506.03938](http://arxiv.org/abs/2506.03938)
+- 2025-06-04, **FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**, Cédric Léonard et.al., Paper: [http://arxiv.org/abs/2506.03938](http://arxiv.org/abs/2506.03938), Code: **[https://github.com/CedricLeon/Survey_RS-ML-FPGA](https://github.com/CedricLeon/Survey_RS-ML-FPGA)**
 - 2025-02-27, **FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**, Abhilasha Dave et.al., Paper: [http://arxiv.org/abs/2502.19734](http://arxiv.org/abs/2502.19734)
 - 2025-03-14, **FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**, Ayush Paliwal et.al., Paper: [http://arxiv.org/abs/2503.11538](http://arxiv.org/abs/2503.11538)
 - 2025-04-29, **FBRT-YOLO: Faster and Better for Real-Time Aerial Image Detection**, Yao Xiao et.al., Paper: [http://arxiv.org/abs/2504.20670](http://arxiv.org/abs/2504.20670)
