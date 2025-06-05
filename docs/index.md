@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.04
+### Updated on 2025.06.05
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -840,6 +840,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
 |**2025-06-03**|**Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**|Jiwen Yu et.al.|[2506.03141](http://arxiv.org/abs/2506.03141)|null|
 |**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140](http://arxiv.org/abs/2506.03140)|null|
@@ -851,7 +852,6 @@ layout: default
 |**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
 |**2025-06-03**|**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering**|Xiaoyi Feng et.al.|[2506.02733](http://arxiv.org/abs/2506.02733)|null|
 |**2025-06-03**|**LumosFlow: Motion-Guided Long Video Generation**|Jiahao Chen et.al.|[2506.02497](http://arxiv.org/abs/2506.02497)|null|
-|**2025-06-03**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
 |**2025-06-02**|**Motion aware video generative model**|Bowen Xue et.al.|[2506.02244](http://arxiv.org/abs/2506.02244)|null|
 |**2025-06-02**|**Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control**|Xiao Fu et.al.|[2506.01943](http://arxiv.org/abs/2506.01943)|null|
 |**2025-06-02**|**OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation**|Sen Liang et.al.|[2506.01801](http://arxiv.org/abs/2506.01801)|null|
@@ -1310,11 +1310,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-04**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
 |**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107](http://arxiv.org/abs/2506.03107)|null|
 |**2025-06-03**|**DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing**|Zixiang Li et.al.|[2506.02560](http://arxiv.org/abs/2506.02560)|null|
 |**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
-|**2025-06-03**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
 |**2025-06-02**|**IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout**|Fei Shen et.al.|[2506.01949](http://arxiv.org/abs/2506.01949)|null|
 |**2025-06-02**|**OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation**|Sen Liang et.al.|[2506.01801](http://arxiv.org/abs/2506.01801)|null|
 |**2025-06-02**|**Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation**|Kaihang Pan et.al.|[2506.01480](http://arxiv.org/abs/2506.01480)|null|
@@ -1523,6 +1523,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Adaptive Configuration Selection for Multi-Model Inference Pipelines in Edge Computing**|Jinhao Sheng et.al.|[2506.02814](http://arxiv.org/abs/2506.02814)|null|
+|**2025-06-04**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774](http://arxiv.org/abs/2506.02774)|null|
 |**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
 |**2025-06-03**|**InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**|Zizhao Wu et.al.|[2506.03084](http://arxiv.org/abs/2506.03084)|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
@@ -1532,10 +1534,8 @@ layout: default
 |**2025-06-03**|**CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge**|Chunlin Tian et.al.|[2506.02847](http://arxiv.org/abs/2506.02847)|null|
 |**2025-06-03**|**Process Mining on Distributed Data Sources**|Maximilian Weisenseel et.al.|[2506.02830](http://arxiv.org/abs/2506.02830)|null|
 |**2025-06-03**|**Target Sensing Performance in Disaster-Specific ISAC Networks**|Ahmet Burak Ozyurt et.al.|[2506.02828](http://arxiv.org/abs/2506.02828)|null|
-|**2025-06-03**|**Adaptive Configuration Selection for Multi-Model Inference Pipelines in Edge Computing**|Jinhao Sheng et.al.|[2506.02814](http://arxiv.org/abs/2506.02814)|null|
 |**2025-06-03**|**AI-Driven Vehicle Condition Monitoring with Cell-Aware Edge Service Migration**|Charalampos Kalalas et.al.|[2506.02785](http://arxiv.org/abs/2506.02785)|null|
 |**2025-06-03**|**SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model**|Carlos Garcia-Lopez-de-Haro et.al.|[2506.02783](http://arxiv.org/abs/2506.02783)|null|
-|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774](http://arxiv.org/abs/2506.02774)|null|
 |**2025-06-03**|**RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS**|Chuanyu Fu et.al.|[2506.02751](http://arxiv.org/abs/2506.02751)|null|
 |**2025-06-03**|**Collective Intelligence Outperforms Individual Talent: A Case Study in League of Legends**|Angelo Josey Caldeira et.al.|[2506.02706](http://arxiv.org/abs/2506.02706)|null|
 |**2025-06-03**|**A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction**|Shiyu Shen et.al.|[2506.02654](http://arxiv.org/abs/2506.02654)|null|
@@ -2990,8 +2990,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
-|**2025-06-03**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
 |**2025-06-03**|**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering**|Xiaoyi Feng et.al.|[2506.02733](http://arxiv.org/abs/2506.02733)|null|
 |**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
 |**2025-06-03**|**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**|Yahao Fan et.al.|[2505.18780](http://arxiv.org/abs/2505.18780)|null|
@@ -3141,6 +3141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**MINT: Multimodal Instruction Tuning with Multimodal Interaction Grouping**|Xiaojun Shan et.al.|[2506.02308](http://arxiv.org/abs/2506.02308)|null|
 |**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
 |**2025-06-03**|**Towards a Japanese Full-duplex Spoken Dialogue System**|Atsumoto Ohashi et.al.|[2506.02979](http://arxiv.org/abs/2506.02979)|null|
 |**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958](http://arxiv.org/abs/2506.02958)|null|
@@ -3151,7 +3152,6 @@ layout: default
 |**2025-06-03**|**StarVC: A Unified Auto-Regressive Framework for Joint Text and Speech Generation in Voice Conversion**|Fengjin Li et.al.|[2506.02414](http://arxiv.org/abs/2506.02414)|null|
 |**2025-06-03**|**SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning**|Zhengyuan Liu et.al.|[2506.02412](http://arxiv.org/abs/2506.02412)|null|
 |**2025-06-03**|**Trusted Fake Audio Detection Based on Dirichlet Distribution**|Chi Ding et.al.|[2506.02401](http://arxiv.org/abs/2506.02401)|null|
-|**2025-06-02**|**MINT: Multimodal Instruction Tuning with Multimodal Interaction Grouping**|Xiaojun Shan et.al.|[2506.02308](http://arxiv.org/abs/2506.02308)|null|
 |**2025-06-02**|**Dhvani: A Weakly-supervised Phonemic Error Detection and Personalized Feedback System for Hindi**|Arnav Rustagi et.al.|[2506.02166](http://arxiv.org/abs/2506.02166)|null|
 |**2025-06-02**|**SALF-MOS: Speaker Agnostic Latent Features Downsampled for MOS Prediction**|Saurabh Agrawal et.al.|[2506.02082](http://arxiv.org/abs/2506.02082)|null|
 |**2025-06-02**|**MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments**|Xiao Yang et.al.|[2506.01616](http://arxiv.org/abs/2506.01616)|null|
