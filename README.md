@@ -853,6 +853,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
+|**2025-06-05**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
+|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
+|**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
+|**2025-06-05**|**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**|Akide Liu et.al.|[2506.04648](http://arxiv.org/abs/2506.04648)|null|
+|**2025-06-05**|**Follow-Your-Creation: Empowering 4D Creation through Video Inpainting**|Yue Ma et.al.|[2506.04590](http://arxiv.org/abs/2506.04590)|null|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
 |**2025-06-05**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
@@ -1332,7 +1338,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
+|**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046](http://arxiv.org/abs/2506.05046)|null|
+|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation**|Hermann Kumbong et.al.|[2506.04421](http://arxiv.org/abs/2506.04421)|null|
+|**2025-06-04**|**Is Perturbation-Based Image Protection Disruptive to Image Editing?**|Qiuyu Tang et.al.|[2506.04394](http://arxiv.org/abs/2506.04394)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
 |**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
@@ -1551,6 +1562,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348](http://arxiv.org/abs/2506.05348)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320](http://arxiv.org/abs/2506.05320)|null|
+|**2025-06-05**|**Fast-DataShapley: Neural Modeling for Training Data Valuation**|Haifeng Sun et.al.|[2506.05281](http://arxiv.org/abs/2506.05281)|null|
+|**2025-06-05**|**Vision-Based Autonomous MM-Wave Reflector Using ArUco-Driven Angle-of-Arrival Estimation**|Josue Marroquin et.al.|[2506.05195](http://arxiv.org/abs/2506.05195)|null|
+|**2025-06-05**|**Noise-Driven AI Sensors: Secure Healthcare Monitoring with PUFs**|Christiana Chamon et.al.|[2506.05135](http://arxiv.org/abs/2506.05135)|null|
+|**2025-06-05**|**EDEN: Efficient Dual-Layer Exploration Planning for Fast UAV Autonomous Exploration in Large 3-D Environments**|Qianli Dong et.al.|[2506.05106](http://arxiv.org/abs/2506.05106)|null|
+|**2025-06-05**|**Cloud-Based Interoperability in Residential Energy Systems**|Darren Leniston et.al.|[2506.05076](http://arxiv.org/abs/2506.05076)|null|
+|**2025-06-05**|**PulseRide: A Robotic Wheelchair for Personalized Exertion Control with Human-in-the-Loop Reinforcement Learning**|Azizul Zahid et.al.|[2506.05056](http://arxiv.org/abs/2506.05056)|null|
+|**2025-06-05**|**Mathematical Reasoning for Unmanned Aerial Vehicles: A RAG-Based Approach for Complex Arithmetic Reasoning**|Mehdi Azarafza et.al.|[2506.04998](http://arxiv.org/abs/2506.04998)|null|
+|**2025-06-05**|**En Route Path-planning for Partially Occupied Vehicles in Ride-pooling Systems**|Pengbo Zhu et.al.|[2506.04968](http://arxiv.org/abs/2506.04968)|null|
+|**2025-06-05**|**Organic Crystal Active Waveguide as an All-Angle Signal Receiver and Transmission Platform for Visible Light Communication**|Ankur Khapre et.al.|[2506.04874](http://arxiv.org/abs/2506.04874)|null|
+|**2025-06-05**|**Beyond the Desktop: XR-Driven Segmentation with Meta Quest 3 and MX Ink**|Lisle Faray de Paiva et.al.|[2506.04858](http://arxiv.org/abs/2506.04858)|null|
+|**2025-06-05**|**Deep learning image burst stacking to reconstruct high-resolution ground-based solar observations**|Christoph Schirninger et.al.|[2506.04781](http://arxiv.org/abs/2506.04781)|null|
+|**2025-06-05**|**A high-sensitivity frequency counter for free-induction-decay signals**|Tong Gong et.al.|[2506.04780](http://arxiv.org/abs/2506.04780)|null|
+|**2025-06-05**|**Tire Wear Aware Trajectory Tracking Control for Multi-axle Swerve-drive Autonomous Mobile Robots**|Tianxin Hu et.al.|[2506.04752](http://arxiv.org/abs/2506.04752)|null|
+|**2025-06-05**|**SRD: Reinforcement-Learned Semantic Perturbation for Backdoor Defense in VLMs**|Shuhan Xu et.al.|[2506.04743](http://arxiv.org/abs/2506.04743)|null|
+|**2025-06-05**|**Real-Time LPV-Based Non-Linear Model Predictive Control for Robust Trajectory Tracking in Autonomous Vehicles**|Nitish Kumar et.al.|[2506.04684](http://arxiv.org/abs/2506.04684)|null|
+|**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680](http://arxiv.org/abs/2506.04680)|null|
+|**2025-06-05**|**Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation**|Yuyang Wanyan et.al.|[2506.04614](http://arxiv.org/abs/2506.04614)|null|
 |**2025-06-05**|**Construction of Urban Greenland Resources Collaborative Management Platform**|Dongyang Lyu et.al.|[2506.03830](http://arxiv.org/abs/2506.03830)|null|
 |**2025-06-05**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654](http://arxiv.org/abs/2506.03654)|null|
 |**2025-06-04**|**MS-YOLO: A Multi-Scale Model for Accurate and Efficient Blood Cell Detection**|Guohua Wu et.al.|[2506.03972](http://arxiv.org/abs/2506.03972)|null|
@@ -3040,6 +3071,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117](http://arxiv.org/abs/2506.05117)|**[link](https://github.com/southwestCat/text2motion-nao)**|
+|**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680](http://arxiv.org/abs/2506.04680)|null|
 |**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
@@ -3195,6 +3229,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
+|**2025-06-05**|**Grapheme-Coherent Phonemic and Prosodic Annotation of Speech by Implicit and Explicit Grapheme Conditioning**|Hien Ohnaka et.al.|[2506.04527](http://arxiv.org/abs/2506.04527)|null|
+|**2025-06-04**|**Can we reconstruct a dysarthric voice with the large speech model Parler TTS?**|Ariadna Sanchez et.al.|[2506.04397](http://arxiv.org/abs/2506.04397)|null|
 |**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152](http://arxiv.org/abs/2506.04152)|null|
 |**2025-06-04**|**UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation**|Jinting Wang et.al.|[2506.04134](http://arxiv.org/abs/2506.04134)|null|
 |**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077](http://arxiv.org/abs/2506.04077)|null|
