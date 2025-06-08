@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.06
+### Updated on 2025.06.08
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -17,8 +17,8 @@ layout: default
 |**2025-05-29**|**Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation**|Jiahao Cui et.al.|[2505.23525](http://arxiv.org/abs/2505.23525)|**[link](https://github.com/xyz123xyz456/hallo4)**|
 |**2025-05-29**|**Video Editing for Audio-Visual Dubbing**|Binyamin Manela et.al.|[2505.23406](http://arxiv.org/abs/2505.23406)|**[link](https://github.com/edidub/edidub-results)**|
 |**2025-05-29**|**Wav2Sem: Plug-and-Play Audio Semantic Decoupling for 3D Speech-Driven Facial Animation**|Hao Li et.al.|[2505.23290](http://arxiv.org/abs/2505.23290)|**[link](https://github.com/wslh852/wav2sem)**|
-|**2025-05-29**|**MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**|Siyuan Wang et.al.|[2505.23120](http://arxiv.org/abs/2505.23120)|null|
-|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|null|
+|**2025-05-29**|**MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**|Siyuan Wang et.al.|[2505.23120](http://arxiv.org/abs/2505.23120)|**[link](https://github.com/sia-ide/mmgt)**|
+|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|**[link](https://github.com/meigen-ai/multitalk)**|
 |**2025-05-28**|**Tell me Habibi, is it Real or Fake?**|Kartik Kuckreja et.al.|[2505.22581](http://arxiv.org/abs/2505.22581)|null|
 |**2025-05-28**|**Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**|Sihun Cha et.al.|[2505.22416](http://arxiv.org/abs/2505.22416)|null|
 |**2025-05-28**|**FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**|Guanwen Feng et.al.|[2505.22141](http://arxiv.org/abs/2505.22141)|null|
@@ -1274,7 +1274,7 @@ layout: default
 |**2025-05-26**|**VTBench: Comprehensive Benchmark Suite Towards Real-World Virtual Try-on Models**|Hu Xiaobin et.al.|[2505.19571](http://arxiv.org/abs/2505.19571)|**[link](https://github.com/huuxiaobin/vtbench)**|
 |**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
 |**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|**[link](https://github.com/hidream-ai/spm-diff)**|
-|**2025-05-15**|**Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**|Ren Li et.al.|[2504.08353](http://arxiv.org/abs/2504.08353)|null|
+|**2025-05-15**|**Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**|Ren Li et.al.|[2504.08353](http://arxiv.org/abs/2504.08353)|**[link](https://github.com/liren2515/dmap)**|
 |**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403](http://arxiv.org/abs/2504.20403)|null|
 |**2025-04-24**|**FashionM3: Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model**|Kaicheng Pang et.al.|[2504.17826](http://arxiv.org/abs/2504.17826)|null|
 |**2025-04-24**|**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**|Min Wei et.al.|[2504.17414](http://arxiv.org/abs/2504.17414)|null|

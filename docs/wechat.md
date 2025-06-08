@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.06.06
+> Updated on 2025.06.08
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -310,7 +310,7 @@
 - 2025-03-25, **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**, Yukang Lin et.al., Paper: [http://arxiv.org/abs/2503.19383](http://arxiv.org/abs/2503.19383)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
 - 2024-10-10, **MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**, Sijing Wu et.al., Paper: [http://arxiv.org/abs/2410.07757](http://arxiv.org/abs/2410.07757)
-- 2025-05-29, **MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**, Siyuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23120](http://arxiv.org/abs/2505.23120)
+- 2025-05-29, **MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**, Siyuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23120](http://arxiv.org/abs/2505.23120), Code: **[https://github.com/sia-ide/mmgt](https://github.com/sia-ide/mmgt)**
 - 2023-12-13, **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2303.09797](http://arxiv.org/abs/2303.09797)
 - 2024-01-31, **MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**, Wenhao Guan et.al., Paper: [http://arxiv.org/abs/2312.10687](http://arxiv.org/abs/2312.10687)
 - 2024-09-23, **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**, Yue Han et.al., Paper: [http://arxiv.org/abs/2409.15179](http://arxiv.org/abs/2409.15179)
@@ -329,7 +329,7 @@
 - 2024-07-26, **LinguaLinker: Audio-Driven Portraits Animation with Implicit Facial Control Enhancement**, Rui Zhang et.al., Paper: [http://arxiv.org/abs/2407.18595](http://arxiv.org/abs/2407.18595)
 - 2022-10-21, **Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection**, Alexandros Haliassos et.al., Paper: [http://arxiv.org/abs/2201.07131](http://arxiv.org/abs/2201.07131), Code: **[https://github.com/ahaliassos/RealForensics](https://github.com/ahaliassos/RealForensics)**
 - 2024-11-24, **LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**, Haojie Zhang et.al., Paper: [http://arxiv.org/abs/2411.16748](http://arxiv.org/abs/2411.16748)
-- 2025-05-28, **Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2505.22647](http://arxiv.org/abs/2505.22647)
+- 2025-05-28, **Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2505.22647](http://arxiv.org/abs/2505.22647), Code: **[https://github.com/meigen-ai/multitalk](https://github.com/meigen-ai/multitalk)**
 - 2024-04-02, **Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation**, Taekyung Ki et.al., Paper: [http://arxiv.org/abs/2404.00636](http://arxiv.org/abs/2404.00636)
 - 2024-12-18, **Learning to Control an Android Robot Head for Facial Animation**, Marcel Heisler et.al., Paper: [http://arxiv.org/abs/2412.13641](http://arxiv.org/abs/2412.13641)
 - 2024-02-29, **Learning a Generalized Physical Face Model From Data**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2402.19477](http://arxiv.org/abs/2402.19477)
@@ -738,7 +738,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Image Animation
 
@@ -844,7 +844,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Video Generation
 
@@ -1269,7 +1269,7 @@
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474](http://arxiv.org/abs/2505.05474), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-03-12, **$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2503.08307](http://arxiv.org/abs/2503.08307)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## TryOn
 
@@ -1277,7 +1277,7 @@
 - 2025-04-11, **VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction**, Zijian He et.al., Paper: [http://arxiv.org/abs/2503.12165](http://arxiv.org/abs/2503.12165)
 - 2025-05-26, **VTBench: Comprehensive Benchmark Suite Towards Real-World Virtual Try-on Models**, Hu Xiaobin et.al., Paper: [http://arxiv.org/abs/2505.19571](http://arxiv.org/abs/2505.19571), Code: **[https://github.com/huuxiaobin/vtbench](https://github.com/huuxiaobin/vtbench)**
 - 2025-05-29, **VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**, Ben Li et.al., Paper: [http://arxiv.org/abs/2505.23439](http://arxiv.org/abs/2505.23439), Code: **[https://github.com/minqili/viton-drr-main](https://github.com/minqili/viton-drr-main)**
-- 2025-05-15, **Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**, Ren Li et.al., Paper: [http://arxiv.org/abs/2504.08353](http://arxiv.org/abs/2504.08353)
+- 2025-05-15, **Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**, Ren Li et.al., Paper: [http://arxiv.org/abs/2504.08353](http://arxiv.org/abs/2504.08353), Code: **[https://github.com/liren2515/dmap](https://github.com/liren2515/dmap)**
 - 2025-03-20, **Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model**, Yingmao Miao et.al., Paper: [http://arxiv.org/abs/2503.16065](http://arxiv.org/abs/2503.16065)
 - 2025-04-21, **Shape-Guided Clothing Warping for Virtual Try-On**, Xiaoyu Han et.al., Paper: [http://arxiv.org/abs/2504.15232](http://arxiv.org/abs/2504.15232), Code: **[https://github.com/xyhanhit/scw-vton](https://github.com/xyhanhit/scw-vton)**
 - 2025-03-11, **RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency**, Siqi Li et.al., Paper: [http://arxiv.org/abs/2501.08682](http://arxiv.org/abs/2501.08682)
@@ -1325,7 +1325,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1547,7 +1547,7 @@
 - 2025-05-15, **3D-Fixup: Advancing Photo Editing with 3D Priors**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2505.10566](http://arxiv.org/abs/2505.10566)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Others
 
@@ -3054,7 +3054,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -3210,7 +3210,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3450,7 +3450,7 @@
 - 2025-05-28, **A Linguistically Motivated Analysis of Intonational Phrasing in Text-to-Speech Systems: Revealing Gaps in Syntactic Sensitivity**, Charlotte Pouw et.al., Paper: [http://arxiv.org/abs/2505.22236](http://arxiv.org/abs/2505.22236)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 Notes: 
 
