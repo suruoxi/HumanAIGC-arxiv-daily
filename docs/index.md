@@ -840,8 +840,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
+|**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
 |**2025-06-06**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
 |**2025-06-06**|**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**|Akide Liu et.al.|[2506.04648](http://arxiv.org/abs/2506.04648)|null|
+|**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
 |**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
 |**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
@@ -1265,6 +1268,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On**|Jinjuan Wang et.al.|[2506.05858](http://arxiv.org/abs/2506.05858)|null|
 |**2025-06-02**|**OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation**|Sen Liang et.al.|[2506.01801](http://arxiv.org/abs/2506.01801)|null|
 |**2025-06-01**|**DS-VTON: High-Quality Virtual Try-on via Disentangled Dual-Scale Generation**|Xianbing Sun et.al.|[2506.00908](http://arxiv.org/abs/2506.00908)|null|
 |**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439](http://arxiv.org/abs/2505.23439)|**[link](https://github.com/minqili/viton-drr-main)**|
@@ -1321,7 +1325,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models**|Yifu Qiu et.al.|[2506.06006](http://arxiv.org/abs/2506.06006)|null|
+|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
 |**2025-06-06**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
+|**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
 |**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046](http://arxiv.org/abs/2506.05046)|null|
 |**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
@@ -1543,6 +1550,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270](http://arxiv.org/abs/2506.06270)|null|
+|**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265](http://arxiv.org/abs/2506.06265)|null|
+|**2025-06-06**|**Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens**|Jihwan Jeong et.al.|[2506.06261](http://arxiv.org/abs/2506.06261)|null|
+|**2025-06-06**|**From NLVO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles**|Asher Stern et.al.|[2506.06255](http://arxiv.org/abs/2506.06255)|null|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
+|**2025-06-06**|**Correlated Structural and Optical Characterization during Van der Waals Epitaxy of PbI2 on Graphene**|C. P. Sonny Tsotezem et.al.|[2506.06241](http://arxiv.org/abs/2506.06241)|null|
+|**2025-06-06**|**Initial stage jet momentum broadening in tBLFQ formalism**|Dana Avramescu et.al.|[2506.06206](http://arxiv.org/abs/2506.06206)|null|
+|**2025-06-06**|**NAT: Neural Acoustic Transfer for Interactive Scenes in Real Time**|Xutong Jin et.al.|[2506.06190](http://arxiv.org/abs/2506.06190)|null|
+|**2025-06-06**|**Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations**|Luis Kin Miyatake et.al.|[2506.06188](http://arxiv.org/abs/2506.06188)|null|
+|**2025-06-06**|**Technical Report for Egocentric Mistake Detection for the HoloAssist Challenge**|Constantin Patsch et.al.|[2506.06174](http://arxiv.org/abs/2506.06174)|null|
+|**2025-06-06**|**Stream DaQ: Stream-First Data Quality Monitoring**|Vasileios Papastergios et.al.|[2506.06147](http://arxiv.org/abs/2506.06147)|null|
+|**2025-06-06**|**On the Suitability of Wi-Fi for Interconnecting Moving Equipment in Industrial Environments**|Pietro Chiavassa et.al.|[2506.06074](http://arxiv.org/abs/2506.06074)|null|
+|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066](http://arxiv.org/abs/2506.06066)|null|
+|**2025-06-06**|**Direct Integration of Recursive Gaussian Process Regression Into Extended Kalman Filters With Application to Vapor Compression Cycle Control**|Ricus Husmann et.al.|[2506.06065](http://arxiv.org/abs/2506.06065)|null|
+|**2025-06-06**|**Enhanced Trust Region Sequential Convex Optimization for Multi-Drone Thermal Screening Trajectory Planning in Urban Environments**|Kaiyuan Chen et.al.|[2506.06012](http://arxiv.org/abs/2506.06012)|null|
+|**2025-06-06**|**MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation**|Dongjie Fu et.al.|[2506.05952](http://arxiv.org/abs/2506.05952)|null|
+|**2025-06-06**|**Neural Visibility Cache for Real-Time Light Sampling**|Jakub Bokšanský et.al.|[2506.05930](http://arxiv.org/abs/2506.05930)|null|
+|**2025-06-06**|**Proactive Assistant Dialogue Generation from Streaming Egocentric Videos**|Yichi Zhang et.al.|[2506.05904](http://arxiv.org/abs/2506.05904)|null|
+|**2025-06-06**|**The Online Data Filter for the KM3NeT Neutrino Telescopes**|O. Adriani et.al.|[2506.05881](http://arxiv.org/abs/2506.05881)|null|
+|**2025-06-06**|**Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models**|Xiaoyi Yuan et.al.|[2506.05854](http://arxiv.org/abs/2506.05854)|null|
 |**2025-06-06**|**FreeTimeGS: Free Gaussian Primitives at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348](http://arxiv.org/abs/2506.05348)|null|
 |**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
 |**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320](http://arxiv.org/abs/2506.05320)|null|
@@ -3050,6 +3077,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation**|Dongjie Fu et.al.|[2506.05952](http://arxiv.org/abs/2506.05952)|null|
 |**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
 |**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117](http://arxiv.org/abs/2506.05117)|**[link](https://github.com/southwestCat/text2motion-nao)**|
 |**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680](http://arxiv.org/abs/2506.04680)|null|
@@ -3206,6 +3234,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Audio-Aware Large Language Models as Judges for Speaking Styles**|Cheng-Han Chiang et.al.|[2506.05984](http://arxiv.org/abs/2506.05984)|null|
+|**2025-06-06**|**Voice Impression Control in Zero-Shot TTS**|Keinichi Fujita et.al.|[2506.05688](http://arxiv.org/abs/2506.05688)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
 |**2025-06-05**|**Grapheme-Coherent Phonemic and Prosodic Annotation of Speech by Implicit and Explicit Grapheme Conditioning**|Hien Ohnaka et.al.|[2506.04527](http://arxiv.org/abs/2506.04527)|null|
 |**2025-06-04**|**Can we reconstruct a dysarthric voice with the large speech model Parler TTS?**|Ariadna Sanchez et.al.|[2506.04397](http://arxiv.org/abs/2506.04397)|null|
