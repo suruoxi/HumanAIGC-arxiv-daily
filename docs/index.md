@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.09
+### Updated on 2025.06.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
 |**2025-06-02**|**Cocktail-Party Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.02178](http://arxiv.org/abs/2506.02178)|null|
 |**2025-06-02**|**Low-Rank Head Avatar Personalization with Registers**|Sai Tanmay Reddy Chakkera et.al.|[2506.01935](http://arxiv.org/abs/2506.01935)|null|
-|**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591](http://arxiv.org/abs/2506.01591)|null|
+|**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591](http://arxiv.org/abs/2506.01591)|**[link](https://github.com/yuangan/silencer)**|
 |**2025-06-01**|**SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2506.00830](http://arxiv.org/abs/2506.00830)|null|
 |**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866](http://arxiv.org/abs/2505.24866)|null|
 |**2025-05-29**|**Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation**|Jiahao Cui et.al.|[2505.23525](http://arxiv.org/abs/2505.23525)|**[link](https://github.com/xyz123xyz456/hallo4)**|
@@ -840,9 +840,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
 |**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
 |**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
-|**2025-06-06**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
 |**2025-06-06**|**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**|Akide Liu et.al.|[2506.04648](http://arxiv.org/abs/2506.04648)|null|
 |**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
