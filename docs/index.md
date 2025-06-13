@@ -1355,7 +1355,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**VINCIE: Unlocking In-context Image Editing from Video**|Leigang Qu et.al.|[2506.10941](http://arxiv.org/abs/2506.10941)|null|
+|**2025-06-12**|**Edit360: 2D Image Edits to 3D Assets from Any Angle**|Junchao Huang et.al.|[2506.10507](http://arxiv.org/abs/2506.10507)|null|
 |**2025-06-12**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
+|**2025-06-11**|**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning**|Chenjian Gao et.al.|[2506.10082](http://arxiv.org/abs/2506.10082)|null|
 |**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
 |**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|null|
@@ -1594,6 +1597,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**|Junqi You et.al.|[2506.10980](http://arxiv.org/abs/2506.10980)|null|
+|**2025-06-12**|**Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**|Alice P. Curtin et.al.|[2506.10961](http://arxiv.org/abs/2506.10961)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**Non-Abelian dynamics on a cube: improving quantum compilation through qudit-based simulations**|Jacky Jiang et.al.|[2506.10945](http://arxiv.org/abs/2506.10945)|null|
+|**2025-06-12**|**Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights**|Zeynep Pehlivan et.al.|[2506.10942](http://arxiv.org/abs/2506.10942)|null|
+|**2025-06-12**|**MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem**|Melina Soysal et.al.|[2506.10931](http://arxiv.org/abs/2506.10931)|null|
+|**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
+|**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889](http://arxiv.org/abs/2506.10889)|null|
+|**2025-06-12**|**S3 Mirror: S3Mirror: Making Genomic Data Transfers Fast, Reliable, and Observable with DBOS**|Steven Vasquez-Grinnell et.al.|[2506.10886](http://arxiv.org/abs/2506.10886)|null|
+|**2025-06-12**|**Modeling Trust Dynamics in Robot-Assisted Delivery: Impact of Trust Repair Strategies**|Dong Hae Mangalindan et.al.|[2506.10884](http://arxiv.org/abs/2506.10884)|null|
+|**2025-06-12**|**Enhancing Medical Dialogue Generation through Knowledge Refinement and Dynamic Prompt Adjustment**|Hongda Sun et.al.|[2506.10877](http://arxiv.org/abs/2506.10877)|null|
+|**2025-06-12**|**General Reference Frame Identification and Transformation in Unbalanced Power Systems**|Francisco G. Montoya et.al.|[2506.10835](http://arxiv.org/abs/2506.10835)|null|
+|**2025-06-12**|**A novel visual data-based diagnostic approach for estimation of regime transition in pool boiling**|Pranay Nirapure et.al.|[2506.10832](http://arxiv.org/abs/2506.10832)|null|
+|**2025-06-12**|**Efficiency Robustness of Dynamic Deep Learning Systems**|Ravishka Rathnasuriya et.al.|[2506.10831](http://arxiv.org/abs/2506.10831)|null|
+|**2025-06-12**|**Grasp Prediction based on Local Finger Motion Dynamics**|Dimitar Valkov et.al.|[2506.10818](http://arxiv.org/abs/2506.10818)|null|
+|**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
+|**2025-06-12**|**Hazel Deriver: A Live Editor for Constructing Rule-Based Derivations**|Zhiyao Zhong et.al.|[2506.10781](http://arxiv.org/abs/2506.10781)|null|
+|**2025-06-12**|**Integrating Large Language Models into Text Animation: An Intelligent Editing System with Inline and Chat Interaction**|Bao Zhang et.al.|[2506.10762](http://arxiv.org/abs/2506.10762)|null|
+|**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Zachary Olkin et.al.|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
 |**2025-06-11**|**SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance**|Wentao Ge et.al.|[2506.09968](http://arxiv.org/abs/2506.09968)|null|
@@ -3347,6 +3370,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Scheduled Interleaved Speech-Text Training for Speech-to-Speech Translation with LLMs**|Hayato Futami et.al.|[2506.10299](http://arxiv.org/abs/2506.10299)|null|
 |**2025-06-12**|**Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams**|Tauhid Tanjim et.al.|[2506.08892](http://arxiv.org/abs/2506.08892)|null|
 |**2025-06-11**|**UmbraTTS: Adapting Text-to-Speech to Environmental Contexts with Flow Matching**|Neta Glazer et.al.|[2506.09874](http://arxiv.org/abs/2506.09874)|null|
 |**2025-06-11**|**EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection**|Christoph Schuhmann et.al.|[2506.09827](http://arxiv.org/abs/2506.09827)|null|
@@ -3361,6 +3385,7 @@ layout: default
 |**2025-06-09**|**Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**|Rui Hu et.al.|[2506.07646](http://arxiv.org/abs/2506.07646)|null|
 |**2025-06-09**|**Voice Impression Control in Zero-Shot TTS**|Keinichi Fujita et.al.|[2506.05688](http://arxiv.org/abs/2506.05688)|null|
 |**2025-06-07**|**SynHate: Detecting Hate Speech in Synthetic Deepfake Audio**|Rishabh Ranjan et.al.|[2506.06772](http://arxiv.org/abs/2506.06772)|null|
+|**2025-06-06**|**A Survey of Automatic Evaluation Methods on Text, Visual and Speech Generations**|Tian Lan et.al.|[2506.10019](http://arxiv.org/abs/2506.10019)|null|
 |**2025-06-06**|**Audio-Aware Large Language Models as Judges for Speaking Styles**|Cheng-Han Chiang et.al.|[2506.05984](http://arxiv.org/abs/2506.05984)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
 |**2025-06-05**|**Grapheme-Coherent Phonemic and Prosodic Annotation of Speech by Implicit and Explicit Grapheme Conditioning**|Hien Ohnaka et.al.|[2506.04527](http://arxiv.org/abs/2506.04527)|null|
