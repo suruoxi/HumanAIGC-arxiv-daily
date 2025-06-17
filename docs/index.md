@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.16
+### Updated on 2025.06.17
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1306,7 +1306,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-13**|**HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment**|Ming Meng et.al.|[2505.19638](http://arxiv.org/abs/2505.19638)|null|
-|**2025-06-12**|**Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On**|Zaiqiang Wu et.al.|[2506.10468](http://arxiv.org/abs/2506.10468)|null|
+|**2025-06-12**|**Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On**|Zaiqiang Wu et.al.|[2506.10468](http://arxiv.org/abs/2506.10468)|**[link](https://github.com/ZaiqiangWu/RTV)**|
 |**2025-06-06**|**ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On**|Jinjuan Wang et.al.|[2506.05858](http://arxiv.org/abs/2506.05858)|null|
 |**2025-06-02**|**OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation**|Sen Liang et.al.|[2506.01801](http://arxiv.org/abs/2506.01801)|null|
 |**2025-06-01**|**DS-VTON: High-Quality Virtual Try-on via Disentangled Dual-Scale Generation**|Xianbing Sun et.al.|[2506.00908](http://arxiv.org/abs/2506.00908)|null|
