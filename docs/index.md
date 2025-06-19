@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.18
+### Updated on 2025.06.19
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -846,9 +846,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
+|**2025-06-18**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
 |**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
-|**2025-06-17**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
 |**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
 |**2025-06-15**|**iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer**|Zhelun Shen et.al.|[2506.12847](http://arxiv.org/abs/2506.12847)|null|
@@ -864,7 +865,6 @@ layout: default
 |**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
 |**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
-|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
 |**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
 |**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
@@ -1623,6 +1623,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
 |**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
 |**2025-06-17**|**Technosignature Searches with Real-time Alert Brokers**|Eleanor M. Gallay et.al.|[2506.14744](http://arxiv.org/abs/2506.14744)|null|
 |**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
@@ -1639,7 +1640,6 @@ layout: default
 |**2025-06-17**|**SimSpark: Interactive Simulation of Social Media Behaviors**|Ziyue Lin et.al.|[2506.14476](http://arxiv.org/abs/2506.14476)|null|
 |**2025-06-17**|**MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**|Xingan Gao et.al.|[2506.14466](http://arxiv.org/abs/2506.14466)|null|
 |**2025-06-17**|**Active Digital Twins via Active Inference**|Matteo Torzoni et.al.|[2506.14453](http://arxiv.org/abs/2506.14453)|null|
-|**2025-06-17**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
 |**2025-06-17**|**Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation**|Zhirui Sun et.al.|[2506.14305](http://arxiv.org/abs/2506.14305)|null|
 |**2025-06-17**|**Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach**|Tianlin Zhang et.al.|[2506.14278](http://arxiv.org/abs/2506.14278)|null|
 |**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|

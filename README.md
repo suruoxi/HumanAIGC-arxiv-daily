@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.06.18
+### Updated on 2025.06.19
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -744,7 +744,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Image Animation
 
@@ -853,15 +853,16 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
+|**2025-06-18**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
 |**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
-|**2025-06-17**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
 |**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
 |**2025-06-15**|**iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer**|Zhelun Shen et.al.|[2506.12847](http://arxiv.org/abs/2506.12847)|null|
@@ -877,7 +878,6 @@
 |**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
 |**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
-|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
 |**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
 |**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
@@ -1325,7 +1325,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## TryOn
 
@@ -1386,7 +1386,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1636,12 +1636,13 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Others
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
 |**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
 |**2025-06-17**|**Technosignature Searches with Real-time Alert Brokers**|Eleanor M. Gallay et.al.|[2506.14744](http://arxiv.org/abs/2506.14744)|null|
 |**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
@@ -1658,7 +1659,6 @@
 |**2025-06-17**|**SimSpark: Interactive Simulation of Social Media Behaviors**|Ziyue Lin et.al.|[2506.14476](http://arxiv.org/abs/2506.14476)|null|
 |**2025-06-17**|**MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**|Xingan Gao et.al.|[2506.14466](http://arxiv.org/abs/2506.14466)|null|
 |**2025-06-17**|**Active Digital Twins via Active Inference**|Matteo Torzoni et.al.|[2506.14453](http://arxiv.org/abs/2506.14453)|null|
-|**2025-06-17**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
 |**2025-06-17**|**Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation**|Zhirui Sun et.al.|[2506.14305](http://arxiv.org/abs/2506.14305)|null|
 |**2025-06-17**|**Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach**|Tianlin Zhang et.al.|[2506.14278](http://arxiv.org/abs/2506.14278)|null|
 |**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
@@ -3305,7 +3305,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -3481,7 +3481,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3755,7 +3755,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 Notes: 
 

@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.06.18
+> Updated on 2025.06.19
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -744,7 +744,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Image Animation
 
@@ -850,7 +850,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Video Generation
 
@@ -881,7 +881,7 @@
 - 2025-05-27, **VideoMarkBench: Benchmarking Robustness of Video Watermarking**, Zhengyuan Jiang et.al., Paper: [http://arxiv.org/abs/2505.21620](http://arxiv.org/abs/2505.21620)
 - 2025-04-23, **VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models**, Xuming Hu et.al., Paper: [http://arxiv.org/abs/2504.16359](http://arxiv.org/abs/2504.16359)
 - 2025-03-27, **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**, Chi-Pin Huang et.al., Paper: [http://arxiv.org/abs/2503.21781](http://arxiv.org/abs/2503.21781)
-- 2025-06-17, **VideoMAR: Autoregressive Video Generatio with Continuous Tokens**, Hu Yu et.al., Paper: [http://arxiv.org/abs/2506.14168](http://arxiv.org/abs/2506.14168)
+- 2025-06-18, **VideoMAR: Autoregressive Video Generatio with Continuous Tokens**, Hu Yu et.al., Paper: [http://arxiv.org/abs/2506.14168](http://arxiv.org/abs/2506.14168)
 - 2025-03-03, **VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**, Juil Koo et.al., Paper: [http://arxiv.org/abs/2503.01107](http://arxiv.org/abs/2503.01107)
 - 2025-05-02, **VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**, Zongxia Li et.al., Paper: [http://arxiv.org/abs/2505.01481](http://arxiv.org/abs/2505.01481), Code: **[https://github.com/zli12321/videohallu](https://github.com/zli12321/videohallu)**
 - 2025-02-24, **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**, Xiangpeng Yang et.al., Paper: [http://arxiv.org/abs/2502.17258](http://arxiv.org/abs/2502.17258)
@@ -1254,7 +1254,7 @@
 - 2025-06-03, **DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**, Zhengyao Lv et.al., Paper: [http://arxiv.org/abs/2506.03123](http://arxiv.org/abs/2506.03123)
 - 2025-05-11, **DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**, Junhao Xia et.al., Paper: [http://arxiv.org/abs/2505.07057](http://arxiv.org/abs/2505.07057)
 - 2025-03-14, **Cross-Modal Learning for Music-to-Music-Video Description Generation**, Zhuoyuan Mao et.al., Paper: [http://arxiv.org/abs/2503.11190](http://arxiv.org/abs/2503.11190)
-- 2025-06-11, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042](http://arxiv.org/abs/2506.09042), Code: **[https://github.com/nv-tlabs/cosmos-drive-dreams](https://github.com/nv-tlabs/cosmos-drive-dreams)**
+- 2025-06-18, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042](http://arxiv.org/abs/2506.09042), Code: **[https://github.com/nv-tlabs/cosmos-drive-dreams](https://github.com/nv-tlabs/cosmos-drive-dreams)**
 - 2025-03-13, **Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2503.09942](http://arxiv.org/abs/2503.09942)
 - 2025-05-01, **Controllable Weather Synthesis and Removal with Video Diffusion Models**, Chih-Hao Lin et.al., Paper: [http://arxiv.org/abs/2505.00704](http://arxiv.org/abs/2505.00704)
 - 2025-06-03, **Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2506.03141](http://arxiv.org/abs/2506.03141)
@@ -1320,7 +1320,7 @@
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474](http://arxiv.org/abs/2505.05474), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-03-12, **$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2503.08307](http://arxiv.org/abs/2503.08307)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## TryOn
 
@@ -1379,7 +1379,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Visual Edit
 
@@ -1627,7 +1627,7 @@
 - 2025-05-15, **3D-Fixup: Advancing Photo Editing with 3D Priors**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2505.10566](http://arxiv.org/abs/2505.10566)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Others
 
@@ -2544,7 +2544,7 @@
 - 2025-06-10, **Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**, Petar Jakuš et.al., Paper: [http://arxiv.org/abs/2506.08911](http://arxiv.org/abs/2506.08911)
 - 2025-03-04, **ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**, Faryal Batool et.al., Paper: [http://arxiv.org/abs/2503.02723](http://arxiv.org/abs/2503.02723)
 - 2025-03-18, **Impact of Cooperativity on the Spatial and Temporal Evolution of the Light-induced Spin-State Switching of the Fe(phen) $_2$(SCN)$_2$ Spin-Crossover Complex**, Chetana Badala Viswanatha et.al., Paper: [http://arxiv.org/abs/2503.13918](http://arxiv.org/abs/2503.13918)
-- 2025-06-17, **ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**, Jinyan Yuan et.al., Paper: [http://arxiv.org/abs/2506.14315](http://arxiv.org/abs/2506.14315)
+- 2025-06-18, **ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**, Jinyan Yuan et.al., Paper: [http://arxiv.org/abs/2506.14315](http://arxiv.org/abs/2506.14315)
 - 2025-04-30, **ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality**, Jaewook Lee et.al., Paper: [http://arxiv.org/abs/2504.21360](http://arxiv.org/abs/2504.21360)
 - 2025-05-22, **Identifying, Evaluating, and Mitigating Risks of AI Thought Partnerships**, Kerem Oktar et.al., Paper: [http://arxiv.org/abs/2505.16899](http://arxiv.org/abs/2505.16899)
 - 2025-05-02, **Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**, Jiaqi Zhang et.al., Paper: [http://arxiv.org/abs/2505.00990](http://arxiv.org/abs/2505.00990)
@@ -3294,7 +3294,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Music2Dance and Co-speech
 
@@ -3468,7 +3468,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Speech and Interaction
 
@@ -3740,7 +3740,7 @@
 - 2025-05-28, **A Linguistically Motivated Analysis of Intonational Phrasing in Text-to-Speech Systems: Revealing Gaps in Syntactic Sensitivity**, Charlotte Pouw et.al., Paper: [http://arxiv.org/abs/2505.22236](http://arxiv.org/abs/2505.22236)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 Notes: 
 
