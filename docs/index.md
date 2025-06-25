@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.24
+### Updated on 2025.06.25
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -863,13 +863,13 @@ layout: default
 |**2025-06-20**|**Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation**|Riccardo Corvi et.al.|[2506.16802](http://arxiv.org/abs/2506.16802)|null|
 |**2025-06-20**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675](http://arxiv.org/abs/2506.15675)|null|
 |**2025-06-20**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
-|**2025-06-19**|**VideoGAN-based Trajectory Proposal for Automated Vehicles**|Annajoyce Mariani et.al.|[2506.16209](http://arxiv.org/abs/2506.16209)|null|
+|**2025-06-19**|**VideoGAN-based Trajectory Proposal for Automated Vehicles**|Annajoyce Mariani et.al.|[2506.16209](http://arxiv.org/abs/2506.16209)|**[link](https://github.com/ajmariani/video-gan-trajectories)**|
 |**2025-06-19**|**FastInit: Fast Noise Initialization for Temporally Consistent Video Generation**|Chengyu Bai et.al.|[2506.16119](http://arxiv.org/abs/2506.16119)|null|
 |**2025-06-19**|**PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models**|Tianchen Zhao et.al.|[2506.16054](http://arxiv.org/abs/2506.16054)|null|
-|**2025-06-19**|**Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization**|Cong Wang et.al.|[2506.15980](http://arxiv.org/abs/2506.15980)|null|
+|**2025-06-19**|**Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization**|Cong Wang et.al.|[2506.15980](http://arxiv.org/abs/2506.15980)|**[link](https://github.com/umnooob/signvip)**|
 |**2025-06-18**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-18**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
-|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|**[link](https://github.com/nysp78/counterfactual-video-generation)**|
 |**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
 |**2025-06-16**|**EchoShot: Multi-Shot Portrait Video Generation**|Jiahao Wang et.al.|[2506.15838](http://arxiv.org/abs/2506.15838)|null|
 |**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
@@ -1397,16 +1397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning**|Chenjian Gao et.al.|[2506.10082](http://arxiv.org/abs/2506.10082)|null|
 |**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
 |**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
 |**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
 |**2025-06-20**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450](http://arxiv.org/abs/2506.17450)|null|
 |**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806](http://arxiv.org/abs/2506.16806)|null|
-|**2025-06-20**|**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning**|Chenjian Gao et.al.|[2506.10082](http://arxiv.org/abs/2506.10082)|null|
 |**2025-06-19**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655](http://arxiv.org/abs/2506.16655)|null|
 |**2025-06-18**|**VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics**|Josef Kuchař et.al.|[2506.15903](http://arxiv.org/abs/2506.15903)|null|
-|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|**[link](https://github.com/nysp78/counterfactual-video-generation)**|
 |**2025-06-16**|**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing**|Biao Yang et.al.|[2506.13301](http://arxiv.org/abs/2506.13301)|null|
 |**2025-06-15**|**Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing**|Zhuoying Li et.al.|[2506.13827](http://arxiv.org/abs/2506.13827)|null|
 |**2025-06-15**|**ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies**|Chenglin Wang et.al.|[2506.12830](http://arxiv.org/abs/2506.12830)|null|
@@ -1653,12 +1653,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
 |**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**LIGHTHOUSE: Fast and precise distance to shoreline calculations from anywhere on earth**|Patrick Beukema et.al.|[2506.18842](http://arxiv.org/abs/2506.18842)|null|
 |**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
 |**2025-06-23**|**MLLP-VRAIN UPV system for the IWSLT 2025 Simultaneous Speech Translation Translation task**|Jorge Iranzo-Sánchez et.al.|[2506.18828](http://arxiv.org/abs/2506.18828)|null|
-|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
 |**2025-06-23**|**ModeliHub: A Web-based, Federated Analytics Platform for Modelica-centric, Model-based Systems Engineering**|Mohamad Omar Nachawati et.al.|[2506.18790](http://arxiv.org/abs/2506.18790)|null|
 |**2025-06-23**|**Flow-Aware Diffusion for Real-Time VR Restoration: Enhancing Spatiotemporal Coherence and Efficiency**|Yitong Zhu et.al.|[2506.18786](http://arxiv.org/abs/2506.18786)|null|
 |**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689](http://arxiv.org/abs/2506.18689)|null|
@@ -3380,6 +3380,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040](http://arxiv.org/abs/2506.13040)|null|
 |**2025-06-23**|**DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**|Anindita Ghosh et.al.|[2506.18680](http://arxiv.org/abs/2506.18680)|null|
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996](http://arxiv.org/abs/2506.17996)|null|
 |**2025-06-19**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Ye Li et.al.|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
@@ -3388,7 +3389,6 @@ layout: default
 |**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563](http://arxiv.org/abs/2506.14563)|null|
 |**2025-06-17**|**Toward Rich Video Human-Motion2D Generation**|Ruihao Xi et.al.|[2506.14428](http://arxiv.org/abs/2506.14428)|null|
 |**2025-06-17**|**Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation**|Zhirui Sun et.al.|[2506.14305](http://arxiv.org/abs/2506.14305)|null|
-|**2025-06-16**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040](http://arxiv.org/abs/2506.13040)|null|
 |**2025-06-16**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353](http://arxiv.org/abs/2506.10353)|null|
 |**2025-06-15**|**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**|Weiji Xie et.al.|[2506.12851](http://arxiv.org/abs/2506.12851)|null|
 |**2025-06-15**|**RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control**|Junpeng Yue et.al.|[2506.12769](http://arxiv.org/abs/2506.12769)|null|
@@ -3561,13 +3561,14 @@ layout: default
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
 |**2025-06-23**|**Rethinking Mean Opinion Scores in Speech Quality Assessment: Aggregation through Quantized Distribution Fitting**|Yuto Kondo et.al.|[2506.18307](http://arxiv.org/abs/2506.18307)|null|
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
+|**2025-06-23**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-22**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/abs/2506.13642)|**[link](https://github.com/ictnlp/stream-omni)**|
 |**2025-06-21**|**OpusLM: A Family of Open Unified Speech Language Models**|Jinchuan Tian et.al.|[2506.17611](http://arxiv.org/abs/2506.17611)|null|
 |**2025-06-20**|**RapFlow-TTS: Rapid and High-Fidelity Text-to-Speech with Improved Consistency Flow Matching**|Hyun Joon Park et.al.|[2506.16741](http://arxiv.org/abs/2506.16741)|null|
 |**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
 |**2025-06-20**|**V-CASS: Vision-context-aware Expressive Speech Synthesis for Enhancing User Understanding of Videos**|Qixin Wang et.al.|[2506.16716](http://arxiv.org/abs/2506.16716)|null|
 |**2025-06-19**|**Streaming Non-Autoregressive Model for Accent Conversion and Pronunciation Improvement**|Tuan-Nam Nguyen et.al.|[2506.16580](http://arxiv.org/abs/2506.16580)|null|
-|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|null|
+|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|**[link](https://github.com/kexinhuang19/instructttseval)**|
 |**2025-06-19**|**Optimizing Multilingual Text-To-Speech with Accents & Emotions**|Pranav Pawar et.al.|[2506.16310](http://arxiv.org/abs/2506.16310)|null|
 |**2025-06-19**|**Improved Intelligibility of Dysarthric Speech using Conditional Flow Matching**|Shoutrik Das et.al.|[2506.16127](http://arxiv.org/abs/2506.16127)|null|
 |**2025-06-19**|**VS-Singer: Vision-Guided Stereo Singing Voice Synthesis with Consistency Schrödinger Bridge**|Zijing Zhao et.al.|[2506.16020](http://arxiv.org/abs/2506.16020)|null|
@@ -3577,7 +3578,6 @@ layout: default
 |**2025-06-18**|**Factorized RVQ-GAN For Disentangled Speech Tokenization**|Sameer Khurana et.al.|[2506.15456](http://arxiv.org/abs/2506.15456)|null|
 |**2025-06-18**|**EmojiVoice: Towards long-term controllable expressivity in robot speech**|Paige Tuttösí et.al.|[2506.15085](http://arxiv.org/abs/2506.15085)|null|
 |**2025-06-18**|**An accurate and revised version of optical character recognition-based speech synthesis using LabVIEW**|Prateek Mehta et.al.|[2506.15029](http://arxiv.org/abs/2506.15029)|null|
-|**2025-06-17**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
 |**2025-06-17**|**A multi-stage augmented multimodal interaction network for fish feeding intensity quantification**|Shulong Zhang et.al.|[2506.14170](http://arxiv.org/abs/2506.14170)|null|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
