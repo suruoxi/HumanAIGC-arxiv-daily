@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
@@ -860,6 +861,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
+|**2025-06-24**|**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation**|Jintao Rong et.al.|[2506.19348](http://arxiv.org/abs/2506.19348)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903](http://arxiv.org/abs/2506.18903)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
@@ -1414,7 +1420,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488](http://arxiv.org/abs/2506.19488)|null|
 |**2025-06-24**|**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning**|Chenjian Gao et.al.|[2506.10082](http://arxiv.org/abs/2506.10082)|null|
+|**2025-06-23**|**Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models**|Ilia Beletskii et.al.|[2506.19103](http://arxiv.org/abs/2506.19103)|null|
 |**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
 |**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
@@ -1672,7 +1680,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**The Shape of Consumer Behavior: A Symbolic and Topological Analysis of Time Series**|Pola Bereta et.al.|[2506.19759](http://arxiv.org/abs/2506.19759)|null|
+|**2025-06-24**|**MDR-DeePC: Model-Inspired Distributionally Robust Data-Enabled Predictive Control**|Shihao Li et.al.|[2506.19744](http://arxiv.org/abs/2506.19744)|null|
+|**2025-06-24**|**NEAR $^2$ : A Nested Embedding Approach to Efficient Product Retrieval and Ranking**|Shenbin Qian et.al.|[2506.19743](http://arxiv.org/abs/2506.19743)|null|
+|**2025-06-24**|**Dual-energy extraction for proton therapy and imaging: validation on a clinical synchrotron-based facility**|Alexander A. Pryanichnikov et.al.|[2506.19736](http://arxiv.org/abs/2506.19736)|null|
+|**2025-06-24**|**SIP-IFVM: An observation-based magnetohydrodynamic model of coronal mass ejection**|Haopeng Wang et.al.|[2506.19711](http://arxiv.org/abs/2506.19711)|null|
+|**2025-06-24**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
+|**2025-06-24**|**Health Sentinel: An AI Pipeline For Real-time Disease Outbreak Detection**|Devesh Pant et.al.|[2506.19548](http://arxiv.org/abs/2506.19548)|null|
+|**2025-06-24**|**NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons**|Carlo Romeo et.al.|[2506.19530](http://arxiv.org/abs/2506.19530)|null|
+|**2025-06-24**|**MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications**|Aleksandr Algazinov et.al.|[2506.19502](http://arxiv.org/abs/2506.19502)|null|
+|**2025-06-24**|**An analytical model of depth-dose distributions for carbon-ion beams**|Fulya Halıcılar et.al.|[2506.19479](http://arxiv.org/abs/2506.19479)|null|
+|**2025-06-24**|**Can Movable Antenna-enabled Micro-Mobility Replace UAV-enabled Macro-Mobility? A Physical Layer Security Perspective**|Kaixuan Li et.al.|[2506.19456](http://arxiv.org/abs/2506.19456)|null|
+|**2025-06-24**|**Enhanced Fault Ride-Through Grid Forming with Transient Synchronisation Stability and Current Saturation**|Youcefa Brahim Elkhalil et.al.|[2506.19444](http://arxiv.org/abs/2506.19444)|null|
+|**2025-06-24**|**Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System**|Lixuan He et.al.|[2506.19433](http://arxiv.org/abs/2506.19433)|null|
+|**2025-06-24**|**Virtual Memory for 3D Gaussian Splatting**|Jonathan Haberl et.al.|[2506.19415](http://arxiv.org/abs/2506.19415)|null|
+|**2025-06-24**|**Can theory-driven learning analytics dashboard enhance human-AI collaboration in writing learning? Insights from an empirical experiment**|Angxuan Chen et.al.|[2506.19364](http://arxiv.org/abs/2506.19364)|null|
+|**2025-06-24**|**OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses**|Qing Zhang et.al.|[2506.19307](http://arxiv.org/abs/2506.19307)|null|
+|**2025-06-24**|**Ontology Neural Network and ORTSF: A Framework for Topological Reasoning and Delay-Robust Control**|Jaehong Oh et.al.|[2506.19277](http://arxiv.org/abs/2506.19277)|null|
+|**2025-06-24**|**High-throughput spin-bath characterization of spin-defects in semiconductors**|Abigail N. Poteshman et.al.|[2506.19259](http://arxiv.org/abs/2506.19259)|null|
+|**2025-06-24**|**Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**|Renzi Meng et.al.|[2506.19246](http://arxiv.org/abs/2506.19246)|null|
 |**2025-06-24**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
+|**2025-06-23**|**PRISM: Perceptual Recognition for Identifying Standout Moments in Human-Centric Keyframe Extraction**|Mert Can Cakmak et.al.|[2506.19168](http://arxiv.org/abs/2506.19168)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
 |**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**LIGHTHOUSE: Fast and precise distance to shoreline calculations from anywhere on earth**|Patrick Beukema et.al.|[2506.18842](http://arxiv.org/abs/2506.18842)|null|
@@ -3581,6 +3609,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
 |**2025-06-23**|**Rethinking Mean Opinion Scores in Speech Quality Assessment: Aggregation through Quantized Distribution Fitting**|Yuto Kondo et.al.|[2506.18307](http://arxiv.org/abs/2506.18307)|null|
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
