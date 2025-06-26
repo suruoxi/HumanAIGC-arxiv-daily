@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.25
+### Updated on 2025.06.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1403,11 +1403,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488](http://arxiv.org/abs/2506.19488)|null|
 |**2025-06-24**|**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning**|Chenjian Gao et.al.|[2506.10082](http://arxiv.org/abs/2506.10082)|null|
 |**2025-06-23**|**Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models**|Ilia Beletskii et.al.|[2506.19103](http://arxiv.org/abs/2506.19103)|null|
 |**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
-|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
 |**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
 |**2025-06-20**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450](http://arxiv.org/abs/2506.17450)|null|
@@ -1661,12 +1661,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
 |**2025-06-24**|**The Shape of Consumer Behavior: A Symbolic and Topological Analysis of Time Series**|Pola Bereta et.al.|[2506.19759](http://arxiv.org/abs/2506.19759)|null|
 |**2025-06-24**|**MDR-DeePC: Model-Inspired Distributionally Robust Data-Enabled Predictive Control**|Shihao Li et.al.|[2506.19744](http://arxiv.org/abs/2506.19744)|null|
 |**2025-06-24**|**NEAR $^2$ : A Nested Embedding Approach to Efficient Product Retrieval and Ranking**|Shenbin Qian et.al.|[2506.19743](http://arxiv.org/abs/2506.19743)|null|
 |**2025-06-24**|**Dual-energy extraction for proton therapy and imaging: validation on a clinical synchrotron-based facility**|Alexander A. Pryanichnikov et.al.|[2506.19736](http://arxiv.org/abs/2506.19736)|null|
 |**2025-06-24**|**SIP-IFVM: An observation-based magnetohydrodynamic model of coronal mass ejection**|Haopeng Wang et.al.|[2506.19711](http://arxiv.org/abs/2506.19711)|null|
-|**2025-06-24**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
 |**2025-06-24**|**Health Sentinel: An AI Pipeline For Real-time Disease Outbreak Detection**|Devesh Pant et.al.|[2506.19548](http://arxiv.org/abs/2506.19548)|null|
 |**2025-06-24**|**NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons**|Carlo Romeo et.al.|[2506.19530](http://arxiv.org/abs/2506.19530)|null|
 |**2025-06-24**|**MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications**|Aleksandr Algazinov et.al.|[2506.19502](http://arxiv.org/abs/2506.19502)|null|
@@ -3586,11 +3586,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
 |**2025-06-23**|**Rethinking Mean Opinion Scores in Speech Quality Assessment: Aggregation through Quantized Distribution Fitting**|Yuto Kondo et.al.|[2506.18307](http://arxiv.org/abs/2506.18307)|null|
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
-|**2025-06-23**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-22**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/abs/2506.13642)|**[link](https://github.com/ictnlp/stream-omni)**|
 |**2025-06-21**|**OpusLM: A Family of Open Unified Speech Language Models**|Jinchuan Tian et.al.|[2506.17611](http://arxiv.org/abs/2506.17611)|null|
 |**2025-06-20**|**RapFlow-TTS: Rapid and High-Fidelity Text-to-Speech with Improved Consistency Flow Matching**|Hyun Joon Park et.al.|[2506.16741](http://arxiv.org/abs/2506.16741)|null|
