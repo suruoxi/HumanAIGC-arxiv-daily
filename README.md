@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
 |**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
@@ -861,6 +862,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
+|**2025-06-26**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
+|**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287](http://arxiv.org/abs/2506.21287)|null|
+|**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|
+|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
+|**2025-06-26**|**Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**|Donggoo Kang et.al.|[2506.20946](http://arxiv.org/abs/2506.20946)|null|
 |**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
 |**2025-06-25**|**BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos**|Jiahao Lin et.al.|[2506.20103](http://arxiv.org/abs/2506.20103)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
@@ -1360,6 +1367,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|
 |**2025-06-23**|**InstructAttribute: Fine-grained Object Attributes editing with Instruction**|Xingxi Yin et.al.|[2505.00751](http://arxiv.org/abs/2505.00751)|null|
 |**2025-06-14**|**Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments**|Zaiqiang Wu et.al.|[2506.12348](http://arxiv.org/abs/2506.12348)|**[link](https://github.com/ZaiqiangWu/RTV)**|
 |**2025-06-13**|**HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment**|Ming Meng et.al.|[2505.19638](http://arxiv.org/abs/2505.19638)|null|
@@ -1422,6 +1430,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
+|**2025-06-26**|**Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling**|Hansam Cho et.al.|[2506.21045](http://arxiv.org/abs/2506.21045)|null|
+|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
+|**2025-06-26**|**M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization**|Ju-Hyeon Nam et.al.|[2506.20922](http://arxiv.org/abs/2506.20922)|null|
+|**2025-06-26**|**FaSTA $^*$ : Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing**|Advait Gupta et.al.|[2506.20911](http://arxiv.org/abs/2506.20911)|null|
 |**2025-06-26**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450](http://arxiv.org/abs/2506.17450)|null|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Towards Efficient Exemplar Based Image Editing with Multimodal VLMs**|Avadhoot Jadhav et.al.|[2506.20155](http://arxiv.org/abs/2506.20155)|null|
@@ -1684,6 +1697,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506](http://arxiv.org/abs/2506.21506)|null|
+|**2025-06-26**|**Aligning Spoken Dialogue Models from User Interactions**|Anne Wu et.al.|[2506.21463](http://arxiv.org/abs/2506.21463)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
+|**2025-06-26**|**Visualization and manipulation of four-leaf clover-shaped electronic state in cuprate**|Zechao Wang et.al.|[2506.21392](http://arxiv.org/abs/2506.21392)|null|
+|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
+|**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
+|**2025-06-26**|**DynamicBench: Evaluating Real-Time Report Generation in Large Language Models**|Jingyao Li et.al.|[2506.21343](http://arxiv.org/abs/2506.21343)|null|
+|**2025-06-26**|**Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou**|Pengfei Fan et.al.|[2506.21269](http://arxiv.org/abs/2506.21269)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
+|**2025-06-26**|**Real-Time ESFP: Estimating, Smoothing, Filtering, and Pose-Mapping**|Qifei Cui et.al.|[2506.21234](http://arxiv.org/abs/2506.21234)|null|
+|**2025-06-26**|**Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations**|Elia Trevisan et.al.|[2506.21205](http://arxiv.org/abs/2506.21205)|null|
+|**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Shadman Sobhan et.al.|[2506.21199](http://arxiv.org/abs/2506.21199)|null|
+|**2025-06-26**|**Prompt-Guided Turn-Taking Prediction**|Koji Inoue et.al.|[2506.21191](http://arxiv.org/abs/2506.21191)|null|
+|**2025-06-26**|**Observation of Enhanced Core Impurity Transport in a Turbulence-Reduced Stellarator Plasma**|Daniel Medina-Roque et.al.|[2506.21141](http://arxiv.org/abs/2506.21141)|null|
+|**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
+|**2025-06-26**|**ComRAG: Retrieval-Augmented Generation with Dynamic Vector Stores for Real-time Community Question Answering in Industry**|Qinwen Chen et.al.|[2506.21098](http://arxiv.org/abs/2506.21098)|null|
+|**2025-06-26**|**ESMStereo: Enhanced ShuffleMixer Disparity Upsampling for Real-Time and Accurate Stereo Matching**|Mahmoud Tahmasebi et.al.|[2506.21091](http://arxiv.org/abs/2506.21091)|null|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
+|**2025-06-26**|**Probing valence electron and hydrogen dynamics using charge-pair imaging with ultrafast electron diffraction**|Tianyu Wang et.al.|[2506.21047](http://arxiv.org/abs/2506.21047)|null|
 |**2025-06-26**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
 |**2025-06-25**|**A Computationally Aware Multi Objective Framework for Camera LiDAR Calibration**|Venkat Karramreddy et.al.|[2506.20636](http://arxiv.org/abs/2506.20636)|null|
 |**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
@@ -3453,6 +3486,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Temporal Rate Reduction Clustering for Human Motion Segmentation**|Xianghan Meng et.al.|[2506.21249](http://arxiv.org/abs/2506.21249)|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-24**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040](http://arxiv.org/abs/2506.13040)|null|
 |**2025-06-23**|**DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**|Anindita Ghosh et.al.|[2506.18680](http://arxiv.org/abs/2506.18680)|null|
@@ -3634,6 +3668,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
+|**2025-06-26**|**A Multi-Stage Framework for Multimodal Controllable Speech Synthesis**|Rui Niu et.al.|[2506.20945](http://arxiv.org/abs/2506.20945)|null|
 |**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190](http://arxiv.org/abs/2506.20190)|null|
 |**2025-06-25**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
