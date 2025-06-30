@@ -3,11 +3,14 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.06.29
+### Updated on 2025.06.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
+|**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044](http://arxiv.org/abs/2506.22044)|null|
+|**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
 |**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
 |**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
@@ -849,11 +852,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
+|**2025-06-27**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
-|**2025-06-26**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
 |**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287](http://arxiv.org/abs/2506.21287)|null|
 |**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|
-|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
 |**2025-06-26**|**Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**|Donggoo Kang et.al.|[2506.20946](http://arxiv.org/abs/2506.20946)|null|
 |**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
 |**2025-06-25**|**BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos**|Jiahao Lin et.al.|[2506.20103](http://arxiv.org/abs/2506.20103)|null|
@@ -1413,9 +1418,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles**|Mengyi Shan et.al.|[2506.21839](http://arxiv.org/abs/2506.21839)|null|
+|**2025-06-27**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
 |**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
 |**2025-06-26**|**Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling**|Hansam Cho et.al.|[2506.21045](http://arxiv.org/abs/2506.21045)|null|
-|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
 |**2025-06-26**|**M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization**|Ju-Hyeon Nam et.al.|[2506.20922](http://arxiv.org/abs/2506.20922)|null|
 |**2025-06-26**|**FaSTA $^*$ : Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing**|Advait Gupta et.al.|[2506.20911](http://arxiv.org/abs/2506.20911)|null|
 |**2025-06-26**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450](http://arxiv.org/abs/2506.17450)|null|
@@ -1678,6 +1685,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406](http://arxiv.org/abs/2506.22406)|null|
+|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402](http://arxiv.org/abs/2506.22402)|null|
+|**2025-06-27**|**The real-time data processing and acquisition system for Project 8 Phase II**|A. Ashtari Esfahani et.al.|[2506.22392](http://arxiv.org/abs/2506.22392)|null|
+|**2025-06-27**|**Concept-Level AI for Telecom: Moving Beyond Large Language Models**|Viswanath Kumarskandpriya et.al.|[2506.22359](http://arxiv.org/abs/2506.22359)|null|
+|**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267](http://arxiv.org/abs/2506.22267)|null|
+|**2025-06-27**|**V2X Intention Sharing for Cooperative Electrically Power-Assisted Cycles**|Felipe Valle Quiroz et.al.|[2506.22223](http://arxiv.org/abs/2506.22223)|null|
+|**2025-06-27**|**Hardware acceleration for ultra-fast Neural Network training on FPGA for MRF map reconstruction**|Mattia Ricchi et.al.|[2506.22156](http://arxiv.org/abs/2506.22156)|null|
+|**2025-06-27**|**Building Trustworthy Cognitive Monitoring for Safety-Critical Human Tasks: A Phased Methodological Approach**|Maciej Grzeszczuk et.al.|[2506.22066](http://arxiv.org/abs/2506.22066)|null|
+|**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
+|**2025-06-27**|**EnLVAM: Enhanced Left Ventricle Linear Measurements Utilizing Anatomical Motion Mode**|Durgesh K. Singh et.al.|[2506.22063](http://arxiv.org/abs/2506.22063)|null|
+|**2025-06-27**|**In-In EFT**|Namit Mahajan et.al.|[2506.22045](http://arxiv.org/abs/2506.22045)|null|
+|**2025-06-27**|**Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy**|Bohan Li et.al.|[2506.22023](http://arxiv.org/abs/2506.22023)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
+|**2025-06-27**|**Spin non-Collinear Real-Time Time-Dependent Density-Functional Theory and Implementation in the Modern GPU-Accelerated INQ code**|Jacopo Simoni et.al.|[2506.21908](http://arxiv.org/abs/2506.21908)|null|
+|**2025-06-27**|**TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments**|Sheng Yun et.al.|[2506.21900](http://arxiv.org/abs/2506.21900)|null|
+|**2025-06-27**|**Focus on the Experts: Co-designing an Augmented Reality Eye-Gaze Tracking System with Surgical Trainees to Improve Endoscopic Instruction**|Jumanh Atoum et.al.|[2506.21896](http://arxiv.org/abs/2506.21896)|null|
+|**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
+|**2025-06-27**|**TaleForge: Interactive Multimodal System for Personalized Story Creation**|Minh-Loi Nguyen et.al.|[2506.21832](http://arxiv.org/abs/2506.21832)|null|
+|**2025-06-26**|**CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery**|Felix Holm et.al.|[2506.21813](http://arxiv.org/abs/2506.21813)|null|
 |**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
 |**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506](http://arxiv.org/abs/2506.21506)|null|
 |**2025-06-26**|**Aligning Spoken Dialogue Models from User Interactions**|Anne Wu et.al.|[2506.21463](http://arxiv.org/abs/2506.21463)|null|
@@ -3465,7 +3492,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Generating Attribute-Aware Human Motions from Textual Prompt**|Xinghan Wang et.al.|[2506.21912](http://arxiv.org/abs/2506.21912)|null|
 |**2025-06-26**|**Temporal Rate Reduction Clustering for Human Motion Segmentation**|Xianghan Meng et.al.|[2506.21249](http://arxiv.org/abs/2506.21249)|null|
+|**2025-06-25**|**SkinningGS: Editable Dynamic Human Scene Reconstruction Using Gaussian Splatting Based on a Skinning Model**|Da Li et.al.|[2506.21632](http://arxiv.org/abs/2506.21632)|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-24**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040](http://arxiv.org/abs/2506.13040)|null|
 |**2025-06-23**|**DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**|Anindita Ghosh et.al.|[2506.18680](http://arxiv.org/abs/2506.18680)|null|
@@ -3645,11 +3674,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
+|**2025-06-27**|**Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy**|Bohan Li et.al.|[2506.22023](http://arxiv.org/abs/2506.22023)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
 |**2025-06-26**|**A Multi-Stage Framework for Multimodal Controllable Speech Synthesis**|Rui Niu et.al.|[2506.20945](http://arxiv.org/abs/2506.20945)|null|
 |**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190](http://arxiv.org/abs/2506.20190)|null|
 |**2025-06-25**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
+|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
 |**2025-06-23**|**Rethinking Mean Opinion Scores in Speech Quality Assessment: Aggregation through Quantized Distribution Fitting**|Yuto Kondo et.al.|[2506.18307](http://arxiv.org/abs/2506.18307)|null|
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
