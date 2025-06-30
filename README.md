@@ -920,7 +920,7 @@
 |**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
-|**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
+|**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|**[link](https://github.com/flageval-baai/flagevalmm)**|
 |**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
 |**2025-06-10**|**Product of Experts for Visual Generation**|Yunzhi Zhang et.al.|[2506.08894](http://arxiv.org/abs/2506.08894)|null|
@@ -948,7 +948,7 @@
 |**2025-06-06**|**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**|Akide Liu et.al.|[2506.04648](http://arxiv.org/abs/2506.04648)|null|
 |**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
-|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
+|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|**[link](https://github.com/yaziwel/feat)**|
 |**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
 |**2025-06-05**|**Follow-Your-Creation: Empowering 4D Creation through Video Inpainting**|Yue Ma et.al.|[2506.04590](http://arxiv.org/abs/2506.04590)|null|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
@@ -1482,7 +1482,7 @@
 |**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|**[link](https://github.com/eternalevan/fade)**|
 |**2025-06-06**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
 |**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046](http://arxiv.org/abs/2506.05046)|null|
-|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|
+|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|**[link](https://github.com/aiiu-lab/backdoorimageediting)**|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
 |**2025-06-04**|**HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation**|Hermann Kumbong et.al.|[2506.04421](http://arxiv.org/abs/2506.04421)|null|
 |**2025-06-04**|**Is Perturbation-Based Image Protection Disruptive to Image Editing?**|Qiuyu Tang et.al.|[2506.04394](http://arxiv.org/abs/2506.04394)|null|
@@ -1805,12 +1805,12 @@
 |**2025-06-23**|**Programmable electro-optic frequency comb empowers integrated parallel convolution processing**|Jinze He et.al.|[2506.18310](http://arxiv.org/abs/2506.18310)|null|
 |**2025-06-23**|**LLM-Integrated Digital Twins for Hierarchical Resource Allocation in 6G Networks**|Majumder Haider et.al.|[2506.18293](http://arxiv.org/abs/2506.18293)|null|
 |**2025-06-20**|**Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition**|Jiaqi Li et.al.|[2506.17201](http://arxiv.org/abs/2506.17201)|null|
-|**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/abs/2506.17184)|null|
+|**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/abs/2506.17184)|**[link](https://github.com/bdaiinstitute/judo)**|
 |**2025-06-20**|**A Set-valued Impact Law Approach for Modeling and Analysis of Rigid Contact Universal Joint with Clearance**|Junaid Ali et.al.|[2506.17183](http://arxiv.org/abs/2506.17183)|null|
 |**2025-06-20**|**A tutorial overview of model predictive control for continuous crystallization: current possibilities and future perspectives**|Collin R. Johnson et.al.|[2506.17146](http://arxiv.org/abs/2506.17146)|null|
 |**2025-06-20**|**Real-time Broadband RFI Excision for the Upgraded GMRT**|Ruta Kale et.al.|[2506.17131](http://arxiv.org/abs/2506.17131)|null|
 |**2025-06-20**|**Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model**|Botao Zhu et.al.|[2506.17128](http://arxiv.org/abs/2506.17128)|null|
-|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|null|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|**[link](https://github.com/greatenanoymous/rgbtrack)**|
 |**2025-06-20**|**JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient Cross-Facility Scientific Workflows**|Vladislav Esaulov et.al.|[2506.17084](http://arxiv.org/abs/2506.17084)|null|
 |**2025-06-20**|**Opportunities for real-time process control of electrode properties in lithium-ion battery manufacturing**|Noël Hallemans et.al.|[2506.17048](http://arxiv.org/abs/2506.17048)|null|
 |**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky et.al.|[2506.17013](http://arxiv.org/abs/2506.17013)|null|
@@ -1822,11 +1822,11 @@
 |**2025-06-20**|**ROS 2 Agnocast: Supporting Unsized Message Types for True Zero-Copy Publish/Subscribe IPC**|Takahiro Ishikawa-Aso et.al.|[2506.16882](http://arxiv.org/abs/2506.16882)|null|
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[2506.16876](http://arxiv.org/abs/2506.16876)|null|
 |**2025-06-20**|**RS-Coded Adaptive Dynamic Network for Reliable Long-Term Information Transmission in Disturbed Multimode Fiber**|Yang Hu et.al.|[2506.16859](http://arxiv.org/abs/2506.16859)|null|
-|**2025-06-20**|**Robust Dynamic Material Handling via Adaptive Constrained Evolutionary Reinforcement Learning**|Chengpeng Hu et.al.|[2506.16795](http://arxiv.org/abs/2506.16795)|null|
+|**2025-06-20**|**Robust Dynamic Material Handling via Adaptive Constrained Evolutionary Reinforcement Learning**|Chengpeng Hu et.al.|[2506.16795](http://arxiv.org/abs/2506.16795)|**[link](https://github.com/hcplu/acerl)**|
 |**2025-06-20**|**Reinforcement learning for hybrid charging stations planning and operation considering fixed and mobile chargers**|Yanchen Zhu et.al.|[2506.16764](http://arxiv.org/abs/2506.16764)|null|
 |**2025-06-18**|**Vision in Action: Learning Active Perception from Human Demonstrations**|Haoyu Xiong et.al.|[2506.15666](http://arxiv.org/abs/2506.15666)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
-|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|null|
+|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|**[link](https://github.com/csplevuanh/microricci)**|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
 |**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518](http://arxiv.org/abs/2506.15518)|null|
 |**2025-06-18**|**Model Predictive Path-Following Control for a Quadrotor**|David Leprich et.al.|[2506.15447](http://arxiv.org/abs/2506.15447)|null|
@@ -1853,7 +1853,7 @@
 |**2025-06-17**|**Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers**|Daniel D'souza et.al.|[2506.14702](http://arxiv.org/abs/2506.14702)|null|
 |**2025-06-17**|**Design an Editable Speech-to-Sign-Language Transformer System: A Human-Centered AI Approach**|Yingchao Li et.al.|[2506.14677](http://arxiv.org/abs/2506.14677)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
-|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|**[link](https://github.com/yukexing/3dgs-ieval-15k)**|
 |**2025-06-17**|**Low-code to fight climate change: the Climaborough project**|Aaron Conrardy et.al.|[2506.14623](http://arxiv.org/abs/2506.14623)|null|
 |**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597](http://arxiv.org/abs/2506.14597)|null|
 |**2025-06-17**|**Review of Machine Learning for Real-Time Analysis at the Large Hadron Collider experiments ALICE, ATLAS, CMS and LHCb**|Laura Boggia et.al.|[2506.14578](http://arxiv.org/abs/2506.14578)|null|
@@ -3728,7 +3728,7 @@
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
 |**2025-06-17**|**A multi-stage augmented multimodal interaction network for fish feeding intensity quantification**|Shulong Zhang et.al.|[2506.14170](http://arxiv.org/abs/2506.14170)|null|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
-|**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|null|
+|**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|**[link](https://github.com/dhatchi711/espnet-emotional-news)**|
 |**2025-06-16**|**From Flat to Feeling: A Feasibility and Impact Study on Dynamic Facial Emotions in AI-Generated Avatars**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
 |**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-16**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng-Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
