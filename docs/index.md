@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.07.09
+### Updated on 2025.07.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -862,9 +862,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-09**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
+|**2025-07-09**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
-|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
-|**2025-07-08**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
 |**2025-07-08**|**MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos**|Rongsheng Wang et.al.|[2507.05675](http://arxiv.org/abs/2507.05675)|null|
 |**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
@@ -879,7 +880,6 @@ layout: default
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**|François Rozet et.al.|[2507.02608](http://arxiv.org/abs/2507.02608)|null|
 |**2025-07-03**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
-|**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
 |**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
@@ -1748,6 +1748,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
 |**2025-07-08**|**IceCat-2: Updated IceCube Event Catalog of Alert Tracks**|Angela Zegarelli et.al.|[2507.06176](http://arxiv.org/abs/2507.06176)|null|
 |**2025-07-08**|**Critical Nodes Identification in Complex Networks: A Survey**|Duxin Chen et.al.|[2507.06164](http://arxiv.org/abs/2507.06164)|null|
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
@@ -1756,7 +1757,6 @@ layout: default
 |**2025-07-08**|**EdgeCodec: Onboard Lightweight High Fidelity Neural Compressor with Residual Vector Quantization**|Benjamin Hodo et.al.|[2507.06040](http://arxiv.org/abs/2507.06040)|null|
 |**2025-07-08**|**A Differential Evolution Algorithm with Neighbor-hood Mutation for DOA Estimation**|Bo Zhou et.al.|[2507.06020](http://arxiv.org/abs/2507.06020)|null|
 |**2025-07-08**|**ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge**|Daghash K. Alqahtani et.al.|[2507.06011](http://arxiv.org/abs/2507.06011)|null|
-|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
 |**2025-07-08**|**Robust Speech-Workload Estimation for Intelligent Human-Robot Systems**|Julian Fortune et.al.|[2507.05985](http://arxiv.org/abs/2507.05985)|null|
 |**2025-07-08**|**Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening**|Zhijun Guo et.al.|[2507.05984](http://arxiv.org/abs/2507.05984)|null|
 |**2025-07-08**|**Low voltage user phase reconfiguration as a planning problem**|Sari Kerckhove et.al.|[2507.05910](http://arxiv.org/abs/2507.05910)|null|
