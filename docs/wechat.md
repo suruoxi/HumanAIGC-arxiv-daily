@@ -989,6 +989,7 @@
 - 2025-03-15, **SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering**, Byeongjun Park et.al., Paper: [http://arxiv.org/abs/2503.12024](http://arxiv.org/abs/2503.12024), Code: **[https://github.com/byeongjun-park/SteerX](https://github.com/byeongjun-park/SteerX)**
 - 2025-04-26, **Stealing Creator's Workflow: A Creator-Inspired Agentic Framework with Iterative Feedback Loop for Improved Scientific Short-form Generation**, Jong Inn Park et.al., Paper: [http://arxiv.org/abs/2504.18805](http://arxiv.org/abs/2504.18805)
 - 2025-04-19, **SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation**, Minho Park et.al., Paper: [http://arxiv.org/abs/2504.14396](http://arxiv.org/abs/2504.14396), Code: **[https://github.com/pmh9960/spherediff](https://github.com/pmh9960/spherediff)**
+- 2025-07-09, **Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**, Hao Tang et.al., Paper: [http://arxiv.org/abs/2507.06689](http://arxiv.org/abs/2507.06689)
 - 2025-06-03, **Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**, Pengtao Chen et.al., Paper: [http://arxiv.org/abs/2506.03065](http://arxiv.org/abs/2506.03065)
 - 2025-05-24, **Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2505.18875](http://arxiv.org/abs/2505.18875)
 - 2025-02-25, **SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**, Jintao Zhang et.al., Paper: [http://arxiv.org/abs/2502.18137](http://arxiv.org/abs/2502.18137), Code: **[https://github.com/thu-ml/spargeattn](https://github.com/thu-ml/spargeattn)**
@@ -1067,6 +1068,7 @@
 - 2025-03-26, **Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**, Haitong Liu et.al., Paper: [http://arxiv.org/abs/2503.21824](http://arxiv.org/abs/2503.21824)
 - 2025-05-24, **ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**, Xiaodong Wang et.al., Paper: [http://arxiv.org/abs/2505.18650](http://arxiv.org/abs/2505.18650)
 - 2025-04-02, **Proof of Humanity: A Multi-Layer Network Framework for Certifying Human-Originated Content in an AI-Dominated Internet**, Sebastian Barros et.al., Paper: [http://arxiv.org/abs/2504.03752](http://arxiv.org/abs/2504.03752)
+- 2025-07-09, **PromptTea: Let Prompts Tell TeaCache the Optimal Threshold**, Zishen Huang et.al., Paper: [http://arxiv.org/abs/2507.06739](http://arxiv.org/abs/2507.06739)
 - 2025-05-20, **Programmatic Video Prediction Using Large Language Models**, Hao Tang et.al., Paper: [http://arxiv.org/abs/2505.14948](http://arxiv.org/abs/2505.14948), Code: **[https://github.com/metro-smiles/ProgGen](https://github.com/metro-smiles/ProgGen)**
 - 2025-06-10, **Product of Experts for Visual Generation**, Yunzhi Zhang et.al., Paper: [http://arxiv.org/abs/2506.08894](http://arxiv.org/abs/2506.08894)
 - 2025-03-05, **ProReflow: Progressive Reflow with Decomposed Velocity**, Lei Ke et.al., Paper: [http://arxiv.org/abs/2503.04824](http://arxiv.org/abs/2503.04824)
@@ -1079,6 +1081,7 @@
 - 2025-06-09, **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2506.07848](http://arxiv.org/abs/2506.07848)
 - 2025-06-11, **PlayerOne: Egocentric World Simulator**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2506.09995](http://arxiv.org/abs/2506.09995)
 - 2025-04-08, **Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants**, Nikolaj T. Mücke et.al., Paper: [http://arxiv.org/abs/2504.05852](http://arxiv.org/abs/2504.05852), Code: **[https://github.com/nmucke/StochasticInterpolants.jl](https://github.com/nmucke/StochasticInterpolants.jl)**
+- 2025-07-09, **Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**, Tao Feng et.al., Paper: [http://arxiv.org/abs/2507.06830](http://arxiv.org/abs/2507.06830)
 - 2025-05-27, **Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**, Lujian Yao et.al., Paper: [http://arxiv.org/abs/2505.20655](http://arxiv.org/abs/2505.20655)
 - 2025-02-16, **Phantom: Subject-consistent video generation via cross-modal alignment**, Lijie Liu et.al., Paper: [http://arxiv.org/abs/2502.11079](http://arxiv.org/abs/2502.11079)
 - 2025-06-23, **Phantom-Data : Towards a General Subject-Consistent Video Generation Dataset**, Zhuowei Chen et.al., Paper: [http://arxiv.org/abs/2506.18851](http://arxiv.org/abs/2506.18851)
@@ -1264,6 +1267,7 @@
 - 2025-05-16, **Face Consistency Benchmark for GenAI Video**, Michal Podstawski et.al., Paper: [http://arxiv.org/abs/2505.11425](http://arxiv.org/abs/2505.11425)
 - 2025-06-06, **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**, Akide Liu et.al., Paper: [http://arxiv.org/abs/2506.04648](http://arxiv.org/abs/2506.04648)
 - 2025-02-26, **FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**, Lingzhou Mu et.al., Paper: [http://arxiv.org/abs/2502.19455](http://arxiv.org/abs/2502.19455)
+- 2025-07-09, **FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation**, Liqiang Jing et.al., Paper: [http://arxiv.org/abs/2507.06523](http://arxiv.org/abs/2507.06523)
 - 2025-06-05, **FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**, Huihan Wang et.al., Paper: [http://arxiv.org/abs/2506.04956](http://arxiv.org/abs/2506.04956)
 - 2025-04-30, **Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**, Michal Geyer et.al., Paper: [http://arxiv.org/abs/2505.00135](http://arxiv.org/abs/2505.00135)
 - 2025-03-02, **Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**, Jie Tian et.al., Paper: [http://arxiv.org/abs/2503.00948](http://arxiv.org/abs/2503.00948), Code: **[https://github.com/Chuge0335/EDG](https://github.com/Chuge0335/EDG)**
@@ -1314,6 +1318,7 @@
 - 2025-04-22, **DiTPainter: Efficient Video Inpainting with Diffusion Transformers**, Xian Wu et.al., Paper: [http://arxiv.org/abs/2504.15661](http://arxiv.org/abs/2504.15661)
 - 2025-02-20, **Designing Parameter and Compute Efficient Diffusion Transformers using Distillation**, Vignesh Sundaresha et.al., Paper: [http://arxiv.org/abs/2502.14226](http://arxiv.org/abs/2502.14226)
 - 2025-06-04, **DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**, Ziyi Wu et.al., Paper: [http://arxiv.org/abs/2506.03517](http://arxiv.org/abs/2506.03517)
+- 2025-07-09, **Democratizing High-Fidelity Co-Speech Gesture Video Generation**, Xu Yang et.al., Paper: [http://arxiv.org/abs/2507.06812](http://arxiv.org/abs/2507.06812)
 - 2025-04-01, **DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding**, Chong Li et.al., Paper: [http://arxiv.org/abs/2504.00432](http://arxiv.org/abs/2504.00432)
 - 2025-05-23, **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**, Junhao Chen et.al., Paper: [http://arxiv.org/abs/2505.18078](http://arxiv.org/abs/2505.18078)
 - 2025-05-12, **DanceGRPO: Unleashing GRPO on Visual Generation**, Zeyue Xue et.al., Paper: [http://arxiv.org/abs/2505.07818](http://arxiv.org/abs/2505.07818)
