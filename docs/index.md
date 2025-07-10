@@ -1748,6 +1748,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Search for GeV-PeV neutrinos from nova T Coronae Borealis with IceCube**|Jessie Thwaites et.al.|[2507.07096](http://arxiv.org/abs/2507.07096)|null|
+|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
+|**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047](http://arxiv.org/abs/2507.07047)|null|
+|**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
+|**2025-07-09**|**Non-Asymptotic Analysis of Online Local Private Learning with SGD**|Enze Shi et.al.|[2507.07041](http://arxiv.org/abs/2507.07041)|null|
+|**2025-07-09**|**Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control**|Mikael Vaillant et.al.|[2507.07034](http://arxiv.org/abs/2507.07034)|null|
+|**2025-07-09**|**Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting**|Wijayathunga W. M. R. D. B et.al.|[2507.07000](http://arxiv.org/abs/2507.07000)|null|
+|**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
+|**2025-07-09**|**Calibration of Quantum Devices via Robust Statistical Methods**|Alexandra Ramôa et.al.|[2507.06941](http://arxiv.org/abs/2507.06941)|null|
+|**2025-07-09**|**Beyond Connectivity: An Open Architecture for AI-RAN Convergence in 6G**|Michele Polese et.al.|[2507.06911](http://arxiv.org/abs/2507.06911)|null|
+|**2025-07-09**|**Designing Adaptive Algorithms Based on Reinforcement Learning for Dynamic Optimization of Sliding Window Size in Multi-Dimensional Data Streams**|Abolfazl Zarghani et.al.|[2507.06901](http://arxiv.org/abs/2507.06901)|null|
+|**2025-07-09**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
+|**2025-07-09**|**Designing Robust Software Sensors for Nonlinear Systems via Neural Networks and Adaptive Sliding Mode Control**|Ayoub Farkane et.al.|[2507.06817](http://arxiv.org/abs/2507.06817)|null|
+|**2025-07-09**|**Stream Function-Based Navigation for Complex Quadcopter Obstacle Avoidance**|Sean Smith et.al.|[2507.06787](http://arxiv.org/abs/2507.06787)|null|
+|**2025-07-09**|**Tailoring deep learning for real-time brain-computer interfaces: From offline models to calibration-free online decoding**|Martin Wimpff et.al.|[2507.06779](http://arxiv.org/abs/2507.06779)|null|
+|**2025-07-09**|**Constraint Optimized Multichannel Mixer-limiter Design**|Yuancheng Luo et.al.|[2507.06769](http://arxiv.org/abs/2507.06769)|null|
+|**2025-07-09**|**Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments**|Tohid Kargar Tasooji et.al.|[2507.06750](http://arxiv.org/abs/2507.06750)|null|
+|**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Daojie Peng et.al.|[2507.06747](http://arxiv.org/abs/2507.06747)|null|
+|**2025-07-09**|**Fast Forward and Inverse Thermal Modeling for Parameter Estimation of Multi-Layer Composites -- Part II: Inverse Modeling and Applications**|Gan Fu et.al.|[2507.06746](http://arxiv.org/abs/2507.06746)|null|
+|**2025-07-09**|**QoE Optimization for Semantic Self-Correcting Video Transmission in Multi-UAV Networks**|Xuyang Chen et.al.|[2507.06717](http://arxiv.org/abs/2507.06717)|null|
 |**2025-07-09**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
 |**2025-07-08**|**IceCat-2: Updated IceCube Event Catalog of Alert Tracks**|Angela Zegarelli et.al.|[2507.06176](http://arxiv.org/abs/2507.06176)|null|
 |**2025-07-08**|**Critical Nodes Identification in Complex Networks: A Survey**|Duxin Chen et.al.|[2507.06164](http://arxiv.org/abs/2507.06164)|null|
@@ -3655,6 +3675,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095](http://arxiv.org/abs/2507.07095)|null|
+|**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
 |**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
 |**2025-07-06**|**Grounded Gesture Generation: Language, Motion, and Space**|Anna Deichler et.al.|[2507.04522](http://arxiv.org/abs/2507.04522)|null|
 |**2025-07-05**|**Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**|Jianwei Tang et.al.|[2507.04062](http://arxiv.org/abs/2507.04062)|null|
@@ -3855,6 +3879,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation**|Wenxiang Guo et.al.|[2507.06670](http://arxiv.org/abs/2507.06670)|null|
+|**2025-07-09**|**Learning Japanese with Jouzu: Interaction Outcomes with Stylized Dialogue Fictional Agents**|Zackary Rackauckas et.al.|[2507.06483](http://arxiv.org/abs/2507.06483)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
 |**2025-07-08**|**OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
