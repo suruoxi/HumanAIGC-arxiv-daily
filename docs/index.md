@@ -3,11 +3,12 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.07.10
+### Updated on 2025.07.11
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
 |**2025-07-08**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
 |**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
@@ -20,7 +21,6 @@ layout: default
 |**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
 |**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044](http://arxiv.org/abs/2506.22044)|null|
 |**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
-|**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
 |**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
@@ -862,6 +862,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
+|**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
+|**2025-07-10**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
+|**2025-07-09**|**A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality**|Mohamed Elmoghany et.al.|[2507.07202](http://arxiv.org/abs/2507.07202)|null|
 |**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
 |**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
 |**2025-07-09**|**PromptTea: Let Prompts Tell TeaCache the Optimal Threshold**|Zishen Huang et.al.|[2507.06739](http://arxiv.org/abs/2507.06739)|null|
@@ -1403,6 +1408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Scalable and Realistic Virtual Try-on Application for Foundation Makeup with Kubelka-Munk Theory**|Hui Pang et.al.|[2507.07333](http://arxiv.org/abs/2507.07333)|null|
 |**2025-07-08**|**TalkFashion: Intelligent Virtual Try-On Assistant Based on Multimodal Large Language Model**|Yujie Hu et.al.|[2507.05790](http://arxiv.org/abs/2507.05790)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-07-02**|**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**|Peng Zheng et.al.|[2507.01792](http://arxiv.org/abs/2507.01792)|null|
@@ -1469,6 +1475,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Sherry X. Chen et.al.|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
 |**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|null|
 |**2025-07-07**|**Neural-Driven Image Editing**|Pengfei Zhou et.al.|[2507.05397](http://arxiv.org/abs/2507.05397)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
@@ -1753,6 +1760,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938](http://arxiv.org/abs/2507.07938)|null|
+|**2025-07-10**|**Towards Continuous Home Cage Monitoring: An Evaluation of Tracking and Identification Strategies for Laboratory Mice**|Juan Pablo Oberhauser et.al.|[2507.07929](http://arxiv.org/abs/2507.07929)|null|
+|**2025-07-10**|**Not Only Consistency: Enhance Test-Time Adaptation with Spatio-temporal Inconsistency for Remote Physiological Measurement**|Xiao Yang et.al.|[2507.07908](http://arxiv.org/abs/2507.07908)|null|
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
+|**2025-07-10**|**Flying Base Stations for Offshore Wind Farm Monitoring and Control: Holistic Performance Evaluation and Optimization**|Xinyi Lin et.al.|[2507.07832](http://arxiv.org/abs/2507.07832)|null|
+|**2025-07-10**|**AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift**|Eunsu Baek et.al.|[2507.07820](http://arxiv.org/abs/2507.07820)|null|
+|**2025-07-10**|**DT4PCP: A Digital Twin Framework for Personalized Care Planning Applied to Type 2 Diabetes Management**|Javad M Alizadeh et.al.|[2507.07809](http://arxiv.org/abs/2507.07809)|null|
+|**2025-07-10**|**Set-Based Control Barrier Functions and Safety Filters**|Kim P. Wabersich et.al.|[2507.07805](http://arxiv.org/abs/2507.07805)|null|
+|**2025-07-10**|**Entropy production at electroweak bubble walls from scalar field fluctuations**|M. Eriksson et.al.|[2507.07755](http://arxiv.org/abs/2507.07755)|null|
+|**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
+|**2025-07-10**|**Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**|Julio Garrido et.al.|[2507.07714](http://arxiv.org/abs/2507.07714)|null|
+|**2025-07-10**|**Temporal modulation of second harmonic generation in ferroelectrics by a pulsed electric field**|Atsushi Ono et.al.|[2507.07680](http://arxiv.org/abs/2507.07680)|null|
+|**2025-07-10**|**Extracting Nonlinear Dynamical Response Functions from Time Evolution**|Atsushi Ono et.al.|[2507.07679](http://arxiv.org/abs/2507.07679)|null|
+|**2025-07-10**|**Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States**|Qi Gao et.al.|[2507.07648](http://arxiv.org/abs/2507.07648)|null|
+|**2025-07-10**|**PhysioEdge: Multimodal Compressive Sensing Platform for Wearable Health Monitoring**|Rens Baeyens et.al.|[2507.07645](http://arxiv.org/abs/2507.07645)|null|
+|**2025-07-10**|**RIS-assisted ISAC Systems for Industrial Revolution 6.0: Exploring the Near-field and Far-field Coexistence**|Seonghoon Yoo et.al.|[2507.07643](http://arxiv.org/abs/2507.07643)|null|
+|**2025-07-10**|**Capture Stage Environments: A Guide to Better Matting**|Hannah Dröge et.al.|[2507.07623](http://arxiv.org/abs/2507.07623)|null|
+|**2025-07-10**|**Enhancing Vaccine Safety Surveillance: Extracting Vaccine Mentions from Emergency Department Triage Notes Using Fine-Tuned Large Language Models**|Sedigh Khademi et.al.|[2507.07599](http://arxiv.org/abs/2507.07599)|null|
 |**2025-07-09**|**Search for GeV-PeV neutrinos from nova T Coronae Borealis with IceCube**|Jessie Thwaites et.al.|[2507.07096](http://arxiv.org/abs/2507.07096)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047](http://arxiv.org/abs/2507.07047)|null|
@@ -3680,6 +3707,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
+|**2025-07-10**|**GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**|Shuaijin Wan et.al.|[2507.07515](http://arxiv.org/abs/2507.07515)|null|
+|**2025-07-10**|**Behave Your Motion: Habit-preserved Cross-category Animal Motion Transfer**|Zhimin Zhang et.al.|[2507.07394](http://arxiv.org/abs/2507.07394)|null|
+|**2025-07-10**|**UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots**|Kangning Yin et.al.|[2507.07356](http://arxiv.org/abs/2507.07356)|null|
 |**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095](http://arxiv.org/abs/2507.07095)|null|
 |**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
 |**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
@@ -3884,6 +3915,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799](http://arxiv.org/abs/2507.07799)|null|
+|**2025-07-10**|**EPIC: Efficient Prompt Interaction for Text-Image Classification**|Xinyao Yu et.al.|[2507.07415](http://arxiv.org/abs/2507.07415)|null|
 |**2025-07-09**|**STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation**|Wenxiang Guo et.al.|[2507.06670](http://arxiv.org/abs/2507.06670)|null|
 |**2025-07-09**|**Learning Japanese with Jouzu: Interaction Outcomes with Stylized Dialogue Fictional Agents**|Zackary Rackauckas et.al.|[2507.06483](http://arxiv.org/abs/2507.06483)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
