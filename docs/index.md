@@ -864,6 +864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
+|**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
 |**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
@@ -1483,6 +1485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
 |**2025-07-11**|**FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields**|Gwanhyeong Koo et.al.|[2507.08285](http://arxiv.org/abs/2507.08285)|null|
 |**2025-07-09**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Sherry X. Chen et.al.|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
@@ -1770,6 +1774,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks**|Ioannis Panitsas et.al.|[2507.11483](http://arxiv.org/abs/2507.11483)|null|
+|**2025-07-15**|**C-FBI: A Combinatorial method using Convolutions for Circle Fitting in Blurry Images**|Esteban Román Catafau et.al.|[2507.11476](http://arxiv.org/abs/2507.11476)|null|
+|**2025-07-15**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
+|**2025-07-15**|**Emulating CO Line Radiative Transfer with Deep Learning**|Shiqi Su et.al.|[2507.11398](http://arxiv.org/abs/2507.11398)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
+|**2025-07-15**|**Sensing Accuracy Optimization for Multi-UAV SAR Interferometry with Data Offloading**|Mohamed-Amine Lahmeri et.al.|[2507.11284](http://arxiv.org/abs/2507.11284)|null|
+|**2025-07-15**|**YOLOatr : Deep Learning Based Automatic Target Detection and Localization in Thermal Infrared Imagery**|Aon Safdar et.al.|[2507.11267](http://arxiv.org/abs/2507.11267)|null|
+|**2025-07-15**|**MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments**|Chen Cai et.al.|[2507.11211](http://arxiv.org/abs/2507.11211)|null|
+|**2025-07-15**|**Striking the Perfect Balance: Preserving Privacy While Boosting Utility in Collaborative Medical Prediction Platforms**|Shao-Bo Lin et.al.|[2507.11187](http://arxiv.org/abs/2507.11187)|null|
+|**2025-07-15**|**Real-time preparation and verification of nonstabilizer states**|Jian Li et.al.|[2507.11180](http://arxiv.org/abs/2507.11180)|null|
+|**2025-07-15**|**Real-Time Bayesian Detection of Drift-Evasive GNSS Spoofing in Reinforcement Learning Based UAV Deconfliction**|Deepak Kumar Panda et.al.|[2507.11173](http://arxiv.org/abs/2507.11173)|null|
+|**2025-07-15**|**FacialMotionID: Identifying Users of Mixed Reality Headsets using Abstract Facial Motion Representations**|Adriano Castro et.al.|[2507.11138](http://arxiv.org/abs/2507.11138)|null|
+|**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053](http://arxiv.org/abs/2507.11053)|null|
+|**2025-07-15**|**Temporal Brewster anomaly and collimated wave steering in Dirac materials**|Seulong Kim et.al.|[2507.11051](http://arxiv.org/abs/2507.11051)|null|
+|**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
+|**2025-07-15**|**Real-Time Foreign Object Recognition Based on Improved Wavelet Scattering Deep Network and Edge Computing**|He Zhichao et.al.|[2507.11043](http://arxiv.org/abs/2507.11043)|null|
+|**2025-07-15**|**Efficient Dual-domain Image Dehazing with Haze Prior Perception**|Lirong Zheng et.al.|[2507.11035](http://arxiv.org/abs/2507.11035)|null|
+|**2025-07-15**|**Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion**|Sung Ho Kang et.al.|[2507.11025](http://arxiv.org/abs/2507.11025)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
 |**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
@@ -3965,6 +3989,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
+|**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
+|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-12**|**ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**|Han Zhu et.al.|[2507.09318](http://arxiv.org/abs/2507.09318)|null|
