@@ -1777,7 +1777,7 @@ layout: default
 |**2025-07-16**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks**|Ioannis Panitsas et.al.|[2507.11483](http://arxiv.org/abs/2507.11483)|null|
-|**2025-07-15**|**C-FBI: A Combinatorial method using Convolutions for Circle Fitting in Blurry Images**|Esteban Román Catafau et.al.|[2507.11476](http://arxiv.org/abs/2507.11476)|null|
+|**2025-07-15**|**3C-FBI: A Combinatorial method using Convolutions for Circle Fitting in Blurry Images**|Esteban Román Catafau et.al.|[2507.11476](http://arxiv.org/abs/2507.11476)|null|
 |**2025-07-15**|**Emulating CO Line Radiative Transfer with Deep Learning**|Shiqi Su et.al.|[2507.11398](http://arxiv.org/abs/2507.11398)|null|
 |**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
 |**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
