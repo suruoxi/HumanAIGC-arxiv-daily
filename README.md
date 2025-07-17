@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**AU-Blendshape for Fine-grained Stylized 3D Facial Expression Manipulation**|Hao Li et.al.|[2507.12001](http://arxiv.org/abs/2507.12001)|null|
 |**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
@@ -877,6 +878,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models**|Jiajian Xie et.al.|[2507.11980](http://arxiv.org/abs/2507.11980)|null|
 |**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
@@ -1793,6 +1795,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445](http://arxiv.org/abs/2507.12445)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**Modulator-free, self-testing quantum random number generator**|Ana Blázquez-Coído et.al.|[2507.12346](http://arxiv.org/abs/2507.12346)|null|
+|**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
+|**2025-07-16**|**Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation**|Antonio Finocchiaro et.al.|[2507.12292](http://arxiv.org/abs/2507.12292)|null|
+|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-16**|**EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**|Yubo Hou et.al.|[2507.12263](http://arxiv.org/abs/2507.12263)|null|
+|**2025-07-16**|**Neural Co-state Regulator: A Data-Driven Paradigm for Real-time Optimal Control with Input Constraints**|Lihan Lian et.al.|[2507.12259](http://arxiv.org/abs/2507.12259)|null|
+|**2025-07-16**|**Cell Sensing: Traffic detection**|Saúl Fenollosa et.al.|[2507.12211](http://arxiv.org/abs/2507.12211)|null|
+|**2025-07-16**|**Learning, fast and slow: a two-fold algorithm for data-based model adaptation**|Laura Boca de Giuli et.al.|[2507.12187](http://arxiv.org/abs/2507.12187)|null|
+|**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174](http://arxiv.org/abs/2507.12174)|null|
+|**2025-07-16**|**A real-time metric of online engagement monitoring**|Laura J. Johnston et.al.|[2507.12162](http://arxiv.org/abs/2507.12162)|null|
+|**2025-07-16**|**Leveraging Sidewalk Robots for Walkability-Related Analyses**|Xing Tong et.al.|[2507.12148](http://arxiv.org/abs/2507.12148)|null|
+|**2025-07-16**|**Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement**|Junyu Lou et.al.|[2507.12135](http://arxiv.org/abs/2507.12135)|null|
+|**2025-07-16**|**HyDRA: A Hybrid Dual-Mode Network for Closed- and Open-Set RFFI with Optimized VMD**|Hanwen Liu et.al.|[2507.12133](http://arxiv.org/abs/2507.12133)|null|
+|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114](http://arxiv.org/abs/2507.12114)|null|
+|**2025-07-16**|**Urban Green Governance: IoT-Driven Management and Enhancement of Urban Green Spaces in Campobasso**|Antonio Salis et.al.|[2507.12106](http://arxiv.org/abs/2507.12106)|null|
+|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu et.al.|[2507.12087](http://arxiv.org/abs/2507.12087)|null|
 |**2025-07-16**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks**|Ioannis Panitsas et.al.|[2507.11483](http://arxiv.org/abs/2507.11483)|null|
@@ -3799,6 +3821,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
+|**2025-07-16**|**Neural Human Pose Prior**|Michal Heker et.al.|[2507.12138](http://arxiv.org/abs/2507.12138)|null|
+|**2025-07-16**|**MOSPA: Human Motion Generation Driven by Spatial Audio**|Shuyang Xu et.al.|[2507.11949](http://arxiv.org/abs/2507.11949)|null|
 |**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
 |**2025-07-12**|**SnapMoGen: Human Motion Generation from Expressive Texts**|Chuan Guo et.al.|[2507.09122](http://arxiv.org/abs/2507.09122)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
