@@ -4037,6 +4037,7 @@
 - 2025-06-09, **Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**, Rui Hu et.al., Paper: [http://arxiv.org/abs/2506.07646](http://arxiv.org/abs/2506.07646)
 - 2025-07-05, **Traceable TTS: Toward Watermark-Free TTS with Strong Traceability**, Yuxiang Zhao et.al., Paper: [http://arxiv.org/abs/2507.03887](http://arxiv.org/abs/2507.03887)
 - 2025-06-03, **Towards a Japanese Full-duplex Spoken Dialogue System**, Atsumoto Ohashi et.al., Paper: [http://arxiv.org/abs/2506.02979](http://arxiv.org/abs/2506.02979)
+- 2025-07-15, **Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**, Ivan Viakhirev et.al., Paper: [http://arxiv.org/abs/2507.11777](http://arxiv.org/abs/2507.11777)
 - 2025-06-10, **Towards Generalized Source Tracing for Codec-Based Deepfake Speech**, Xuanjun Chen et.al., Paper: [http://arxiv.org/abs/2506.07294](http://arxiv.org/abs/2506.07294)
 - 2025-05-02, **Towards Flow-Matching-based TTS without Classifier-Free Guidance**, Yuzhe Liang et.al., Paper: [http://arxiv.org/abs/2504.20334](http://arxiv.org/abs/2504.20334)
 - 2025-04-30, **Towards Film-Making Production Dialogue, Narration, Monologue Adaptive Moving Dubbing Benchmarks**, Chaoyi Wang et.al., Paper: [http://arxiv.org/abs/2505.01450](http://arxiv.org/abs/2505.01450)
@@ -4121,6 +4122,7 @@
 - 2025-04-04, **RWKVTTS: Yet another TTS based on RWKV-7**, Lin yueyu et.al., Paper: [http://arxiv.org/abs/2504.03289](http://arxiv.org/abs/2504.03289), Code: **[https://github.com/yynil/rwkvtts](https://github.com/yynil/rwkvtts)**
 - 2025-05-27, **RASMALAI: Resources for Adaptive Speech Modeling in Indian Languages with Accents and Intonations**, Ashwin Sankar et.al., Paper: [http://arxiv.org/abs/2505.18609](http://arxiv.org/abs/2505.18609)
 - 2025-03-26, **Qwen2.5-Omni Technical Report**, Jin Xu et.al., Paper: [http://arxiv.org/abs/2503.20215](http://arxiv.org/abs/2503.20215)
+- 2025-07-16, **Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**, Yichen Han et.al., Paper: [http://arxiv.org/abs/2507.12197](http://arxiv.org/abs/2507.12197)
 - 2025-06-17, **Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**, Tuan Dat Phuong et.al., Paper: [http://arxiv.org/abs/2506.14153](http://arxiv.org/abs/2506.14153), Code: **[https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**
 - 2025-04-14, **Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2504.10352](http://arxiv.org/abs/2504.10352)
 - 2025-05-21, **Prosody-Adaptable Audio Codecs for Zero-Shot Voice Conversion via In-Context Learning**, Junchuan Zhao et.al., Paper: [http://arxiv.org/abs/2505.15402](http://arxiv.org/abs/2505.15402)
@@ -4244,6 +4246,7 @@
 - 2025-05-19, **Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**, Zhengrui Ma et.al., Paper: [http://arxiv.org/abs/2505.13181](http://arxiv.org/abs/2505.13181), Code: **[https://github.com/ictnlp/sled-tts](https://github.com/ictnlp/sled-tts)**
 - 2025-06-30, **Efficient Interleaved Speech Modeling through Knowledge Distillation**, Mohammadmahdi Nouriborji et.al., Paper: [http://arxiv.org/abs/2506.23670](http://arxiv.org/abs/2506.23670)
 - 2025-07-10, **EPIC: Efficient Prompt Interaction for Text-Image Classification**, Xinyao Yu et.al., Paper: [http://arxiv.org/abs/2507.07415](http://arxiv.org/abs/2507.07415)
+- 2025-07-16, **EME-TTS: Unlocking the Emphasis and Emotion Link in Speech Synthesis**, Haoxun Li et.al., Paper: [http://arxiv.org/abs/2507.12015](http://arxiv.org/abs/2507.12015)
 - 2025-05-08, **Dukawalla: Voice Interfaces for Small Businesses in Africa**, Elizabeth Ankrah et.al., Paper: [http://arxiv.org/abs/2505.05170](http://arxiv.org/abs/2505.05170)
 - 2025-07-14, **DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**, Wenjie Tian et.al., Paper: [http://arxiv.org/abs/2507.10109](http://arxiv.org/abs/2507.10109)
 - 2025-05-19, **DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation**, Jiaqi Li et.al., Paper: [http://arxiv.org/abs/2505.13000](http://arxiv.org/abs/2505.13000), Code: **[https://github.com/jiaqili3/DualCodec](https://github.com/jiaqili3/DualCodec)**
