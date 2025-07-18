@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**|Qiang Wang et.al.|[2507.12956](http://arxiv.org/abs/2507.12956)|null|
+|**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
+|**2025-07-17**|**Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**|Hanlei Shi et.al.|[2507.12761](http://arxiv.org/abs/2507.12761)|null|
+|**2025-07-17**|**Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries**|Minyoung Kim et.al.|[2507.12723](http://arxiv.org/abs/2507.12723)|null|
 |**2025-07-16**|**AU-Blendshape for Fine-grained Stylized 3D Facial Expression Manipulation**|Hao Li et.al.|[2507.12001](http://arxiv.org/abs/2507.12001)|null|
 |**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
@@ -865,6 +869,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224](http://arxiv.org/abs/2507.13224)|null|
+|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
 |**2025-07-16**|**EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models**|Jiajian Xie et.al.|[2507.11980](http://arxiv.org/abs/2507.11980)|null|
 |**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
@@ -1776,6 +1784,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
+|**2025-07-17**|**Bidirectional Age of Incorrect Information: A Performance Metric for Status Updates in Virtual Dynamic Environments**|Chiara Schiavo et.al.|[2507.13312](http://arxiv.org/abs/2507.13312)|null|
+|**2025-07-17**|**Rapid and precise distance measurement using balanced cross-correlation of a single frequency-modulated electro-optic comb**|Zijian Wang et.al.|[2507.13206](http://arxiv.org/abs/2507.13206)|null|
+|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
+|**2025-07-17**|**ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning**|Rahel Rickenbach et.al.|[2507.13088](http://arxiv.org/abs/2507.13088)|null|
+|**2025-07-17**|**Angle Estimation of a Single Source with Massive Uniform Circular Arrays**|Mingyan Gong et.al.|[2507.13086](http://arxiv.org/abs/2507.13086)|null|
+|**2025-07-17**|**Channel-wise Motion Features for Efficient Motion Segmentation**|Riku Inoue et.al.|[2507.13082](http://arxiv.org/abs/2507.13082)|null|
+|**2025-07-17**|**Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data**|Sanjeev Ramkumar Sudha et.al.|[2507.13053](http://arxiv.org/abs/2507.13053)|null|
+|**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
+|**2025-07-17**|**Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation**|Yi Xin et.al.|[2507.13032](http://arxiv.org/abs/2507.13032)|null|
+|**2025-07-17**|**Differential-informed Sample Selection Accelerates Multimodal Contrastive Learning**|Zihua Zhao et.al.|[2507.12998](http://arxiv.org/abs/2507.12998)|null|
+|**2025-07-17**|**FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**|ShanBin Liu et.al.|[2507.12983](http://arxiv.org/abs/2507.12983)|null|
+|**2025-07-17**|**Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**|Zhou Feng et.al.|[2507.12932](http://arxiv.org/abs/2507.12932)|null|
+|**2025-07-17**|**Camera-based implicit mind reading by capturing higher-order semantic dynamics of human gaze within environmental context**|Mengke Song et.al.|[2507.12889](http://arxiv.org/abs/2507.12889)|null|
+|**2025-07-17**|**Autonomous Resource Management in Microservice Systems via Reinforcement Learning**|Yujun Zou et.al.|[2507.12879](http://arxiv.org/abs/2507.12879)|null|
+|**2025-07-17**|**Impact Analysis of Optimal EV Bi-directional Charging with Spatial-temporal Constraints**|Xian-Long Lee et.al.|[2507.12877](http://arxiv.org/abs/2507.12877)|null|
+|**2025-07-17**|**RONOM: Reduced-Order Neural Operator Modeling**|Sven Dummer et.al.|[2507.12814](http://arxiv.org/abs/2507.12814)|null|
+|**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
+|**2025-07-17**|**Early Prediction of Current Quench Events in the ADITYA Tokamak using Transformer based Data Driven Models**|Jyoti Agarwal et.al.|[2507.12797](http://arxiv.org/abs/2507.12797)|null|
 |**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445](http://arxiv.org/abs/2507.12445)|null|
 |**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
@@ -4014,6 +4042,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
+|**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
+|**2025-07-17**|**Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**|Zhou Feng et.al.|[2507.12932](http://arxiv.org/abs/2507.12932)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
 |**2025-07-16**|**EME-TTS: Unlocking the Emphasis and Emotion Link in Speech Synthesis**|Haoxun Li et.al.|[2507.12015](http://arxiv.org/abs/2507.12015)|null|
 |**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
