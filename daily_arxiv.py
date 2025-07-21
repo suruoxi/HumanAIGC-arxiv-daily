@@ -334,7 +334,8 @@ def json_to_md(recent_trend_path,
             day_content = data[keyword]
             if not day_content:
                 continue
-            
+              
+            f.write(f"<details>\n\n<summary> {keyword} </summary>\n\n")
             
             # the head of each part
             f.write(f"## {keyword}\n\n")
@@ -359,6 +360,7 @@ def json_to_md(recent_trend_path,
                     f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
+            f.write(f"</details>")
             
             #Add: back to top
             if use_b2t:
