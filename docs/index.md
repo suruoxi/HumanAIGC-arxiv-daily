@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.07.21
+### Updated on 2025.07.22
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-17**|**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**|Qiang Wang et.al.|[2507.12956](http://arxiv.org/abs/2507.12956)|null|
 |**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
 |**2025-07-17**|**Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**|Hanlei Shi et.al.|[2507.12761](http://arxiv.org/abs/2507.12761)|null|
@@ -21,7 +22,6 @@ layout: default
 |**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-10**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
-|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
 |**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|null|
 |**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
@@ -4101,6 +4101,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-17**|**A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**|Kirill Borodin et.al.|[2507.13563](http://arxiv.org/abs/2507.13563)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
@@ -4110,7 +4111,6 @@ layout: default
 |**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
 |**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
 |**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
-|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-12**|**ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**|Han Zhu et.al.|[2507.09318](http://arxiv.org/abs/2507.09318)|null|

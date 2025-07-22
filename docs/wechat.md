@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.07.21
+> Updated on 2025.07.22
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -29,7 +29,7 @@
 - 2025-05-29, **Wav2Sem: Plug-and-Play Audio Semantic Decoupling for 3D Speech-Driven Facial Animation**, Hao Li et.al., Paper: [http://arxiv.org/abs/2505.23290](http://arxiv.org/abs/2505.23290), Code: **[https://github.com/wslh852/wav2sem](https://github.com/wslh852/wav2sem)**
 - 2025-04-03, **VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2504.02386](http://arxiv.org/abs/2504.02386)
 - 2023-12-07, **VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior**, Xusen Sun et.al., Paper: [http://arxiv.org/abs/2312.01841](http://arxiv.org/abs/2312.01841)
-- 2025-07-08, **VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**, Alexandre Symeonidis-Herzig et.al., Paper: [http://arxiv.org/abs/2507.06060](http://arxiv.org/abs/2507.06060)
+- 2025-07-21, **VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**, Alexandre Symeonidis-Herzig et.al., Paper: [http://arxiv.org/abs/2507.06060](http://arxiv.org/abs/2507.06060)
 - 2022-07-22, **Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos**, Panagiotis P. Filntisis et.al., Paper: [http://arxiv.org/abs/2207.11094](http://arxiv.org/abs/2207.11094), Code: **[https://github.com/filby89/spectre](https://github.com/filby89/spectre)**
 - 2014-09-03, **Visual Speech Recognition**, Ahmad B. A. Hassanat et.al., Paper: [http://arxiv.org/abs/1409.1411](http://arxiv.org/abs/1409.1411)
 - 2018-05-24, **VisemeNet: Audio-Driven Animator-Centric Speech Animation**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/1805.09488](http://arxiv.org/abs/1805.09488)
@@ -770,7 +770,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -881,7 +881,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -1447,7 +1447,7 @@
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -1518,7 +1518,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -1814,7 +1814,7 @@
 - 2025-07-08, **2D Instance Editing in 3D Space**, Yuhuan Xie et.al., Paper: [http://arxiv.org/abs/2507.05819](http://arxiv.org/abs/2507.05819)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -3882,7 +3882,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -4101,7 +4101,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -4167,7 +4167,7 @@
 - 2025-02-10, **Synthetic Audio Helps for Cognitive State Tasks**, Adil Soubki et.al., Paper: [http://arxiv.org/abs/2502.06922](http://arxiv.org/abs/2502.06922), Code: **[https://github.com/adil-soubki/sad-training](https://github.com/adil-soubki/sad-training)**
 - 2025-02-16, **SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**, Zhengyan Sheng et.al., Paper: [http://arxiv.org/abs/2502.11094](http://arxiv.org/abs/2502.11094)
 - 2025-06-07, **SynHate: Detecting Hate Speech in Synthetic Deepfake Audio**, Rishabh Ranjan et.al., Paper: [http://arxiv.org/abs/2506.06772](http://arxiv.org/abs/2506.06772)
-- 2025-07-14, **Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**, Mengzhe Geng et.al., Paper: [http://arxiv.org/abs/2507.10827](http://arxiv.org/abs/2507.10827)
+- 2025-07-20, **Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**, Mengzhe Geng et.al., Paper: [http://arxiv.org/abs/2507.10827](http://arxiv.org/abs/2507.10827)
 - 2025-03-29, **SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**, Hyeongju Kim et.al., Paper: [http://arxiv.org/abs/2503.23108](http://arxiv.org/abs/2503.23108)
 - 2025-06-19, **Streaming Non-Autoregressive Model for Accent Conversion and Pronunciation Improvement**, Tuan-Nam Nguyen et.al., Paper: [http://arxiv.org/abs/2506.16580](http://arxiv.org/abs/2506.16580)
 - 2025-06-14, **StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**, Hui Wang et.al., Paper: [http://arxiv.org/abs/2506.12570](http://arxiv.org/abs/2506.12570)
@@ -4464,7 +4464,7 @@
 - 2025-07-17, **A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**, Kirill Borodin et.al., Paper: [http://arxiv.org/abs/2507.13563](http://arxiv.org/abs/2507.13563)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 Notes: 
 

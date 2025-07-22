@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.07.21
+### Updated on 2025.07.22
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-17**|**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**|Qiang Wang et.al.|[2507.12956](http://arxiv.org/abs/2507.12956)|null|
 |**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
 |**2025-07-17**|**Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**|Hanlei Shi et.al.|[2507.12761](http://arxiv.org/abs/2507.12761)|null|
@@ -30,7 +31,6 @@
 |**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-10**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
-|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
 |**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|null|
 |**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
@@ -770,7 +770,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -884,7 +884,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -1452,7 +1452,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -1525,7 +1525,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -1823,7 +1823,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -3893,7 +3893,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -4114,7 +4114,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 <details>
 
@@ -4124,6 +4124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-17**|**A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**|Kirill Borodin et.al.|[2507.13563](http://arxiv.org/abs/2507.13563)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
@@ -4133,7 +4134,6 @@
 |**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
 |**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
 |**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
-|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-12**|**ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**|Han Zhu et.al.|[2507.09318](http://arxiv.org/abs/2507.09318)|null|
@@ -4479,7 +4479,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-</details><p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 Notes: 
 
