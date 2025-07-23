@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.07.22
+### Updated on 2025.07.23
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|null|
 |**2025-07-21**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-17**|**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**|Qiang Wang et.al.|[2507.12956](http://arxiv.org/abs/2507.12956)|null|
 |**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
@@ -882,6 +883,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
 |**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
@@ -1453,6 +1456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on**|Zheng Wang et.al.|[2507.16010](http://arxiv.org/abs/2507.16010)|null|
 |**2025-07-20**|**OmniVTON: Training-Free Universal Virtual Try-On**|Zhaotong Yang et.al.|[2507.15037](http://arxiv.org/abs/2507.15037)|null|
 |**2025-07-09**|**Scalable and Realistic Virtual Try-on Application for Foundation Makeup with Kubelka-Munk Theory**|Hui Pang et.al.|[2507.07333](http://arxiv.org/abs/2507.07333)|null|
 |**2025-07-08**|**TalkFashion: Intelligent Virtual Try-On Assistant Based on Multimodal Large Language Model**|Yujie Hu et.al.|[2507.05790](http://arxiv.org/abs/2507.05790)|null|
@@ -1525,6 +1529,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement**|Kahim Wong et.al.|[2507.16397](http://arxiv.org/abs/2507.16397)|null|
+|**2025-07-22**|**Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling**|Chao Zhou et.al.|[2507.16240](http://arxiv.org/abs/2507.16240)|null|
+|**2025-07-22**|**LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs**|Zitong Xu et.al.|[2507.16193](http://arxiv.org/abs/2507.16193)|null|
 |**2025-07-20**|**Light Future: Multimodal Action Frame Prediction via InstructPix2Pix**|Zesen Zhong et.al.|[2507.14809](http://arxiv.org/abs/2507.14809)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
 |**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
@@ -1822,6 +1829,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
+|**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
+|**2025-07-22**|**Ring-based ML calibration with in situ pileup correction for real-time jet triggers**|Benjamin T. Carlson et.al.|[2507.16686](http://arxiv.org/abs/2507.16686)|null|
+|**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao et.al.|[2507.16672](http://arxiv.org/abs/2507.16672)|null|
+|**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
+|**2025-07-22**|**Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs**|Yujin Han et.al.|[2507.16663](http://arxiv.org/abs/2507.16663)|null|
+|**2025-07-22**|**Benchmarking pig detection and tracking under diverse and challenging conditions**|Jonathan Henrich et.al.|[2507.16639](http://arxiv.org/abs/2507.16639)|null|
+|**2025-07-22**|**Physics-Informed Neural Networks for High-Precision Grad-Shafranov Equilibrium Reconstruction**|Cuizhi Zhou et.al.|[2507.16636](http://arxiv.org/abs/2507.16636)|null|
+|**2025-07-22**|**Novel Multi-Agent Action Masked Deep Reinforcement Learning for General Industrial Assembly Lines Balancing Problems**|Ali Mohamed Ali et.al.|[2507.16635](http://arxiv.org/abs/2507.16635)|null|
+|**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556](http://arxiv.org/abs/2507.16556)|null|
+|**2025-07-22**|**ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training**|Shreya Saxena et.al.|[2507.16478](http://arxiv.org/abs/2507.16478)|null|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
+|**2025-07-22**|**DASPack: Controlled Data Compression for Distributed Acoustic Sensing**|Aleix Segui et.al.|[2507.16390](http://arxiv.org/abs/2507.16390)|null|
+|**2025-07-22**|**LPTR-AFLNet: Lightweight Integrated Chinese License Plate Rectification and Recognition Network**|Guangzhu Xu et.al.|[2507.16362](http://arxiv.org/abs/2507.16362)|null|
+|**2025-07-22**|**Voice-based AI Agents: Filling the Economic Gaps in Digital Health Delivery**|Bo Wen et.al.|[2507.16229](http://arxiv.org/abs/2507.16229)|null|
+|**2025-07-22**|**Toward Routine CSP of Pharmaceuticals: A Fully Automated Protocol Using Neural Network Potentials**|Zachary L. Glick et.al.|[2507.16218](http://arxiv.org/abs/2507.16218)|null|
+|**2025-07-22**|**Explicit Context Reasoning with Supervision for Visual Tracking**|Fansheng Zeng et.al.|[2507.16191](http://arxiv.org/abs/2507.16191)|null|
+|**2025-07-22**|**LABNet: A Lightweight Attentive Beamforming Network for Ad-hoc Multichannel Microphone Invariant Real-Time Speech Enhancement**|Haoyin Yan et.al.|[2507.16190](http://arxiv.org/abs/2507.16190)|null|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
+|**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
 |**2025-07-21**|**Label tree semantic losses for rich multi-class medical image segmentation**|Junwen Wang et.al.|[2507.15777](http://arxiv.org/abs/2507.15777)|null|
 |**2025-07-21**|**Interaction as Intelligence: Deep Research With Human-AI Partnership**|Lyumanshan Ye et.al.|[2507.15759](http://arxiv.org/abs/2507.15759)|null|
 |**2025-07-21**|**Gaze-supported Large Language Model Framework for Bi-directional Human-Robot Interaction**|Jens V. Rüppel et.al.|[2507.15729](http://arxiv.org/abs/2507.15729)|null|
@@ -3910,7 +3937,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-20**|**Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling**|Xiaojie Li et.al.|[2507.14915](http://arxiv.org/abs/2507.14915)|null|
+|**2025-07-22**|**Design and Optimization of Wearables for Human Motion Energy Harvesting**|Weijia Peng et.al.|[2507.16157](http://arxiv.org/abs/2507.16157)|null|
+|**2025-07-22**|**Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling**|Xiaojie Li et.al.|[2507.14915](http://arxiv.org/abs/2507.14915)|null|
 |**2025-07-19**|**Uncertainty-aware Probabilistic 3D Human Motion Forecasting via Invertible Networks**|Yue Ma et.al.|[2507.14694](http://arxiv.org/abs/2507.14694)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
@@ -4131,9 +4159,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization**|Wenbo Xu et.al.|[2507.16596](http://arxiv.org/abs/2507.16596)|null|
+|**2025-07-22**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
 |**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
-|**2025-07-20**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
 |**2025-07-20**|**DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis**|Yinghao Aaron Li et.al.|[2507.14988](http://arxiv.org/abs/2507.14988)|null|
 |**2025-07-20**|**FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing**|Shoutao Guo et.al.|[2507.14815](http://arxiv.org/abs/2507.14815)|null|
 |**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
