@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
+|**2025-07-28**|**Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation**|Dogucan Yaman et.al.|[2507.20953](http://arxiv.org/abs/2507.20953)|null|
+|**2025-07-28**|**Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2507.20568](http://arxiv.org/abs/2507.20568)|null|
+|**2025-07-28**|**MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization**|Hyung Kyu Kim et.al.|[2507.20562](http://arxiv.org/abs/2507.20562)|null|
+|**2025-07-28**|**JOLT3D: Joint Learning of Talking Heads and 3DMM Parameters with Application to Lip-Sync**|Sungjoon Park et.al.|[2507.20452](http://arxiv.org/abs/2507.20452)|null|
 |**2025-07-25**|**Face2VoiceSync: Lightweight Face-Voice Consistency for Text-Driven Talking Face Generation**|Fang Kang et.al.|[2507.19225](http://arxiv.org/abs/2507.19225)|null|
 |**2025-07-24**|**Tiny is not small enough: High-quality, low-resource facial animation models through hybrid knowledge distillation**|Zhen Han et.al.|[2507.18352](http://arxiv.org/abs/2507.18352)|null|
 |**2025-07-24**|**Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics**|Yuezun Li et.al.|[2507.18015](http://arxiv.org/abs/2507.18015)|null|
@@ -900,6 +905,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
+|**2025-07-28**|**Compositional Video Synthesis by Temporal Object-Centric Learning**|Adil Kaan Akan et.al.|[2507.20855](http://arxiv.org/abs/2507.20855)|null|
+|**2025-07-27**|**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation**|Shuolin Xu et.al.|[2507.20368](http://arxiv.org/abs/2507.20368)|null|
+|**2025-07-26**|**HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly**|Chang Liu et.al.|[2507.19924](http://arxiv.org/abs/2507.19924)|null|
+|**2025-07-26**|**ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion**|Xuanchen Wang et.al.|[2507.19836](http://arxiv.org/abs/2507.19836)|null|
 |**2025-07-25**|**ScenePainter: Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment**|Chong Xia et.al.|[2507.19058](http://arxiv.org/abs/2507.19058)|null|
 |**2025-07-24**|**Captain Cinema: Towards Short Movie Generation**|Junfei Xiao et.al.|[2507.18634](http://arxiv.org/abs/2507.18634)|null|
 |**2025-07-24**|**Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis**|Yanzuo Lu et.al.|[2507.18569](http://arxiv.org/abs/2507.18569)|null|
@@ -1488,6 +1498,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-27**|**From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos**|Chenjian Gao et.al.|[2507.20331](http://arxiv.org/abs/2507.20331)|null|
 |**2025-07-21**|**FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on**|Zheng Wang et.al.|[2507.16010](http://arxiv.org/abs/2507.16010)|null|
 |**2025-07-20**|**OmniVTON: Training-Free Universal Virtual Try-On**|Zhaotong Yang et.al.|[2507.15037](http://arxiv.org/abs/2507.15037)|null|
 |**2025-07-09**|**Scalable and Realistic Virtual Try-on Application for Foundation Makeup with Kubelka-Munk Theory**|Hui Pang et.al.|[2507.07333](http://arxiv.org/abs/2507.07333)|null|
@@ -1563,6 +1574,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset**|Yuhan Wang et.al.|[2507.21033](http://arxiv.org/abs/2507.21033)|null|
+|**2025-07-28**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Sherry X. Chen et.al.|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
+|**2025-07-27**|**From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos**|Chenjian Gao et.al.|[2507.20331](http://arxiv.org/abs/2507.20331)|null|
 |**2025-07-25**|**HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback**|Elham Soltani Kazemi et.al.|[2507.18921](http://arxiv.org/abs/2507.18921)|null|
 |**2025-07-23**|**Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling**|Yi Xin et.al.|[2507.17801](http://arxiv.org/abs/2507.17801)|null|
 |**2025-07-22**|**ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement**|Kahim Wong et.al.|[2507.16397](http://arxiv.org/abs/2507.16397)|null|
@@ -1576,7 +1590,6 @@
 |**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
 |**2025-07-11**|**FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields**|Gwanhyeong Koo et.al.|[2507.08285](http://arxiv.org/abs/2507.08285)|null|
-|**2025-07-09**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Sherry X. Chen et.al.|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
 |**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|null|
 |**2025-07-07**|**Neural-Driven Image Editing**|Pengfei Zhou et.al.|[2507.05397](http://arxiv.org/abs/2507.05397)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
@@ -1867,6 +1880,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**Methyl Isocyanate Formation from Oxygen Insertion in Methyl Cyanide Ices**|Michelle R. Brann et.al.|[2507.21047](http://arxiv.org/abs/2507.21047)|null|
+|**2025-07-28**|**A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence**|Huan-ang Gao et.al.|[2507.21046](http://arxiv.org/abs/2507.21046)|null|
+|**2025-07-28**|**User-Centered Design with AI in the Loop: A Case Study of Rapid User Interface Prototyping with "Vibe Coding"**|Tianyi Li et.al.|[2507.21012](http://arxiv.org/abs/2507.21012)|null|
+|**2025-07-28**|**Towards Effective Human Performance in XR Space Framework based on Real-time Eye Tracking Biofeedback**|Barbara Karpowicz et.al.|[2507.21000](http://arxiv.org/abs/2507.21000)|null|
+|**2025-07-28**|**Handoff Design in User-Centric Cell-Free Massive MIMO Networks Using DRL**|Hussein A. Ammar et.al.|[2507.20966](http://arxiv.org/abs/2507.20966)|null|
+|**2025-07-28**|**Your AI, Not Your View: The Bias of LLMs in Investment Analysis**|Hoyoung Lee et.al.|[2507.20957](http://arxiv.org/abs/2507.20957)|null|
+|**2025-07-28**|**The Impact of Simple, Brief, and Adaptive Instructions within Virtual Reality Training: Components of Cognitive Load Theory in an Assembly Task**|Rebecca L. Pharmer et.al.|[2507.20943](http://arxiv.org/abs/2507.20943)|null|
+|**2025-07-28**|**Endoscopic Depth Estimation Based on Deep Learning: A Survey**|Ke Niu et.al.|[2507.20881](http://arxiv.org/abs/2507.20881)|null|
+|**2025-07-28**|**$S^3$ LAM: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping**|Ruoyu Fan et.al.|[2507.20854](http://arxiv.org/abs/2507.20854)|null|
+|**2025-07-28**|**Route Optimization Over Scheduled Services For Large-Scale Package Delivery Networks**|Mohammed Faisal Ahmed et.al.|[2507.20844](http://arxiv.org/abs/2507.20844)|null|
+|**2025-07-28**|**First Hallucination Tokens Are Different from Conditional Ones**|Jakob Snel et.al.|[2507.20836](http://arxiv.org/abs/2507.20836)|null|
+|**2025-07-28**|**Onboard Hyperspectral Super-Resolution with Deep Pushbroom Neural Network**|Davide Piccinini et.al.|[2507.20765](http://arxiv.org/abs/2507.20765)|null|
+|**2025-07-28**|**Femtosecond Engineering of magnetic Domain Walls via Nonequilibrium Spin Textures**|Yuzhu Fan et.al.|[2507.20701](http://arxiv.org/abs/2507.20701)|null|
+|**2025-07-28**|**Lightweight Transformer-Driven Segmentation of Hotspots and Snail Trails in Solar PV Thermal Imagery**|Deepak Joshi et.al.|[2507.20680](http://arxiv.org/abs/2507.20680)|null|
+|**2025-07-28**|**Quantum Circuit Caches and Compressors for Low Latency, High Throughput Computing**|Ioana Moflic et.al.|[2507.20677](http://arxiv.org/abs/2507.20677)|null|
+|**2025-07-28**|**A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games**|Jonas Peche et.al.|[2507.20670](http://arxiv.org/abs/2507.20670)|null|
+|**2025-07-28**|**Convergent Weight and Activation Dynamics in Memristor Neural Networks**|Mauro Di Marco et.al.|[2507.20634](http://arxiv.org/abs/2507.20634)|null|
+|**2025-07-28**|**PhaseNAS: Language-Model Driven Architecture Search with Dynamic Phase Adaptation**|Fei Kong et.al.|[2507.20592](http://arxiv.org/abs/2507.20592)|null|
+|**2025-07-28**|**Real-Time Distributed Optical Fiber Vibration Recognition via Extreme Lightweight Model and Cross-Domain Distillation**|Zhongyao Luo et.al.|[2507.20587](http://arxiv.org/abs/2507.20587)|null|
+|**2025-07-28**|**HJB-based online safety-embedded critic learning for uncertain systems with self-triggered mechanism**|Zhanglin Shangguan et.al.|[2507.20545](http://arxiv.org/abs/2507.20545)|null|
 |**2025-07-25**|**Efficient Lines Detection for Robot Soccer**|João G. Melo et.al.|[2507.19469](http://arxiv.org/abs/2507.19469)|null|
 |**2025-07-25**|**Towards Effective Immersive Technologies in Medicine: Potential and Future Applications based on VR, AR, XR and AI solutions**|Aliaksandr Marozau et.al.|[2507.19466](http://arxiv.org/abs/2507.19466)|null|
 |**2025-07-25**|**A multi-dynamic low-rank deep image prior (ML-DIP) for real-time 3D cardiovascular MRI**|Chong Chen et.al.|[2507.19404](http://arxiv.org/abs/2507.19404)|null|
@@ -4017,7 +4050,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**Deep Learning for Skeleton Based Human Motion Rehabilitation Assessment: A Benchmark**|Ali Ismail-Fawaz et.al.|[2507.21018](http://arxiv.org/abs/2507.21018)|null|
 |**2025-07-28**|**PatchTraj: Dynamic Patch Representation Learning for Time-Frequency Trajectory Prediction**|Yanghong Liu et.al.|[2507.19119](http://arxiv.org/abs/2507.19119)|null|
+|**2025-07-27**|**PUMPS: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks**|Clinton Ansun Mo et.al.|[2507.20170](http://arxiv.org/abs/2507.20170)|null|
+|**2025-07-26**|**FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing**|Bizhu Wu et.al.|[2507.19850](http://arxiv.org/abs/2507.19850)|null|
+|**2025-07-26**|**ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion**|Xuanchen Wang et.al.|[2507.19836](http://arxiv.org/abs/2507.19836)|null|
 |**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406](http://arxiv.org/abs/2507.17406)|null|
 |**2025-07-22**|**Design and Optimization of Wearables for Human Motion Energy Harvesting**|Weijia Peng et.al.|[2507.16157](http://arxiv.org/abs/2507.16157)|null|
 |**2025-07-22**|**Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling**|Xiaojie Li et.al.|[2507.14915](http://arxiv.org/abs/2507.14915)|null|
@@ -4244,7 +4281,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
+|**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579](http://arxiv.org/abs/2507.20579)|null|
+|**2025-07-27**|**Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech**|Taesoo Kim et.al.|[2507.20140](http://arxiv.org/abs/2507.20140)|null|
+|**2025-07-27**|**Dynamite: Real-Time Debriefing Slide Authoring through AI-Enhanced Multimodal Interaction**|Panayu Keelawat et.al.|[2507.20137](http://arxiv.org/abs/2507.20137)|null|
 |**2025-07-27**|**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**|Shanbo Cheng et.al.|[2507.17527](http://arxiv.org/abs/2507.17527)|null|
+|**2025-07-26**|**Defining ethically sourced code generation**|Zhuolin Xu et.al.|[2507.19743](http://arxiv.org/abs/2507.19743)|null|
 |**2025-07-25**|**IoT and Older Adults: Towards Multimodal EMG and AI-Based Interaction with Smart Home**|Wiesław Kopeć et.al.|[2507.19479](http://arxiv.org/abs/2507.19479)|null|
 |**2025-07-25**|**GOAT-SLM: A Spoken Language Model with Paralinguistic and Speaker Characteristic Awareness**|Hongjie Chen et.al.|[2507.18119](http://arxiv.org/abs/2507.18119)|null|
 |**2025-07-24**|**Synthetic Data Generation for Phrase Break Prediction with Large Language Model**|Hoyeon Lee et.al.|[2507.18044](http://arxiv.org/abs/2507.18044)|null|
