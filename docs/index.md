@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-30**|**Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images**|Takuma Amada et.al.|[2507.22601](http://arxiv.org/abs/2507.22601)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation**|Dogucan Yaman et.al.|[2507.20953](http://arxiv.org/abs/2507.20953)|null|
 |**2025-07-28**|**Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2507.20568](http://arxiv.org/abs/2507.20568)|null|
@@ -892,6 +893,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-30**|**GVD: Guiding Video Diffusion Model for Scalable Video Distillation**|Kunyang Li et.al.|[2507.22360](http://arxiv.org/abs/2507.22360)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**Compositional Video Synthesis by Temporal Object-Centric Learning**|Adil Kaan Akan et.al.|[2507.20855](http://arxiv.org/abs/2507.20855)|null|
 |**2025-07-27**|**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation**|Shuolin Xu et.al.|[2507.20368](http://arxiv.org/abs/2507.20368)|null|
@@ -1862,7 +1864,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-30**|**Carotid Plaque Segmentation in Ultrasound Images Using a Mask R-CNN**|Maxwell J. Kiernan et.al.|[2507.22848](http://arxiv.org/abs/2507.22848)|null|
+|**2025-07-30**|**Quantum Simulation of Nuclear Dynamics in First Quantization**|Luca Spagnoli et.al.|[2507.22814](http://arxiv.org/abs/2507.22814)|null|
+|**2025-07-30**|**VRISE: A Virtual Reality Platfrom for Immersive and Interactive Surveying Education**|Daniel Udekwe et.al.|[2507.22810](http://arxiv.org/abs/2507.22810)|null|
+|**2025-07-30**|**The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach**|Rui Ren et.al.|[2507.22800](http://arxiv.org/abs/2507.22800)|null|
+|**2025-07-30**|**Segment Anything for Video: A Comprehensive Review of Video Object Segmentation and Tracking from Past to Future**|Guoping Xu et.al.|[2507.22792](http://arxiv.org/abs/2507.22792)|null|
+|**2025-07-30**|**Order Book Filtration and Directional Signal Extraction at High Frequency**|Aditya Nittur Anantha et.al.|[2507.22712](http://arxiv.org/abs/2507.22712)|null|
+|**2025-07-30**|**Ecoscape: Fault Tolerance Benchmark for Adaptive Remediation Strategies in Real-Time Edge ML**|Hendrik Reiter et.al.|[2507.22702](http://arxiv.org/abs/2507.22702)|null|
+|**2025-07-30**|**Image-Guided Shape-from-Template Using Mesh Inextensibility Constraints**|Thuy Tran et.al.|[2507.22699](http://arxiv.org/abs/2507.22699)|null|
+|**2025-07-30**|**Malleability-Resistant Encrypted Control System with Disturbance Compensation and Real-Time Attack Detection**|Naoki Aizawa et.al.|[2507.22693](http://arxiv.org/abs/2507.22693)|null|
+|**2025-07-30**|**SpectraSentinel: LightWeight Dual-Stream Real-Time Drone Detection, Tracking and Payload Identification**|Shahriar Kabir et.al.|[2507.22650](http://arxiv.org/abs/2507.22650)|null|
+|**2025-07-30**|**From Tracepoints to Timeliness: A Semi-Markov Framework for Predictive Runtime Analysis**|Benno Bielmeier et.al.|[2507.22645](http://arxiv.org/abs/2507.22645)|null|
+|**2025-07-30**|**Safe Deployment of Offline Reinforcement Learning via Input Convex Action Correction**|Alex Durkin et.al.|[2507.22640](http://arxiv.org/abs/2507.22640)|null|
+|**2025-07-30**|**A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation**|Yongjie Li et.al.|[2507.22473](http://arxiv.org/abs/2507.22473)|null|
+|**2025-07-30**|**Efficient Spatial-Temporal Modeling for Real-Time Video Analysis: A Unified Framework for Action Recognition and Object Tracking**|Shahla John et.al.|[2507.22421](http://arxiv.org/abs/2507.22421)|null|
+|**2025-07-30**|**Eyepiece-free pupil-optimized holographic near-eye displays**|Jie Zhou et.al.|[2507.22420](http://arxiv.org/abs/2507.22420)|null|
+|**2025-07-30**|**End-to-end image compression and reconstruction with ultrahigh speed and ultralow energy enabled by opto-electronic computing processor**|Yuhang Wang et.al.|[2507.22374](http://arxiv.org/abs/2507.22374)|null|
+|**2025-07-30**|**NeOTF: Speckle-Constrained OTF Neural Representation for Non-invasive Imaging through Scattering Medium**|Yunong Sun et.al.|[2507.22328](http://arxiv.org/abs/2507.22328)|null|
 |**2025-07-30**|**No Redundancy, No Stall: Lightweight Streaming 3D Gaussian Splatting for Real-time Rendering**|Linye Wei et.al.|[2507.21572](http://arxiv.org/abs/2507.21572)|null|
+|**2025-07-29**|**Deep Learning for Gradient and BCG Artifacts Removal in EEG During Simultaneous fMRI**|K. A. Shahriar et.al.|[2507.22263](http://arxiv.org/abs/2507.22263)|null|
+|**2025-07-29**|**Large Language Model-Based Framework for Explainable Cyberattack Detection in Automatic Generation Control Systems**|Muhammad Sharshar et.al.|[2507.22239](http://arxiv.org/abs/2507.22239)|null|
+|**2025-07-29**|**Toward Trusted Onboard AI: Advancing Small Satellite Operations using Reinforcement Learning**|Cannon Whitney et.al.|[2507.22198](http://arxiv.org/abs/2507.22198)|null|
 |**2025-07-29**|**Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos**|Ziren Gong et.al.|[2507.22052](http://arxiv.org/abs/2507.22052)|null|
 |**2025-07-29**|**A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics**|Ruturaj Sambhus et.al.|[2507.22042](http://arxiv.org/abs/2507.22042)|null|
 |**2025-07-29**|**A Deep Learning-Driven Autonomous System for Retinal Vein Cannulation: Validation Using a Chicken Embryo Model**|Yi Wang et.al.|[2507.21965](http://arxiv.org/abs/2507.21965)|null|
@@ -4050,6 +4072,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-30**|**Exploration of Low-Cost but Accurate Radar-Based Human Motion Direction Determination**|Weicheng Gao et.al.|[2507.22567](http://arxiv.org/abs/2507.22567)|null|
 |**2025-07-29**|**Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling**|Xiaojie Li et.al.|[2507.14915](http://arxiv.org/abs/2507.14915)|null|
 |**2025-07-28**|**Deep Learning for Skeleton Based Human Motion Rehabilitation Assessment: A Benchmark**|Ali Ismail-Fawaz et.al.|[2507.21018](http://arxiv.org/abs/2507.21018)|null|
 |**2025-07-28**|**PatchTraj: Dynamic Patch Representation Learning for Time-Frequency Trajectory Prediction**|Yanghong Liu et.al.|[2507.19119](http://arxiv.org/abs/2507.19119)|null|
@@ -4279,6 +4302,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-30**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
+|**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
+|**2025-07-30**|**Optically Actuated Transitions in Multimodal, Bistable Micromechanical Oscillators**|Lior Michaeli et.al.|[2507.22605](http://arxiv.org/abs/2507.22605)|null|
 |**2025-07-29**|**SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**|Wen Huang et.al.|[2507.21463](http://arxiv.org/abs/2507.21463)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579](http://arxiv.org/abs/2507.20579)|null|
