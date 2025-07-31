@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.07.30
+### Updated on 2025.07.31
 <details>
 
 <summary> Talking Face </summary>
@@ -1862,6 +1862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-30**|**No Redundancy, No Stall: Lightweight Streaming 3D Gaussian Splatting for Real-time Rendering**|Linye Wei et.al.|[2507.21572](http://arxiv.org/abs/2507.21572)|null|
 |**2025-07-29**|**Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos**|Ziren Gong et.al.|[2507.22052](http://arxiv.org/abs/2507.22052)|null|
 |**2025-07-29**|**A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics**|Ruturaj Sambhus et.al.|[2507.22042](http://arxiv.org/abs/2507.22042)|null|
 |**2025-07-29**|**A Deep Learning-Driven Autonomous System for Retinal Vein Cannulation: Validation Using a Chicken Embryo Model**|Yi Wang et.al.|[2507.21965](http://arxiv.org/abs/2507.21965)|null|
@@ -1879,7 +1880,6 @@ layout: default
 |**2025-07-29**|**Data-Driven Greenhouse Climate Regulation in Lettuce Cultivation Using BiLSTM and GRU Predictive Control**|Soumo Emmanuel Arnaud et.al.|[2507.21669](http://arxiv.org/abs/2507.21669)|null|
 |**2025-07-29**|**Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems**|Bin Liu et.al.|[2507.21589](http://arxiv.org/abs/2507.21589)|null|
 |**2025-07-29**|**Excited State Absorption Drives Low-Energy Optical Limiting in Oligothiophenes**|Mustapha Driouech et.al.|[2507.21578](http://arxiv.org/abs/2507.21578)|null|
-|**2025-07-29**|**No Redundancy, No Stall: Lightweight Streaming 3D Gaussian Splatting for Real-time Rendering**|Linye Wei et.al.|[2507.21572](http://arxiv.org/abs/2507.21572)|null|
 |**2025-07-29**|**SLTarch: Towards Scalable Point-Based Neural Rendering by Taming Workload Imbalance and Memory Irregularity**|Xingyang Li et.al.|[2507.21499](http://arxiv.org/abs/2507.21499)|null|
 |**2025-07-29**|**Efficient single-atom transfer from an optical conveyor belt to a tightly confined optical tweezer**|Lei Xu et.al.|[2507.21456](http://arxiv.org/abs/2507.21456)|null|
 |**2025-07-28**|**Methyl Isocyanate Formation from Oxygen Insertion in Methyl Cyanide Ices**|Michelle R. Brann et.al.|[2507.21047](http://arxiv.org/abs/2507.21047)|null|
