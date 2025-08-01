@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.07.31
+### Updated on 2025.08.01
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-31**|**Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads**|Yingjie Zhou et.al.|[2507.23343](http://arxiv.org/abs/2507.23343)|null|
+|**2025-07-30**|**X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention**|Xiaochen Zhao et.al.|[2507.23143](http://arxiv.org/abs/2507.23143)|null|
 |**2025-07-30**|**Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images**|Takuma Amada et.al.|[2507.22601](http://arxiv.org/abs/2507.22601)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation**|Dogucan Yaman et.al.|[2507.20953](http://arxiv.org/abs/2507.20953)|null|
@@ -1559,6 +1561,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-31**|**Training-free Geometric Image Editing on Diffusion Models**|Hanshen Zhu et.al.|[2507.23300](http://arxiv.org/abs/2507.23300)|null|
+|**2025-07-31**|**UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing**|Hao Tang et.al.|[2507.23278](http://arxiv.org/abs/2507.23278)|null|
 |**2025-07-29**|**Low-Cost Test-Time Adaptation for Robust Video Editing**|Jianhui Wang et.al.|[2507.21858](http://arxiv.org/abs/2507.21858)|null|
 |**2025-07-29**|**From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos**|Chenjian Gao et.al.|[2507.20331](http://arxiv.org/abs/2507.20331)|null|
 |**2025-07-28**|**GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset**|Yuhan Wang et.al.|[2507.21033](http://arxiv.org/abs/2507.21033)|null|
@@ -1864,6 +1868,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-31**|**Half-Physics: Enabling Kinematic 3D Human Model with Physical Interactions**|Li Siyao et.al.|[2507.23778](http://arxiv.org/abs/2507.23778)|null|
+|**2025-07-31**|**Real-Time Transmission of Uncompressed High-Definition Video Via A VCSEL-Based Optical Wireless Link With Ultra-Low Latency**|Hossein Kazemi et.al.|[2507.23746](http://arxiv.org/abs/2507.23746)|null|
+|**2025-07-31**|**Distributed AI Agents for Cognitive Underwater Robot Autonomy**|Markus Buchholz et.al.|[2507.23735](http://arxiv.org/abs/2507.23735)|null|
+|**2025-07-31**|**Enhanced Velocity Field Modeling for Gaussian Video Reconstruction**|Zhenyang Li et.al.|[2507.23704](http://arxiv.org/abs/2507.23704)|null|
+|**2025-07-31**|**From Link Diversity to Cross-Band Feedback Collaboration: A New Perspective on Hybrid Optical-RF Systems**|Menghan Li et.al.|[2507.23686](http://arxiv.org/abs/2507.23686)|null|
+|**2025-07-31**|**DuLoc: Life-Long Dual-Layer Localization in Changing and Dynamic Expansive Scenarios**|Haoxuan Jiang et.al.|[2507.23660](http://arxiv.org/abs/2507.23660)|null|
+|**2025-07-31**|**DA-Occ: Efficient 3D Voxel Occupancy Prediction via Directional 2D for Geometric Structure Preservation**|Yuchen Zhou et.al.|[2507.23599](http://arxiv.org/abs/2507.23599)|null|
+|**2025-07-31**|**Hardware-Aware Fine-Tuning of Spiking Q-Networks on the SpiNNaker2 Neuromorphic Platform**|Sirine Arfa et.al.|[2507.23562](http://arxiv.org/abs/2507.23562)|null|
+|**2025-07-31**|**Online Estimation of Table-Top Grown Strawberry Mass in Field Conditions with Occlusions**|Jinshan Zhen et.al.|[2507.23487](http://arxiv.org/abs/2507.23487)|null|
+|**2025-07-31**|**Seeing More with Less: Video Capsule Endoscopy with Multi-Task Learning**|Julia Werner et.al.|[2507.23479](http://arxiv.org/abs/2507.23479)|null|
+|**2025-07-31**|**Finger Force Decoding from Motor Units Activity on Neuromorphic Hardware**|Farah Baracat et.al.|[2507.23474](http://arxiv.org/abs/2507.23474)|null|
+|**2025-07-31**|**Out-of-Distribution Detection in Medical Imaging via Diffusion Trajectories**|Lemar Abdi et.al.|[2507.23411](http://arxiv.org/abs/2507.23411)|null|
+|**2025-07-31**|**VMatcher: State-Space Semi-Dense Local Feature Matching**|Ali Youssef et.al.|[2507.23371](http://arxiv.org/abs/2507.23371)|null|
+|**2025-07-31**|**Preliminary design and simulation for CEPC fast luminosity monitor detector based on 4H-SiC**|Yanpeng Li et.al.|[2507.23368](http://arxiv.org/abs/2507.23368)|null|
+|**2025-07-31**|**The Impact of Image Resolution on Face Detection: A Comparative Analysis of MTCNN, YOLOv XI and YOLOv XII models**|Ahmet Can Ömercikoğlu et.al.|[2507.23341](http://arxiv.org/abs/2507.23341)|null|
+|**2025-07-31**|**Impact of Hyperparameter Optimization on the Accuracy of Lightweight Deep Learning Models for Real-Time Image Classification**|Vineet Kumar Rakesh et.al.|[2507.23315](http://arxiv.org/abs/2507.23315)|null|
+|**2025-07-31**|**A Framework for Ethical Decision-Making in Automated Vehicles through Human Reasons-based Supervision**|Lucas Elbert Suryana et.al.|[2507.23308](http://arxiv.org/abs/2507.23308)|null|
+|**2025-07-31**|**Real-time Generation of Various Types of Nodding for Avatar Attentive Listening System**|Kazushi Kato et.al.|[2507.23298](http://arxiv.org/abs/2507.23298)|null|
+|**2025-07-31**|**YOLO-ROC: A High-Precision and Ultra-Lightweight Model for Real-Time Road Damage Detection**|Zicheng Lin et.al.|[2507.23225](http://arxiv.org/abs/2507.23225)|null|
+|**2025-07-31**|**InterfO-RAN: Real-Time In-band Cellular Uplink Interference Detection with GPU-Accelerated dApps**|Neagin Neasamoni Santhi et.al.|[2507.23177](http://arxiv.org/abs/2507.23177)|null|
 |**2025-07-30**|**Carotid Plaque Segmentation in Ultrasound Images Using a Mask R-CNN**|Maxwell J. Kiernan et.al.|[2507.22848](http://arxiv.org/abs/2507.22848)|null|
 |**2025-07-30**|**Quantum Simulation of Nuclear Dynamics in First Quantization**|Luca Spagnoli et.al.|[2507.22814](http://arxiv.org/abs/2507.22814)|null|
 |**2025-07-30**|**VRISE: A Virtual Reality Platfrom for Immersive and Interactive Surveying Education**|Daniel Udekwe et.al.|[2507.22810](http://arxiv.org/abs/2507.22810)|null|
@@ -4072,10 +4096,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-31**|**PatchTraj: Unified Time-Frequency Representation Learning via Dynamic Patches for Trajectory Prediction**|Yanghong Liu et.al.|[2507.19119](http://arxiv.org/abs/2507.19119)|null|
 |**2025-07-30**|**Exploration of Low-Cost but Accurate Radar-Based Human Motion Direction Determination**|Weicheng Gao et.al.|[2507.22567](http://arxiv.org/abs/2507.22567)|null|
 |**2025-07-29**|**Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling**|Xiaojie Li et.al.|[2507.14915](http://arxiv.org/abs/2507.14915)|null|
 |**2025-07-28**|**Deep Learning for Skeleton Based Human Motion Rehabilitation Assessment: A Benchmark**|Ali Ismail-Fawaz et.al.|[2507.21018](http://arxiv.org/abs/2507.21018)|null|
-|**2025-07-28**|**PatchTraj: Dynamic Patch Representation Learning for Time-Frequency Trajectory Prediction**|Yanghong Liu et.al.|[2507.19119](http://arxiv.org/abs/2507.19119)|null|
 |**2025-07-27**|**PUMPS: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks**|Clinton Ansun Mo et.al.|[2507.20170](http://arxiv.org/abs/2507.20170)|null|
 |**2025-07-26**|**FineMotion: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing**|Bizhu Wu et.al.|[2507.19850](http://arxiv.org/abs/2507.19850)|null|
 |**2025-07-26**|**ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion**|Xuanchen Wang et.al.|[2507.19836](http://arxiv.org/abs/2507.19836)|null|
@@ -4302,6 +4326,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-31**|**Real-time Generation of Various Types of Nodding for Avatar Attentive Listening System**|Kazushi Kato et.al.|[2507.23298](http://arxiv.org/abs/2507.23298)|null|
+|**2025-07-30**|**C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations**|Chengqian Ma et.al.|[2507.22968](http://arxiv.org/abs/2507.22968)|null|
 |**2025-07-30**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
 |**2025-07-30**|**Optically Actuated Transitions in Multimodal, Bistable Micromechanical Oscillators**|Lior Michaeli et.al.|[2507.22605](http://arxiv.org/abs/2507.22605)|null|
