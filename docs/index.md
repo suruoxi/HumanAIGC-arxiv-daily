@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.03
+### Updated on 2025.08.04
 <details>
 
 <summary> Talking Face </summary>
@@ -895,11 +895,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly**|Chang Liu et.al.|[2507.19924](http://arxiv.org/abs/2507.19924)|null|
 |**2025-07-30**|**GVD: Guiding Video Diffusion Model for Scalable Video Distillation**|Kunyang Li et.al.|[2507.22360](http://arxiv.org/abs/2507.22360)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**Compositional Video Synthesis by Temporal Object-Centric Learning**|Adil Kaan Akan et.al.|[2507.20855](http://arxiv.org/abs/2507.20855)|null|
 |**2025-07-27**|**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation**|Shuolin Xu et.al.|[2507.20368](http://arxiv.org/abs/2507.20368)|null|
-|**2025-07-26**|**HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly**|Chang Liu et.al.|[2507.19924](http://arxiv.org/abs/2507.19924)|null|
 |**2025-07-26**|**ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion**|Xuanchen Wang et.al.|[2507.19836](http://arxiv.org/abs/2507.19836)|null|
 |**2025-07-25**|**ScenePainter: Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment**|Chong Xia et.al.|[2507.19058](http://arxiv.org/abs/2507.19058)|null|
 |**2025-07-24**|**Captain Cinema: Towards Short Movie Generation**|Junfei Xiao et.al.|[2507.18634](http://arxiv.org/abs/2507.18634)|null|
@@ -1561,7 +1561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-31**|**Training-free Geometric Image Editing on Diffusion Models**|Hanshen Zhu et.al.|[2507.23300](http://arxiv.org/abs/2507.23300)|null|
+|**2025-08-01**|**Training-free Geometric Image Editing on Diffusion Models**|Hanshen Zhu et.al.|[2507.23300](http://arxiv.org/abs/2507.23300)|null|
 |**2025-07-31**|**UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing**|Hao Tang et.al.|[2507.23278](http://arxiv.org/abs/2507.23278)|null|
 |**2025-07-29**|**Low-Cost Test-Time Adaptation for Robust Video Editing**|Jianhui Wang et.al.|[2507.21858](http://arxiv.org/abs/2507.21858)|null|
 |**2025-07-29**|**From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos**|Chenjian Gao et.al.|[2507.20331](http://arxiv.org/abs/2507.20331)|null|
@@ -4326,9 +4326,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-31**|**Real-time Generation of Various Types of Nodding for Avatar Attentive Listening System**|Kazushi Kato et.al.|[2507.23298](http://arxiv.org/abs/2507.23298)|null|
 |**2025-07-30**|**C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations**|Chengqian Ma et.al.|[2507.22968](http://arxiv.org/abs/2507.22968)|null|
-|**2025-07-30**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
 |**2025-07-30**|**Optically Actuated Transitions in Multimodal, Bistable Micromechanical Oscillators**|Lior Michaeli et.al.|[2507.22605](http://arxiv.org/abs/2507.22605)|null|
 |**2025-07-29**|**SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**|Wen Huang et.al.|[2507.21463](http://arxiv.org/abs/2507.21463)|null|
