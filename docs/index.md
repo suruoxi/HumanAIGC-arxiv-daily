@@ -12,6 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**Is It Really You? Exploring Biometric Verification Scenarios in Photorealistic Talking-Head Avatar Videos**|Laura Pedrouzo-Rodriguez et.al.|[2508.00748](http://arxiv.org/abs/2508.00748)|null|
+|**2025-08-01**|**AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation**|Le Wang et.al.|[2508.00733](http://arxiv.org/abs/2508.00733)|null|
 |**2025-07-31**|**Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads**|Yingjie Zhou et.al.|[2507.23343](http://arxiv.org/abs/2507.23343)|null|
 |**2025-07-30**|**X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention**|Xiaochen Zhao et.al.|[2507.23143](http://arxiv.org/abs/2507.23143)|null|
 |**2025-07-30**|**Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images**|Takuma Amada et.al.|[2507.22601](http://arxiv.org/abs/2507.22601)|null|
@@ -895,7 +897,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**Video Generators are Robot Policies**|Junbang Liang et.al.|[2508.00795](http://arxiv.org/abs/2508.00795)|null|
+|**2025-08-01**|**SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation**|Kien T. Pham et.al.|[2508.00782](http://arxiv.org/abs/2508.00782)|null|
+|**2025-08-01**|**D3: Training-Free AI-Generated Video Detection Using Second-Order Features**|Chende Zheng et.al.|[2508.00701](http://arxiv.org/abs/2508.00701)|null|
+|**2025-08-01**|**Video Forgery Detection with Optical Flow Residuals and Spatial-Temporal Consistency**|Xi Xue et.al.|[2508.00397](http://arxiv.org/abs/2508.00397)|null|
+|**2025-08-01**|**GV-VAD : Exploring Video Generation for Weakly-Supervised Video Anomaly Detection**|Suhang Cai et.al.|[2508.00312](http://arxiv.org/abs/2508.00312)|null|
+|**2025-08-01**|**Controllable Pedestrian Video Editing for Multi-View Driving Scenarios via Motion Sequence**|Danzhen Fu et.al.|[2508.00299](http://arxiv.org/abs/2508.00299)|null|
 |**2025-08-01**|**HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly**|Chang Liu et.al.|[2507.19924](http://arxiv.org/abs/2507.19924)|null|
+|**2025-07-31**|**World Consistency Score: A Unified Metric for Video Generation Quality**|Akshat Rakheja et.al.|[2508.00144](http://arxiv.org/abs/2508.00144)|null|
 |**2025-07-30**|**GVD: Guiding Video Diffusion Model for Scalable Video Distillation**|Kunyang Li et.al.|[2507.22360](http://arxiv.org/abs/2507.22360)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**Compositional Video Synthesis by Temporal Object-Centric Learning**|Adil Kaan Akan et.al.|[2507.20855](http://arxiv.org/abs/2507.20855)|null|
@@ -1561,6 +1570,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**Controllable Pedestrian Video Editing for Multi-View Driving Scenarios via Motion Sequence**|Danzhen Fu et.al.|[2508.00299](http://arxiv.org/abs/2508.00299)|null|
+|**2025-08-01**|**Towards Robust Semantic Correspondence: A Benchmark and Insights**|Wenyue Chong et.al.|[2508.00272](http://arxiv.org/abs/2508.00272)|null|
 |**2025-08-01**|**Training-free Geometric Image Editing on Diffusion Models**|Hanshen Zhu et.al.|[2507.23300](http://arxiv.org/abs/2507.23300)|null|
 |**2025-07-31**|**UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing**|Hao Tang et.al.|[2507.23278](http://arxiv.org/abs/2507.23278)|null|
 |**2025-07-29**|**Low-Cost Test-Time Adaptation for Robust Video Editing**|Jianhui Wang et.al.|[2507.21858](http://arxiv.org/abs/2507.21858)|null|
@@ -1868,6 +1879,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**Online Fine-Tuning of Carbon Emission Predictions using Real-Time Recurrent Learning for State Space Models**|Julian Lemmel et.al.|[2508.00804](http://arxiv.org/abs/2508.00804)|null|
+|**2025-08-01**|**τ-Ring: A Smart Ring Platform for Multimodal Physiological and Behavioral Sensing**|Jiankai Tang et.al.|[2508.00778](http://arxiv.org/abs/2508.00778)|null|
+|**2025-08-01**|**From Code to Career: Assessing Competitive Programmers for Industry Placement**|Md Imranur Rahman Akib et.al.|[2508.00772](http://arxiv.org/abs/2508.00772)|null|
+|**2025-08-01**|**How LLMs are Shaping the Future of Virtual Reality**|Süeda Özkaya et.al.|[2508.00737](http://arxiv.org/abs/2508.00737)|null|
+|**2025-08-01**|**An Online Data Analysis Framework for Accelerator-Based Physics Experiments**|Hayden Ramm et.al.|[2508.00705](http://arxiv.org/abs/2508.00705)|null|
+|**2025-08-01**|**On-Device Diffusion Transformer Policy for Efficient Robot Manipulation**|Yiming Wu et.al.|[2508.00697](http://arxiv.org/abs/2508.00697)|null|
+|**2025-08-01**|**Online Rolling Controlled Sequential Monte Carlo**|Liwen Xue et.al.|[2508.00696](http://arxiv.org/abs/2508.00696)|null|
+|**2025-08-01**|**Towards Data-Driven Adaptive Exoskeleton Assistance for Post-stroke Gait**|Fabian C. Weigend et.al.|[2508.00691](http://arxiv.org/abs/2508.00691)|null|
+|**2025-08-01**|**Criticality-Based Dynamic Topology Optimization for Enhancing Aerial-Marine Swarm Resilience**|Ruiyang Huang et.al.|[2508.00688](http://arxiv.org/abs/2508.00688)|null|
+|**2025-08-01**|**Demo: TOSense -- What Did You Just Agree to?**|Xinzhang Chen et.al.|[2508.00659](http://arxiv.org/abs/2508.00659)|null|
+|**2025-08-01**|**Review: Adaptive Radiation Therapy for Head and Neck Cancer**|Lucas McCullum et.al.|[2508.00651](http://arxiv.org/abs/2508.00651)|null|
+|**2025-08-01**|**Energy-Aware CPU Orchestration in O-RAN: A dApp-Driven Lightweight Approach**|Francisco Crespo et.al.|[2508.00629](http://arxiv.org/abs/2508.00629)|null|
+|**2025-08-01**|**Similarity-Based Self-Construct Graph Model for Predicting Patient Criticalness Using Graph Neural Networks and EHR Data**|Mukesh Kumar Sahu et.al.|[2508.00615](http://arxiv.org/abs/2508.00615)|null|
+|**2025-08-01**|**Composable OS Kernel Architectures for Autonomous Intelligence**|Rajpreet Singh et.al.|[2508.00604](http://arxiv.org/abs/2508.00604)|null|
+|**2025-08-01**|**Subband Architecture Aided Selective Fixed-Filter Active Noise Control**|Hong-Cheng Liang et.al.|[2508.00603](http://arxiv.org/abs/2508.00603)|null|
+|**2025-08-01**|**Output-recurrent gated state space model for multiphase flows modeling and uncertainty quantification of exhaust vehicles**|Ruilin Chen et.al.|[2508.00588](http://arxiv.org/abs/2508.00588)|null|
+|**2025-08-01**|**ContestTrade: A Multi-Agent Trading System Based on Internal Contest Mechanism**|Li Zhao et.al.|[2508.00554](http://arxiv.org/abs/2508.00554)|null|
+|**2025-08-01**|**DBLP: Noise Bridge Consistency Distillation For Efficient And Reliable Adversarial Purification**|Chihan Huang et.al.|[2508.00552](http://arxiv.org/abs/2508.00552)|null|
+|**2025-08-01**|**In-Situ Probing of Materials Plasmonic Properties using Fabry-Perot Resonance**|Youssef El Badri et.al.|[2508.00521](http://arxiv.org/abs/2508.00521)|null|
+|**2025-08-01**|**Dynamic Real-Time Ambisonics Order Adaptation for Immersive Networked Music Performances**|Paolo Ostan et.al.|[2508.00509](http://arxiv.org/abs/2508.00509)|null|
 |**2025-07-31**|**Half-Physics: Enabling Kinematic 3D Human Model with Physical Interactions**|Li Siyao et.al.|[2507.23778](http://arxiv.org/abs/2507.23778)|null|
 |**2025-07-31**|**Real-Time Transmission of Uncompressed High-Definition Video Via A VCSEL-Based Optical Wireless Link With Ultra-Low Latency**|Hossein Kazemi et.al.|[2507.23746](http://arxiv.org/abs/2507.23746)|null|
 |**2025-07-31**|**Distributed AI Agents for Cognitive Underwater Robot Autonomy**|Markus Buchholz et.al.|[2507.23735](http://arxiv.org/abs/2507.23735)|null|
@@ -4096,6 +4127,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot**|Zhenghan Chen et.al.|[2508.00362](http://arxiv.org/abs/2508.00362)|null|
+|**2025-08-01**|**Controllable Pedestrian Video Editing for Multi-View Driving Scenarios via Motion Sequence**|Danzhen Fu et.al.|[2508.00299](http://arxiv.org/abs/2508.00299)|null|
 |**2025-07-31**|**PatchTraj: Unified Time-Frequency Representation Learning via Dynamic Patches for Trajectory Prediction**|Yanghong Liu et.al.|[2507.19119](http://arxiv.org/abs/2507.19119)|null|
 |**2025-07-30**|**Exploration of Low-Cost but Accurate Radar-Based Human Motion Direction Determination**|Weicheng Gao et.al.|[2507.22567](http://arxiv.org/abs/2507.22567)|null|
 |**2025-07-29**|**Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling**|Xiaojie Li et.al.|[2507.14915](http://arxiv.org/abs/2507.14915)|null|
@@ -4326,6 +4359,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**How LLMs are Shaping the Future of Virtual Reality**|Süeda Özkaya et.al.|[2508.00737](http://arxiv.org/abs/2508.00737)|null|
+|**2025-08-01**|**The Manipulative Power of Voice Characteristics: Investigating Deceptive Patterns in Mandarin Chinese Female Synthetic Speech**|Shuning Zhang et.al.|[2508.00652](http://arxiv.org/abs/2508.00652)|null|
+|**2025-08-01**|**Advancing Speech Quality Assessment Through Scientific Challenges and Open-source Activities**|Wen-Chin Huang et.al.|[2508.00317](http://arxiv.org/abs/2508.00317)|null|
 |**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-31**|**Real-time Generation of Various Types of Nodding for Avatar Attentive Listening System**|Kazushi Kato et.al.|[2507.23298](http://arxiv.org/abs/2507.23298)|null|
 |**2025-07-30**|**C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations**|Chengqian Ma et.al.|[2507.22968](http://arxiv.org/abs/2507.22968)|null|
