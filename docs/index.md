@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.06
+### Updated on 2025.08.07
 <details>
 
 <summary> Talking Face </summary>
@@ -12,7 +12,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-05**|**READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation**|Haotian Wang et.al.|[2508.03457](http://arxiv.org/abs/2508.03457)|null|
+|**2025-08-06**|**MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics**|Ye Pan et.al.|[2508.04687](http://arxiv.org/abs/2508.04687)|null|
+|**2025-08-06**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-06**|**READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation**|Haotian Wang et.al.|[2508.03457](http://arxiv.org/abs/2508.03457)|null|
 |**2025-08-05**|**Multi-human Interactive Talking Dataset**|Zeyu Zhu et.al.|[2508.03050](http://arxiv.org/abs/2508.03050)|null|
 |**2025-08-05**|**AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation**|Le Wang et.al.|[2508.00733](http://arxiv.org/abs/2508.00733)|null|
 |**2025-08-04**|**X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio**|Chenxu Zhang et.al.|[2508.02944](http://arxiv.org/abs/2508.02944)|null|
@@ -901,9 +903,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-06**|**MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning**|Quang-Trung Truong et.al.|[2508.04549](http://arxiv.org/abs/2508.04549)|null|
+|**2025-08-06**|**LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation**|Kangrui Cen et.al.|[2508.04228](http://arxiv.org/abs/2508.04228)|null|
+|**2025-08-06**|**Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation**|Jiayi He et.al.|[2508.04049](http://arxiv.org/abs/2508.04049)|null|
+|**2025-08-06**|**$\text{S}^2$ Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation**|Weilun Feng et.al.|[2508.04016](http://arxiv.org/abs/2508.04016)|null|
+|**2025-08-06**|**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**|Xunzhi Xiang et.al.|[2508.03334](http://arxiv.org/abs/2508.03334)|null|
+|**2025-08-05**|**Scaling Up Audio-Synchronized Visual Animation: An Efficient Training Paradigm**|Lin Zhang et.al.|[2508.03955](http://arxiv.org/abs/2508.03955)|null|
 |**2025-08-05**|**LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation**|Jianxiong Gao et.al.|[2508.03694](http://arxiv.org/abs/2508.03694)|null|
 |**2025-08-05**|**RAAG: Ratio Aware Adaptive Guidance**|Shangwen Zhu et.al.|[2508.03442](http://arxiv.org/abs/2508.03442)|null|
-|**2025-08-05**|**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**|Xunzhi Xiang et.al.|[2508.03334](http://arxiv.org/abs/2508.03334)|null|
 |**2025-08-05**|**V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models**|Jisoo Kim et.al.|[2508.03254](http://arxiv.org/abs/2508.03254)|null|
 |**2025-08-05**|**Multi-human Interactive Talking Dataset**|Zeyu Zhu et.al.|[2508.03050](http://arxiv.org/abs/2508.03050)|null|
 |**2025-08-05**|**MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention**|Qi Xie et.al.|[2508.03034](http://arxiv.org/abs/2508.03034)|null|
@@ -1512,7 +1519,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-05**|**FFHQ-Makeup: Paired Synthetic Makeup Dataset with Facial Consistency Across Multiple Styles**|Xingchao Yang et.al.|[2508.03241](http://arxiv.org/abs/2508.03241)|null|
+|**2025-08-06**|**One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose**|Jinxi Liu et.al.|[2508.04559](http://arxiv.org/abs/2508.04559)|null|
+|**2025-08-06**|**Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis**|Angang Zhang et.al.|[2508.04551](http://arxiv.org/abs/2508.04551)|null|
+|**2025-08-06**|**FFHQ-Makeup: Paired Synthetic Makeup Dataset with Facial Consistency Across Multiple Styles**|Xingchao Yang et.al.|[2508.03241](http://arxiv.org/abs/2508.03241)|null|
 |**2025-08-04**|**DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework**|Tongchun Zuo et.al.|[2508.02807](http://arxiv.org/abs/2508.02807)|null|
 |**2025-07-29**|**From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos**|Chenjian Gao et.al.|[2507.20331](http://arxiv.org/abs/2507.20331)|null|
 |**2025-07-21**|**FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on**|Zheng Wang et.al.|[2507.16010](http://arxiv.org/abs/2507.16010)|null|
@@ -1904,6 +1913,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-06**|**MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics**|Ye Pan et.al.|[2508.04687](http://arxiv.org/abs/2508.04687)|null|
+|**2025-08-06**|**Phase-Pole-Free Images and Smooth Coil Sensitivity Maps by Regularized Nonlinear Inversion**|Moritz Blumenthal et.al.|[2508.04685](http://arxiv.org/abs/2508.04685)|null|
+|**2025-08-06**|**YOLOv8-Based Deep Learning Model for Automated Poultry Disease Detection and Health Monitoring paper**|Akhil Saketh Reddy Sabbella et.al.|[2508.04658](http://arxiv.org/abs/2508.04658)|null|
+|**2025-08-06**|**Live Music Models**|Lyria Team et.al.|[2508.04651](http://arxiv.org/abs/2508.04651)|null|
+|**2025-08-06**|**TURA: Tool-Augmented Unified Retrieval Agent for AI Search**|Zhejun Zhao et.al.|[2508.04604](http://arxiv.org/abs/2508.04604)|null|
+|**2025-08-06**|**Drone Detection with Event Cameras**|Gabriele Magrini et.al.|[2508.04564](http://arxiv.org/abs/2508.04564)|null|
+|**2025-08-06**|**CONVERGE: A Multi-Agent Vision-Radio Architecture for xApps**|Filipe B. Teixeira et.al.|[2508.04556](http://arxiv.org/abs/2508.04556)|null|
+|**2025-08-06**|**Hierarchical Event Memory for Accurate and Low-latency Online Video Temporal Grounding**|Minghang Zheng et.al.|[2508.04546](http://arxiv.org/abs/2508.04546)|null|
+|**2025-08-06**|**Conditional Fetal Brain Atlas Learning for Automatic Tissue Segmentation**|Johannes Tischer et.al.|[2508.04522](http://arxiv.org/abs/2508.04522)|null|
+|**2025-08-06**|**TRAIL: Joint Inference and Refinement of Knowledge Graphs with Large Language Models**|Xinkui Zhao et.al.|[2508.04474](http://arxiv.org/abs/2508.04474)|null|
+|**2025-08-06**|**Reliable and Real-Time Highway Trajectory Planning via Hybrid Learning-Optimization Frameworks**|Yujia Lu et.al.|[2508.04436](http://arxiv.org/abs/2508.04436)|null|
+|**2025-08-06**|**Plant-Centric Metaverse: A Biocentric-Creation Framework for Ecological Art and Digital Symbiosis**|Ze Gao et.al.|[2508.04391](http://arxiv.org/abs/2508.04391)|null|
+|**2025-08-06**|**Testing Spillovers in Resource Conservation: Evidence from a Natural Field Experiment**|Lorenz Goette et.al.|[2508.04371](http://arxiv.org/abs/2508.04371)|null|
+|**2025-08-06**|**Data Scheduling Algorithm for Scalable and Efficient IoT Sensing in Cloud Computing**|Noor Islam S. Mohammad et.al.|[2508.04334](http://arxiv.org/abs/2508.04334)|null|
+|**2025-08-06**|**DRAMA: A Dynamic and Robust Allocation-based Multi-Agent System for Changing Environments**|Naibo Wang et.al.|[2508.04332](http://arxiv.org/abs/2508.04332)|null|
+|**2025-08-06**|**Metaverse Framework for Wireless Systems Management**|Ilias Chrysovergis et.al.|[2508.04150](http://arxiv.org/abs/2508.04150)|null|
+|**2025-08-06**|**Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems**|Luai Abuelsamen et.al.|[2508.04146](http://arxiv.org/abs/2508.04146)|null|
+|**2025-08-06**|**SCOUT: An in-vivo Methane Sensing System for Real-time Monitoring of Enteric Emissions in Cattle with ex-vivo Validation**|Yuelin Deng et.al.|[2508.04056](http://arxiv.org/abs/2508.04056)|null|
+|**2025-08-06**|**Radar-Based NLoS Pedestrian Localization for Darting-Out Scenarios Near Parked Vehicles with Camera-Assisted Point Cloud Interpretation**|Hee-Yeun Kim et.al.|[2508.04033](http://arxiv.org/abs/2508.04033)|null|
+|**2025-08-06**|**A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks**|Haoxiang Luo et.al.|[2508.04015](http://arxiv.org/abs/2508.04015)|null|
 |**2025-08-05**|**Streaming Generated Gaussian Process Experts for Online Learning and Control**|Zewen Yang et.al.|[2508.03679](http://arxiv.org/abs/2508.03679)|null|
 |**2025-08-05**|**Inland-LOAM: Voxel-Based Structural Semantic Mapping for Inland Waterways**|Zhongbi Luo et.al.|[2508.03672](http://arxiv.org/abs/2508.03672)|null|
 |**2025-08-05**|**High-Resolution Dynamic Full-Field Optical Coherence Microscopy: Illuminating Intracellular Activity in Deep Tissue**|Erikas Tarvydas et.al.|[2508.03657](http://arxiv.org/abs/2508.03657)|null|
@@ -4192,6 +4221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Liang Xu et.al.|[2508.04681](http://arxiv.org/abs/2508.04681)|null|
+|**2025-08-06**|**Intention Enhanced Diffusion Model for Multimodal Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2508.04229](http://arxiv.org/abs/2508.04229)|null|
 |**2025-08-05**|**RadProPoser: A Framework for Human Pose Estimation with Uncertainty Quantification from Raw Radar Data**|Jonas Leo Mueller et.al.|[2508.03578](http://arxiv.org/abs/2508.03578)|null|
 |**2025-08-05**|**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**|Haoran Lin et.al.|[2508.03339](http://arxiv.org/abs/2508.03339)|null|
 |**2025-08-05**|**BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices**|Libo Zhang et.al.|[2508.03313](http://arxiv.org/abs/2508.03313)|null|
@@ -4434,16 +4465,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-06**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-06**|**Unplug, Mute, Avoid Investigating smart speaker users' privacy protection behaviours in Saudi Homes**|Abdulrhman Alorini et.al.|[2508.04202](http://arxiv.org/abs/2508.04202)|null|
+|**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
+|**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
+|**2025-08-06**|**Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech**|Jingyuan Xing et.al.|[2508.04141](http://arxiv.org/abs/2508.04141)|null|
+|**2025-08-06**|**StepWrite: Adaptive Planning for Speech-Driven Text Generation**|Hamza El Alaoui et.al.|[2508.04011](http://arxiv.org/abs/2508.04011)|null|
+|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
+|**2025-08-06**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
+|**2025-08-06**|**Spatial-Frequency Aware for Object Detection in RAW Image**|Zhuohua Ye et.al.|[2508.01396](http://arxiv.org/abs/2508.01396)|null|
 |**2025-08-05**|**Probing the Gaps in ChatGPT Live Video Chat for Real-World Assistance for People who are Blind or Visually Impaired**|Ruei-Che Chang et.al.|[2508.03651](http://arxiv.org/abs/2508.03651)|null|
-|**2025-08-05**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|null|
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
-|**2025-08-04**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
 |**2025-08-04**|**How LLMs are Shaping the Future of Virtual Reality**|Süeda Özkaya et.al.|[2508.00737](http://arxiv.org/abs/2508.00737)|null|
 |**2025-08-04**|**Real-time Generation of Various Types of Nodding for Avatar Attentive Listening System**|Kazushi Kato et.al.|[2507.23298](http://arxiv.org/abs/2507.23298)|null|
 |**2025-08-03**|**Enhancing Spectrogram Realism in Singing Voice Synthesis via Explicit Bandwidth Extension Prior to Vocoder**|Runxuan Yang et.al.|[2508.01796](http://arxiv.org/abs/2508.01796)|null|
 |**2025-08-03**|**Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe**|Tiantian Feng et.al.|[2508.01691](http://arxiv.org/abs/2508.01691)|null|
-|**2025-08-02**|**Spatial-Frequency Aware for Object Detection in RAW Image**|Zhuohua Ye et.al.|[2508.01396](http://arxiv.org/abs/2508.01396)|null|
 |**2025-08-01**|**The Manipulative Power of Voice Characteristics: Investigating Deceptive Patterns in Mandarin Chinese Female Synthetic Speech**|Shuning Zhang et.al.|[2508.00652](http://arxiv.org/abs/2508.00652)|null|
 |**2025-08-01**|**Advancing Speech Quality Assessment Through Scientific Challenges and Open-source Activities**|Wen-Chin Huang et.al.|[2508.00317](http://arxiv.org/abs/2508.00317)|null|
 |**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
