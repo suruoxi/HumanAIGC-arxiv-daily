@@ -12,6 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**Evaluation of a Sign Language Avatar on Comprehensibility, User Experience \& Acceptability**|Fenya Wasserroth et.al.|[2508.05358](http://arxiv.org/abs/2508.05358)|null|
+|**2025-08-07**|**RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer**|Fangyu Du et.al.|[2508.05115](http://arxiv.org/abs/2508.05115)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-07**|**AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation**|Le Wang et.al.|[2508.00733](http://arxiv.org/abs/2508.00733)|null|
 |**2025-08-06**|**MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics**|Ye Pan et.al.|[2508.04687](http://arxiv.org/abs/2508.04687)|null|
@@ -1913,6 +1915,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation**|Changle Qu et.al.|[2508.05633](http://arxiv.org/abs/2508.05633)|null|
+|**2025-08-07**|**LLaVA-RE: Binary Image-Text Relevancy Evaluation with Multimodal Large Language Model**|Tao Sun et.al.|[2508.05602](http://arxiv.org/abs/2508.05602)|null|
+|**2025-08-07**|**Gradient and Hessian-Based Temperature Estimator in Lattice Gauge Theories: A Diagnostic Tool for Stability and Consistency in Numerical Simulations**|Navdeep Singh Dhindsa et.al.|[2508.05595](http://arxiv.org/abs/2508.05595)|null|
+|**2025-08-07**|**A New Three-Players Auction Bridge with Dynamic Opponents and Team Members**|Sourish Sarkar et.al.|[2508.05582](http://arxiv.org/abs/2508.05582)|null|
+|**2025-08-07**|**Adaptive Parallel Downloader for Large Genomic Datasets**|Rasman Mubtasim Swargo et.al.|[2508.05511](http://arxiv.org/abs/2508.05511)|null|
+|**2025-08-07**|**F2PASeg: Feature Fusion for Pituitary Anatomy Segmentation in Endoscopic Surgery**|Lumin Chen et.al.|[2508.05465](http://arxiv.org/abs/2508.05465)|null|
+|**2025-08-07**|**Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation**|Kartar Kumar Lohana Tharwani et.al.|[2508.05427](http://arxiv.org/abs/2508.05427)|null|
+|**2025-08-07**|**Fuzzy Decisions on Fluid Instabilities: Autoencoder-Based Reconstruction meets Rule-Based Anomaly Classification**|Bharadwaj Dogga et.al.|[2508.05418](http://arxiv.org/abs/2508.05418)|null|
+|**2025-08-07**|**Real-Time Iteration Scheme for Diffusion Policy**|Yufei Duan et.al.|[2508.05396](http://arxiv.org/abs/2508.05396)|null|
+|**2025-08-07**|**An Explainable Machine Learning Framework for Railway Predictive Maintenance using Data Streams from the Metro Operator of Portugal**|Silvia García-Méndez et.al.|[2508.05388](http://arxiv.org/abs/2508.05388)|null|
+|**2025-08-07**|**Voltage Support Procurement in Transmission Grids: Incentive Design via Online Bilevel Games**|Zhisen Jiang et.al.|[2508.05378](http://arxiv.org/abs/2508.05378)|null|
+|**2025-08-07**|**3DGabSplat: 3D Gabor Splatting for Frequency-adaptive Radiance Field Rendering**|Junyu Zhou et.al.|[2508.05343](http://arxiv.org/abs/2508.05343)|null|
+|**2025-08-07**|**Stranski-Krastanov Growth of Disordered ScNx Thin Films on MgO(100): Influence of Defect Densities on Electronic Structure and Transport Properties**|Susmita Chowdhury et.al.|[2508.05330](http://arxiv.org/abs/2508.05330)|null|
+|**2025-08-07**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](http://arxiv.org/abs/2508.05321)|null|
+|**2025-08-07**|**Identifying Optimal Regression Models For DEM Simulation Datasets**|B. D. Jenkins et.al.|[2508.05308](http://arxiv.org/abs/2508.05308)|null|
+|**2025-08-07**|**CoCAViT: Compact Vision Transformer with Robust Global Coordination**|Xuyang Wang et.al.|[2508.05307](http://arxiv.org/abs/2508.05307)|null|
+|**2025-08-07**|**A Conceptual Model and Methodology for Sustainability-aware, IoT-enhanced Business Processes**|Victoria Torres Bosch et.al.|[2508.05301](http://arxiv.org/abs/2508.05301)|null|
+|**2025-08-07**|**Exploring epidemic control policies using nonlinear programming and mathematical models**|Sandra Montes-Olivas et.al.|[2508.05290](http://arxiv.org/abs/2508.05290)|null|
+|**2025-08-07**|**Robust Tracking with Particle Filtering for Fluorescent Cardiac Imaging**|Suresh Guttikonda et.al.|[2508.05262](http://arxiv.org/abs/2508.05262)|null|
+|**2025-08-07**|**CWEFS: Brain volume conduction effects inspired channel-wise EEG feature selection for multi-dimensional emotion recognition**|Xueyuan Xu et.al.|[2508.05228](http://arxiv.org/abs/2508.05228)|null|
 |**2025-08-06**|**MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics**|Ye Pan et.al.|[2508.04687](http://arxiv.org/abs/2508.04687)|null|
 |**2025-08-06**|**Phase-Pole-Free Images and Smooth Coil Sensitivity Maps by Regularized Nonlinear Inversion**|Moritz Blumenthal et.al.|[2508.04685](http://arxiv.org/abs/2508.04685)|null|
 |**2025-08-06**|**YOLOv8-Based Deep Learning Model for Automated Poultry Disease Detection and Health Monitoring paper**|Akhil Saketh Reddy Sabbella et.al.|[2508.04658](http://arxiv.org/abs/2508.04658)|null|
@@ -4221,6 +4243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-06**|**LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction**|Md Zahidul Hasan et.al.|[2508.04847](http://arxiv.org/abs/2508.04847)|null|
 |**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Liang Xu et.al.|[2508.04681](http://arxiv.org/abs/2508.04681)|null|
 |**2025-08-06**|**Intention Enhanced Diffusion Model for Multimodal Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2508.04229](http://arxiv.org/abs/2508.04229)|null|
 |**2025-08-05**|**RadProPoser: A Framework for Human Pose Estimation with Uncertainty Quantification from Raw Radar Data**|Jonas Leo Mueller et.al.|[2508.03578](http://arxiv.org/abs/2508.03578)|null|
@@ -4465,7 +4488,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
+|**2025-08-07**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
 |**2025-08-06**|**Unplug, Mute, Avoid Investigating smart speaker users' privacy protection behaviours in Saudi Homes**|Abdulrhman Alorini et.al.|[2508.04202](http://arxiv.org/abs/2508.04202)|null|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
 |**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
@@ -4474,6 +4500,7 @@ layout: default
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-06**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
 |**2025-08-06**|**Spatial-Frequency Aware for Object Detection in RAW Image**|Zhuohua Ye et.al.|[2508.01396](http://arxiv.org/abs/2508.01396)|null|
+|**2025-08-05**|**Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS**|Vignesh Ethiraj et.al.|[2508.04721](http://arxiv.org/abs/2508.04721)|null|
 |**2025-08-05**|**Probing the Gaps in ChatGPT Live Video Chat for Real-World Assistance for People who are Blind or Visually Impaired**|Ruei-Che Chang et.al.|[2508.03651](http://arxiv.org/abs/2508.03651)|null|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|null|
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
