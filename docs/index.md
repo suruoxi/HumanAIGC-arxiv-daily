@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.07
+### Updated on 2025.08.08
 <details>
 
 <summary> Talking Face </summary>
@@ -12,11 +12,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-07**|**AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation**|Le Wang et.al.|[2508.00733](http://arxiv.org/abs/2508.00733)|null|
 |**2025-08-06**|**MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics**|Ye Pan et.al.|[2508.04687](http://arxiv.org/abs/2508.04687)|null|
-|**2025-08-06**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-06**|**READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation**|Haotian Wang et.al.|[2508.03457](http://arxiv.org/abs/2508.03457)|null|
 |**2025-08-05**|**Multi-human Interactive Talking Dataset**|Zeyu Zhu et.al.|[2508.03050](http://arxiv.org/abs/2508.03050)|null|
-|**2025-08-05**|**AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation**|Le Wang et.al.|[2508.00733](http://arxiv.org/abs/2508.00733)|null|
 |**2025-08-04**|**X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio**|Chenxu Zhang et.al.|[2508.02944](http://arxiv.org/abs/2508.02944)|null|
 |**2025-08-04**|**Text2Lip: Progressive Lip-Synced Talking Face Generation from Text via Viseme-Guided Rendering**|Xu Wang et.al.|[2508.02362](http://arxiv.org/abs/2508.02362)|null|
 |**2025-08-04**|**Is It Really You? Exploring Biometric Verification Scenarios in Photorealistic Talking-Head Avatar Videos**|Laura Pedrouzo-Rodriguez et.al.|[2508.00748](http://arxiv.org/abs/2508.00748)|null|
@@ -903,10 +903,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**S $^2$ Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation**|Weilun Feng et.al.|[2508.04016](http://arxiv.org/abs/2508.04016)|null|
 |**2025-08-06**|**MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning**|Quang-Trung Truong et.al.|[2508.04549](http://arxiv.org/abs/2508.04549)|null|
 |**2025-08-06**|**LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation**|Kangrui Cen et.al.|[2508.04228](http://arxiv.org/abs/2508.04228)|null|
 |**2025-08-06**|**Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation**|Jiayi He et.al.|[2508.04049](http://arxiv.org/abs/2508.04049)|null|
-|**2025-08-06**|**$\text{S}^2$ Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation**|Weilun Feng et.al.|[2508.04016](http://arxiv.org/abs/2508.04016)|null|
 |**2025-08-06**|**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**|Xunzhi Xiang et.al.|[2508.03334](http://arxiv.org/abs/2508.03334)|null|
 |**2025-08-05**|**Scaling Up Audio-Synchronized Visual Animation: An Efficient Training Paradigm**|Lin Zhang et.al.|[2508.03955](http://arxiv.org/abs/2508.03955)|null|
 |**2025-08-05**|**LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation**|Jianxiong Gao et.al.|[2508.03694](http://arxiv.org/abs/2508.03694)|null|
@@ -4465,7 +4465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-06**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-06**|**Unplug, Mute, Avoid Investigating smart speaker users' privacy protection behaviours in Saudi Homes**|Abdulrhman Alorini et.al.|[2508.04202](http://arxiv.org/abs/2508.04202)|null|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
 |**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
