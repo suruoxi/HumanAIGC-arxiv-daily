@@ -1144,6 +1144,7 @@
 - 2025-03-20, **PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**, Longbin Ji et.al., Paper: [http://arxiv.org/abs/2503.16068](http://arxiv.org/abs/2503.16068)
 - 2025-05-03, **PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**, Bu Jin et.al., Paper: [http://arxiv.org/abs/2505.01729](http://arxiv.org/abs/2505.01729)
 - 2025-08-04, **PoseGuard: Pose-Guided Generation with Safety Guardrails**, Kongxin Wang et.al., Paper: [http://arxiv.org/abs/2508.02476](http://arxiv.org/abs/2508.02476)
+- 2025-08-07, **PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation**, Jingxuan He et.al., Paper: [http://arxiv.org/abs/2508.05091](http://arxiv.org/abs/2508.05091)
 - 2025-07-01, **Populate-A-Scene: Affordance-Aware Human Video Generation**, Mengyi Shan et.al., Paper: [http://arxiv.org/abs/2507.00334](http://arxiv.org/abs/2507.00334)
 - 2025-06-09, **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2506.07848](http://arxiv.org/abs/2506.07848)
 - 2025-06-11, **PlayerOne: Egocentric World Simulator**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2506.09995](http://arxiv.org/abs/2506.09995)
@@ -1309,6 +1310,7 @@
 - 2025-07-10, **Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**, Haoyu Wu et.al., Paper: [http://arxiv.org/abs/2507.07982](http://arxiv.org/abs/2507.07982)
 - 2025-05-29, **GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion**, Gwanghyun Kim et.al., Paper: [http://arxiv.org/abs/2505.23085](http://arxiv.org/abs/2505.23085)
 - 2025-04-10, **Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**, Zeren Jiang et.al., Paper: [http://arxiv.org/abs/2504.07961](http://arxiv.org/abs/2504.07961)
+- 2025-08-07, **Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**, Yue Liao et.al., Paper: [http://arxiv.org/abs/2508.05635](http://arxiv.org/abs/2508.05635)
 - 2025-03-09, **Generative Video Bi-flow**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2503.06364](http://arxiv.org/abs/2503.06364)
 - 2025-05-15, **Generative Pre-trained Autoregressive Diffusion Transformer**, Yuan Zhang et.al., Paper: [http://arxiv.org/abs/2505.07344](http://arxiv.org/abs/2505.07344)
 - 2025-06-09, **Generative Modeling of Weights: Generalization or Memorization?**, Boya Zeng et.al., Paper: [http://arxiv.org/abs/2506.07998](http://arxiv.org/abs/2506.07998)
@@ -1476,6 +1478,7 @@
 - 2025-06-24, **Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**, Yubo Huang et.al., Paper: [http://arxiv.org/abs/2506.19833](http://arxiv.org/abs/2506.19833)
 - 2025-04-10, **Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**, Rundong Luo et.al., Paper: [http://arxiv.org/abs/2504.07940](http://arxiv.org/abs/2504.07940)
 - 2025-04-23, **BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**, Ruotong Wang et.al., Paper: [http://arxiv.org/abs/2504.16907](http://arxiv.org/abs/2504.16907)
+- 2025-08-07, **B4DL: A Benchmark for 4D LiDAR LLM in Spatio-Temporal Understanding**, Changho Choi et.al., Paper: [http://arxiv.org/abs/2508.05269](http://arxiv.org/abs/2508.05269)
 - 2025-05-21, **AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**, Zhipei Xu et.al., Paper: [http://arxiv.org/abs/2505.15173](http://arxiv.org/abs/2505.15173)
 - 2025-06-11, **Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**, Shanchuan Lin et.al., Paper: [http://arxiv.org/abs/2506.09350](http://arxiv.org/abs/2506.09350)
 - 2025-03-10, **Automated Movie Generation via Multi-Agent CoT Planning**, Weijia Wu et.al., Paper: [http://arxiv.org/abs/2503.07314](http://arxiv.org/abs/2503.07314)
@@ -1529,6 +1532,7 @@
 
 ## TryOn
 
+- 2025-08-06, **Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off**, Seungyong Lee et.al., Paper: [http://arxiv.org/abs/2508.04825](http://arxiv.org/abs/2508.04825)
 - 2025-01-07, **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.01427](http://arxiv.org/abs/2501.01427)
 - 2025-06-26, **Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**, Cheng Zou et.al., Paper: [http://arxiv.org/abs/2506.21270](http://arxiv.org/abs/2506.21270)
 - 2025-04-11, **VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction**, Zijian He et.al., Paper: [http://arxiv.org/abs/2503.12165](http://arxiv.org/abs/2503.12165)

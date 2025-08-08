@@ -918,6 +918,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-07**|**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**|Yue Liao et.al.|[2508.05635](http://arxiv.org/abs/2508.05635)|null|
+|**2025-08-07**|**B4DL: A Benchmark for 4D LiDAR LLM in Spatio-Temporal Understanding**|Changho Choi et.al.|[2508.05269](http://arxiv.org/abs/2508.05269)|null|
+|**2025-08-07**|**PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation**|Jingxuan He et.al.|[2508.05091](http://arxiv.org/abs/2508.05091)|null|
 |**2025-08-07**|**S $^2$ Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation**|Weilun Feng et.al.|[2508.04016](http://arxiv.org/abs/2508.04016)|null|
 |**2025-08-06**|**MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning**|Quang-Trung Truong et.al.|[2508.04549](http://arxiv.org/abs/2508.04549)|null|
 |**2025-08-06**|**LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation**|Kangrui Cen et.al.|[2508.04228](http://arxiv.org/abs/2508.04228)|null|
@@ -1536,6 +1539,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-06**|**Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off**|Seungyong Lee et.al.|[2508.04825](http://arxiv.org/abs/2508.04825)|null|
 |**2025-08-06**|**One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose**|Jinxi Liu et.al.|[2508.04559](http://arxiv.org/abs/2508.04559)|null|
 |**2025-08-06**|**Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis**|Angang Zhang et.al.|[2508.04551](http://arxiv.org/abs/2508.04551)|null|
 |**2025-08-06**|**FFHQ-Makeup: Paired Synthetic Makeup Dataset with Facial Consistency Across Multiple Styles**|Xingchao Yang et.al.|[2508.03241](http://arxiv.org/abs/2508.03241)|null|
