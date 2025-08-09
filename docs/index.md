@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.08
+### Updated on 2025.08.09
 <details>
 
 <summary> Talking Face </summary>
@@ -4496,7 +4496,7 @@ layout: default
 |**2025-08-07**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
-|**2025-08-06**|**Unplug, Mute, Avoid Investigating smart speaker users' privacy protection behaviours in Saudi Homes**|Abdulrhman Alorini et.al.|[2508.04202](http://arxiv.org/abs/2508.04202)|null|
+|**2025-08-06**|**Unplug, Mute, Avoid: Investigating smart speaker users' privacy protection behaviours in Saudi Homes**|Abdulrhman Alorini et.al.|[2508.04202](http://arxiv.org/abs/2508.04202)|null|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
 |**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
 |**2025-08-06**|**Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech**|Jingyuan Xing et.al.|[2508.04141](http://arxiv.org/abs/2508.04141)|null|
