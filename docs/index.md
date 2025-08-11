@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.10
+### Updated on 2025.08.11
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**MotionSwap**|Om Patil et.al.|[2508.06430](http://arxiv.org/abs/2508.06430)|null|
 |**2025-08-07**|**Evaluation of a Sign Language Avatar on Comprehensibility, User Experience \& Acceptability**|Fenya Wasserroth et.al.|[2508.05358](http://arxiv.org/abs/2508.05358)|null|
 |**2025-08-07**|**RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer**|Fangyu Du et.al.|[2508.05115](http://arxiv.org/abs/2508.05115)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
@@ -905,6 +906,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment**|Yanxiao Sun et.al.|[2508.06082](http://arxiv.org/abs/2508.06082)|null|
+|**2025-08-08**|**DreamVE: Unified Instruction-based Image and Video Editing**|Bin Xia et.al.|[2508.06080](http://arxiv.org/abs/2508.06080)|null|
 |**2025-08-07**|**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**|Yue Liao et.al.|[2508.05635](http://arxiv.org/abs/2508.05635)|null|
 |**2025-08-07**|**B4DL: A Benchmark for 4D LiDAR LLM in Spatio-Temporal Understanding**|Changho Choi et.al.|[2508.05269](http://arxiv.org/abs/2508.05269)|null|
 |**2025-08-07**|**PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation**|Jingxuan He et.al.|[2508.05091](http://arxiv.org/abs/2508.05091)|null|
@@ -1603,6 +1606,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**UGD-IML: A Unified Generative Diffusion-based Framework for Constrained and Unconstrained Image Manipulation Localization**|Yachun Mi et.al.|[2508.06101](http://arxiv.org/abs/2508.06101)|null|
+|**2025-08-08**|**DreamVE: Unified Instruction-based Image and Video Editing**|Bin Xia et.al.|[2508.06080](http://arxiv.org/abs/2508.06080)|null|
+|**2025-08-08**|**NEP: Autoregressive Image Editing via Next Editing Token Prediction**|Huimin Wu et.al.|[2508.06044](http://arxiv.org/abs/2508.06044)|null|
+|**2025-08-08**|**InstantEdit: Text-Guided Few-Step Image Editing with Piecewise Rectified Flow**|Yiming Gong et.al.|[2508.06033](http://arxiv.org/abs/2508.06033)|null|
 |**2025-08-05**|**Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation**|Peiyu Wang et.al.|[2508.03320](http://arxiv.org/abs/2508.03320)|null|
 |**2025-08-05**|**Zero Shot Domain Adaptive Semantic Segmentation by Synthetic Data Generation and Progressive Adaptation**|Jun Luo et.al.|[2508.03300](http://arxiv.org/abs/2508.03300)|null|
 |**2025-08-05**|**LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing**|Liangyang Ouyang et.al.|[2508.03144](http://arxiv.org/abs/2508.03144)|null|
@@ -1919,6 +1926,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**Characterization and automated optimization of laser-driven proton beams from converging liquid sheet jet targets**|G. D. Glenn et.al.|[2508.06462](http://arxiv.org/abs/2508.06462)|null|
+|**2025-08-08**|**Quantifying Conversation Drift in MCP via Latent Polytope**|Haoran Shi et.al.|[2508.06418](http://arxiv.org/abs/2508.06418)|null|
+|**2025-08-08**|**Acoustic Non-Stationarity Objective Assessment with Hard Label Criteria for Supervised Learning Models**|Guilherme Zucatelli et.al.|[2508.06405](http://arxiv.org/abs/2508.06405)|null|
+|**2025-08-08**|**M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation**|Zhiyou Xiao et.al.|[2508.06328](http://arxiv.org/abs/2508.06328)|null|
+|**2025-08-08**|**Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Temporal Grounding**|Jian Hu et.al.|[2508.06317](http://arxiv.org/abs/2508.06317)|null|
+|**2025-08-08**|**Surrogate-Enhanced Modeling and Adaptive Modular Control of All-Electric Heavy-Duty Robotic Manipulators**|Amir Hossein Barjini et.al.|[2508.06313](http://arxiv.org/abs/2508.06313)|null|
+|**2025-08-08**|**Real-Time 3D Vision-Language Embedding Mapping**|Christian Rauch et.al.|[2508.06291](http://arxiv.org/abs/2508.06291)|null|
+|**2025-08-08**|**Leveraging LLMs for Scalable Non-intrusive Speech Quality Assessment**|Fredrik Cumlin et.al.|[2508.06284](http://arxiv.org/abs/2508.06284)|null|
+|**2025-08-08**|**Efficient Deep Neural Receiver with Post-Training Quantization**|SaiKrishna Saketh Yellapragada et.al.|[2508.06275](http://arxiv.org/abs/2508.06275)|null|
+|**2025-08-08**|**REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance**|Zihao Xu et.al.|[2508.06229](http://arxiv.org/abs/2508.06229)|null|
+|**2025-08-08**|**Computer Vision-based Adaptive Control for Back Exoskeleton Performance Optimization**|Andrea Dal Prete et.al.|[2508.06207](http://arxiv.org/abs/2508.06207)|null|
+|**2025-08-08**|**MA-CBP: A Criminal Behavior Prediction Framework Based on Multi-Agent Asynchronous Collaboration**|Cheng Liu et.al.|[2508.06189](http://arxiv.org/abs/2508.06189)|null|
+|**2025-08-08**|**DiffCap: Diffusion-based Real-time Human Motion Capture using Sparse IMUs and a Monocular Camera**|Shaohua Pan et.al.|[2508.06139](http://arxiv.org/abs/2508.06139)|null|
+|**2025-08-08**|**MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows**|Xiquan Li et.al.|[2508.06098](http://arxiv.org/abs/2508.06098)|null|
+|**2025-08-08**|**Incremental Language Understanding for Online Motion Planning of Robot Manipulators**|Mitchell Abrams et.al.|[2508.06095](http://arxiv.org/abs/2508.06095)|null|
+|**2025-08-08**|**ME $^3$ -BEV: Mamba-Enhanced Deep Reinforcement Learning for End-to-End Autonomous Driving with BEV-Perception**|Siyi Lu et.al.|[2508.06074](http://arxiv.org/abs/2508.06074)|null|
+|**2025-08-08**|**Real-time physics-informed reconstruction of transient fields using sensor guidance and higher-order time differentiation**|Hong-Kyun Noh et.al.|[2508.06070](http://arxiv.org/abs/2508.06070)|null|
+|**2025-08-08**|**Lightweight Auto-bidding based on Traffic Prediction in Live Advertising**|Bo Yang et.al.|[2508.06069](http://arxiv.org/abs/2508.06069)|null|
+|**2025-08-08**|**Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning**|Daechul Ahn et.al.|[2508.06042](http://arxiv.org/abs/2508.06042)|null|
+|**2025-08-08**|**EC2MoE: Adaptive End-Cloud Pipeline Collaboration Enabling Scalable Mixture-of-Experts Inference**|Zheming Yang et.al.|[2508.06024](http://arxiv.org/abs/2508.06024)|null|
 |**2025-08-07**|**KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation**|Changle Qu et.al.|[2508.05633](http://arxiv.org/abs/2508.05633)|null|
 |**2025-08-07**|**LLaVA-RE: Binary Image-Text Relevancy Evaluation with Multimodal Large Language Model**|Tao Sun et.al.|[2508.05602](http://arxiv.org/abs/2508.05602)|null|
 |**2025-08-07**|**Gradient and Hessian-Based Temperature Estimator in Lattice Gauge Theories: A Diagnostic Tool for Stability and Consistency in Numerical Simulations**|Navdeep Singh Dhindsa et.al.|[2508.05595](http://arxiv.org/abs/2508.05595)|null|
@@ -4247,13 +4274,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**PA-HOI: A Physics-Aware Human and Object Interaction Dataset**|Ruiyan Wang et.al.|[2508.06205](http://arxiv.org/abs/2508.06205)|null|
+|**2025-08-08**|**DiffCap: Diffusion-based Real-time Human Motion Capture using Sparse IMUs and a Monocular Camera**|Shaohua Pan et.al.|[2508.06139](http://arxiv.org/abs/2508.06139)|null|
+|**2025-08-08**|**E-React: Towards Emotionally Controlled Synthesis of Human Reactions**|Chen Zhu et.al.|[2508.06093](http://arxiv.org/abs/2508.06093)|null|
+|**2025-08-07**|**Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching**|Sirui Chen et.al.|[2508.03068](http://arxiv.org/abs/2508.03068)|null|
 |**2025-08-06**|**LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction**|Md Zahidul Hasan et.al.|[2508.04847](http://arxiv.org/abs/2508.04847)|null|
 |**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Liang Xu et.al.|[2508.04681](http://arxiv.org/abs/2508.04681)|null|
 |**2025-08-06**|**Intention Enhanced Diffusion Model for Multimodal Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2508.04229](http://arxiv.org/abs/2508.04229)|null|
 |**2025-08-05**|**RadProPoser: A Framework for Human Pose Estimation with Uncertainty Quantification from Raw Radar Data**|Jonas Leo Mueller et.al.|[2508.03578](http://arxiv.org/abs/2508.03578)|null|
 |**2025-08-05**|**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**|Haoran Lin et.al.|[2508.03339](http://arxiv.org/abs/2508.03339)|null|
 |**2025-08-05**|**BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices**|Libo Zhang et.al.|[2508.03313](http://arxiv.org/abs/2508.03313)|null|
-|**2025-08-05**|**Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching**|Sirui Chen et.al.|[2508.03068](http://arxiv.org/abs/2508.03068)|null|
 |**2025-08-04**|**ReMoMask: Retrieval-Augmented Masked Motion Generation**|Zhengdao Li et.al.|[2508.02605](http://arxiv.org/abs/2508.02605)|null|
 |**2025-08-04**|**IMoRe: Implicit Program-Guided Reasoning for Human Motion Q&A**|Chen Li et.al.|[2508.01984](http://arxiv.org/abs/2508.01984)|null|
 |**2025-08-04**|**Exploration of Low-Cost but Accurate Radar-Based Human Motion Direction Determination**|Weicheng Gao et.al.|[2507.22567](http://arxiv.org/abs/2507.22567)|null|
@@ -4492,6 +4522,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls**|Sanket Badhe et.al.|[2508.06457](http://arxiv.org/abs/2508.06457)|null|
+|**2025-08-08**|**Improved Dysarthric Speech to Text Conversion via TTS Personalization**|Péter Mihajlik et.al.|[2508.06391](http://arxiv.org/abs/2508.06391)|null|
+|**2025-08-08**|**Large Language Model Data Generation for Enhanced Intent Recognition in German Speech**|Theresa Pekarek Rosin et.al.|[2508.06277](http://arxiv.org/abs/2508.06277)|null|
+|**2025-08-08**|**Llasa+: Free Lunch for Accelerated and Streaming Llama-Based Speech Synthesis**|Wenjie Tian et.al.|[2508.06262](http://arxiv.org/abs/2508.06262)|null|
 |**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
 |**2025-08-07**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
