@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.11
+### Updated on 2025.08.12
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-11**|**Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2507.20568](http://arxiv.org/abs/2507.20568)|null|
 |**2025-08-08**|**MotionSwap**|Om Patil et.al.|[2508.06430](http://arxiv.org/abs/2508.06430)|null|
 |**2025-08-07**|**Evaluation of a Sign Language Avatar on Comprehensibility, User Experience \& Acceptability**|Fenya Wasserroth et.al.|[2508.05358](http://arxiv.org/abs/2508.05358)|null|
 |**2025-08-07**|**RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer**|Fangyu Du et.al.|[2508.05115](http://arxiv.org/abs/2508.05115)|null|
@@ -28,7 +29,6 @@ layout: default
 |**2025-07-30**|**Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images**|Takuma Amada et.al.|[2507.22601](http://arxiv.org/abs/2507.22601)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation**|Dogucan Yaman et.al.|[2507.20953](http://arxiv.org/abs/2507.20953)|null|
-|**2025-07-28**|**Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2507.20568](http://arxiv.org/abs/2507.20568)|null|
 |**2025-07-28**|**MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization**|Hyung Kyu Kim et.al.|[2507.20562](http://arxiv.org/abs/2507.20562)|null|
 |**2025-07-28**|**JOLT3D: Joint Learning of Talking Heads and 3DMM Parameters with Application to Lip-Sync**|Sungjoon Park et.al.|[2507.20452](http://arxiv.org/abs/2507.20452)|null|
 |**2025-07-25**|**Face2VoiceSync: Lightweight Face-Voice Consistency for Text-Driven Talking Face Generation**|Fang Kang et.al.|[2507.19225](http://arxiv.org/abs/2507.19225)|null|
@@ -4522,12 +4522,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-11**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-08**|**ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls**|Sanket Badhe et.al.|[2508.06457](http://arxiv.org/abs/2508.06457)|null|
 |**2025-08-08**|**Improved Dysarthric Speech to Text Conversion via TTS Personalization**|Péter Mihajlik et.al.|[2508.06391](http://arxiv.org/abs/2508.06391)|null|
 |**2025-08-08**|**Large Language Model Data Generation for Enhanced Intent Recognition in German Speech**|Theresa Pekarek Rosin et.al.|[2508.06277](http://arxiv.org/abs/2508.06277)|null|
 |**2025-08-08**|**Llasa+: Free Lunch for Accelerated and Streaming Llama-Based Speech Synthesis**|Wenjie Tian et.al.|[2508.06262](http://arxiv.org/abs/2508.06262)|null|
 |**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
-|**2025-08-07**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
 |**2025-08-06**|**Unplug, Mute, Avoid: Investigating smart speaker users' privacy protection behaviours in Saudi Homes**|Abdulrhman Alorini et.al.|[2508.04202](http://arxiv.org/abs/2508.04202)|null|
