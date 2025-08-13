@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.12
+### Updated on 2025.08.13
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**Preview WB-DH: Towards Whole Body Digital Human Bench for the Generation of Whole-body Talking Avatar Videos**|Chaoyi Wang et.al.|[2508.08891](http://arxiv.org/abs/2508.08891)|null|
 |**2025-08-11**|**Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2507.20568](http://arxiv.org/abs/2507.20568)|null|
 |**2025-08-10**|**KLASSify to Verify: Audio-Visual Deepfake Detection Using SSL-based Audio and Handcrafted Visual Features**|Ivan Kukanov et.al.|[2508.07337](http://arxiv.org/abs/2508.07337)|null|
 |**2025-08-08**|**MotionSwap**|Om Patil et.al.|[2508.06430](http://arxiv.org/abs/2508.06430)|null|
@@ -909,11 +910,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices**|Ya Zou et.al.|[2508.09136](http://arxiv.org/abs/2508.09136)|null|
+|**2025-08-12**|**TaoCache: Structure-Maintained Video Generation Acceleration**|Zhentao Fan et.al.|[2508.08978](http://arxiv.org/abs/2508.08978)|null|
+|**2025-08-12**|**Subjective and Objective Quality Assessment of Banding Artifacts on Compressed Videos**|Qi Zheng et.al.|[2508.08700](http://arxiv.org/abs/2508.08700)|null|
+|**2025-08-12**|**Yan: Foundational Interactive Video Generation**|Yan Team et.al.|[2508.08601](http://arxiv.org/abs/2508.08601)|null|
+|**2025-08-12**|**RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space**|Jingyun Liang et.al.|[2508.08588](http://arxiv.org/abs/2508.08588)|null|
+|**2025-08-12**|**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**|Fangyuan Mao et.al.|[2508.07981](http://arxiv.org/abs/2508.07981)|null|
+|**2025-08-12**|**Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation**|Bowen Xue et.al.|[2508.07901](http://arxiv.org/abs/2508.07901)|null|
+|**2025-08-11**|**MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling**|Qian Wang et.al.|[2508.08487](http://arxiv.org/abs/2508.08487)|null|
 |**2025-08-11**|**StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation**|Shuyuan Tu et.al.|[2508.08248](http://arxiv.org/abs/2508.08248)|null|
 |**2025-08-11**|**Matrix-3D: Omnidirectional Explorable 3D World Generation**|Zhongqi Yang et.al.|[2508.08086](http://arxiv.org/abs/2508.08086)|null|
 |**2025-08-11**|**S^2VG: 3D Stereoscopic and Spatial Video Generation via Denoising Frame Matrix**|Peng Dai et.al.|[2508.08048](http://arxiv.org/abs/2508.08048)|null|
-|**2025-08-11**|**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**|Fangyuan Mao et.al.|[2508.07981](http://arxiv.org/abs/2508.07981)|null|
-|**2025-08-11**|**Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation**|Bowen Xue et.al.|[2508.07901](http://arxiv.org/abs/2508.07901)|null|
 |**2025-08-11**|**Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation**|Xiaoyan Liu et.al.|[2508.07769](http://arxiv.org/abs/2508.07769)|null|
 |**2025-08-11**|**ShoulderShot: Generating Over-the-Shoulder Dialogue Videos**|Yuang Zhang et.al.|[2508.07597](http://arxiv.org/abs/2508.07597)|null|
 |**2025-08-08**|**Restage4D: Reanimating Deformable 3D Reconstruction from a Single Video**|Jixuan He et.al.|[2508.06715](http://arxiv.org/abs/2508.06715)|null|
@@ -1538,8 +1545,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback**|Hongbo Ma et.al.|[2508.06555](http://arxiv.org/abs/2508.06555)|null|
+|**2025-08-11**|**MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization**|Ankan Deria et.al.|[2508.08488](http://arxiv.org/abs/2508.08488)|null|
 |**2025-08-11**|**Undress to Redress: A Training-Free Framework for Virtual Try-On**|Zhiying Li et.al.|[2508.07680](http://arxiv.org/abs/2508.07680)|null|
-|**2025-08-06**|**StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback**|Hongbo Ma et.al.|[2508.06555](http://arxiv.org/abs/2508.06555)|null|
 |**2025-08-06**|**Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off**|Seungyong Lee et.al.|[2508.04825](http://arxiv.org/abs/2508.04825)|null|
 |**2025-08-06**|**One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose**|Jinxi Liu et.al.|[2508.04559](http://arxiv.org/abs/2508.04559)|null|
 |**2025-08-06**|**Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis**|Angang Zhang et.al.|[2508.04551](http://arxiv.org/abs/2508.04551)|null|
@@ -1619,8 +1627,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-11**|**Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control**|Zeqian Long et.al.|[2508.08134](http://arxiv.org/abs/2508.08134)|null|
-|**2025-08-11**|**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**|Fangyuan Mao et.al.|[2508.07981](http://arxiv.org/abs/2508.07981)|null|
+|**2025-08-12**|**Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control**|Zeqian Long et.al.|[2508.08134](http://arxiv.org/abs/2508.08134)|null|
+|**2025-08-12**|**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**|Fangyuan Mao et.al.|[2508.07981](http://arxiv.org/abs/2508.07981)|null|
 |**2025-08-11**|**X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning**|Jian Ma et.al.|[2508.07607](http://arxiv.org/abs/2508.07607)|null|
 |**2025-08-11**|**Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing**|Joonghyuk Shin et.al.|[2508.07519](http://arxiv.org/abs/2508.07519)|null|
 |**2025-08-10**|**CLUE: Leveraging Low-Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization**|Youqi Wang et.al.|[2508.07413](http://arxiv.org/abs/2508.07413)|null|
@@ -1947,6 +1955,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices**|Ya Zou et.al.|[2508.09136](http://arxiv.org/abs/2508.09136)|null|
+|**2025-08-12**|**Neutone SDK: An Open Source Framework for Neural Audio Processing**|Christopher Mitcheltree et.al.|[2508.09126](http://arxiv.org/abs/2508.09126)|null|
+|**2025-08-12**|**SPARC: Soft Probabilistic Adaptive multi-interest Retrieval Model via Codebooks for recommender system**|Jialiang Shi et.al.|[2508.09090](http://arxiv.org/abs/2508.09090)|null|
+|**2025-08-12**|**Bridging Theory and Practice in Quantum Game Theory: Optimized Implementation of the Battle of the Sexes with Error Mitigation on NISQ Hardware**|Germán Díaz Agreda et.al.|[2508.09050](http://arxiv.org/abs/2508.09050)|null|
+|**2025-08-12**|**Multi-Energy and Multi-Sample Searches for Neutrinos from GW Events**|Aswathi Balagopal V. et.al.|[2508.09034](http://arxiv.org/abs/2508.09034)|null|
+|**2025-08-12**|**Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs**|Shivam Dubey et.al.|[2508.09019](http://arxiv.org/abs/2508.09019)|null|
+|**2025-08-12**|**Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality**|Chao Wang et.al.|[2508.08999](http://arxiv.org/abs/2508.08999)|null|
+|**2025-08-12**|**Millisecond-scale Volatile Memory in HZO Ferroelectric Capacitors for Bio-inspired Temporal Computing**|Luca Fehlings et.al.|[2508.08973](http://arxiv.org/abs/2508.08973)|null|
+|**2025-08-12**|**ShearView: A Compact Stress- and Strain-Controlled Rheometer for Integrated Rheo-microscopy**|Nikolaos Kalafatakis et.al.|[2508.08951](http://arxiv.org/abs/2508.08951)|null|
+|**2025-08-12**|**Shape Completion and Real-Time Visualization in Robotic Ultrasound Spine Acquisitions**|Miruna-Alexandra Gafencu et.al.|[2508.08923](http://arxiv.org/abs/2508.08923)|null|
+|**2025-08-12**|**Munsit at NADI 2025 Shared Task 2: Pushing the Boundaries of Multidialectal Arabic ASR with Weakly Supervised Pretraining and Continual Supervised Fine-tuning**|Mahmoud Salhab et.al.|[2508.08912](http://arxiv.org/abs/2508.08912)|null|
+|**2025-08-12**|**Trajectory-adaptive Beam Shaping: Towards Beam-Management-Free Near-field Communications**|Sicong Ye et.al.|[2508.08894](http://arxiv.org/abs/2508.08894)|null|
+|**2025-08-12**|**A Dual Framework for Optimized Data Storage and Retrieval using Lightweight Python Blockchain and Scalable Smart Contracts with IPFS**|Vatsala Upadhyay et.al.|[2508.08887](http://arxiv.org/abs/2508.08887)|null|
+|**2025-08-12**|**GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments**|Lin Zeng et.al.|[2508.08867](http://arxiv.org/abs/2508.08867)|null|
+|**2025-08-12**|**Optimized Arithmetic Coding for Efficient Data Compression in the Resource-Constrained Internet of Things(IoT)**|Vatsala Upadhyay et.al.|[2508.08840](http://arxiv.org/abs/2508.08840)|null|
+|**2025-08-12**|**Geometry-Aware Global Feature Aggregation for Real-Time Indirect Illumination**|Meng Gai et.al.|[2508.08826](http://arxiv.org/abs/2508.08826)|null|
+|**2025-08-12**|**Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment**|Shi-Chen Zhang et.al.|[2508.08811](http://arxiv.org/abs/2508.08811)|null|
+|**2025-08-12**|**TechOps: Technical Documentation Templates for the AI Act**|Laura Lucaj et.al.|[2508.08804](http://arxiv.org/abs/2508.08804)|null|
+|**2025-08-12**|**Patient-Adaptive Focused Transmit Beamforming using Cognitive Ultrasound**|Wessel L. van Nierop et.al.|[2508.08782](http://arxiv.org/abs/2508.08782)|null|
+|**2025-08-12**|**Optimal Boost Design for Auto-bidding Mechanism with Publisher Quality Constraints**|Huanyu Yan et.al.|[2508.08772](http://arxiv.org/abs/2508.08772)|null|
 |**2025-08-11**|**SAGOnline: Segment Any Gaussians Online**|Wentao Sun et.al.|[2508.08219](http://arxiv.org/abs/2508.08219)|null|
 |**2025-08-11**|**Human-Alignment and Calibration of Inference-Time Uncertainty in Large Language Models**|Kyle Moore et.al.|[2508.08204](http://arxiv.org/abs/2508.08204)|null|
 |**2025-08-11**|**Tunable edge and depth sensing via phase-change nonlocal metasurfaces**|Kenan Guo et.al.|[2508.08202](http://arxiv.org/abs/2508.08202)|null|
@@ -4315,7 +4343,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-11**|**BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion**|Takara E. Truong et.al.|[2508.08241](http://arxiv.org/abs/2508.08241)|null|
+|**2025-08-12**|**Spatial-Temporal Multi-Scale Quantization for Flexible Motion Generation**|Zan Wang et.al.|[2508.08991](http://arxiv.org/abs/2508.08991)|null|
+|**2025-08-12**|**RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space**|Jingyun Liang et.al.|[2508.08588](http://arxiv.org/abs/2508.08588)|null|
+|**2025-08-12**|**BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion**|Takara E. Truong et.al.|[2508.08241](http://arxiv.org/abs/2508.08241)|null|
 |**2025-08-11**|**PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation**|Sihan Zhao et.al.|[2508.08179](http://arxiv.org/abs/2508.08179)|null|
 |**2025-08-11**|**Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model**|Bin Cao et.al.|[2508.07863](http://arxiv.org/abs/2508.07863)|null|
 |**2025-08-11**|**AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**|Dejie Yang et.al.|[2508.07626](http://arxiv.org/abs/2508.07626)|null|
@@ -4569,12 +4599,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
+|**2025-08-12**|**QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems**|Chien-Chun Wang et.al.|[2508.08957](http://arxiv.org/abs/2508.08957)|null|
+|**2025-08-12**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
+|**2025-08-12**|**Explore, Listen, Inspect: Supporting Multimodal Interaction with 3D Surface and Point Data Visualizations**|Sanchita S. Kamath et.al.|[2508.08554](http://arxiv.org/abs/2508.08554)|null|
+|**2025-08-12**|**Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization**|Chaoqun Cui et.al.|[2508.08550](http://arxiv.org/abs/2508.08550)|null|
+|**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-11**|**Touch Speaks, Sound Feels: A Multimodal Approach to Affective and Social Touch from Robots to Humans**|Qiaoqiao Ren et.al.|[2508.07839](http://arxiv.org/abs/2508.07839)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](http://arxiv.org/abs/2508.07711)|null|
 |**2025-08-11**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-10**|**Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance**|Wenqian Cui et.al.|[2508.07375](http://arxiv.org/abs/2508.07375)|null|
 |**2025-08-10**|**KLASSify to Verify: Audio-Visual Deepfake Detection Using SSL-based Audio and Handcrafted Visual Features**|Ivan Kukanov et.al.|[2508.07337](http://arxiv.org/abs/2508.07337)|null|
-|**2025-08-10**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-09**|**Maestro-EVC: Controllable Emotional Voice Conversion Guided by References and Explicit Prosody**|Jinsung Yoon et.al.|[2508.06890](http://arxiv.org/abs/2508.06890)|null|
 |**2025-08-09**|**Text to Speech System for Meitei Mayek Script**|Gangular Singh Irengbam et.al.|[2508.06870](http://arxiv.org/abs/2508.06870)|null|
 |**2025-08-08**|**ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls**|Sanket Badhe et.al.|[2508.06457](http://arxiv.org/abs/2508.06457)|null|
