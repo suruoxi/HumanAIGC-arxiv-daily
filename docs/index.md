@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.14
+### Updated on 2025.08.15
 <details>
 
 <summary> Talking Face </summary>
@@ -912,10 +912,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
+|**2025-08-14**|**From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts**|Yuji Wang et.al.|[2508.09476](http://arxiv.org/abs/2508.09476)|null|
+|**2025-08-14**|**Yan: Foundational Interactive Video Generation**|Deheng Ye et.al.|[2508.08601](http://arxiv.org/abs/2508.08601)|null|
 |**2025-08-13**|**Physical Autoregressive Model for Robotic Manipulation without Action Pretraining**|Zijian Song et.al.|[2508.09822](http://arxiv.org/abs/2508.09822)|null|
-|**2025-08-13**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
-|**2025-08-13**|**From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts**|Yuji Wang et.al.|[2508.09476](http://arxiv.org/abs/2508.09476)|null|
-|**2025-08-13**|**Yan: Foundational Interactive Video Generation**|Deheng Ye et.al.|[2508.08601](http://arxiv.org/abs/2508.08601)|null|
 |**2025-08-12**|**X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents**|Guoxian Song et.al.|[2508.09383](http://arxiv.org/abs/2508.09383)|null|
 |**2025-08-12**|**Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices**|Ya Zou et.al.|[2508.09136](http://arxiv.org/abs/2508.09136)|null|
 |**2025-08-12**|**TaoCache: Structure-Maintained Video Generation Acceleration**|Zhentao Fan et.al.|[2508.08978](http://arxiv.org/abs/2508.08978)|null|
