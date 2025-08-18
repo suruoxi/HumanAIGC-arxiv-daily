@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation**|MengChao Wang et.al.|[2508.11255](http://arxiv.org/abs/2508.11255)|null|
 |**2025-08-14**|**HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis**|Shiyu Liu et.al.|[2508.10566](http://arxiv.org/abs/2508.10566)|null|
 |**2025-08-13**|**LIA-X: Interpretable Latent Portrait Animator**|Yaohui Wang et.al.|[2508.09959](http://arxiv.org/abs/2508.09959)|null|
 |**2025-08-12**|**Preview WB-DH: Towards Whole Body Digital Human Bench for the Generation of Whole-body Talking Avatar Videos**|Chaoyi Wang et.al.|[2508.08891](http://arxiv.org/abs/2508.08891)|null|
@@ -926,7 +927,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models**|Xiaoxue Wu et.al.|[2508.11484](http://arxiv.org/abs/2508.11484)|null|
 |**2025-08-15**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
+|**2025-08-14**|**GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning**|Kelin Yu et.al.|[2508.11049](http://arxiv.org/abs/2508.11049)|null|
+|**2025-08-14**|**EVCtrl: Efficient Control Adapter for Visual Generation**|Zixiang Yang et.al.|[2508.10963](http://arxiv.org/abs/2508.10963)|null|
 |**2025-08-14**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
 |**2025-08-14**|**Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**|Youping Gu et.al.|[2508.10774](http://arxiv.org/abs/2508.10774)|null|
 |**2025-08-14**|**AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences**|Jieyu Li et.al.|[2508.10771](http://arxiv.org/abs/2508.10771)|null|
@@ -941,6 +945,7 @@
 |**2025-08-12**|**RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space**|Jingyun Liang et.al.|[2508.08588](http://arxiv.org/abs/2508.08588)|null|
 |**2025-08-12**|**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**|Fangyuan Mao et.al.|[2508.07981](http://arxiv.org/abs/2508.07981)|null|
 |**2025-08-12**|**Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation**|Bowen Xue et.al.|[2508.07901](http://arxiv.org/abs/2508.07901)|null|
+|**2025-08-11**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By \underline{V}alue \underline{S}ign \underline{F}lip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-11**|**MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling**|Qian Wang et.al.|[2508.08487](http://arxiv.org/abs/2508.08487)|null|
 |**2025-08-11**|**StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation**|Shuyuan Tu et.al.|[2508.08248](http://arxiv.org/abs/2508.08248)|null|
 |**2025-08-11**|**Matrix-3D: Omnidirectional Explorable 3D World Generation**|Zhongqi Yang et.al.|[2508.08086](http://arxiv.org/abs/2508.08086)|null|
@@ -1655,6 +1660,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation**|Yilin Mi et.al.|[2508.11284](http://arxiv.org/abs/2508.11284)|null|
+|**2025-08-14**|**LD-LAudio-V1: Video-to-Long-Form-Audio Generation Extension with Dual Lightweight Adapters**|Haomin Zhang et.al.|[2508.11074](http://arxiv.org/abs/2508.11074)|null|
 |**2025-08-14**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
 |**2025-08-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al.|[2508.10509](http://arxiv.org/abs/2508.10509)|null|
 |**2025-08-14**|**TweezeEdit: Consistent and Efficient Image Editing with Path Regularization**|Jianda Mao et.al.|[2508.10498](http://arxiv.org/abs/2508.10498)|null|
@@ -1989,6 +1996,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
+|**2025-08-15**|**DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring**|Durga Joshi et.al.|[2508.11591](http://arxiv.org/abs/2508.11591)|null|
+|**2025-08-15**|**Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation**|Benjamin Walt et.al.|[2508.11588](http://arxiv.org/abs/2508.11588)|null|
+|**2025-08-15**|**Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks**|Jakub Łucki et.al.|[2508.11584](http://arxiv.org/abs/2508.11584)|null|
+|**2025-08-15**|**Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models**|Qiguang Chen et.al.|[2508.11582](http://arxiv.org/abs/2508.11582)|null|
+|**2025-08-15**|**Intergenerational Support for Deepfake Scams Targeting Older Adults**|Karina LaRubbio et.al.|[2508.11579](http://arxiv.org/abs/2508.11579)|null|
+|**2025-08-15**|**Towards Fully Onboard State Estimation and Trajectory Tracking for UAVs with Suspended Payloads**|Martin Jiroušek et.al.|[2508.11547](http://arxiv.org/abs/2508.11547)|null|
+|**2025-08-15**|**A Real-time Concrete Crack Detection and Segmentation Model Based on YOLOv11**|Shaoze Huang et.al.|[2508.11517](http://arxiv.org/abs/2508.11517)|null|
+|**2025-08-15**|**TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations**|Xinyi Yin et.al.|[2508.11478](http://arxiv.org/abs/2508.11478)|null|
+|**2025-08-15**|**Efficient Artifacts Removal for Adaptive Deep Brain Stimulation and a Temporal Event Localization Analysis**|Tzu-Chi Liu et.al.|[2508.11459](http://arxiv.org/abs/2508.11459)|null|
+|**2025-08-15**|**Importance-Aware Robust Semantic Transmission for LEO Satellite-Ground Communication**|Hui Cao et.al.|[2508.11457](http://arxiv.org/abs/2508.11457)|null|
+|**2025-08-15**|**Inside Knowledge: Graph-based Path Generation with Explainable Data Augmentation and Curriculum Learning for Visual Indoor Navigation**|Daniel Airinei et.al.|[2508.11446](http://arxiv.org/abs/2508.11446)|null|
+|**2025-08-15**|**Time, Fences and the Ordering of Events in TSO**|Raïssa Nataf et.al.|[2508.11415](http://arxiv.org/abs/2508.11415)|null|
+|**2025-08-15**|**Towards Embodied Conversational Agents for Reducing Oral Exam Anxiety in Extended Reality**|Jens Grubert et.al.|[2508.11412](http://arxiv.org/abs/2508.11412)|null|
+|**2025-08-15**|**RMFAT: Recurrent Multi-scale Feature Atmospheric Turbulence Mitigator**|Zhiming Liu et.al.|[2508.11409](http://arxiv.org/abs/2508.11409)|null|
+|**2025-08-15**|**Repetitive TMS-based Identification of Methamphetamine-Dependent Individuals Using EEG Spectra**|Ziyi Zeng et.al.|[2508.11312](http://arxiv.org/abs/2508.11312)|null|
+|**2025-08-15**|**Quantum-Enhanced Sensing of Excited-State Dynamics with Correlated Photons**|Jiahao Joel Fan et.al.|[2508.11311](http://arxiv.org/abs/2508.11311)|null|
+|**2025-08-15**|**Embodied Edge Intelligence Meets Near Field Communication: Concept, Design, and Verification**|Guoliang Li et.al.|[2508.11232](http://arxiv.org/abs/2508.11232)|null|
+|**2025-08-15**|**A CLIP-based Uncertainty Modal Modeling (UMM) Framework for Pedestrian Re-Identification in Autonomous Driving**|Jialin Li et.al.|[2508.11218](http://arxiv.org/abs/2508.11218)|null|
+|**2025-08-15**|**Efficient Image-to-Image Schrödinger Bridge for CT Field of View Extension**|Zhenhao Li et.al.|[2508.11211](http://arxiv.org/abs/2508.11211)|null|
 |**2025-08-15**|**An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)**|Carla Wehner et.al.|[2508.10686](http://arxiv.org/abs/2508.10686)|null|
 |**2025-08-14**|**STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer**|Yushi Lan et.al.|[2508.10893](http://arxiv.org/abs/2508.10893)|null|
 |**2025-08-14**|**TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning**|Anantha Narayanan et.al.|[2508.10872](http://arxiv.org/abs/2508.10872)|null|
@@ -4683,6 +4710,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts**|Heyang Xue et.al.|[2508.11326](http://arxiv.org/abs/2508.11326)|null|
+|**2025-08-15**|**EmoSSLSphere: Multilingual Emotional Speech Synthesis with Spherical Vectors and Discrete Speech Tokens**|Joonyong Park et.al.|[2508.11273](http://arxiv.org/abs/2508.11273)|null|
 |**2025-08-15**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
 |**2025-08-14**|**Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform**|Yuankun Xie et.al.|[2508.10559](http://arxiv.org/abs/2508.10559)|null|
 |**2025-08-14**|**Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning**|Yejin Jeon et.al.|[2508.10412](http://arxiv.org/abs/2508.10412)|null|
