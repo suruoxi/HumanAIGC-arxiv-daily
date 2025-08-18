@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.17
+### Updated on 2025.08.18
 <details>
 
 <summary> Talking Face </summary>
@@ -913,11 +913,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
 |**2025-08-14**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
 |**2025-08-14**|**Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**|Youping Gu et.al.|[2508.10774](http://arxiv.org/abs/2508.10774)|null|
 |**2025-08-14**|**AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences**|Jieyu Li et.al.|[2508.10771](http://arxiv.org/abs/2508.10771)|null|
 |**2025-08-14**|**HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis**|Shiyu Liu et.al.|[2508.10566](http://arxiv.org/abs/2508.10566)|null|
-|**2025-08-14**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
 |**2025-08-14**|**From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts**|Yuji Wang et.al.|[2508.09476](http://arxiv.org/abs/2508.09476)|null|
 |**2025-08-14**|**Yan: Foundational Interactive Video Generation**|Deheng Ye et.al.|[2508.08601](http://arxiv.org/abs/2508.08601)|null|
 |**2025-08-13**|**Physical Autoregressive Model for Robotic Manipulation without Action Pretraining**|Zijian Song et.al.|[2508.09822](http://arxiv.org/abs/2508.09822)|null|
@@ -1970,13 +1970,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)**|Carla Wehner et.al.|[2508.10686](http://arxiv.org/abs/2508.10686)|null|
 |**2025-08-14**|**STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer**|Yushi Lan et.al.|[2508.10893](http://arxiv.org/abs/2508.10893)|null|
 |**2025-08-14**|**TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning**|Anantha Narayanan et.al.|[2508.10872](http://arxiv.org/abs/2508.10872)|null|
 |**2025-08-14**|**Phased-Array Laser Power Beaming from Cislunar Space to the Lunar Surface**|Slava G. Turyshev et.al.|[2508.10855](http://arxiv.org/abs/2508.10855)|null|
 |**2025-08-14**|**Forgery Guided Learning Strategy with Dual Perception Network for Deepfake Cross-domain Detection**|Lixin Jia et.al.|[2508.10741](http://arxiv.org/abs/2508.10741)|null|
 |**2025-08-14**|**Predictive Position Control for Movable Antenna Arrays in UAV Communications: A Spatio-Temporal Transformer-LSTM Framework**|Kan Yu et.al.|[2508.10720](http://arxiv.org/abs/2508.10720)|null|
 |**2025-08-14**|**Lightweight CNNs for Embedded SAR Ship Target Detection and Classification**|Fabian Kresse et.al.|[2508.10712](http://arxiv.org/abs/2508.10712)|null|
-|**2025-08-14**|**An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)**|Carla Wehner et.al.|[2508.10686](http://arxiv.org/abs/2508.10686)|null|
 |**2025-08-14**|**Synthesis of Deep Neural Networks with Safe Robust Adaptive Control for Reliable Operation of Wheeled Mobile Robots**|Mehdi Heydari Shahna et.al.|[2508.10634](http://arxiv.org/abs/2508.10634)|null|
 |**2025-08-14**|**DEV: A Driver-Environment-Vehicle Closed-Loop Framework for Risk-Aware Adaptive Automation of Driving**|Anaïs Halin et.al.|[2508.10618](http://arxiv.org/abs/2508.10618)|null|
 |**2025-08-14**|**Retrieval-Augmented Prompt for OOD Detection**|Ruisong Han et.al.|[2508.10556](http://arxiv.org/abs/2508.10556)|null|
@@ -4660,6 +4660,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
 |**2025-08-14**|**Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform**|Yuankun Xie et.al.|[2508.10559](http://arxiv.org/abs/2508.10559)|null|
 |**2025-08-14**|**Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning**|Yejin Jeon et.al.|[2508.10412](http://arxiv.org/abs/2508.10412)|null|
 |**2025-08-14**|**Towards Frame-level Quality Predictions of Synthetic Speech**|Michael Kuhlmann et.al.|[2508.10374](http://arxiv.org/abs/2508.10374)|null|
@@ -4670,7 +4671,6 @@ layout: default
 |**2025-08-13**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
 |**2025-08-12**|**Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative**|Xi Xuan et.al.|[2508.09294](http://arxiv.org/abs/2508.09294)|null|
 |**2025-08-12**|**QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems**|Chien-Chun Wang et.al.|[2508.08957](http://arxiv.org/abs/2508.08957)|null|
-|**2025-08-12**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
 |**2025-08-12**|**Explore, Listen, Inspect: Supporting Multimodal Interaction with 3D Surface and Point Data Visualizations**|Sanchita S. Kamath et.al.|[2508.08554](http://arxiv.org/abs/2508.08554)|null|
 |**2025-08-12**|**Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization**|Chaoqun Cui et.al.|[2508.08550](http://arxiv.org/abs/2508.08550)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|

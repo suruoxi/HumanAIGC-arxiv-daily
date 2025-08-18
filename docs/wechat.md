@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.08.17
+> Updated on 2025.08.18
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -799,7 +799,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -913,7 +913,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -1161,7 +1161,7 @@
 - 2025-03-05, **ProReflow: Progressive Reflow with Decomposed Velocity**, Lei Ke et.al., Paper: [http://arxiv.org/abs/2503.04824](http://arxiv.org/abs/2503.04824)
 - 2025-05-10, **ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images**, Xianghao Kong et.al., Paper: [http://arxiv.org/abs/2505.06537](http://arxiv.org/abs/2505.06537)
 - 2025-07-05, **PresentAgent: Multimodal Agent for Presentation Video Generation**, Jingwei Shi et.al., Paper: [http://arxiv.org/abs/2507.04036](http://arxiv.org/abs/2507.04036)
-- 2025-08-14, **Preacher: Paper-to-Video Agentic System**, Jingwei Liu et.al., Paper: [http://arxiv.org/abs/2508.09632](http://arxiv.org/abs/2508.09632)
+- 2025-08-15, **Preacher: Paper-to-Video Agentic System**, Jingwei Liu et.al., Paper: [http://arxiv.org/abs/2508.09632](http://arxiv.org/abs/2508.09632)
 - 2025-03-21, **Position: Interactive Generative Video as Next-Generation Game Engine**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2503.17359](http://arxiv.org/abs/2503.17359)
 - 2025-03-20, **PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**, Longbin Ji et.al., Paper: [http://arxiv.org/abs/2503.16068](http://arxiv.org/abs/2503.16068)
 - 2025-05-03, **PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**, Bu Jin et.al., Paper: [http://arxiv.org/abs/2505.01729](http://arxiv.org/abs/2505.01729)
@@ -1556,7 +1556,7 @@
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -1638,7 +1638,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -1970,7 +1970,7 @@
 - 2025-07-08, **2D Instance Editing in 3D Space**, Yuhuan Xie et.al., Paper: [http://arxiv.org/abs/2507.05819](http://arxiv.org/abs/2507.05819)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -4134,7 +4134,7 @@
 - 2025-06-25, **Analog OFDM based on Real-Time Fourier Transformation**, Xiaolu Yang et.al., Paper: [http://arxiv.org/abs/2506.20287](http://arxiv.org/abs/2506.20287)
 - 2025-06-24, **An analytical model of depth-dose distributions for carbon-ion beams**, Fulya Halıcılar et.al., Paper: [http://arxiv.org/abs/2506.19479](http://arxiv.org/abs/2506.19479)
 - 2025-02-19, **An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice**, Wanke Xia et.al., Paper: [http://arxiv.org/abs/2502.13764](http://arxiv.org/abs/2502.13764)
-- 2025-08-14, **An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)**, Carla Wehner et.al., Paper: [http://arxiv.org/abs/2508.10686](http://arxiv.org/abs/2508.10686)
+- 2025-08-15, **An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)**, Carla Wehner et.al., Paper: [http://arxiv.org/abs/2508.10686](http://arxiv.org/abs/2508.10686)
 - 2025-02-19, **An Online Optimization-Based Trajectory Planning Approach for Cooperative Landing Tasks**, Jingshan Chen et.al., Paper: [http://arxiv.org/abs/2502.13823](http://arxiv.org/abs/2502.13823)
 - 2025-08-01, **An Online Data Analysis Framework for Accelerator-Based Physics Experiments**, Hayden Ramm et.al., Paper: [http://arxiv.org/abs/2508.00705](http://arxiv.org/abs/2508.00705)
 - 2025-04-29, **An Online Cross-layered Defense Strategy with Bandwidth Allocation for Multi-channel Systems under DoS Attacks**, Liheng Wan et.al., Paper: [http://arxiv.org/abs/2504.20762](http://arxiv.org/abs/2504.20762)
@@ -4398,7 +4398,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -4660,7 +4660,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 <details>
 
@@ -4857,7 +4857,7 @@
 - 2025-02-25, **Multimodal Interaction and Intention Communication for Industrial Robots**, Tim Schreiter et.al., Paper: [http://arxiv.org/abs/2502.17971](http://arxiv.org/abs/2502.17971)
 - 2025-08-06, **Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**, Xi Xuan et.al., Paper: [http://arxiv.org/abs/2508.04143](http://arxiv.org/abs/2508.04143)
 - 2025-07-14, **MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**, Ramaneswaran Selvakumar et.al., Paper: [http://arxiv.org/abs/2507.10859](http://arxiv.org/abs/2507.10859)
-- 2025-08-12, **MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**, Xiaoxue Gao et.al., Paper: [http://arxiv.org/abs/2508.08715](http://arxiv.org/abs/2508.08715)
+- 2025-08-15, **MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**, Xiaoxue Gao et.al., Paper: [http://arxiv.org/abs/2508.08715](http://arxiv.org/abs/2508.08715)
 - 2025-07-02, **Multi-interaction TTS toward professional recording reproduction**, Hiroki Kanagawa et.al., Paper: [http://arxiv.org/abs/2507.00808](http://arxiv.org/abs/2507.00808)
 - 2025-07-07, **Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**, Sho Inoue et.al., Paper: [http://arxiv.org/abs/2507.04598](http://arxiv.org/abs/2507.04598)
 - 2025-03-19, **MoonCast: High-Quality Zero-Shot Podcast Generation**, Zeqian Ju et.al., Paper: [http://arxiv.org/abs/2503.14345](http://arxiv.org/abs/2503.14345), Code: **[https://github.com/jzq2000/mooncast](https://github.com/jzq2000/mooncast)**
@@ -5097,7 +5097,7 @@
 - 2025-08-13, **$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**, Boyu Zhu et.al., Paper: [http://arxiv.org/abs/2508.09702](http://arxiv.org/abs/2508.09702)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-</details><p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 Notes: 
 
