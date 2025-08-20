@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.19
+### Updated on 2025.08.20
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis**|Shunian Chen et.al.|[2508.13618](http://arxiv.org/abs/2508.13618)|null|
+|**2025-08-19**|**EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis**|Shuai Tan et.al.|[2508.13442](http://arxiv.org/abs/2508.13442)|null|
 |**2025-08-17**|**CEM-Net: Cross-Emotion Memory Network for Emotional Talking Face Generation**|Kangyi Wu et.al.|[2508.12368](http://arxiv.org/abs/2508.12368)|null|
 |**2025-08-16**|**RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis**|Wenqing Wang et.al.|[2508.12163](http://arxiv.org/abs/2508.12163)|null|
 |**2025-08-16**|**SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System**|Truong Thanh Hung Nguyen et.al.|[2508.11873](http://arxiv.org/abs/2508.11873)|null|
@@ -917,6 +919,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing**|Shaoshu Yang et.al.|[2508.14033](http://arxiv.org/abs/2508.14033)|null|
+|**2025-08-19**|**Physics-Based 3D Simulation for Synthetic Data Generation and Failure Analysis in Packaging Stability Assessment**|Samuel Seligardi et.al.|[2508.13989](http://arxiv.org/abs/2508.13989)|null|
 |**2025-08-18**|**4DNeX: Feed-Forward 4D Generative Modeling Made Easy**|Zhaoxi Chen et.al.|[2508.13154](http://arxiv.org/abs/2508.13154)|null|
 |**2025-08-18**|**Precise Action-to-Video Generation Through Visual Action Prompts**|Yuang Wang et.al.|[2508.13104](http://arxiv.org/abs/2508.13104)|null|
 |**2025-08-18**|**EgoTwin: Dreaming Body and View in First Person**|Jingqiao Xiu et.al.|[2508.13013](http://arxiv.org/abs/2508.13013)|null|
@@ -1574,6 +1578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**OmniTry: Virtual Try-On Anything without Masks**|Yutong Feng et.al.|[2508.13632](http://arxiv.org/abs/2508.13632)|null|
 |**2025-08-16**|**DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis**|Minh Tran et.al.|[2508.12131](http://arxiv.org/abs/2508.12131)|null|
 |**2025-08-12**|**StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback**|Hongbo Ma et.al.|[2508.06555](http://arxiv.org/abs/2508.06555)|null|
 |**2025-08-11**|**MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization**|Ankan Deria et.al.|[2508.08488](http://arxiv.org/abs/2508.08488)|null|
@@ -1657,6 +1662,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing**|Feng-Lin Liu et.al.|[2508.13797](http://arxiv.org/abs/2508.13797)|null|
 |**2025-08-18**|**Single-Reference Text-to-Image Manipulation with Dual Contrastive Denoising Score**|Syed Muhmmad Israr et.al.|[2508.12718](http://arxiv.org/abs/2508.12718)|null|
 |**2025-08-18**|**TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation**|Yilin Mi et.al.|[2508.11284](http://arxiv.org/abs/2508.11284)|null|
 |**2025-08-18**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
@@ -1993,6 +1999,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**The Promise of Large Language Models in Digital Health: Evidence from Sentiment Analysis in Online Health Communities**|Xiancheng Li et.al.|[2508.14032](http://arxiv.org/abs/2508.14032)|null|
+|**2025-08-19**|**Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols**|Yiqun Lin et.al.|[2508.13947](http://arxiv.org/abs/2508.13947)|null|
+|**2025-08-19**|**LLM-Powered Virtual Patient Agents for Interactive Clinical Skills Training with Automated Feedback**|Henrik Voigt et.al.|[2508.13943](http://arxiv.org/abs/2508.13943)|null|
+|**2025-08-19**|**Analytical phase boundary of a quantum driven-dissipative Kerr oscillator from classical stochastic instantons**|Théo Sépulcre et.al.|[2508.13925](http://arxiv.org/abs/2508.13925)|null|
+|**2025-08-19**|**Multimodal Data Storage and Retrieval for Embodied AI: A Survey**|Yihao Lu et.al.|[2508.13901](http://arxiv.org/abs/2508.13901)|null|
+|**2025-08-19**|**Real-time prediction of geomagnetic storms using Solar Orbiter as a far upstream solar wind monitor**|Emma E. Davies et.al.|[2508.13892](http://arxiv.org/abs/2508.13892)|null|
+|**2025-08-19**|**Forecasting Smog Events Using ConvLSTM: A Spatio-Temporal Approach for Aerosol Index Prediction in South Asia**|Taimur Khan et.al.|[2508.13891](http://arxiv.org/abs/2508.13891)|null|
+|**2025-08-19**|**A Novel Attention-Augmented Wavelet YOLO System for Real-time Brain Vessel Segmentation on Transcranial Color-coded Doppler**|Wenxuan Zhang et.al.|[2508.13875](http://arxiv.org/abs/2508.13875)|null|
+|**2025-08-19**|**Timestep-Compressed Attack on Spiking Neural Networks through Timestep-Level Backpropagation**|Donghwa Kang et.al.|[2508.13812](http://arxiv.org/abs/2508.13812)|null|
+|**2025-08-19**|**Reinforcement Learning-based Adaptive Path Selection for Programmable Networks**|José Eduardo Zerna Torres et.al.|[2508.13806](http://arxiv.org/abs/2508.13806)|null|
+|**2025-08-19**|**Trajectory Tracking and Stabilization of Quadrotors Using Deep Koopman Model Predictive Control**|Haitham El-Hussieny et.al.|[2508.13795](http://arxiv.org/abs/2508.13795)|null|
+|**2025-08-19**|**INDS: Incremental Named Data Streaming for Real-Time Point Cloud Video**|Ruonan Chai et.al.|[2508.13756](http://arxiv.org/abs/2508.13756)|null|
+|**2025-08-19**|**Bend It, Aim It, Tap It: Designing an On-Body Disambiguation Mechanism for Curve Selection in Mixed Reality**|Xiang Li et.al.|[2508.13748](http://arxiv.org/abs/2508.13748)|null|
+|**2025-08-19**|**BioGAP-Ultra: A Modular Edge-AI Platform for Wearable Multimodal Biosignal Acquisition and Processing**|Sebastian Frey et.al.|[2508.13728](http://arxiv.org/abs/2508.13728)|null|
+|**2025-08-19**|**Optimizing Region of Interest Selection for Effective Embedding in Video Steganography Based on Genetic Algorithms**|Nizheen A. Ali et.al.|[2508.13710](http://arxiv.org/abs/2508.13710)|null|
+|**2025-08-19**|**Perspective: An outlook on fluorescence tracking**|Lance W. Q. Xu et.al.|[2508.13668](http://arxiv.org/abs/2508.13668)|null|
+|**2025-08-19**|**Towards Timing Isolation for Mixed-Criticality Communication in Software-Defined Vehicles**|Lóránt Meszlényi et.al.|[2508.13652](http://arxiv.org/abs/2508.13652)|null|
+|**2025-08-19**|**Real-time bubble nucleation and growth for false vacuum decay on the lattice**|Daan Maertens et.al.|[2508.13645](http://arxiv.org/abs/2508.13645)|null|
+|**2025-08-19**|**Quantum-Inspired Artificial Bee Colony for Latency-Aware Task Offloading in IoV**|Mamta Kumari et.al.|[2508.13637](http://arxiv.org/abs/2508.13637)|null|
+|**2025-08-19**|**The 9th AI City Challenge**|Zheng Tang et.al.|[2508.13564](http://arxiv.org/abs/2508.13564)|null|
 |**2025-08-18**|**Choosing the Right Engine in the Virtual Reality Landscape**|Santiago Berrezueta-Guzman et.al.|[2508.13116](http://arxiv.org/abs/2508.13116)|null|
 |**2025-08-18**|**Real-Time Beach Litter Detection and Counting: A Comparative Analysis of RT-DETR Model Variants**|Miftahul Huda et.al.|[2508.13101](http://arxiv.org/abs/2508.13101)|null|
 |**2025-08-18**|**Outlier Detection of Poisson-Distributed Targets Using a Seabed Sensor Network**|Mingyu Kim et.al.|[2508.13099](http://arxiv.org/abs/2508.13099)|null|
@@ -4728,6 +4754,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
+|**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
+|**2025-08-19**|**EventTSF: Event-Aware Non-Stationary Time Series Forecasting**|Yunfeng Ge et.al.|[2508.13434](http://arxiv.org/abs/2508.13434)|null|
+|**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|null|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
 |**2025-08-18**|**Real-Time Sign Language Gestures to Speech Transcription using Deep Learning**|Brandone Fonya et.al.|[2508.12713](http://arxiv.org/abs/2508.12713)|null|
 |**2025-08-16**|**FNH-TTS: A Fast, Natural, and Human-Like Speech Synthesis System with advanced prosodic modeling based on Mixture of Experts**|Qingliang Meng et.al.|[2508.12001](http://arxiv.org/abs/2508.12001)|null|
