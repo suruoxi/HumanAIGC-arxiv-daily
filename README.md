@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.08.24
+### Updated on 2025.08.25
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/abs/2508.16401)|null|
 |**2025-08-20**|**D^3-Talker: Dual-Branch Decoupled Deformation Fields for Few-Shot 3D Talking Head Synthesis**|Yuhang Guo et.al.|[2508.14449](http://arxiv.org/abs/2508.14449)|null|
 |**2025-08-20**|**Taming Transformer for Emotion-Controllable Talking Face Generation**|Ziqi Zhang et.al.|[2508.14359](http://arxiv.org/abs/2508.14359)|null|
 |**2025-08-19**|**TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis**|Shunian Chen et.al.|[2508.13618](http://arxiv.org/abs/2508.13618)|null|
@@ -808,7 +809,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -925,7 +926,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -935,6 +936,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Seeing Clearly, Forgetting Deeply: Revisiting Fine-Tuned Video Generators for Driving Simulation**|Chun-Peng Chang et.al.|[2508.16512](http://arxiv.org/abs/2508.16512)|null|
+|**2025-08-22**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
+|**2025-08-22**|**Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers**|Shikang Zheng et.al.|[2508.16211](http://arxiv.org/abs/2508.16211)|null|
+|**2025-08-21**|**Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning**|Yijun Liu et.al.|[2508.15874](http://arxiv.org/abs/2508.15874)|null|
 |**2025-08-21**|**CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**|Haonan Qiu et.al.|[2508.15774](http://arxiv.org/abs/2508.15774)|null|
 |**2025-08-21**|**Scaling Group Inference for Diverse and High-Quality Generation**|Gaurav Parmar et.al.|[2508.15773](http://arxiv.org/abs/2508.15773)|null|
 |**2025-08-21**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
@@ -942,6 +947,7 @@
 |**2025-08-21**|**TiP4GEN: Text to Immersive Panorama 4D Scene Generation**|Ke Xing et.al.|[2508.12415](http://arxiv.org/abs/2508.12415)|null|
 |**2025-08-20**|**DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing**|Weitao Wang et.al.|[2508.14465](http://arxiv.org/abs/2508.14465)|null|
 |**2025-08-20**|**MoVieDrive: Multi-Modal Multi-View Urban Scene Video Generation**|Guile Wu et.al.|[2508.14327](http://arxiv.org/abs/2508.14327)|null|
+|**2025-08-19**|**xDiff: Online Diffusion Model for Collaborative Inter-Cell Interference Management in 5G O-RAN**|Peihao Yan et.al.|[2508.15843](http://arxiv.org/abs/2508.15843)|null|
 |**2025-08-19**|**InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing**|Shaoshu Yang et.al.|[2508.14033](http://arxiv.org/abs/2508.14033)|null|
 |**2025-08-19**|**Physics-Based 3D Simulation for Synthetic Data Generation and Failure Analysis in Packaging Stability Assessment**|Samuel Seligardi et.al.|[2508.13989](http://arxiv.org/abs/2508.13989)|null|
 |**2025-08-18**|**4DNeX: Feed-Forward 4D Generative Modeling Made Easy**|Zhaoxi Chen et.al.|[2508.13154](http://arxiv.org/abs/2508.13154)|null|
@@ -1592,7 +1598,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -1678,7 +1684,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -2020,7 +2026,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -2030,6 +2036,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations**|Karan Shah et.al.|[2508.16554](http://arxiv.org/abs/2508.16554)|null|
+|**2025-08-22**|**Real-time 3D Light-field Viewing with Eye-tracking on Conventional Displays**|Trung Hieu Pham et.al.|[2508.16535](http://arxiv.org/abs/2508.16535)|null|
+|**2025-08-22**|**Arbitrary-Scale 3D Gaussian Super-Resolution**|Huimin Zeng et.al.|[2508.16467](http://arxiv.org/abs/2508.16467)|null|
+|**2025-08-22**|**Temperature-Resilient Reconfigurable PUF with Dual-Pulse Modulation based on SOT-MRAM Chip**|Min Wang et.al.|[2508.16405](http://arxiv.org/abs/2508.16405)|null|
+|**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/abs/2508.16401)|null|
+|**2025-08-22**|**A Lightweight Group Multiscale Bidirectional Interactive Network for Real-Time Steel Surface Defect Detection**|Yong Zhang et.al.|[2508.16397](http://arxiv.org/abs/2508.16397)|null|
+|**2025-08-22**|**Unsupervised Online Detection of Pipe Blockages and Leakages in Water Distribution Networks**|Jin Li et.al.|[2508.16336](http://arxiv.org/abs/2508.16336)|null|
+|**2025-08-22**|**AI-Supported Mini-Labs: Combining Smartphone-Based Experiments and Multimodal AI**|Jochen Kuhn et.al.|[2508.16320](http://arxiv.org/abs/2508.16320)|null|
+|**2025-08-22**|**Resilient Control for Networked Switched Systems With/Without ACK: An Active Quantized Framework**|Rui Zhao et.al.|[2508.16296](http://arxiv.org/abs/2508.16296)|null|
+|**2025-08-22**|**MCPVerse: An Expansive, Real-World Benchmark for Agentic Tool Use**|Fei Lei et.al.|[2508.16260](http://arxiv.org/abs/2508.16260)|null|
+|**2025-08-22**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
+|**2025-08-22**|**A Relay-Chain-Powered Ciphertext-Policy Attribute-Based Encryption in Intelligent Transportation Systems**|Aparna Singh et.al.|[2508.16189](http://arxiv.org/abs/2508.16189)|null|
+|**2025-08-22**|**FuXi-TC: A generative framework integrating deep learning and physics-based models for improved tropical cyclone forecasts**|Shan Guo et.al.|[2508.16168](http://arxiv.org/abs/2508.16168)|null|
+|**2025-08-22**|**AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs**|Huichi Zhou et.al.|[2508.16153](http://arxiv.org/abs/2508.16153)|null|
+|**2025-08-22**|**Lightweight and Fast Real-time Image Enhancement via Decomposition of the Spatial-aware Lookup Tables**|Wontae Kim et.al.|[2508.16121](http://arxiv.org/abs/2508.16121)|null|
+|**2025-08-22**|**Compact All optical Reservoir Computing via Luminescence Dynamics in Rare-earth Ions-doped Nanocrystals**|Junyan Chen et.al.|[2508.16042](http://arxiv.org/abs/2508.16042)|null|
+|**2025-08-22**|**Breaking Barriers in Software Testing: The Power of AI-Driven Automation**|Saba Naqvi et.al.|[2508.16025](http://arxiv.org/abs/2508.16025)|null|
+|**2025-08-22**|**Wavelet-Space Super-Resolution for Real-Time Rendering**|Prateek Poudel et.al.|[2508.16024](http://arxiv.org/abs/2508.16024)|null|
+|**2025-08-22**|**DRespNeT: A UAV Dataset and YOLOv8-DRN Model for Aerial Instance Segmentation of Building Access Points for Post-Earthquake Search-and-Rescue Missions**|Aykut Sirma et.al.|[2508.16016](http://arxiv.org/abs/2508.16016)|null|
+|**2025-08-21**|**GelSLAM: A Real-time, High-Fidelity, and Robust 3D Tactile SLAM System**|Hung-Jui Huang et.al.|[2508.15990](http://arxiv.org/abs/2508.15990)|null|
 |**2025-08-21**|**Distributed Detection of Adversarial Attacks in Multi-Agent Reinforcement Learning with Continuous Action Space**|Kiarash Kazari et.al.|[2508.15764](http://arxiv.org/abs/2508.15764)|null|
 |**2025-08-21**|**Skyrmion Lattice Order Controlled by Confinement Geometry**|Raphael Gruber et.al.|[2508.15758](http://arxiv.org/abs/2508.15758)|null|
 |**2025-08-21**|**Response and Prompt Evaluation to Prevent Parasocial Relationships with Chatbots**|Emma Rath et.al.|[2508.15748](http://arxiv.org/abs/2508.15748)|null|
@@ -4550,7 +4576,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -4821,7 +4847,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 <details>
 
@@ -4831,6 +4857,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
+|**2025-08-22**|**Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions**|Akira Oyama et.al.|[2508.16143](http://arxiv.org/abs/2508.16143)|null|
+|**2025-08-21**|**QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection**|Zhiyu Wu et.al.|[2508.15931](http://arxiv.org/abs/2508.15931)|null|
 |**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
 |**2025-08-21**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
 |**2025-08-21**|**UniCoM: A Universal Code-Switching Speech Generator**|Sangmin Lee et.al.|[2508.15244](http://arxiv.org/abs/2508.15244)|null|
@@ -4843,6 +4872,7 @@
 |**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
 |**2025-08-19**|**EventTSF: Event-Aware Non-Stationary Time Series Forecasting**|Yunfeng Ge et.al.|[2508.13434](http://arxiv.org/abs/2508.13434)|null|
 |**2025-08-19**|**FNH-TTS: A Fast, Natural, and Human-Like Speech Synthesis System with advanced prosodic modeling based on Mixture of Experts**|Qingliang Meng et.al.|[2508.12001](http://arxiv.org/abs/2508.12001)|null|
+|**2025-08-18**|**Mini-Omni-Reasoner: Token-Level Thinking-in-Speaking in Large Speech Models**|Zhifei Xie et.al.|[2508.15827](http://arxiv.org/abs/2508.15827)|null|
 |**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|null|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
 |**2025-08-18**|**Real-Time Sign Language Gestures to Speech Transcription using Deep Learning**|Brandone Fonya et.al.|[2508.12713](http://arxiv.org/abs/2508.12713)|null|
@@ -5278,7 +5308,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-</details><p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 Notes: 
 
