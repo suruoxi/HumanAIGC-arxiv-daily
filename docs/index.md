@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.25
+### Updated on 2025.08.26
 <details>
 
 <summary> Talking Face </summary>
@@ -808,6 +808,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-23**|**AnimateAnywhere: Rouse the Background in Human Image Animation**|Xiaoyu Liu et.al.|[2504.19834](http://arxiv.org/abs/2504.19834)|null|
 |**2025-08-13**|**Animate-X++: Universal Character Image Animation with Dynamic Backgrounds**|Shuai Tan et.al.|[2508.09454](http://arxiv.org/abs/2508.09454)|null|
 |**2025-08-10**|**Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers**|Xin Ma et.al.|[2508.07246](http://arxiv.org/abs/2508.07246)|null|
 |**2025-07-20**|**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation**|Shuyuan Tu et.al.|[2507.15064](http://arxiv.org/abs/2507.15064)|null|
@@ -818,7 +819,6 @@ layout: default
 |**2025-05-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
 |**2025-05-18**|**DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation**|Haoyu Zhao et.al.|[2503.21246](http://arxiv.org/abs/2503.21246)|null|
 |**2025-05-13**|**TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**|Wenkui Yang et.al.|[2505.08437](http://arxiv.org/abs/2505.08437)|null|
-|**2025-04-28**|**AnimateAnywhere: Rouse the Background in Human Image Animation**|Xiaoyu Liu et.al.|[2504.19834](http://arxiv.org/abs/2504.19834)|null|
 |**2025-04-20**|**DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**|Yuxuan Luo et.al.|[2504.01724](http://arxiv.org/abs/2504.01724)|null|
 |**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289](http://arxiv.org/abs/2504.11289)|null|
 |**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143](http://arxiv.org/abs/2504.11143)|null|
@@ -923,8 +923,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
 |**2025-08-22**|**Seeing Clearly, Forgetting Deeply: Revisiting Fine-Tuned Video Generators for Driving Simulation**|Chun-Peng Chang et.al.|[2508.16512](http://arxiv.org/abs/2508.16512)|null|
-|**2025-08-22**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
 |**2025-08-22**|**Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers**|Shikang Zheng et.al.|[2508.16211](http://arxiv.org/abs/2508.16211)|null|
 |**2025-08-21**|**Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning**|Yijun Liu et.al.|[2508.15874](http://arxiv.org/abs/2508.15874)|null|
 |**2025-08-21**|**CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**|Haonan Qiu et.al.|[2508.15774](http://arxiv.org/abs/2508.15774)|null|
@@ -2017,6 +2017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
+|**2025-08-25**|**Memento: Fine-tuning LLM Agents without Fine-tuning LLMs**|Huichi Zhou et.al.|[2508.16153](http://arxiv.org/abs/2508.16153)|null|
 |**2025-08-22**|**Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations**|Karan Shah et.al.|[2508.16554](http://arxiv.org/abs/2508.16554)|null|
 |**2025-08-22**|**Real-time 3D Light-field Viewing with Eye-tracking on Conventional Displays**|Trung Hieu Pham et.al.|[2508.16535](http://arxiv.org/abs/2508.16535)|null|
 |**2025-08-22**|**Arbitrary-Scale 3D Gaussian Super-Resolution**|Huimin Zeng et.al.|[2508.16467](http://arxiv.org/abs/2508.16467)|null|
@@ -2027,10 +2029,8 @@ layout: default
 |**2025-08-22**|**AI-Supported Mini-Labs: Combining Smartphone-Based Experiments and Multimodal AI**|Jochen Kuhn et.al.|[2508.16320](http://arxiv.org/abs/2508.16320)|null|
 |**2025-08-22**|**Resilient Control for Networked Switched Systems With/Without ACK: An Active Quantized Framework**|Rui Zhao et.al.|[2508.16296](http://arxiv.org/abs/2508.16296)|null|
 |**2025-08-22**|**MCPVerse: An Expansive, Real-World Benchmark for Agentic Tool Use**|Fei Lei et.al.|[2508.16260](http://arxiv.org/abs/2508.16260)|null|
-|**2025-08-22**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
 |**2025-08-22**|**A Relay-Chain-Powered Ciphertext-Policy Attribute-Based Encryption in Intelligent Transportation Systems**|Aparna Singh et.al.|[2508.16189](http://arxiv.org/abs/2508.16189)|null|
 |**2025-08-22**|**FuXi-TC: A generative framework integrating deep learning and physics-based models for improved tropical cyclone forecasts**|Shan Guo et.al.|[2508.16168](http://arxiv.org/abs/2508.16168)|null|
-|**2025-08-22**|**AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs**|Huichi Zhou et.al.|[2508.16153](http://arxiv.org/abs/2508.16153)|null|
 |**2025-08-22**|**Lightweight and Fast Real-time Image Enhancement via Decomposition of the Spatial-aware Lookup Tables**|Wontae Kim et.al.|[2508.16121](http://arxiv.org/abs/2508.16121)|null|
 |**2025-08-22**|**Compact All optical Reservoir Computing via Luminescence Dynamics in Rare-earth Ions-doped Nanocrystals**|Junyan Chen et.al.|[2508.16042](http://arxiv.org/abs/2508.16042)|null|
 |**2025-08-22**|**Breaking Barriers in Software Testing: The Power of AI-Driven Automation**|Saba Naqvi et.al.|[2508.16025](http://arxiv.org/abs/2508.16025)|null|
@@ -4834,14 +4834,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
+|**2025-08-24**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
 |**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-22**|**Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions**|Akira Oyama et.al.|[2508.16143](http://arxiv.org/abs/2508.16143)|null|
 |**2025-08-21**|**QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection**|Zhiyu Wu et.al.|[2508.15931](http://arxiv.org/abs/2508.15931)|null|
 |**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
-|**2025-08-21**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
 |**2025-08-21**|**UniCoM: A Universal Code-Switching Speech Generator**|Sangmin Lee et.al.|[2508.15244](http://arxiv.org/abs/2508.15244)|null|
 |**2025-08-20**|**LitForager: Exploring Multimodal Literature Foraging Strategies in Immersive Sensemaking**|Haoyang Yang et.al.|[2508.15043](http://arxiv.org/abs/2508.15043)|null|
-|**2025-08-20**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
 |**2025-08-20**|**Long-Context Speech Synthesis with Context-Aware Memory**|Zhipeng Li et.al.|[2508.14713](http://arxiv.org/abs/2508.14713)|null|
 |**2025-08-20**|**Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement**|Heitor R. Guimarães et.al.|[2508.14709](http://arxiv.org/abs/2508.14709)|null|
 |**2025-08-20**|**Towards a DSL to Formalize Multimodal Requirements**|Marcos Gomez-Vazquez et.al.|[2508.14631](http://arxiv.org/abs/2508.14631)|null|
