@@ -923,7 +923,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**SuperGen: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling**|Fanjiang Ye et.al.|[2508.17756](http://arxiv.org/abs/2508.17756)|null|
 |**2025-08-25**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
+|**2025-08-24**|**A Synthetic Dataset for Manometry Recognition in Robotic Applications**|Pedro Antonio Rabelo Saraiva et.al.|[2508.17468](http://arxiv.org/abs/2508.17468)|null|
+|**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/abs/2508.17404)|null|
+|**2025-08-24**|**DiCache: Let Diffusion Model Determine Its Own Cache**|Jiazi Bu et.al.|[2508.17356](http://arxiv.org/abs/2508.17356)|null|
+|**2025-08-23**|**SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation**|Peng Hu et.al.|[2508.17062](http://arxiv.org/abs/2508.17062)|null|
+|**2025-08-23**|**HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching**|Liang Feng et.al.|[2508.16984](http://arxiv.org/abs/2508.16984)|null|
+|**2025-08-23**|**HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation**|Sizhe Shan et.al.|[2508.16930](http://arxiv.org/abs/2508.16930)|null|
 |**2025-08-22**|**Seeing Clearly, Forgetting Deeply: Revisiting Fine-Tuned Video Generators for Driving Simulation**|Chun-Peng Chang et.al.|[2508.16512](http://arxiv.org/abs/2508.16512)|null|
 |**2025-08-22**|**Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers**|Shikang Zheng et.al.|[2508.16211](http://arxiv.org/abs/2508.16211)|null|
 |**2025-08-21**|**Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning**|Yijun Liu et.al.|[2508.15874](http://arxiv.org/abs/2508.15874)|null|
@@ -1593,6 +1600,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on**|Aowen Wang et.al.|[2508.17614](http://arxiv.org/abs/2508.17614)|null|
 |**2025-08-19**|**OmniTry: Virtual Try-On Anything without Masks**|Yutong Feng et.al.|[2508.13632](http://arxiv.org/abs/2508.13632)|null|
 |**2025-08-16**|**DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis**|Minh Tran et.al.|[2508.12131](http://arxiv.org/abs/2508.12131)|null|
 |**2025-08-12**|**StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback**|Hongbo Ma et.al.|[2508.06555](http://arxiv.org/abs/2508.06555)|null|
@@ -1677,6 +1685,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|null|
+|**2025-08-25**|**SpotEdit: Evaluating Visually-Guided Image Editing Methods**|Sara Ghazanfari et.al.|[2508.18159](http://arxiv.org/abs/2508.18159)|null|
+|**2025-08-24**|**An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing**|Zihan Liang et.al.|[2508.17435](http://arxiv.org/abs/2508.17435)|null|
+|**2025-08-24**|**Defending Deepfake via Texture Feature Perturbation**|Xiao Zhang et.al.|[2508.17315](http://arxiv.org/abs/2508.17315)|null|
+|**2025-08-24**|**PosBridge: Multi-View Positional Embedding Transplant for Identity-Aware Image Editing**|Peilin Xiong et.al.|[2508.17302](http://arxiv.org/abs/2508.17302)|null|
 |**2025-08-21**|**Visual Autoregressive Modeling for Instruction-Guided Image Editing**|Qingyang Mao et.al.|[2508.15772](http://arxiv.org/abs/2508.15772)|null|
 |**2025-08-20**|**AnchorSync: Global Consistency Optimization for Long Video Editing**|Zichi Liu et.al.|[2508.14609](http://arxiv.org/abs/2508.14609)|null|
 |**2025-08-20**|**DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing**|Weitao Wang et.al.|[2508.14465](http://arxiv.org/abs/2508.14465)|null|
@@ -2017,6 +2030,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**Flight-Ready Precise and Robust Carrier-Phase GNSS Navigation Software for Distributed Space Systems**|Samuel Y. W. Low et.al.|[2508.18246](http://arxiv.org/abs/2508.18246)|null|
+|**2025-08-25**|**Three-dimensional hyperspectral imaging with optical microcombs**|Stephan Amann et.al.|[2508.18219](http://arxiv.org/abs/2508.18219)|null|
+|**2025-08-25**|**Uncertain data assimilation for urban wind flow simulations with OpenLB-UQ**|Mingliang Zhong et.al.|[2508.18202](http://arxiv.org/abs/2508.18202)|null|
+|**2025-08-25**|**Explain and Monitor Deep Learning Models for Computer Vision using Obz AI**|Neo Christopher Chung et.al.|[2508.18188](http://arxiv.org/abs/2508.18188)|null|
+|**2025-08-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al.|[2508.18177](http://arxiv.org/abs/2508.18177)|null|
+|**2025-08-25**|**BirdRecorder's AI on Sky: Safeguarding birds of prey by detection and classification of tiny objects around wind turbines**|Nico Klar et.al.|[2508.18136](http://arxiv.org/abs/2508.18136)|null|
+|**2025-08-25**|**Test-Time Scaling Strategies for Generative Retrieval in Multimodal Conversational Recommendations**|Hung-Chun Hsu et.al.|[2508.18132](http://arxiv.org/abs/2508.18132)|null|
+|**2025-08-25**|**AQ-PCDSys: An Adaptive Quantized Planetary Crater Detection System for Autonomous Space Exploration**|Aditri Paul et.al.|[2508.18025](http://arxiv.org/abs/2508.18025)|null|
+|**2025-08-25**|**DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins**|Eduardo de Conto et.al.|[2508.17988](http://arxiv.org/abs/2508.17988)|null|
+|**2025-08-25**|**Integration of Computer Vision with Adaptive Control for Autonomous Driving Using ADORE**|Abu Shad Ahammed et.al.|[2508.17985](http://arxiv.org/abs/2508.17985)|null|
+|**2025-08-25**|**Antiferromagnetic Skyrmion Scattering Revealed by Direct Time-Resolved Imaging of Collective Dynamics**|Mona Bhukta et.al.|[2508.17967](http://arxiv.org/abs/2508.17967)|null|
+|**2025-08-25**|**A Unified Transformer Architecture for Low-Latency and Scalable Wireless Signal Processing**|Yuto Kawai et.al.|[2508.17960](http://arxiv.org/abs/2508.17960)|null|
+|**2025-08-25**|**Driving a stimuli-responsive wedge in the packing of phospholipid membranes using bolaamphiphile intercalants**|Niki Baccile et.al.|[2508.17946](http://arxiv.org/abs/2508.17946)|null|
+|**2025-08-25**|**PRZK-Bind: A Physically Rooted Zero-Knowledge Authentication Protocol for Secure Digital Twin Binding in Smart Cities**|Yagmur Yigit et.al.|[2508.17913](http://arxiv.org/abs/2508.17913)|null|
+|**2025-08-25**|**TRUCE-AV: A Multimodal dataset for Trust and Comfort Estimation in Autonomous Vehicles**|Aditi Bhalla et.al.|[2508.17880](http://arxiv.org/abs/2508.17880)|null|
+|**2025-08-25**|**Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks**|Dan Wang et.al.|[2508.17867](http://arxiv.org/abs/2508.17867)|null|
+|**2025-08-25**|**CubeDN: Real-time Drone Detection in 3D Space from Dual mmWave Radar Cubes**|Yuan Fang et.al.|[2508.17831](http://arxiv.org/abs/2508.17831)|null|
+|**2025-08-25**|**Effect of Performance Feedback Timing on Motor Learning for a Surgical Training Task**|Mary Kate Gale et.al.|[2508.17830](http://arxiv.org/abs/2508.17830)|null|
+|**2025-08-25**|**Puzzle: Scheduling Multiple Deep Learning Models on Mobile Device with Heterogeneous Processors**|Duseok Kang et.al.|[2508.17764](http://arxiv.org/abs/2508.17764)|null|
+|**2025-08-25**|**DiffusionGS: Generative Search with Query Conditioned Diffusion in Kuaishou**|Qinyao Li et.al.|[2508.17754](http://arxiv.org/abs/2508.17754)|null|
 |**2025-08-25**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
 |**2025-08-25**|**Memento: Fine-tuning LLM Agents without Fine-tuning LLMs**|Huichi Zhou et.al.|[2508.16153](http://arxiv.org/abs/2508.16153)|null|
 |**2025-08-22**|**Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations**|Karan Shah et.al.|[2508.16554](http://arxiv.org/abs/2508.16554)|null|
@@ -4565,6 +4598,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/abs/2508.17404)|null|
+|**2025-08-23**|**MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation**|Prerit Gupta et.al.|[2508.16911](http://arxiv.org/abs/2508.16911)|null|
 |**2025-08-21**|**Integrated Sensing, Communication, and Computation for Over-the-Air Federated Edge Learning**|Dingzhu Wen et.al.|[2508.15185](http://arxiv.org/abs/2508.15185)|null|
 |**2025-08-20**|**Making Pose Representations More Expressive and Disentangled via Residual Vector Quantization**|Sukhyun Jeong et.al.|[2508.14561](http://arxiv.org/abs/2508.14561)|null|
 |**2025-08-18**|**EgoTwin: Dreaming Body and View in First Person**|Jingqiao Xiu et.al.|[2508.13013](http://arxiv.org/abs/2508.13013)|null|
@@ -4834,8 +4869,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al.|[2508.18177](http://arxiv.org/abs/2508.18177)|null|
+|**2025-08-25**|**Unseen Speaker and Language Adaptation for Lightweight Text-To-Speech with Adapters**|Alessio Falai et.al.|[2508.18006](http://arxiv.org/abs/2508.18006)|null|
+|**2025-08-25**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
+|**2025-08-25**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
+|**2025-08-25**|**ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks**|Yuanda Wang et.al.|[2508.17660](http://arxiv.org/abs/2508.17660)|null|
+|**2025-08-25**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
 |**2025-08-25**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
+|**2025-08-24**|**Improving French Synthetic Speech Quality via SSML Prosody Control**|Nassima Ould Ouali et.al.|[2508.17494](http://arxiv.org/abs/2508.17494)|null|
 |**2025-08-24**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
+|**2025-08-23**|**RephraseTTS: Dynamic Length Text based Speech Insertion with Speaker Style Transfer**|Neeraj Matiyali et.al.|[2508.17031](http://arxiv.org/abs/2508.17031)|null|
+|**2025-08-23**|**WildSpoof Challenge Evaluation Plan**|Yihan Wu et.al.|[2508.16858](http://arxiv.org/abs/2508.16858)|null|
+|**2025-08-22**|**TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling**|Yuancheng Wang et.al.|[2508.16790](http://arxiv.org/abs/2508.16790)|null|
 |**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-22**|**Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions**|Akira Oyama et.al.|[2508.16143](http://arxiv.org/abs/2508.16143)|null|
 |**2025-08-21**|**QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection**|Zhiyu Wu et.al.|[2508.15931](http://arxiv.org/abs/2508.15931)|null|
