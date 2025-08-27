@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.26
+### Updated on 2025.08.27
 <details>
 
 <summary> Talking Face </summary>
@@ -923,6 +923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
 |**2025-08-25**|**SuperGen: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling**|Fanjiang Ye et.al.|[2508.17756](http://arxiv.org/abs/2508.17756)|null|
 |**2025-08-25**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
 |**2025-08-24**|**A Synthetic Dataset for Manometry Recognition in Robotic Applications**|Pedro Antonio Rabelo Saraiva et.al.|[2508.17468](http://arxiv.org/abs/2508.17468)|null|
@@ -936,7 +937,6 @@ layout: default
 |**2025-08-21**|**Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning**|Yijun Liu et.al.|[2508.15874](http://arxiv.org/abs/2508.15874)|null|
 |**2025-08-21**|**CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**|Haonan Qiu et.al.|[2508.15774](http://arxiv.org/abs/2508.15774)|null|
 |**2025-08-21**|**Scaling Group Inference for Diverse and High-Quality Generation**|Gaurav Parmar et.al.|[2508.15773](http://arxiv.org/abs/2508.15773)|null|
-|**2025-08-21**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
 |**2025-08-21**|**WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception**|Zhiheng Liu et.al.|[2508.15720](http://arxiv.org/abs/2508.15720)|null|
 |**2025-08-21**|**TiP4GEN: Text to Immersive Panorama 4D Scene Generation**|Ke Xing et.al.|[2508.12415](http://arxiv.org/abs/2508.12415)|null|
 |**2025-08-20**|**DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing**|Weitao Wang et.al.|[2508.14465](http://arxiv.org/abs/2508.14465)|null|
@@ -2030,6 +2030,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks**|Dan Wang et.al.|[2508.17867](http://arxiv.org/abs/2508.17867)|null|
 |**2025-08-25**|**Flight-Ready Precise and Robust Carrier-Phase GNSS Navigation Software for Distributed Space Systems**|Samuel Y. W. Low et.al.|[2508.18246](http://arxiv.org/abs/2508.18246)|null|
 |**2025-08-25**|**Three-dimensional hyperspectral imaging with optical microcombs**|Stephan Amann et.al.|[2508.18219](http://arxiv.org/abs/2508.18219)|null|
 |**2025-08-25**|**Uncertain data assimilation for urban wind flow simulations with OpenLB-UQ**|Mingliang Zhong et.al.|[2508.18202](http://arxiv.org/abs/2508.18202)|null|
@@ -2045,7 +2046,6 @@ layout: default
 |**2025-08-25**|**Driving a stimuli-responsive wedge in the packing of phospholipid membranes using bolaamphiphile intercalants**|Niki Baccile et.al.|[2508.17946](http://arxiv.org/abs/2508.17946)|null|
 |**2025-08-25**|**PRZK-Bind: A Physically Rooted Zero-Knowledge Authentication Protocol for Secure Digital Twin Binding in Smart Cities**|Yagmur Yigit et.al.|[2508.17913](http://arxiv.org/abs/2508.17913)|null|
 |**2025-08-25**|**TRUCE-AV: A Multimodal dataset for Trust and Comfort Estimation in Autonomous Vehicles**|Aditi Bhalla et.al.|[2508.17880](http://arxiv.org/abs/2508.17880)|null|
-|**2025-08-25**|**Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks**|Dan Wang et.al.|[2508.17867](http://arxiv.org/abs/2508.17867)|null|
 |**2025-08-25**|**CubeDN: Real-time Drone Detection in 3D Space from Dual mmWave Radar Cubes**|Yuan Fang et.al.|[2508.17831](http://arxiv.org/abs/2508.17831)|null|
 |**2025-08-25**|**Effect of Performance Feedback Timing on Motor Learning for a Surgical Training Task**|Mary Kate Gale et.al.|[2508.17830](http://arxiv.org/abs/2508.17830)|null|
 |**2025-08-25**|**Puzzle: Scheduling Multiple Deep Learning Models on Mobile Device with Heterogeneous Processors**|Duseok Kang et.al.|[2508.17764](http://arxiv.org/abs/2508.17764)|null|
@@ -4869,12 +4869,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
 |**2025-08-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al.|[2508.18177](http://arxiv.org/abs/2508.18177)|null|
 |**2025-08-25**|**Unseen Speaker and Language Adaptation for Lightweight Text-To-Speech with Adapters**|Alessio Falai et.al.|[2508.18006](http://arxiv.org/abs/2508.18006)|null|
 |**2025-08-25**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-25**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
 |**2025-08-25**|**ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks**|Yuanda Wang et.al.|[2508.17660](http://arxiv.org/abs/2508.17660)|null|
-|**2025-08-25**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
 |**2025-08-25**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
 |**2025-08-24**|**Improving French Synthetic Speech Quality via SSML Prosody Control**|Nassima Ould Ouali et.al.|[2508.17494](http://arxiv.org/abs/2508.17494)|null|
 |**2025-08-24**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
