@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation**|Jianwen Jiang et.al.|[2508.19209](http://arxiv.org/abs/2508.19209)|null|
+|**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
+|**2025-08-25**|**EAI-Avatar: Emotion-Aware Interactive Talking Head Generation**|Haijie Yang et.al.|[2508.18337](http://arxiv.org/abs/2508.18337)|null|
 |**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/abs/2508.16401)|null|
 |**2025-08-20**|**D^3-Talker: Dual-Branch Decoupled Deformation Fields for Few-Shot 3D Talking Head Synthesis**|Yuhang Guo et.al.|[2508.14449](http://arxiv.org/abs/2508.14449)|null|
 |**2025-08-20**|**Taming Transformer for Emotion-Controllable Talking Face Generation**|Ziqi Zhang et.al.|[2508.14359](http://arxiv.org/abs/2508.14359)|null|
@@ -936,6 +939,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|null|
+|**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
 |**2025-08-26**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
 |**2025-08-25**|**SuperGen: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling**|Fanjiang Ye et.al.|[2508.17756](http://arxiv.org/abs/2508.17756)|null|
 |**2025-08-25**|**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models**|Huanpeng Chu et.al.|[2508.16212](http://arxiv.org/abs/2508.16212)|null|
@@ -2049,6 +2054,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**Automated Feature Tracking for Real-Time Kinematic Analysis and Shape Estimation of Carbon Nanotube Growth**|Kaveh Safavigerdini et.al.|[2508.19232](http://arxiv.org/abs/2508.19232)|null|
+|**2025-08-26**|**Optimizing Highway Traffic Flow in Mixed Autonomy: A Multiagent Truncated Rollout Approach**|Lu Liu et.al.|[2508.19203](http://arxiv.org/abs/2508.19203)|null|
+|**2025-08-26**|**AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot**|Yue Wang et.al.|[2508.19191](http://arxiv.org/abs/2508.19191)|null|
+|**2025-08-26**|**Real-Time Model Checking for Closed-Loop Robot Reactive Planning**|Christopher Chandler et.al.|[2508.19186](http://arxiv.org/abs/2508.19186)|null|
+|**2025-08-26**|**Real-time Testing of Satellite Attitude Control With a Reaction Wheel Hardware-In-the-Loop Platform**|Morokot Sakal et.al.|[2508.19164](http://arxiv.org/abs/2508.19164)|null|
+|**2025-08-26**|**Uncertainty-Resilient Active Intention Recognition for Robotic Assistants**|Juan Carlos Saborío et.al.|[2508.19150](http://arxiv.org/abs/2508.19150)|null|
+|**2025-08-26**|**ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments**|Shreya Gummadi et.al.|[2508.19131](http://arxiv.org/abs/2508.19131)|null|
+|**2025-08-26**|**Reading minds on the road: decoding perceived risk in automated vehicles through 140K+ ratings**|Xiaolin He et.al.|[2508.19121](http://arxiv.org/abs/2508.19121)|null|
+|**2025-08-26**|**Enhancing Kinematics Understanding through a Video Game Based on Real-Time Motion Graphs**|Mateo Dutra et.al.|[2508.19119](http://arxiv.org/abs/2508.19119)|null|
+|**2025-08-26**|**CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis**|Chun Yat Wu et.al.|[2508.19098](http://arxiv.org/abs/2508.19098)|null|
+|**2025-08-26**|**APT-LLM: Exploiting Arbitrary-Precision Tensor Core Computing for LLM Acceleration**|Shaobo Ma et.al.|[2508.19087](http://arxiv.org/abs/2508.19087)|null|
+|**2025-08-26**|**DTC: Real-Time and Accurate Distributed Triangle Counting in Fully Dynamic Graph Streams**|Wei Xuan et.al.|[2508.19057](http://arxiv.org/abs/2508.19057)|null|
+|**2025-08-26**|**Of the People, By the Algorithm: How AI Transforms Democratic Representation**|Yuval Rymon et.al.|[2508.19036](http://arxiv.org/abs/2508.19036)|null|
+|**2025-08-26**|**Attosecond X-ray pulse pairs carrying distinct topological charges**|Chenzhi Xu et.al.|[2508.19020](http://arxiv.org/abs/2508.19020)|null|
+|**2025-08-26**|**Bayesian Joint Modeling of Zero-Inflated Longitudinal Data and Survival with a Cure Fraction: Application to AIDS Data**|Taban Baghfalaki et.al.|[2508.19001](http://arxiv.org/abs/2508.19001)|null|
+|**2025-08-26**|**Enhanced UAV Path Planning Using the Tangent Intersection Guidance (TIG) Algorithm**|Hichem Cheriet et.al.|[2508.18967](http://arxiv.org/abs/2508.18967)|null|
+|**2025-08-26**|**HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections**|Mahmoud Dhimish et.al.|[2508.18912](http://arxiv.org/abs/2508.18912)|null|
+|**2025-08-26**|**Adaptive 6G Networks-in-Network Management for Industrial Applications**|Daniel Lindenschmitt et.al.|[2508.18902](http://arxiv.org/abs/2508.18902)|null|
+|**2025-08-26**|**Combining Static and Dynamic Traffic with Delay Guarantees in Time-Sensitive Networking**|Lisa Maile et.al.|[2508.18883](http://arxiv.org/abs/2508.18883)|null|
+|**2025-08-26**|**Network Calculus Results for TSN: An Introduction**|Lisa Maile et.al.|[2508.18855](http://arxiv.org/abs/2508.18855)|null|
 |**2025-08-26**|**Ada-TransGNN: An Air Quality Prediction Model Based On Adaptive Graph Convolutional Networks**|Dan Wang et.al.|[2508.17867](http://arxiv.org/abs/2508.17867)|null|
 |**2025-08-25**|**Flight-Ready Precise and Robust Carrier-Phase GNSS Navigation Software for Distributed Space Systems**|Samuel Y. W. Low et.al.|[2508.18246](http://arxiv.org/abs/2508.18246)|null|
 |**2025-08-25**|**Three-dimensional hyperspectral imaging with optical microcombs**|Stephan Amann et.al.|[2508.18219](http://arxiv.org/abs/2508.18219)|null|
@@ -4619,6 +4644,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh et.al.|[2508.18691](http://arxiv.org/abs/2508.18691)|null|
 |**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/abs/2508.17404)|null|
 |**2025-08-23**|**MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation**|Prerit Gupta et.al.|[2508.16911](http://arxiv.org/abs/2508.16911)|null|
 |**2025-08-21**|**Integrated Sensing, Communication, and Computation for Over-the-Air Federated Edge Learning**|Dingzhu Wen et.al.|[2508.15185](http://arxiv.org/abs/2508.15185)|null|
@@ -4892,6 +4918,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**Interpolating Speaker Identities in Embedding Space for Data Expansion**|Tianchi Liu et.al.|[2508.19210](http://arxiv.org/abs/2508.19210)|null|
+|**2025-08-26**|**CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis**|Chun Yat Wu et.al.|[2508.19098](http://arxiv.org/abs/2508.19098)|null|
 |**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
 |**2025-08-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al.|[2508.18177](http://arxiv.org/abs/2508.18177)|null|
 |**2025-08-25**|**Unseen Speaker and Language Adaptation for Lightweight Text-To-Speech with Adapters**|Alessio Falai et.al.|[2508.18006](http://arxiv.org/abs/2508.18006)|null|
