@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.27
+### Updated on 2025.08.28
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Improving Generalization in Deepfake Detection with Face Foundation Models and Metric Learning**|Stelios Mylonas et.al.|[2508.19730](http://arxiv.org/abs/2508.19730)|null|
 |**2025-08-26**|**OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation**|Jianwen Jiang et.al.|[2508.19209](http://arxiv.org/abs/2508.19209)|null|
 |**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
 |**2025-08-25**|**EAI-Avatar: Emotion-Aware Interactive Talking Head Generation**|Haijie Yang et.al.|[2508.18337](http://arxiv.org/abs/2508.18337)|null|
@@ -926,6 +927,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Binjie Zhang et.al.|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
+|**2025-08-26**|**MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|null|
 |**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
 |**2025-08-26**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
@@ -1690,6 +1693,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models**|Shay Shomer Chai et.al.|[2508.19791](http://arxiv.org/abs/2508.19791)|null|
 |**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|null|
 |**2025-08-25**|**SpotEdit: Evaluating Visually-Guided Image Editing Methods**|Sara Ghazanfari et.al.|[2508.18159](http://arxiv.org/abs/2508.18159)|null|
 |**2025-08-24**|**An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing**|Zihan Liang et.al.|[2508.17435](http://arxiv.org/abs/2508.17435)|null|
@@ -2035,6 +2039,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**ML-MaxProp: Bridging Machine Learning and Delay-Tolerant Routing for Resilient Post-Disaster Communication**|Tao Xiuyuan et.al.|[2508.20077](http://arxiv.org/abs/2508.20077)|null|
+|**2025-08-27**|**The Coherent Multiplex: Scalable Real-Time Wavelet Coherence Architecture**|Noah Shore et.al.|[2508.19994](http://arxiv.org/abs/2508.19994)|null|
+|**2025-08-27**|**Reducing Street Parking Search Time via Smart Assignment Strategies**|Behafarid Hemmatpour et.al.|[2508.19979](http://arxiv.org/abs/2508.19979)|null|
+|**2025-08-27**|**Short-Horizon Predictive Maintenance of Industrial Pumps Using Time-Series Features and Machine Learning**|Khaled M. A. Alghtus et.al.|[2508.19974](http://arxiv.org/abs/2508.19974)|null|
+|**2025-08-27**|**Combined Stochastic and Robust Optimization for Electric Autonomous Mobility-on-Demand with Nested Benders Decomposition**|Sten Elling Tingstad Jacobsen et.al.|[2508.19933](http://arxiv.org/abs/2508.19933)|null|
+|**2025-08-27**|**Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners for Wiretapping**|Shaoor Munir et.al.|[2508.19825](http://arxiv.org/abs/2508.19825)|null|
+|**2025-08-27**|**Towards a Real-Time Warning System for Detecting Inaccuracies in Photoplethysmography-Based Heart Rate Measurements in Wearable Devices**|Rania Islmabouli et.al.|[2508.19818](http://arxiv.org/abs/2508.19818)|null|
+|**2025-08-27**|**A bag of tricks for real-time Mitotic Figure detection**|Christian Marzahl et.al.|[2508.19804](http://arxiv.org/abs/2508.19804)|null|
+|**2025-08-27**|**Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots**|Sena Ishii et.al.|[2508.19788](http://arxiv.org/abs/2508.19788)|null|
+|**2025-08-27**|**Fast 3D Diffusion for Scalable Granular Media Synthesis**|Muhammad Moeeze Hassan et.al.|[2508.19752](http://arxiv.org/abs/2508.19752)|null|
+|**2025-08-27**|**Exploration of Low-Power Flexible Stress Monitoring Classifiers for Conformal Wearables**|Florentia Afentaki et.al.|[2508.19661](http://arxiv.org/abs/2508.19661)|null|
+|**2025-08-27**|**Support Vector Machines Classification on Bendable RISC-V**|Polykarpos Vergos et.al.|[2508.19656](http://arxiv.org/abs/2508.19656)|null|
+|**2025-08-27**|**UTAL-GNN: Unsupervised Temporal Action Localization using Graph Neural Networks**|Bikash Kumar Badatya et.al.|[2508.19647](http://arxiv.org/abs/2508.19647)|null|
+|**2025-08-27**|**Low-Cost Architecture and Efficient Pattern Synthesis for Polarimetric Phased Array Based on Polarization Coding Reconfigurable Elements**|Yiqing Wang et.al.|[2508.19644](http://arxiv.org/abs/2508.19644)|null|
+|**2025-08-27**|**Autonomous Aerial Manipulation at Arbitrary Pose in SE(3) with Robust Control and Whole-body Planning**|Dongjae Lee et.al.|[2508.19608](http://arxiv.org/abs/2508.19608)|null|
+|**2025-08-27**|**A Lightweight Crowd Model for Robot Social Navigation**|Maryam Kazemi Eskeri et.al.|[2508.19595](http://arxiv.org/abs/2508.19595)|null|
+|**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|Sheryl Mathew et.al.|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
+|**2025-08-27**|**FlowDet: Overcoming Perspective and Scale Challenges in Real-Time End-to-End Traffic Detection**|Yuhang Zhao et.al.|[2508.19565](http://arxiv.org/abs/2508.19565)|null|
+|**2025-08-27**|**WEBEYETRACK: Scalable Eye-Tracking for the Browser via On-Device Few-Shot Personalization**|Eduardo Davalos et.al.|[2508.19544](http://arxiv.org/abs/2508.19544)|null|
+|**2025-08-27**|**Hybrid ML-RL Approach for Smart Grid Stability Prediction and Optimized Control Strategy**|Kazi Sifatul Islam et.al.|[2508.19541](http://arxiv.org/abs/2508.19541)|null|
 |**2025-08-26**|**Automated Feature Tracking for Real-Time Kinematic Analysis and Shape Estimation of Carbon Nanotube Growth**|Kaveh Safavigerdini et.al.|[2508.19232](http://arxiv.org/abs/2508.19232)|null|
 |**2025-08-26**|**Optimizing Highway Traffic Flow in Mixed Autonomy: A Multiagent Truncated Rollout Approach**|Lu Liu et.al.|[2508.19203](http://arxiv.org/abs/2508.19203)|null|
 |**2025-08-26**|**AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot**|Yue Wang et.al.|[2508.19191](http://arxiv.org/abs/2508.19191)|null|
@@ -4623,6 +4647,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Zhecheng Yuan et.al.|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
+|**2025-08-27**|**Efficient Human-Aware Task Allocation for Multi-Robot Systems in Shared Environments**|Maryam Kazemi Eskeri et.al.|[2508.19731](http://arxiv.org/abs/2508.19731)|null|
+|**2025-08-27**|**A Lightweight Crowd Model for Robot Social Navigation**|Maryam Kazemi Eskeri et.al.|[2508.19595](http://arxiv.org/abs/2508.19595)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh et.al.|[2508.18691](http://arxiv.org/abs/2508.18691)|null|
 |**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/abs/2508.17404)|null|
 |**2025-08-23**|**MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation**|Prerit Gupta et.al.|[2508.16911](http://arxiv.org/abs/2508.16911)|null|
@@ -4895,12 +4922,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
+|**2025-08-26**|**MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
 |**2025-08-26**|**Interpolating Speaker Identities in Embedding Space for Data Expansion**|Tianchi Liu et.al.|[2508.19210](http://arxiv.org/abs/2508.19210)|null|
 |**2025-08-26**|**CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis**|Chun Yat Wu et.al.|[2508.19098](http://arxiv.org/abs/2508.19098)|null|
 |**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
 |**2025-08-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al.|[2508.18177](http://arxiv.org/abs/2508.18177)|null|
 |**2025-08-25**|**Unseen Speaker and Language Adaptation for Lightweight Text-To-Speech with Adapters**|Alessio Falai et.al.|[2508.18006](http://arxiv.org/abs/2508.18006)|null|
-|**2025-08-25**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-25**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
 |**2025-08-25**|**ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks**|Yuanda Wang et.al.|[2508.17660](http://arxiv.org/abs/2508.17660)|null|
 |**2025-08-25**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
