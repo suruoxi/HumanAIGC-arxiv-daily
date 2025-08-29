@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
+|**2025-08-27**|**InfinityHuman: Towards Long-Term Audio-Driven Human**|Xiaodi Li et.al.|[2508.20210](http://arxiv.org/abs/2508.20210)|null|
 |**2025-08-27**|**Improving Generalization in Deepfake Detection with Face Foundation Models and Metric Learning**|Stelios Mylonas et.al.|[2508.19730](http://arxiv.org/abs/2508.19730)|null|
 |**2025-08-26**|**OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation**|Jianwen Jiang et.al.|[2508.19209](http://arxiv.org/abs/2508.19209)|null|
 |**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
@@ -940,6 +942,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**Mixture of Contexts for Long Video Generation**|Shengqu Cai et.al.|[2508.21058](http://arxiv.org/abs/2508.21058)|null|
+|**2025-08-28**|**POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models**|Jiaxiang Cheng et.al.|[2508.21019](http://arxiv.org/abs/2508.21019)|null|
+|**2025-08-28**|**Learning Primitive Embodied World Models: Towards Scalable Robotic Learning**|Qiao Sun et.al.|[2508.20840](http://arxiv.org/abs/2508.20840)|null|
+|**2025-08-28**|**Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation**|Jiusi Li et.al.|[2508.20471](http://arxiv.org/abs/2508.20471)|null|
 |**2025-08-28**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Binjie Zhang et.al.|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
 |**2025-08-28**|**MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|null|
@@ -1623,6 +1629,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**Dress&Dance: Dress up and Dance as You Like It - Technical Preview**|Jun-Kun Chen et.al.|[2508.21070](http://arxiv.org/abs/2508.21070)|null|
+|**2025-08-28**|**FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models**|Zheng Chong et.al.|[2508.20586](http://arxiv.org/abs/2508.20586)|null|
 |**2025-08-25**|**JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on**|Aowen Wang et.al.|[2508.17614](http://arxiv.org/abs/2508.17614)|null|
 |**2025-08-19**|**OmniTry: Virtual Try-On Anything without Masks**|Yutong Feng et.al.|[2508.13632](http://arxiv.org/abs/2508.13632)|null|
 |**2025-08-16**|**DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis**|Minh Tran et.al.|[2508.12131](http://arxiv.org/abs/2508.12131)|null|
@@ -1710,6 +1718,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation**|Chenfan Qu et.al.|[2508.20987](http://arxiv.org/abs/2508.20987)|null|
+|**2025-08-28**|**Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent**|En Ci et.al.|[2508.20505](http://arxiv.org/abs/2508.20505)|null|
+|**2025-08-28**|**Audio-Guided Visual Editing with Complex Multi-Modal Prompts**|Hyeonyu Kim et.al.|[2508.20379](http://arxiv.org/abs/2508.20379)|null|
 |**2025-08-27**|**Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models**|Shay Shomer Chai et.al.|[2508.19791](http://arxiv.org/abs/2508.19791)|null|
 |**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|null|
 |**2025-08-25**|**SpotEdit: Evaluating Visually-Guided Image Editing Methods**|Sara Ghazanfari et.al.|[2508.18159](http://arxiv.org/abs/2508.18159)|null|
@@ -2058,6 +2069,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation**|Jiahe Pan et.al.|[2508.21065](http://arxiv.org/abs/2508.21065)|null|
+|**2025-08-28**|**OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models**|Adam Coscia et.al.|[2508.21061](http://arxiv.org/abs/2508.21061)|null|
+|**2025-08-28**|**Scaling Fabric-Based Piezoresistive Sensor Arrays for Whole-Body Tactile Sensing**|Curtis C. Johnson et.al.|[2508.20959](http://arxiv.org/abs/2508.20959)|null|
+|**2025-08-28**|**Digital Twin-Empowered Deep Reinforcement Learning for Intelligent VNF Migration in Edge-Core Networks**|Faisal Ahmed et.al.|[2508.20957](http://arxiv.org/abs/2508.20957)|null|
+|**2025-08-28**|**COMETH: Convex Optimization for Multiview Estimation and Tracking of Humans**|Enrico Martini et.al.|[2508.20920](http://arxiv.org/abs/2508.20920)|null|
+|**2025-08-28**|**Real-Time Tracking Antenna System for Moving Targets**|Adham Saad et.al.|[2508.20905](http://arxiv.org/abs/2508.20905)|null|
+|**2025-08-28**|**Automatic Inspection Based on Switch Sounds of Electric Point Machines**|Ayano Shibata et.al.|[2508.20870](http://arxiv.org/abs/2508.20870)|null|
+|**2025-08-28**|**Breaking Barriers in Health Monitoring: Multi-Scenario Vital Sign Detection Using Mm-Wave MIMO FMCW Radar**|Ehsan Sadeghi et.al.|[2508.20864](http://arxiv.org/abs/2508.20864)|null|
+|**2025-08-28**|**First Observation of Solar Neutrino Interactions on $^{13}$ C**|SNO+ Collaboration et.al.|[2508.20844](http://arxiv.org/abs/2508.20844)|null|
+|**2025-08-28**|**Model-Free Hovering and Source Seeking via Extremum Seeking Control: Experimental Demonstration**|Ahmed A. Elgohary et.al.|[2508.20836](http://arxiv.org/abs/2508.20836)|null|
+|**2025-08-28**|**A Solution of Ultra Wideband Based High-resolution and Lossless Audio Transmission**|Fengyun Zhang et.al.|[2508.20782](http://arxiv.org/abs/2508.20782)|null|
+|**2025-08-28**|**Observation of Inelastic Meson Scattering in a Floquet System using a Digital Quantum Simulator**|Ziting Wang et.al.|[2508.20759](http://arxiv.org/abs/2508.20759)|null|
+|**2025-08-28**|**AdaDPCC: Adaptive Rate Control and Rate-Distortion-Complexity Optimization for Dynamic Point Cloud Compression**|Chenhao Zhang et.al.|[2508.20741](http://arxiv.org/abs/2508.20741)|null|
+|**2025-08-28**|**Task-Oriented Edge-Assisted Cross-System Design for Real-Time Human-Robot Interaction in Industrial Metaverse**|Kan Chen et.al.|[2508.20664](http://arxiv.org/abs/2508.20664)|null|
+|**2025-08-28**|**Physics-Constrained Machine Learning for Chemical Engineering**|Angan Mukherjee et.al.|[2508.20649](http://arxiv.org/abs/2508.20649)|null|
+|**2025-08-28**|**A Hybrid Stochastic Gradient Tracking Method for Distributed Online Optimization Over Time-Varying Directed Networks**|Xinli Shi et.al.|[2508.20645](http://arxiv.org/abs/2508.20645)|null|
+|**2025-08-28**|**Minimizing AoI in Mobile Edge Computing: Nested Index Policy with Preemptive and Non-preemptive Structure**|Ning Yang et.al.|[2508.20564](http://arxiv.org/abs/2508.20564)|null|
+|**2025-08-28**|**Leveraging Generative Models for Real-Time Query-Driven Text Summarization in Large-Scale Web Search**|Zeyu Xiong et.al.|[2508.20559](http://arxiv.org/abs/2508.20559)|null|
+|**2025-08-28**|**SPGrasp: Spatiotemporal Prompt-driven Grasp Synthesis in Dynamic Scenes**|Yunpeng Mei et.al.|[2508.20547](http://arxiv.org/abs/2508.20547)|null|
+|**2025-08-28**|**Re-Densification Meets Cross-Scale Propagation: Real-Time Compression of LiDAR Point Clouds**|Pengpeng Yu et.al.|[2508.20466](http://arxiv.org/abs/2508.20466)|null|
 |**2025-08-28**|**Low-Cost Architecture and Efficient Pattern Synthesis for Polarimetric Phased Array Based on Polarization Coding Reconfigurable Elements**|Yiqing Wang et.al.|[2508.19644](http://arxiv.org/abs/2508.19644)|null|
 |**2025-08-27**|**ML-MaxProp: Bridging Machine Learning and Delay-Tolerant Routing for Resilient Post-Disaster Communication**|Tao Xiuyuan et.al.|[2508.20077](http://arxiv.org/abs/2508.20077)|null|
 |**2025-08-27**|**The Coherent Multiplex: Scalable Real-Time Wavelet Coherence Architecture**|Noah Shore et.al.|[2508.19994](http://arxiv.org/abs/2508.19994)|null|
@@ -4668,6 +4699,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
+|**2025-08-28**|**COMETH: Convex Optimization for Multiview Estimation and Tracking of Humans**|Enrico Martini et.al.|[2508.20920](http://arxiv.org/abs/2508.20920)|null|
+|**2025-08-28**|**Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting**|Lorenzo Busellato et.al.|[2508.20812](http://arxiv.org/abs/2508.20812)|null|
+|**2025-08-28**|**Non-expert to Expert Motion Translation Using Generative Adversarial Networks**|Yuki Tanaka et.al.|[2508.20740](http://arxiv.org/abs/2508.20740)|null|
+|**2025-08-28**|**Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion**|Zheng Qin et.al.|[2508.20604](http://arxiv.org/abs/2508.20604)|null|
 |**2025-08-28**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Zhecheng Yuan et.al.|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
 |**2025-08-27**|**Efficient Human-Aware Task Allocation for Multi-Robot Systems in Shared Environments**|Maryam Kazemi Eskeri et.al.|[2508.19731](http://arxiv.org/abs/2508.19731)|null|
 |**2025-08-27**|**A Lightweight Crowd Model for Robot Social Navigation**|Maryam Kazemi Eskeri et.al.|[2508.19595](http://arxiv.org/abs/2508.19595)|null|
@@ -4945,6 +4981,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening**|Yongqi Shao et.al.|[2508.20513](http://arxiv.org/abs/2508.20513)|null|
 |**2025-08-28**|**MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-27**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
