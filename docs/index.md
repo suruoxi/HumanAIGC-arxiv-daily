@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.08.31
+### Updated on 2025.09.01
 <details>
 
 <summary> Talking Face </summary>
@@ -935,6 +935,7 @@ layout: default
 |**2025-08-28**|**Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation**|Jiusi Li et.al.|[2508.20471](http://arxiv.org/abs/2508.20471)|null|
 |**2025-08-28**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Binjie Zhang et.al.|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
 |**2025-08-28**|**MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
+|**2025-08-27**|**ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion**|Xurui Peng et.al.|[2508.21091](http://arxiv.org/abs/2508.21091)|null|
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|null|
 |**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
 |**2025-08-26**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
@@ -2050,6 +2051,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**An Adaptive Real-Time Forecasting Framework for Cryogenic Fluid Management in Space Systems**|Qiyun Cheng et.al.|[2508.21802](http://arxiv.org/abs/2508.21802)|null|
+|**2025-08-29**|**DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers**|Navid Aftabi et.al.|[2508.21797](http://arxiv.org/abs/2508.21797)|null|
+|**2025-08-29**|**Toward real-time optimization through model reduction and model discrepancy sensitivities**|Joseph Hart et.al.|[2508.21792](http://arxiv.org/abs/2508.21792)|null|
+|**2025-08-29**|**Going over Fine Web with a Fine-Tooth Comb: Technical Report of Indexing Fine Web for Problematic Content Search and Retrieval**|Inés Altemir Marinas et.al.|[2508.21788](http://arxiv.org/abs/2508.21788)|null|
+|**2025-08-29**|**QoS-Aware Proportional Fairness Scheduling for Multi-Flow 5G UEs: A Smart Factory Perspective**|Mohamed Seliem et.al.|[2508.21783](http://arxiv.org/abs/2508.21783)|null|
+|**2025-08-29**|**On the Implementation Security of Twin-Field Quantum Key Distribution using Optical Injection Locking**|Sergio Juárez et.al.|[2508.21763](http://arxiv.org/abs/2508.21763)|null|
+|**2025-08-29**|**Neural Network Acceleration on MPSoC board: Integrating SLAC's SNL, Rogue Software and Auto-SNL**|Hamza Ezzaoui Rahali et.al.|[2508.21739](http://arxiv.org/abs/2508.21739)|null|
+|**2025-08-29**|**Entropy-Based Non-Invasive Reliability Monitoring of Convolutional Neural Networks**|Amirhossein Nazeri et.al.|[2508.21715](http://arxiv.org/abs/2508.21715)|null|
+|**2025-08-29**|**Harnessing IoT and Generative AI for Weather-Adaptive Learning in Climate Resilience Education**|Imran S. A. Khan et.al.|[2508.21666](http://arxiv.org/abs/2508.21666)|null|
+|**2025-08-29**|**The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics**|Nicolas Soncini et.al.|[2508.21635](http://arxiv.org/abs/2508.21635)|null|
+|**2025-08-29**|**Integrating Large Language Models with Network Optimization for Interactive and Explainable Supply Chain Planning: A Real-World Case Study**|Saravanan Venkatachalam et.al.|[2508.21622](http://arxiv.org/abs/2508.21622)|null|
+|**2025-08-29**|**Adaptive Dead-Zone Dual Sliding Mode Observer for Reliable Electrochemical Model-Based SOC Estimation**|Guangdi Hu et.al.|[2508.21610](http://arxiv.org/abs/2508.21610)|null|
+|**2025-08-29**|**Hybrid Cryptographic Monitoring System for Side-Channel Attack Detection on PYNQ SoCs**|Nishant Chinnasami et.al.|[2508.21606](http://arxiv.org/abs/2508.21606)|null|
+|**2025-08-29**|**Limitations of Physics-Informed Neural Networks: a Study on Smart Grid Surrogation**|Julen Cestero et.al.|[2508.21559](http://arxiv.org/abs/2508.21559)|null|
+|**2025-08-29**|**A Combined Push-Pull Access Framework for Digital Twin Alignment and Anomaly Reporting**|Federico Chiariotti et.al.|[2508.21516](http://arxiv.org/abs/2508.21516)|null|
+|**2025-08-29**|**Spiking Decision Transformers: Local Plasticity, Phase-Coding, and Dendritic Routing for Low-Power Sequence Control**|Vishal Pandey et.al.|[2508.21505](http://arxiv.org/abs/2508.21505)|null|
+|**2025-08-29**|**Digital quantum simulation of many-body systems: Making the most of intermediate-scale, noisy quantum computers**|Alexander Miessen et.al.|[2508.21504](http://arxiv.org/abs/2508.21504)|null|
+|**2025-08-29**|**Towards a Decentralized IoT Onboarding for Smart Homes Using Consortium Blockchain**|Narges Dadkhah et.al.|[2508.21480](http://arxiv.org/abs/2508.21480)|null|
+|**2025-08-29**|**Scale-GS: Efficient Scalable Gaussian Splatting via Redundancy-filtering Training on Streaming Content**|Jiayu Yang et.al.|[2508.21444](http://arxiv.org/abs/2508.21444)|null|
+|**2025-08-29**|**Benchmarking the State of Networks with a Low-Cost Method Based on Reservoir Computing**|Felix Simon Reimers et.al.|[2508.21420](http://arxiv.org/abs/2508.21420)|null|
 |**2025-08-28**|**Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation**|Jiahe Pan et.al.|[2508.21065](http://arxiv.org/abs/2508.21065)|null|
 |**2025-08-28**|**OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models**|Adam Coscia et.al.|[2508.21061](http://arxiv.org/abs/2508.21061)|null|
 |**2025-08-28**|**Scaling Fabric-Based Piezoresistive Sensor Arrays for Whole-Body Tactile Sensing**|Curtis C. Johnson et.al.|[2508.20959](http://arxiv.org/abs/2508.20959)|null|
@@ -4678,6 +4699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**ECHO: Ego-Centric modeling of Human-Object interactions**|Ilya A. Petrov et.al.|[2508.21556](http://arxiv.org/abs/2508.21556)|null|
 |**2025-08-28**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
 |**2025-08-28**|**COMETH: Convex Optimization for Multiview Estimation and Tracking of Humans**|Enrico Martini et.al.|[2508.20920](http://arxiv.org/abs/2508.20920)|null|
 |**2025-08-28**|**Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting**|Lorenzo Busellato et.al.|[2508.20812](http://arxiv.org/abs/2508.20812)|null|
@@ -4958,6 +4980,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**Towards Improved Speech Recognition through Optimized Synthetic Data Generation**|Yanis Perrin et.al.|[2508.21631](http://arxiv.org/abs/2508.21631)|null|
+|**2025-08-29**|**Fundamentals of Data-Driven Approaches to Acoustic Signal Detection, Filtering, and Transformation**|Chao Pan et.al.|[2508.21470](http://arxiv.org/abs/2508.21470)|null|
 |**2025-08-28**|**MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening**|Yongqi Shao et.al.|[2508.20513](http://arxiv.org/abs/2508.20513)|null|
 |**2025-08-28**|**MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
