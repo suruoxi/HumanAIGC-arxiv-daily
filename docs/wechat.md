@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.09.02
+> Updated on 2025.09.03
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -815,7 +815,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -929,7 +929,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -1615,7 +1615,7 @@
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -1665,7 +1665,7 @@
 - 2025-03-15, **ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text**, Haifeng Ni et.al., Paper: [http://arxiv.org/abs/2501.16757](http://arxiv.org/abs/2501.16757)
 - 2025-03-26, **ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On**, Ji Woo Hong et.al., Paper: [http://arxiv.org/abs/2503.20418](http://arxiv.org/abs/2503.20418)
 - 2025-01-26, **IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter**, Xiaojing Zhong et.al., Paper: [http://arxiv.org/abs/2501.15616](http://arxiv.org/abs/2501.15616)
-- 2025-07-02, **IC-Custom: Diverse Image Customization via In-Context Learning**, Yaowei Li et.al., Paper: [http://arxiv.org/abs/2507.01926](http://arxiv.org/abs/2507.01926)
+- 2025-08-30, **IC-Custom: Diverse Image Customization via In-Context Learning**, Yaowei Li et.al., Paper: [http://arxiv.org/abs/2507.01926](http://arxiv.org/abs/2507.01926)
 - 2025-01-07, **HYB-VITON: A Hybrid Approach to Virtual Try-On Combining Explicit and Implicit Warping**, Kosuke Takemoto et.al., Paper: [http://arxiv.org/abs/2501.03910](http://arxiv.org/abs/2501.03910)
 - 2025-06-13, **HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment**, Ming Meng et.al., Paper: [http://arxiv.org/abs/2505.19638](http://arxiv.org/abs/2505.19638)
 - 2025-04-04, **From Keypoints to Realism: A Realistic and Accurate Virtual Try-on Network from 2D Images**, Maliheh Toozandehjani et.al., Paper: [http://arxiv.org/abs/2504.03807](http://arxiv.org/abs/2504.03807)
@@ -1702,7 +1702,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -2051,7 +2051,7 @@
 - 2025-07-08, **2D Instance Editing in 3D Space**, Yuhuan Xie et.al., Paper: [http://arxiv.org/abs/2507.05819](http://arxiv.org/abs/2507.05819)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -4699,7 +4699,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -4873,7 +4873,7 @@
 - 2025-08-28, **HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**, Zhi Su et.al., Paper: [http://arxiv.org/abs/2508.21043](http://arxiv.org/abs/2508.21043)
 - 2025-03-17, **HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**, Jiahe Zhao et.al., Paper: [http://arxiv.org/abs/2503.12955](http://arxiv.org/abs/2503.12955)
 - 2025-03-11, **HERO: Human Reaction Generation from Videos**, Chengjun Yu et.al., Paper: [http://arxiv.org/abs/2503.08270](http://arxiv.org/abs/2503.08270)
-- 2025-08-28, **HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**, Zhecheng Yuan et.al., Paper: [http://arxiv.org/abs/2508.20085](http://arxiv.org/abs/2508.20085)
+- 2025-08-31, **HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**, Zhecheng Yuan et.al., Paper: [http://arxiv.org/abs/2508.20085](http://arxiv.org/abs/2508.20085)
 - 2025-05-26, **HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**, Jue Gong et.al., Paper: [http://arxiv.org/abs/2505.19742](http://arxiv.org/abs/2505.19742), Code: **[https://github.com/gobunu/haodiff](https://github.com/gobunu/haodiff)**
 - 2025-03-18, **HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard**, Yifei Dong et.al., Paper: [http://arxiv.org/abs/2503.14229](http://arxiv.org/abs/2503.14229)
 - 2025-04-14, **H-MoRe: Learning Human-centric Motion Representation for Action Analysis**, Zhanbo Huang et.al., Paper: [http://arxiv.org/abs/2504.10676](http://arxiv.org/abs/2504.10676)
@@ -4980,7 +4980,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 <details>
 
@@ -4990,7 +4990,7 @@
 
 - 2025-06-16, **ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**, Han Zhu et.al., Paper: [http://arxiv.org/abs/2506.13053](http://arxiv.org/abs/2506.13053)
 - 2025-07-12, **ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**, Han Zhu et.al., Paper: [http://arxiv.org/abs/2507.09318](http://arxiv.org/abs/2507.09318)
-- 2025-08-25, **Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**, Changsong Liu et.al., Paper: [http://arxiv.org/abs/2508.17796](http://arxiv.org/abs/2508.17796)
+- 2025-09-02, **Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**, Changsong Liu et.al., Paper: [http://arxiv.org/abs/2508.17796](http://arxiv.org/abs/2508.17796)
 - 2025-06-02, **Zero-Shot Text-to-Speech for Vietnamese**, Thi Vu et.al., Paper: [http://arxiv.org/abs/2506.01322](http://arxiv.org/abs/2506.01322)
 - 2025-06-02, **Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling**, Haiyang Sun et.al., Paper: [http://arxiv.org/abs/2505.19669](http://arxiv.org/abs/2505.19669)
 - 2025-03-21, **Your voice is your voice: Supporting Self-expression through Speech Generation and LLMs in Augmented and Alternative Communication**, Yiwen Xu et.al., Paper: [http://arxiv.org/abs/2503.17479](http://arxiv.org/abs/2503.17479)
@@ -5455,7 +5455,7 @@
 - 2025-08-13, **$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**, Boyu Zhu et.al., Paper: [http://arxiv.org/abs/2508.09702](http://arxiv.org/abs/2508.09702)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-</details><p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 Notes: 
 
