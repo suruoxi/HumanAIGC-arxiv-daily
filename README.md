@@ -2070,6 +2070,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-02**|**Adaptive Dead-Zone Dual Sliding Mode Observer for Reliable Electrochemical Model-Based SOC Estimation**|Guangdi Hu et.al.|[2508.21610](http://arxiv.org/abs/2508.21610)|null|
 |**2025-08-29**|**An Adaptive Real-Time Forecasting Framework for Cryogenic Fluid Management in Space Systems**|Qiyun Cheng et.al.|[2508.21802](http://arxiv.org/abs/2508.21802)|null|
 |**2025-08-29**|**DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers**|Navid Aftabi et.al.|[2508.21797](http://arxiv.org/abs/2508.21797)|null|
 |**2025-08-29**|**Toward real-time optimization through model reduction and model discrepancy sensitivities**|Joseph Hart et.al.|[2508.21792](http://arxiv.org/abs/2508.21792)|null|
@@ -2081,7 +2082,6 @@
 |**2025-08-29**|**Harnessing IoT and Generative AI for Weather-Adaptive Learning in Climate Resilience Education**|Imran S. A. Khan et.al.|[2508.21666](http://arxiv.org/abs/2508.21666)|null|
 |**2025-08-29**|**The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics**|Nicolas Soncini et.al.|[2508.21635](http://arxiv.org/abs/2508.21635)|null|
 |**2025-08-29**|**Integrating Large Language Models with Network Optimization for Interactive and Explainable Supply Chain Planning: A Real-World Case Study**|Saravanan Venkatachalam et.al.|[2508.21622](http://arxiv.org/abs/2508.21622)|null|
-|**2025-08-29**|**Adaptive Dead-Zone Dual Sliding Mode Observer for Reliable Electrochemical Model-Based SOC Estimation**|Guangdi Hu et.al.|[2508.21610](http://arxiv.org/abs/2508.21610)|null|
 |**2025-08-29**|**Hybrid Cryptographic Monitoring System for Side-Channel Attack Detection on PYNQ SoCs**|Nishant Chinnasami et.al.|[2508.21606](http://arxiv.org/abs/2508.21606)|null|
 |**2025-08-29**|**Limitations of Physics-Informed Neural Networks: a Study on Smart Grid Surrogation**|Julen Cestero et.al.|[2508.21559](http://arxiv.org/abs/2508.21559)|null|
 |**2025-08-29**|**A Combined Push-Pull Access Framework for Digital Twin Alignment and Anomaly Reporting**|Federico Chiariotti et.al.|[2508.21516](http://arxiv.org/abs/2508.21516)|null|

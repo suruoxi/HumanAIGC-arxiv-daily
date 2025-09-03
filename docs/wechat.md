@@ -4480,7 +4480,7 @@
 - 2025-05-19, **Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**, Muhammad Awais Amin et.al., Paper: [http://arxiv.org/abs/2505.13130](http://arxiv.org/abs/2505.13130)
 - 2025-07-10, **Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**, Julio Garrido et.al., Paper: [http://arxiv.org/abs/2507.07714](http://arxiv.org/abs/2507.07714)
 - 2025-07-11, **Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**, Gábor Baranyi et.al., Paper: [http://arxiv.org/abs/2507.08624](http://arxiv.org/abs/2507.08624)
-- 2025-08-29, **Adaptive Dead-Zone Dual Sliding Mode Observer for Reliable Electrochemical Model-Based SOC Estimation**, Guangdi Hu et.al., Paper: [http://arxiv.org/abs/2508.21610](http://arxiv.org/abs/2508.21610)
+- 2025-09-02, **Adaptive Dead-Zone Dual Sliding Mode Observer for Reliable Electrochemical Model-Based SOC Estimation**, Guangdi Hu et.al., Paper: [http://arxiv.org/abs/2508.21610](http://arxiv.org/abs/2508.21610)
 - 2025-06-04, **Adaptive Configuration Selection for Multi-Model Inference Pipelines in Edge Computing**, Jinhao Sheng et.al., Paper: [http://arxiv.org/abs/2506.02814](http://arxiv.org/abs/2506.02814)
 - 2025-05-05, **Adaptive Budgeted Multi-Armed Bandits for IoT with Dynamic Resource Constraints**, Shubham Vaishnav et.al., Paper: [http://arxiv.org/abs/2505.02640](http://arxiv.org/abs/2505.02640)
 - 2025-05-08, **Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**, Changxiang Wu et.al., Paper: [http://arxiv.org/abs/2505.05231](http://arxiv.org/abs/2505.05231)
