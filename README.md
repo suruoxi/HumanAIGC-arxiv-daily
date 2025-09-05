@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.09.04
+### Updated on 2025.09.05
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -816,7 +816,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -933,7 +933,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -1626,7 +1626,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -1716,7 +1716,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -2072,7 +2072,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -4742,7 +4742,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -4752,12 +4752,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
 |**2025-08-31**|**InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos**|Yangsong Zhang et.al.|[2509.00767](http://arxiv.org/abs/2509.00767)|null|
 |**2025-08-31**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Zhecheng Yuan et.al.|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
 |**2025-08-30**|**DevilSight: Augmenting Monocular Human Avatar Reconstruction through a Virtual Perspective**|Yushuo Chen et.al.|[2509.00403](http://arxiv.org/abs/2509.00403)|null|
 |**2025-08-29**|**A Review of Sensor Insoles**|Bastian Latsch et.al.|[2509.00260](http://arxiv.org/abs/2509.00260)|null|
 |**2025-08-29**|**ECHO: Ego-Centric modeling of Human-Object interactions**|Ilya A. Petrov et.al.|[2508.21556](http://arxiv.org/abs/2508.21556)|null|
-|**2025-08-28**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
 |**2025-08-28**|**COMETH: Convex Optimization for Multiview Estimation and Tracking of Humans**|Enrico Martini et.al.|[2508.20920](http://arxiv.org/abs/2508.20920)|null|
 |**2025-08-28**|**Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting**|Lorenzo Busellato et.al.|[2508.20812](http://arxiv.org/abs/2508.20812)|null|
 |**2025-08-28**|**Non-expert to Expert Motion Translation Using Generative Adversarial Networks**|Yuki Tanaka et.al.|[2508.20740](http://arxiv.org/abs/2508.20740)|null|
@@ -5028,7 +5028,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 <details>
 
@@ -5038,12 +5038,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
 |**2025-09-03**|**Multi-level SSL Feature Gating for Audio Deepfake Detection**|Hoan My Tran et.al.|[2509.03409](http://arxiv.org/abs/2509.03409)|null|
 |**2025-09-03**|**LatPhon: Lightweight Multilingual G2P for Romance Languages and English**|Luis Felipe Chary et.al.|[2509.03300](http://arxiv.org/abs/2509.03300)|null|
 |**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
 |**2025-09-03**|**AIVA: An AI-based Virtual Companion for Emotion-aware Interaction**|Chenxi Li et.al.|[2509.03212](http://arxiv.org/abs/2509.03212)|null|
 |**2025-09-02**|**AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent**|Jingru Fan et.al.|[2509.02444](http://arxiv.org/abs/2509.02444)|null|
-|**2025-09-02**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
 |**2025-09-02**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
 |**2025-09-01**|**MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model**|Joonyong Park et.al.|[2509.01391](http://arxiv.org/abs/2509.01391)|null|
 |**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
@@ -5522,7 +5522,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-</details><p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 Notes: 
 
