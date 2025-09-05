@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**Durian: Dual Reference-guided Portrait Animation with Attribute Transfer**|Hyunsoo Cha et.al.|[2509.04434](http://arxiv.org/abs/2509.04434)|null|
 |**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
 |**2025-08-27**|**InfinityHuman: Towards Long-Term Audio-Driven Human**|Xiaodi Li et.al.|[2508.20210](http://arxiv.org/abs/2508.20210)|null|
 |**2025-08-27**|**Improving Generalization in Deepfake Detection with Face Foundation Models and Metric Learning**|Stelios Mylonas et.al.|[2508.19730](http://arxiv.org/abs/2508.19730)|null|
@@ -943,6 +944,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
+|**2025-09-04**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
 |**2025-09-03**|**CompSlider: Compositional Slider for Disentangled Multiple-Attribute Image Generation**|Zixin Zhu et.al.|[2509.01028](http://arxiv.org/abs/2509.01028)|null|
 |**2025-09-01**|**Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement**|Jiayi Gao et.al.|[2509.01362](http://arxiv.org/abs/2509.01362)|null|
 |**2025-09-01**|**Communicative Agents for Slideshow Storytelling Video Generation based on LLMs**|Jingxing Fan et.al.|[2509.01277](http://arxiv.org/abs/2509.01277)|null|
@@ -1636,6 +1639,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
 |**2025-09-02**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
 |**2025-08-30**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-08-28**|**Dress&Dance: Dress up and Dance as You Like It - Technical Preview**|Jun-Kun Chen et.al.|[2508.21070](http://arxiv.org/abs/2508.21070)|null|
@@ -1726,6 +1730,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**From Editor to Dense Geometry Estimator**|JiYuan Wang et.al.|[2509.04338](http://arxiv.org/abs/2509.04338)|null|
 |**2025-09-03**|**Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing**|Quan Dao et.al.|[2509.01984](http://arxiv.org/abs/2509.01984)|null|
 |**2025-09-02**|**Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination**|Ziyun Zeng et.al.|[2509.01986](http://arxiv.org/abs/2509.01986)|null|
 |**2025-09-01**|**O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing**|Yuqing Chen et.al.|[2509.01596](http://arxiv.org/abs/2509.01596)|null|
@@ -2082,6 +2087,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**Accelerated Interactive Auralization of Highly Reverberant Spaces using Graphics Hardware**|Hannes Rosseel et.al.|[2509.04390](http://arxiv.org/abs/2509.04390)|null|
+|**2025-09-04**|**Aligning load flexibility with emissions reduction: empirical insights from a multi-site study of cryptocurrency data centers**|Veronica M. Paez et.al.|[2509.04380](http://arxiv.org/abs/2509.04380)|null|
+|**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|Atikkhan Faridkhan Nilgar et.al.|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
+|**2025-09-04**|**Decoupled Entity Representation Learning for Pinterest Ads Ranking**|Jie Liu et.al.|[2509.04337](http://arxiv.org/abs/2509.04337)|null|
+|**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|Tian Miao et.al.|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
+|**2025-09-04**|**Learning Optimal Crew Dispatch for Grid Restoration Following an Earthquake**|Farshad Amani et.al.|[2509.04308](http://arxiv.org/abs/2509.04308)|null|
+|**2025-09-04**|**HumAIne-Chatbot: Real-Time Personalized Conversational AI via Reinforcement Learning**|Georgios Makridis et.al.|[2509.04303](http://arxiv.org/abs/2509.04303)|null|
+|**2025-09-04**|**Hamiltonian approach to near-extremal black hole evaporation and backreaction**|Per Kraus et.al.|[2509.04293](http://arxiv.org/abs/2509.04293)|null|
+|**2025-09-04**|**Massively-Parallel Implementation of Inextensible Elastic Rods Using Inter-block GPU Synchronization**|Przemyslaw Korzeniowski et.al.|[2509.04277](http://arxiv.org/abs/2509.04277)|null|
+|**2025-09-04**|**Safe Navigation in the Presence of Range-Limited Pursuers**|Thomas Chapman et.al.|[2509.04258](http://arxiv.org/abs/2509.04258)|null|
+|**2025-09-04**|**Multi-Spectroscopic Method to Quantify Rapid Decomposition of an Organophosphate Simulant Using Reactive Materials as a Function of Metal Powder Chemistry and Temperature**|Preetom Borah et.al.|[2509.04236](http://arxiv.org/abs/2509.04236)|null|
+|**2025-09-04**|**Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**|Rok Podlipec et.al.|[2509.04201](http://arxiv.org/abs/2509.04201)|null|
+|**2025-09-04**|**Unobtrusive In-Situ Measurement of Behavior Change by Deep Metric Similarity Learning of Motion Patterns**|Christian Merz et.al.|[2509.04174](http://arxiv.org/abs/2509.04174)|null|
+|**2025-09-04**|**Real-time Object Detection and Associated Hardware Accelerators Targeting Autonomous Vehicles: A Review**|Safa Sali et.al.|[2509.04173](http://arxiv.org/abs/2509.04173)|null|
+|**2025-09-04**|**Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations**|Safa Mohammed Sali et.al.|[2509.04162](http://arxiv.org/abs/2509.04162)|null|
+|**2025-09-04**|**Real Time FPGA Based CNNs for Detection, Classification, and Tracking in Autonomous Systems: State of the Art Designs and Optimizations**|Safa Mohammed Sali et.al.|[2509.04153](http://arxiv.org/abs/2509.04153)|null|
+|**2025-09-04**|**Hyper Diffusion Avatars: Dynamic Human Avatar Generation using Network Weight Space Diffusion**|Dongliang Cao et.al.|[2509.04145](http://arxiv.org/abs/2509.04145)|null|
+|**2025-09-04**|**Active Dual-Gated Graphene Transistors for Low-Noise, Drift-Stable, and Tunable Chemical Sensing**|Vinay Kammarchedu et.al.|[2509.04137](http://arxiv.org/abs/2509.04137)|null|
+|**2025-09-04**|**MEPG:Multi-Expert Planning and Generation for Compositionally-Rich Image Generation**|Yuan Zhao et.al.|[2509.04126](http://arxiv.org/abs/2509.04126)|null|
+|**2025-09-04**|**Lightweight Kinematic and Static Modeling of Cable-Driven Continuum Robots via Actuation-Space Energy Formulation**|Ke Wu et.al.|[2509.04119](http://arxiv.org/abs/2509.04119)|null|
 |**2025-09-03**|**Real-Time Instrument Planning and Perception for Novel Measurements of Dynamic Phenomena**|Itai Zilberstein et.al.|[2509.03500](http://arxiv.org/abs/2509.03500)|null|
 |**2025-09-03**|**OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation**|Han Li et.al.|[2509.03498](http://arxiv.org/abs/2509.03498)|null|
 |**2025-09-03**|**More AI Assistance Reduces Cognitive Engagement: Examining the AI Assistance Dilemma in AI-Supported Note-Taking**|Xinyue Chen et.al.|[2509.03392](http://arxiv.org/abs/2509.03392)|null|
@@ -4752,6 +4777,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**SMooGPT: Stylized Motion Generation using Large Language Models**|Lei Zhong et.al.|[2509.04058](http://arxiv.org/abs/2509.04058)|null|
+|**2025-09-04**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
 |**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
 |**2025-08-31**|**InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos**|Yangsong Zhang et.al.|[2509.00767](http://arxiv.org/abs/2509.00767)|null|
 |**2025-08-31**|**HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation**|Zhecheng Yuan et.al.|[2508.20085](http://arxiv.org/abs/2508.20085)|null|
@@ -5038,6 +5065,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|Atikkhan Faridkhan Nilgar et.al.|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
+|**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345](http://arxiv.org/abs/2509.04345)|null|
+|**2025-09-04**|**OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection**|Chen Hu et.al.|[2509.04324](http://arxiv.org/abs/2509.04324)|null|
+|**2025-09-04**|**Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis**|Zhitong Zhou et.al.|[2509.04093](http://arxiv.org/abs/2509.04093)|null|
+|**2025-09-04**|**LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis**|Gaspard Michel et.al.|[2509.04072](http://arxiv.org/abs/2509.04072)|null|
 |**2025-09-04**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
 |**2025-09-03**|**Multi-level SSL Feature Gating for Audio Deepfake Detection**|Hoan My Tran et.al.|[2509.03409](http://arxiv.org/abs/2509.03409)|null|
 |**2025-09-03**|**LatPhon: Lightweight Multilingual G2P for Romance Languages and English**|Luis Felipe Chary et.al.|[2509.03300](http://arxiv.org/abs/2509.03300)|null|
