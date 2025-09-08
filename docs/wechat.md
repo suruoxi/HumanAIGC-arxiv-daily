@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.09.07
+> Updated on 2025.09.08
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -817,7 +817,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -931,7 +931,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -1624,7 +1624,7 @@
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -1641,7 +1641,7 @@
 - 2025-05-29, **VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**, Ben Li et.al., Paper: [http://arxiv.org/abs/2505.23439](http://arxiv.org/abs/2505.23439)
 - 2025-08-11, **Undress to Redress: A Training-Free Framework for Virtual Try-On**, Zhiying Li et.al., Paper: [http://arxiv.org/abs/2508.07680](http://arxiv.org/abs/2508.07680)
 - 2025-08-06, **Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis**, Angang Zhang et.al., Paper: [http://arxiv.org/abs/2508.04551](http://arxiv.org/abs/2508.04551)
-- 2025-09-02, **Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**, Lydia Kin Ching Chau et.al., Paper: [http://arxiv.org/abs/2509.02445](http://arxiv.org/abs/2509.02445)
+- 2025-09-04, **Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**, Lydia Kin Ching Chau et.al., Paper: [http://arxiv.org/abs/2509.02445](http://arxiv.org/abs/2509.02445)
 - 2025-07-08, **TalkFashion: Intelligent Virtual Try-On Assistant Based on Multimodal Large Language Model**, Yujie Hu et.al., Paper: [http://arxiv.org/abs/2507.05790](http://arxiv.org/abs/2507.05790)
 - 2025-08-12, **StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback**, Hongbo Ma et.al., Paper: [http://arxiv.org/abs/2508.06555](http://arxiv.org/abs/2508.06555)
 - 2025-05-15, **Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**, Ren Li et.al., Paper: [http://arxiv.org/abs/2504.08353](http://arxiv.org/abs/2504.08353), Code: **[https://github.com/liren2515/dmap](https://github.com/liren2515/dmap)**
@@ -1713,7 +1713,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -2068,7 +2068,7 @@
 - 2025-07-08, **2D Instance Editing in 3D Space**, Yuhuan Xie et.al., Paper: [http://arxiv.org/abs/2507.05819](http://arxiv.org/abs/2507.05819)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -3124,7 +3124,7 @@
 - 2025-07-30, **NeOTF: Speckle-Constrained OTF Neural Representation for Non-invasive Imaging through Scattering Medium**, Yunong Sun et.al., Paper: [http://arxiv.org/abs/2507.22328](http://arxiv.org/abs/2507.22328)
 - 2025-07-18, **NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Agent Motion Planning**, Qingyi Chen et.al., Paper: [http://arxiv.org/abs/2507.13940](http://arxiv.org/abs/2507.13940)
 - 2025-03-28, **Nanoparticle Deposition Techniques for Silica Nanoparticles: Synthesis, Electrophoretic Deposition, and Optimization- A review**, Srabani Karmakar et.al., Paper: [http://arxiv.org/abs/2503.22593](http://arxiv.org/abs/2503.22593)
-- 2025-09-04, **Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**, Rok Podlipec et.al., Paper: [http://arxiv.org/abs/2509.04201](http://arxiv.org/abs/2509.04201)
+- 2025-09-05, **Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**, Rok Podlipec et.al., Paper: [http://arxiv.org/abs/2509.04201](http://arxiv.org/abs/2509.04201)
 - 2025-03-12, **NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**, Yuzhi Lai et.al., Paper: [http://arxiv.org/abs/2503.09335](http://arxiv.org/abs/2503.09335)
 - 2025-06-24, **NTRL: Encounter Generation via Reinforcement Learning for Dynamic Difficulty Adjustment in Dungeons and Dragons**, Carlo Romeo et.al., Paper: [http://arxiv.org/abs/2506.19530](http://arxiv.org/abs/2506.19530)
 - 2025-02-18, **NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**, Penghui Zhang et.al., Paper: [http://arxiv.org/abs/2502.12834](http://arxiv.org/abs/2502.12834)
@@ -4756,7 +4756,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -5042,7 +5042,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -5539,7 +5539,7 @@
 - 2025-08-13, **$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**, Boyu Zhu et.al., Paper: [http://arxiv.org/abs/2508.09702](http://arxiv.org/abs/2508.09702)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 Notes: 
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.09.07
+### Updated on 2025.09.08
 <details>
 
 <summary> Talking Face </summary>
@@ -1625,7 +1625,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
-|**2025-09-02**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
+|**2025-09-04**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
 |**2025-08-30**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-08-28**|**Dress&Dance: Dress up and Dance as You Like It - Technical Preview**|Jun-Kun Chen et.al.|[2508.21070](http://arxiv.org/abs/2508.21070)|null|
 |**2025-08-28**|**FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models**|Zheng Chong et.al.|[2508.20586](http://arxiv.org/abs/2508.20586)|null|
@@ -2068,6 +2068,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**|Rok Podlipec et.al.|[2509.04201](http://arxiv.org/abs/2509.04201)|null|
 |**2025-09-04**|**Accelerated Interactive Auralization of Highly Reverberant Spaces using Graphics Hardware**|Hannes Rosseel et.al.|[2509.04390](http://arxiv.org/abs/2509.04390)|null|
 |**2025-09-04**|**Aligning load flexibility with emissions reduction: empirical insights from a multi-site study of cryptocurrency data centers**|Veronica M. Paez et.al.|[2509.04380](http://arxiv.org/abs/2509.04380)|null|
 |**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|Atikkhan Faridkhan Nilgar et.al.|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
@@ -2079,7 +2080,6 @@ layout: default
 |**2025-09-04**|**Massively-Parallel Implementation of Inextensible Elastic Rods Using Inter-block GPU Synchronization**|Przemyslaw Korzeniowski et.al.|[2509.04277](http://arxiv.org/abs/2509.04277)|null|
 |**2025-09-04**|**Safe Navigation in the Presence of Range-Limited Pursuers**|Thomas Chapman et.al.|[2509.04258](http://arxiv.org/abs/2509.04258)|null|
 |**2025-09-04**|**Multi-Spectroscopic Method to Quantify Rapid Decomposition of an Organophosphate Simulant Using Reactive Materials as a Function of Metal Powder Chemistry and Temperature**|Preetom Borah et.al.|[2509.04236](http://arxiv.org/abs/2509.04236)|null|
-|**2025-09-04**|**Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**|Rok Podlipec et.al.|[2509.04201](http://arxiv.org/abs/2509.04201)|null|
 |**2025-09-04**|**Unobtrusive In-Situ Measurement of Behavior Change by Deep Metric Similarity Learning of Motion Patterns**|Christian Merz et.al.|[2509.04174](http://arxiv.org/abs/2509.04174)|null|
 |**2025-09-04**|**Real-time Object Detection and Associated Hardware Accelerators Targeting Autonomous Vehicles: A Review**|Safa Sali et.al.|[2509.04173](http://arxiv.org/abs/2509.04173)|null|
 |**2025-09-04**|**Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations**|Safa Mohammed Sali et.al.|[2509.04162](http://arxiv.org/abs/2509.04162)|null|

@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.09.07
+### Updated on 2025.09.08
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -817,7 +817,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -934,7 +934,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -1629,7 +1629,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -1640,7 +1640,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
-|**2025-09-02**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
+|**2025-09-04**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
 |**2025-08-30**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-08-28**|**Dress&Dance: Dress up and Dance as You Like It - Technical Preview**|Jun-Kun Chen et.al.|[2508.21070](http://arxiv.org/abs/2508.21070)|null|
 |**2025-08-28**|**FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models**|Zheng Chong et.al.|[2508.20586](http://arxiv.org/abs/2508.20586)|null|
@@ -1720,7 +1720,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -2077,7 +2077,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -2087,6 +2087,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**|Rok Podlipec et.al.|[2509.04201](http://arxiv.org/abs/2509.04201)|null|
 |**2025-09-04**|**Accelerated Interactive Auralization of Highly Reverberant Spaces using Graphics Hardware**|Hannes Rosseel et.al.|[2509.04390](http://arxiv.org/abs/2509.04390)|null|
 |**2025-09-04**|**Aligning load flexibility with emissions reduction: empirical insights from a multi-site study of cryptocurrency data centers**|Veronica M. Paez et.al.|[2509.04380](http://arxiv.org/abs/2509.04380)|null|
 |**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|Atikkhan Faridkhan Nilgar et.al.|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
@@ -2098,7 +2099,6 @@
 |**2025-09-04**|**Massively-Parallel Implementation of Inextensible Elastic Rods Using Inter-block GPU Synchronization**|Przemyslaw Korzeniowski et.al.|[2509.04277](http://arxiv.org/abs/2509.04277)|null|
 |**2025-09-04**|**Safe Navigation in the Presence of Range-Limited Pursuers**|Thomas Chapman et.al.|[2509.04258](http://arxiv.org/abs/2509.04258)|null|
 |**2025-09-04**|**Multi-Spectroscopic Method to Quantify Rapid Decomposition of an Organophosphate Simulant Using Reactive Materials as a Function of Metal Powder Chemistry and Temperature**|Preetom Borah et.al.|[2509.04236](http://arxiv.org/abs/2509.04236)|null|
-|**2025-09-04**|**Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**|Rok Podlipec et.al.|[2509.04201](http://arxiv.org/abs/2509.04201)|null|
 |**2025-09-04**|**Unobtrusive In-Situ Measurement of Behavior Change by Deep Metric Similarity Learning of Motion Patterns**|Christian Merz et.al.|[2509.04174](http://arxiv.org/abs/2509.04174)|null|
 |**2025-09-04**|**Real-time Object Detection and Associated Hardware Accelerators Targeting Autonomous Vehicles: A Review**|Safa Sali et.al.|[2509.04173](http://arxiv.org/abs/2509.04173)|null|
 |**2025-09-04**|**Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations**|Safa Mohammed Sali et.al.|[2509.04162](http://arxiv.org/abs/2509.04162)|null|
@@ -4767,7 +4767,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -5055,7 +5055,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 <details>
 
@@ -5554,7 +5554,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-</details><p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 Notes: 
 
