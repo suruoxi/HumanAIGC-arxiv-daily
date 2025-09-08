@@ -1624,6 +1624,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**LUIVITON: Learned Universal Interoperable VIrtual Try-ON**|Cong Cao et.al.|[2509.05030](http://arxiv.org/abs/2509.05030)|null|
 |**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
 |**2025-09-04**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
 |**2025-08-30**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
@@ -1713,8 +1714,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control**|Haruo Fujiwara et.al.|[2509.05285](http://arxiv.org/abs/2509.05285)|null|
+|**2025-09-04**|**Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping**|Jingyi Lu et.al.|[2509.04582](http://arxiv.org/abs/2509.04582)|null|
 |**2025-09-04**|**From Editor to Dense Geometry Estimator**|JiYuan Wang et.al.|[2509.04338](http://arxiv.org/abs/2509.04338)|null|
 |**2025-09-03**|**Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing**|Quan Dao et.al.|[2509.01984](http://arxiv.org/abs/2509.01984)|null|
+|**2025-09-02**|**Fidelity-preserving enhancement of ptychography with foundational text-to-image models**|Ming Du et.al.|[2509.04513](http://arxiv.org/abs/2509.04513)|null|
 |**2025-09-02**|**Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination**|Ziyun Zeng et.al.|[2509.01986](http://arxiv.org/abs/2509.01986)|null|
 |**2025-09-01**|**O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing**|Yuqing Chen et.al.|[2509.01596](http://arxiv.org/abs/2509.01596)|null|
 |**2025-09-01**|**Neural Scene Designer: Self-Styled Semantic Image Manipulation**|Jianman Lin et.al.|[2509.01405](http://arxiv.org/abs/2509.01405)|null|
@@ -2068,6 +2072,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool**|Zizun Li et.al.|[2509.05296](http://arxiv.org/abs/2509.05296)|null|
+|**2025-09-05**|**Greener Deep Reinforcement Learning: Analysis of Energy and Carbon Efficiency Across Atari Benchmarks**|Jason Gardner et.al.|[2509.05273](http://arxiv.org/abs/2509.05273)|null|
+|**2025-09-05**|**Fast 360° 3D Metrology for Directed Energy Deposition**|James Taylor et.al.|[2509.05268](http://arxiv.org/abs/2509.05268)|null|
+|**2025-09-05**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|Yinglin Duan et.al.|[2509.05263](http://arxiv.org/abs/2509.05263)|null|
+|**2025-09-05**|**Deep Learning-Enhanced for Amine Emission Monitoring and Performance Analysis in Industrial Carbon Capture Plants**|Lokendra Poudel et.al.|[2509.05241](http://arxiv.org/abs/2509.05241)|null|
+|**2025-09-05**|**Toward Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.05216](http://arxiv.org/abs/2509.05216)|null|
+|**2025-09-05**|**Accuracy-Constrained CNN Pruning for Efficient and Reliable EEG-Based Seizure Detection**|Mounvik K et.al.|[2509.05190](http://arxiv.org/abs/2509.05190)|null|
+|**2025-09-05**|**Transition of car-based human-mobility in the pandemic era: Data insight from a cross-border region in Europe**|Sujit Kumar Sikder et.al.|[2509.05166](http://arxiv.org/abs/2509.05166)|null|
+|**2025-09-05**|**Exploring Situated Stabilities of a Rhythm Generation System through Variational Cross-Examination**|Błażej Kotowski et.al.|[2509.05145](http://arxiv.org/abs/2509.05145)|null|
+|**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](http://arxiv.org/abs/2509.05080)|null|
+|**2025-09-05**|**Lightweight DNN for Full-Band Speech Denoising on Mobile Devices: Exploiting Long and Short Temporal Patterns**|Konstantinos Drossos et.al.|[2509.05079](http://arxiv.org/abs/2509.05079)|null|
+|**2025-09-05**|**A biologically inspired separable learning vision model for real-time traffic object perception in Dark**|Hulin Li et.al.|[2509.05012](http://arxiv.org/abs/2509.05012)|null|
+|**2025-09-05**|**Lyapunov-Based Deep Learning Control for Robots with Unknown Jacobian**|Koji Matsuno et.al.|[2509.04984](http://arxiv.org/abs/2509.04984)|null|
+|**2025-09-05**|**ROPE: A Novel Method for Real-Time Phase Estimation of Complex Biological Rhythms**|Antonio Spallone et.al.|[2509.04962](http://arxiv.org/abs/2509.04962)|null|
+|**2025-09-05**|**Ground-Aware Octree-A* Hybrid Path Planning for Memory-Efficient 3D Navigation of Ground Vehicles**|Byeong-Il Ham et.al.|[2509.04950](http://arxiv.org/abs/2509.04950)|null|
+|**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|Emanuela Boros et.al.|[2509.04948](http://arxiv.org/abs/2509.04948)|null|
+|**2025-09-05**|**Characterization of a novel plastic scintillation detector for in vivo electron dosimetry**|Cornelius J. Bauer et.al.|[2509.04933](http://arxiv.org/abs/2509.04933)|null|
+|**2025-09-05**|**OSC: Cognitive Orchestration through Dynamic Knowledge Alignment in Multi-Agent LLM Collaboration**|Jusheng Zhang et.al.|[2509.04876](http://arxiv.org/abs/2509.04876)|null|
+|**2025-09-05**|**Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales**|Krittanon Kaewtawee et.al.|[2509.04871](http://arxiv.org/abs/2509.04871)|null|
+|**2025-09-05**|**Any-Step Density Ratio Estimation via Interval-Annealed Secant Alignment**|Wei Chen et.al.|[2509.04852](http://arxiv.org/abs/2509.04852)|null|
 |**2025-09-05**|**Nanometer-precision tracking of adipocyte dynamics via single lipid droplet whispering-gallery optical resonances**|Rok Podlipec et.al.|[2509.04201](http://arxiv.org/abs/2509.04201)|null|
 |**2025-09-04**|**Accelerated Interactive Auralization of Highly Reverberant Spaces using Graphics Hardware**|Hannes Rosseel et.al.|[2509.04390](http://arxiv.org/abs/2509.04390)|null|
 |**2025-09-04**|**Aligning load flexibility with emissions reduction: empirical insights from a multi-site study of cryptocurrency data centers**|Veronica M. Paez et.al.|[2509.04380](http://arxiv.org/abs/2509.04380)|null|
@@ -4756,6 +4780,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**ROPE: A Novel Method for Real-Time Phase Estimation of Complex Biological Rhythms**|Antonio Spallone et.al.|[2509.04962](http://arxiv.org/abs/2509.04962)|null|
+|**2025-09-04**|**WATCH: World-aware Allied Trajectory and pose reconstruction for Camera and Human**|Qijun Ying et.al.|[2509.04600](http://arxiv.org/abs/2509.04600)|null|
 |**2025-09-04**|**SMooGPT: Stylized Motion Generation using Large Language Models**|Lei Zhong et.al.|[2509.04058](http://arxiv.org/abs/2509.04058)|null|
 |**2025-09-04**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
 |**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
@@ -5042,6 +5068,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales**|Krittanon Kaewtawee et.al.|[2509.04871](http://arxiv.org/abs/2509.04871)|null|
+|**2025-09-05**|**WatchHAR: Real-time On-device Human Activity Recognition System for Smartwatches**|Taeyoung Yeon et.al.|[2509.04736](http://arxiv.org/abs/2509.04736)|null|
+|**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|
+|**2025-09-04**|**DarkStream: real-time speech anonymization with low latency**|Waris Quamer et.al.|[2509.04667](http://arxiv.org/abs/2509.04667)|null|
 |**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|Atikkhan Faridkhan Nilgar et.al.|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
 |**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345](http://arxiv.org/abs/2509.04345)|null|
 |**2025-09-04**|**OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection**|Chen Hu et.al.|[2509.04324](http://arxiv.org/abs/2509.04324)|null|
@@ -5052,6 +5082,7 @@ layout: default
 |**2025-09-03**|**LatPhon: Lightweight Multilingual G2P for Romance Languages and English**|Luis Felipe Chary et.al.|[2509.03300](http://arxiv.org/abs/2509.03300)|null|
 |**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
 |**2025-09-03**|**AIVA: An AI-based Virtual Companion for Emotion-aware Interaction**|Chenxi Li et.al.|[2509.03212](http://arxiv.org/abs/2509.03212)|null|
+|**2025-09-02**|**From Silent Signals to Natural Language: A Dual-Stage Transformer-LLM Approach**|Nithyashree Sivasubramaniam et.al.|[2509.04507](http://arxiv.org/abs/2509.04507)|null|
 |**2025-09-02**|**AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent**|Jingru Fan et.al.|[2509.02444](http://arxiv.org/abs/2509.02444)|null|
 |**2025-09-02**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
 |**2025-09-01**|**MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model**|Joonyong Park et.al.|[2509.01391](http://arxiv.org/abs/2509.01391)|null|
