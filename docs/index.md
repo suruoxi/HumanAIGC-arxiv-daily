@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.09.08
+### Updated on 2025.09.09
 <details>
 
 <summary> Talking Face </summary>
@@ -2072,14 +2072,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|Yinglin Duan et.al.|[2509.05263](http://arxiv.org/abs/2509.05263)|null|
+|**2025-09-08**|**Transition of car-based human-mobility in the pandemic era: Data insight from a cross-border region in Europe**|Sujit Kumar Sikder et.al.|[2509.05166](http://arxiv.org/abs/2509.05166)|null|
 |**2025-09-05**|**WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool**|Zizun Li et.al.|[2509.05296](http://arxiv.org/abs/2509.05296)|null|
 |**2025-09-05**|**Greener Deep Reinforcement Learning: Analysis of Energy and Carbon Efficiency Across Atari Benchmarks**|Jason Gardner et.al.|[2509.05273](http://arxiv.org/abs/2509.05273)|null|
 |**2025-09-05**|**Fast 360° 3D Metrology for Directed Energy Deposition**|James Taylor et.al.|[2509.05268](http://arxiv.org/abs/2509.05268)|null|
-|**2025-09-05**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|Yinglin Duan et.al.|[2509.05263](http://arxiv.org/abs/2509.05263)|null|
 |**2025-09-05**|**Deep Learning-Enhanced for Amine Emission Monitoring and Performance Analysis in Industrial Carbon Capture Plants**|Lokendra Poudel et.al.|[2509.05241](http://arxiv.org/abs/2509.05241)|null|
 |**2025-09-05**|**Toward Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.05216](http://arxiv.org/abs/2509.05216)|null|
 |**2025-09-05**|**Accuracy-Constrained CNN Pruning for Efficient and Reliable EEG-Based Seizure Detection**|Mounvik K et.al.|[2509.05190](http://arxiv.org/abs/2509.05190)|null|
-|**2025-09-05**|**Transition of car-based human-mobility in the pandemic era: Data insight from a cross-border region in Europe**|Sujit Kumar Sikder et.al.|[2509.05166](http://arxiv.org/abs/2509.05166)|null|
 |**2025-09-05**|**Exploring Situated Stabilities of a Rhythm Generation System through Variational Cross-Examination**|Błażej Kotowski et.al.|[2509.05145](http://arxiv.org/abs/2509.05145)|null|
 |**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](http://arxiv.org/abs/2509.05080)|null|
 |**2025-09-05**|**Lightweight DNN for Full-Band Speech Denoising on Mobile Devices: Exploiting Long and Short Temporal Patterns**|Konstantinos Drossos et.al.|[2509.05079](http://arxiv.org/abs/2509.05079)|null|
