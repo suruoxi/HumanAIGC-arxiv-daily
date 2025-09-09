@@ -41,4 +41,5 @@ keywords:
         filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "dialogue", "voice interaction", "multimodal interaction",]
     "Others":
         filters: ["training-free","Vision-Language-Action", "Real time generation", "real time", "Video Personalization","Multimodal generation", "audio-video", "audio-visual"]
-
+    "Post Training":
+        filters: ["DPO", "REFL", "RLHF", "Reward Feedback Learning", "reinforcement learning from human feedback", "GRPO", "Reinforcelearning", "Video Alignment", "human video alignment"]
