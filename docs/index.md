@@ -5596,6 +5596,35 @@ layout: default
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
+</details><details>
+
+<summary> Post Training </summary>
+
+## Post Training
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**IntrEx: A Dataset for Modeling Engagement in Educational Conversations**|Xingwei Tan et.al.|[2509.06652](http://arxiv.org/abs/2509.06652)|null|
+|**2025-09-04**|**Murphys Laws of AI Alignment: Why the Gap Always Wins**|Madhava Gaikwad et.al.|[2509.05381](http://arxiv.org/abs/2509.05381)|null|
+|**2025-09-03**|**SharedRep-RLHF: A Shared Representation Approach to RLHF with Diverse Preferences**|Arpan Mukherjee et.al.|[2509.03672](http://arxiv.org/abs/2509.03672)|null|
+|**2025-09-02**|**GRAM-R $^2$ : Self-Training Generative Foundation Reward Models for Reward Reasoning**|Chenglong Wang et.al.|[2509.02492](http://arxiv.org/abs/2509.02492)|null|
+|**2025-09-02**|**Group Relative Policy Optimization for Speech Recognition**|Prashanth Gurunath Shivakumar et.al.|[2509.01939](http://arxiv.org/abs/2509.01939)|null|
+|**2025-09-01**|**Enhancing Uncertainty Estimation in LLMs with Expectation of Aggregated Internal Belief**|Zeguan Xiao et.al.|[2509.01564](http://arxiv.org/abs/2509.01564)|null|
+|**2025-09-01**|**Enhancing Partially Relevant Video Retrieval with Robust Alignment Learning**|Long Zhang et.al.|[2509.01383](http://arxiv.org/abs/2509.01383)|null|
+|**2025-08-30**|**Balanced Actor Initialization: Stable RLHF Training of Distillation-Based Reasoning Models**|Chen Zheng et.al.|[2509.00309](http://arxiv.org/abs/2509.00309)|null|
+|**2025-08-29**|**Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards**|Xiaolong Wei et.al.|[2508.21476](http://arxiv.org/abs/2508.21476)|null|
+|**2025-08-27**|**QuesGenie: Intelligent Multimodal Question Generation**|Ahmed Mubarak et.al.|[2509.03535](http://arxiv.org/abs/2509.03535)|null|
+|**2025-08-25**|**Better Language Model-Based Judging Reward Modeling through Scaling Comprehension Boundaries**|Meiling Ning et.al.|[2508.18212](http://arxiv.org/abs/2508.18212)|null|
+|**2025-08-23**|**KL-Regularised Q-Learning: A Token-level Action-Value perspective on Online RLHF**|Jason R Brown et.al.|[2508.17000](http://arxiv.org/abs/2508.17000)|null|
+|**2025-08-23**|**Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens**|Ilias Chalkidis et.al.|[2508.16982](http://arxiv.org/abs/2508.16982)|null|
+|**2025-08-20**|**Universal and Transferable Adversarial Attack on Large Language Models Using Exponentiated Gradient Descent**|Sajib Biswas et.al.|[2508.14853](http://arxiv.org/abs/2508.14853)|null|
+|**2025-08-19**|**Coarse-to-Fine Personalized LLM Impressions for Streamlined Radiology Reports**|Chengbo Sun et.al.|[2508.15845](http://arxiv.org/abs/2508.15845)|null|
+|**2025-08-18**|**Improving Detection of Watermarked Language Models**|Dara Bahri et.al.|[2508.13131](http://arxiv.org/abs/2508.13131)|null|
+|**2025-08-15**|**Fusing Rewards and Preferences in Reinforcement Learning**|Sadegh Khorasani et.al.|[2508.11363](http://arxiv.org/abs/2508.11363)|null|
+|**2025-08-14**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
+|**2025-08-14**|**Interpretable Reward Model via Sparse Autoencoder**|Shuyi Zhang et.al.|[2508.08746](http://arxiv.org/abs/2508.08746)|null|
+|**2025-08-12**|**Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training**|Jianfeng Si et.al.|[2508.14904](http://arxiv.org/abs/2508.14904)|null|
+
 </details>Notes: 
 
 * Codes are modified from https://github.com/liutaocode/talking-face-arxiv-daily 
