@@ -828,6 +828,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors**|Wenshuo Gao et.al.|[2509.07484](http://arxiv.org/abs/2509.07484)|null|
 |**2025-08-23**|**AnimateAnywhere: Rouse the Background in Human Image Animation**|Xiaoyu Liu et.al.|[2504.19834](http://arxiv.org/abs/2504.19834)|null|
 |**2025-08-13**|**Animate-X++: Universal Character Image Animation with Dynamic Backgrounds**|Shuai Tan et.al.|[2508.09454](http://arxiv.org/abs/2508.09454)|null|
 |**2025-08-10**|**Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers**|Xin Ma et.al.|[2508.07246](http://arxiv.org/abs/2508.07246)|null|
@@ -945,6 +946,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**ANYPORTAL: Zero-Shot Consistent Video Background Replacement**|Wenshuo Gao et.al.|[2509.07472](http://arxiv.org/abs/2509.07472)|null|
 |**2025-09-09**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-09**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/abs/2509.05952)|null|
 |**2025-09-09**|**Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts**|Adam Cole et.al.|[2509.05323](http://arxiv.org/abs/2509.05323)|null|
@@ -2098,9 +2100,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**Accelerating Local AI on Consumer GPUs: A Hardware-Aware Dynamic Strategy for YOLOv10s**|Mahmudul Islam Masum et.al.|[2509.07928](http://arxiv.org/abs/2509.07928)|null|
+|**2025-09-09**|**Verification power of rational-valued automata with deterministic and affine states**|Zeyu Chen et.al.|[2509.07857](http://arxiv.org/abs/2509.07857)|null|
+|**2025-09-09**|**Enhancements in Score-based Channel Estimation for Real-Time Wireless Systems**|Florian Strasser et.al.|[2509.07839](http://arxiv.org/abs/2509.07839)|null|
+|**2025-09-09**|**RayGaussX: Accelerating Gaussian-Based Ray Marching for Real-Time and High-Quality Novel View Synthesis**|Hugo Blanc et.al.|[2509.07782](http://arxiv.org/abs/2509.07782)|null|
+|**2025-09-09**|**AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents**|Haitao Hu et.al.|[2509.07764](http://arxiv.org/abs/2509.07764)|null|
+|**2025-09-09**|**Enhancing Online Learning by Integrating Biosensors and Multimodal Learning Analytics for Detecting and Predicting Student Behavior: A Review**|Alvaro Becerra et.al.|[2509.07742](http://arxiv.org/abs/2509.07742)|null|
+|**2025-09-09**|**Leveraging Digital Twin-as-a-Service Towards Continuous and Automated Cybersecurity Certification**|Ioannis Koufos et.al.|[2509.07649](http://arxiv.org/abs/2509.07649)|null|
+|**2025-09-09**|**Enhanced cast-128 with adaptive s-box optimization via neural networks for image protection**|Fadhil Abbas Fadhil et.al.|[2509.07606](http://arxiv.org/abs/2509.07606)|null|
+|**2025-09-09**|**Exploring System Adaptations For Minimum Latency Real-Time Piano Transcription**|Patricia Hu et.al.|[2509.07586](http://arxiv.org/abs/2509.07586)|null|
+|**2025-09-09**|**FlexSAN: A Flexible Regenerative Satellite Access Network Architecture**|Weize Kong et.al.|[2509.07548](http://arxiv.org/abs/2509.07548)|null|
+|**2025-09-09**|**Neural Cone Radiosity for Interactive Global Illumination with Glossy Materials**|Jierui Ren et.al.|[2509.07522](http://arxiv.org/abs/2509.07522)|null|
+|**2025-09-09**|**OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics**|Yinan Deng et.al.|[2509.07500](http://arxiv.org/abs/2509.07500)|null|
+|**2025-09-09**|**Safe and Non-Conservative Contingency Planning for Autonomous Vehicles via Online Learning-Based Reachable Set Barriers**|Rui Yang et.al.|[2509.07464](http://arxiv.org/abs/2509.07464)|null|
+|**2025-09-09**|**GRASPion: an Open-Source, Programmable Brainbot for Active Matter Research**|F. Novkoski et.al.|[2509.07437](http://arxiv.org/abs/2509.07437)|null|
+|**2025-09-09**|**Multi-Modal Intelligent Channel Modeling Framework for 6G-Enabled Networked Intelligent Systems**|Lu Bai et.al.|[2509.07422](http://arxiv.org/abs/2509.07422)|null|
+|**2025-09-09**|**A smart fridge with AI-enabled food computing**|Khue Nong Thuc et.al.|[2509.07400](http://arxiv.org/abs/2509.07400)|null|
+|**2025-09-09**|**TransMPC: Transformer-based Explicit MPC with Variable Prediction Horizon**|Sichao Wu et.al.|[2509.07381](http://arxiv.org/abs/2509.07381)|null|
+|**2025-09-09**|**Anti-Disturbance Hierarchical Sliding Mode Controller for Deep-Sea Cranes with Adaptive Control and Neural Network Compensation**|Qian Zuo et.al.|[2509.07356](http://arxiv.org/abs/2509.07356)|null|
+|**2025-09-09**|**PSketch: A Priority-Aware Sketch Architecture for Real-Time Flow Monitoring via eBPF**|Yuanjun Dai et.al.|[2509.07338](http://arxiv.org/abs/2509.07338)|null|
 |**2025-09-09**|**Hue4U: Real-Time Personalized Color Correction in Augmented Reality**|Jingwen Qin et.al.|[2509.06776](http://arxiv.org/abs/2509.06776)|null|
 |**2025-09-09**|**VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented Reinforcement Learning**|Huijun Tang et.al.|[2509.06763](http://arxiv.org/abs/2509.06763)|null|
 |**2025-09-09**|**Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting**|Yi Tian et.al.|[2509.06756](http://arxiv.org/abs/2509.06756)|null|
+|**2025-09-08**|**Monitoring Adverse Events Through Bayesian Nonparametric Clustering Across Studies**|Shijie Yuan et.al.|[2509.07267](http://arxiv.org/abs/2509.07267)|null|
 |**2025-09-08**|**Staying in the Sweet Spot: Responsive Reasoning Evolution via Capability-Adaptive Hint Scaffolding**|Ziheng Li et.al.|[2509.06923](http://arxiv.org/abs/2509.06923)|null|
 |**2025-09-08**|**BatStation: Toward In-Situ Radar Sensing on 5G Base Stations with Zero-Shot Template Generation**|Zhihui Gao et.al.|[2509.06898](http://arxiv.org/abs/2509.06898)|null|
 |**2025-09-08**|**Intraoperative 2D/3D Registration via Spherical Similarity Learning and Inference-Time Differentiable Levenberg-Marquardt Optimization**|Minheng Chen et.al.|[2509.06890](http://arxiv.org/abs/2509.06890)|null|
@@ -5119,7 +5141,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
+|**2025-09-09**|**When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection**|Bin Hu et.al.|[2509.07323](http://arxiv.org/abs/2509.07323)|null|
 |**2025-09-09**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361](http://arxiv.org/abs/2509.06361)|null|
+|**2025-09-08**|**Controllable Singing Voice Synthesis using Phoneme-Level Energy Sequence**|Yerin Ryu et.al.|[2509.07038](http://arxiv.org/abs/2509.07038)|null|
 |**2025-09-08**|**Aligning Large Vision-Language Models by Deep Reinforcement Learning and Direct Preference Optimization**|Thanh Thi Nguyen et.al.|[2509.06759](http://arxiv.org/abs/2509.06759)|null|
 |**2025-09-08**|**ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data**|Vladislav Stankov et.al.|[2509.06675](http://arxiv.org/abs/2509.06675)|null|
 |**2025-09-08**|**FireRedChat: A Pluggable, Full-Duplex Voice Interaction System with Cascaded and Semi-Cascaded Implementations**|Junjie Chen et.al.|[2509.06502](http://arxiv.org/abs/2509.06502)|null|
