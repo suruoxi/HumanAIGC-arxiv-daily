@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.09.11
+### Updated on 2025.09.12
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
 |**2025-09-10**|**Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video**|Xiao Li et.al.|[2509.08376](http://arxiv.org/abs/2509.08376)|null|
 |**2025-09-04**|**Durian: Dual Reference-guided Portrait Animation with Attribute Transfer**|Hyunsoo Cha et.al.|[2509.04434](http://arxiv.org/abs/2509.04434)|null|
 |**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
@@ -933,6 +934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
+|**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
+|**2025-09-11**|**Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training**|Ruicheng Zhang et.al.|[2509.06723](http://arxiv.org/abs/2509.06723)|null|
 |**2025-09-10**|**RewardDance: Reward Scaling in Visual Generation**|Jie Wu et.al.|[2509.08826](http://arxiv.org/abs/2509.08826)|null|
 |**2025-09-10**|**GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts**|Jenna Kang et.al.|[2509.08818](http://arxiv.org/abs/2509.08818)|null|
 |**2025-09-10**|**HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**|Liyang Chen et.al.|[2509.08519](http://arxiv.org/abs/2509.08519)|null|
@@ -940,7 +944,6 @@ layout: default
 |**2025-09-09**|**ANYPORTAL: Zero-Shot Consistent Video Background Replacement**|Wenshuo Gao et.al.|[2509.07472](http://arxiv.org/abs/2509.07472)|null|
 |**2025-09-09**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/abs/2509.05952)|null|
 |**2025-09-09**|**Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts**|Adam Cole et.al.|[2509.05323](http://arxiv.org/abs/2509.05323)|null|
-|**2025-09-08**|**Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training**|Ruicheng Zhang et.al.|[2509.06723](http://arxiv.org/abs/2509.06723)|null|
 |**2025-09-07**|**UniVerse-1: Unified Audio-Video Generation via Stitching of Experts**|Duomin Wang et.al.|[2509.06155](http://arxiv.org/abs/2509.06155)|null|
 |**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
 |**2025-09-04**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
@@ -2085,6 +2088,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Unsteady gas dynamics modeling for leakage detection in parallel pipelines**|Ilgar G. Aliyev et.al.|[2509.09612](http://arxiv.org/abs/2509.09612)|null|
+|**2025-09-11**|**Human-in-the-loop Learning Through Decentralized Communication Mechanisms**|Yiting Hu et.al.|[2509.09574](http://arxiv.org/abs/2509.09574)|null|
+|**2025-09-11**|**BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging**|Peng Zhou et.al.|[2509.09484](http://arxiv.org/abs/2509.09484)|null|
+|**2025-09-11**|**GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models**|Zhaohan Zhang et.al.|[2509.09438](http://arxiv.org/abs/2509.09438)|null|
+|**2025-09-11**|**Real-Time Kinematic Positioning and Optical See-Through Head-Mounted Display for Outdoor Tracking: Hybrid System and Preliminary Assessment**|Muhannad Ismael et.al.|[2509.09412](http://arxiv.org/abs/2509.09412)|null|
+|**2025-09-11**|**A Hybrid Hinge-Beam Continuum Robot with Passive Safety Capping for Real-Time Fatigue Awareness**|Tongshun Chen et.al.|[2509.09404](http://arxiv.org/abs/2509.09404)|null|
+|**2025-09-11**|**MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems**|Channdeth Sok et.al.|[2509.09360](http://arxiv.org/abs/2509.09360)|null|
+|**2025-09-11**|**Smart Device Development for Gait Monitoring: Multimodal Feedback in an Interactive Foot Orthosis, Walking Aid, and Mobile Application**|Stefan Resch et.al.|[2509.09359](http://arxiv.org/abs/2509.09359)|null|
+|**2025-09-11**|**Classification of Driver Behaviour Using External Observation Techniques for Autonomous Vehicles**|Ian Nell et.al.|[2509.09349](http://arxiv.org/abs/2509.09349)|null|
+|**2025-09-11**|**CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback**|Yifan Wang et.al.|[2509.09342](http://arxiv.org/abs/2509.09342)|null|
+|**2025-09-11**|**Towards Efficient and Secure Cloud Control Systems: Advances, Challenges, and Future Directions**|Yasir Ali et.al.|[2509.09299](http://arxiv.org/abs/2509.09299)|null|
+|**2025-09-11**|**Toward Quantum Enabled Solutions for Real-Time Currency Arbitrage in Financial Markets**|Suman Kumar Roy et.al.|[2509.09289](http://arxiv.org/abs/2509.09289)|null|
+|**2025-09-11**|**Improved Riemannian potato field: an Automatic Artifact Rejection Method for EEG**|Davoud Hajhassani et.al.|[2509.09264](http://arxiv.org/abs/2509.09264)|null|
+|**2025-09-11**|**Study of a Compact Device for Water Attenuation Length Measurements**|Junyou Chen et.al.|[2509.09260](http://arxiv.org/abs/2509.09260)|null|
+|**2025-09-11**|**Sensible Agent: A Framework for Unobtrusive Interaction with Proactive AR Agents**|Geonsun Lee et.al.|[2509.09255](http://arxiv.org/abs/2509.09255)|null|
+|**2025-09-11**|**RT-DETR++ for UAV Object Detection**|Yuan Shufang et.al.|[2509.09157](http://arxiv.org/abs/2509.09157)|null|
+|**2025-09-11**|**KAN-Therm: A Lightweight Battery Thermal Model Using Kolmogorov-Arnold Network**|Soumyoraj Mallick et.al.|[2509.09145](http://arxiv.org/abs/2509.09145)|null|
+|**2025-09-11**|**AEOS: Active Environment-aware Optimal Scanning Control for UAV LiDAR-Inertial Odometry in Complex Scenes**|Jianping Li et.al.|[2509.09141](http://arxiv.org/abs/2509.09141)|null|
+|**2025-09-11**|**User Exploration and Exploitation Behavior Under the Influence of Real-time Interactions in Live Streaming Environments**|Akira Matsui et.al.|[2509.09138](http://arxiv.org/abs/2509.09138)|null|
+|**2025-09-11**|**Examining teaching assistant pedagogies in traditional laboratories and recitations**|Eric M. Hickok et.al.|[2509.09136](http://arxiv.org/abs/2509.09136)|null|
 |**2025-09-10**|**A Survey of TinyML Applications in Beekeeping for Hive Monitoring and Management**|Willy Sucipto et.al.|[2509.08822](http://arxiv.org/abs/2509.08822)|null|
 |**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
 |**2025-09-10**|**Large scale dynamical response of interacting $1d$ Fermi systems**|Marcello Porta et.al.|[2509.08665](http://arxiv.org/abs/2509.08665)|null|
@@ -4853,6 +4876,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/abs/2509.09667)|null|
+|**2025-09-11**|**InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation**|Sirui Xu et.al.|[2509.09555](http://arxiv.org/abs/2509.09555)|null|
+|**2025-09-11**|**Improving Human Motion Plausibility with Body Momentum**|Ha Linh Nguyen et.al.|[2509.09496](http://arxiv.org/abs/2509.09496)|null|
 |**2025-09-08**|**From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters**|Jie Zhou et.al.|[2509.06573](http://arxiv.org/abs/2509.06573)|null|
 |**2025-09-05**|**ROPE: A Novel Method for Real-Time Phase Estimation of Complex Biological Rhythms**|Antonio Spallone et.al.|[2509.04962](http://arxiv.org/abs/2509.04962)|null|
 |**2025-09-04**|**WATCH: World-aware Allied Trajectory and pose reconstruction for Camera and Human**|Qijun Ying et.al.|[2509.04600](http://arxiv.org/abs/2509.04600)|null|
@@ -5143,6 +5169,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-11**|**Mitigating Language Barriers in Education: Developing Multilingual Digital Learning Materials with Machine Translation**|Lucie Poláková et.al.|[2509.09473](http://arxiv.org/abs/2509.09473)|null|
+|**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
+|**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
+|**2025-09-10**|**Characterizing Multimodal Interaction in Visualization Authoring Tools**|Astrid van den Brandt et.al.|[2509.08953](http://arxiv.org/abs/2509.08953)|null|
+|**2025-09-10**|**Deploying AI for Signal Processing education: Selected challenges and intriguing opportunities**|Jarvis Haupt et.al.|[2509.08950](http://arxiv.org/abs/2509.08950)|null|
 |**2025-09-10**|**Streaming Sequence-to-Sequence Learning with Delayed Streams Modeling**|Neil Zeghidour et.al.|[2509.08753](http://arxiv.org/abs/2509.08753)|null|
 |**2025-09-10**|**Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching**|Siratish Sakpiboonchit et.al.|[2509.08696](http://arxiv.org/abs/2509.08696)|null|
 |**2025-09-10**|**Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition**|Jing-Tong Tzeng et.al.|[2509.08470](http://arxiv.org/abs/2509.08470)|null|
