@@ -934,6 +934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching**|Zhixin Zheng et.al.|[2509.10312](http://arxiv.org/abs/2509.10312)|null|
 |**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
 |**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
 |**2025-09-11**|**Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training**|Ruicheng Zhang et.al.|[2509.06723](http://arxiv.org/abs/2509.06723)|null|
@@ -1728,6 +1729,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Immunizing Images from Text to Image Editing via Adversarial Cross-Attention**|Matteo Trippodo et.al.|[2509.10359](http://arxiv.org/abs/2509.10359)|null|
 |**2025-09-10**|**RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts**|Lauren H. Cooke et.al.|[2509.08640](http://arxiv.org/abs/2509.08640)|null|
 |**2025-09-09**|**Delta Velocity Rectified Flow for Text-to-Image Editing**|Gaspard Beaudouin et.al.|[2509.05342](http://arxiv.org/abs/2509.05342)|null|
 |**2025-09-04**|**Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control**|Haruo Fujiwara et.al.|[2509.05285](http://arxiv.org/abs/2509.05285)|null|
@@ -2088,6 +2090,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Merging Physics-Based Synthetic Data and Machine Learning for Thermal Monitoring of Lithium-ion Batteries: The Role of Data Fidelity**|Yusheng Zheng et.al.|[2509.10380](http://arxiv.org/abs/2509.10380)|null|
+|**2025-09-12**|**MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness**|Huizheng Wang et.al.|[2509.10372](http://arxiv.org/abs/2509.10372)|null|
+|**2025-09-12**|**Efficient Learned Image Compression Through Knowledge Distillation**|Fabien Allemand et.al.|[2509.10366](http://arxiv.org/abs/2509.10366)|null|
+|**2025-09-12**|**Physics-informed sensor coverage through structure preserving machine learning**|Benjamin David Shaffer et.al.|[2509.10363](http://arxiv.org/abs/2509.10363)|null|
+|**2025-09-12**|**Data-fused Model Predictive Control with Guarantees: Application to Flying Humanoid Robots**|Davide Gorbani et.al.|[2509.10353](http://arxiv.org/abs/2509.10353)|null|
+|**2025-09-12**|**Acetrans: An Autonomous Corridor-Based and Efficient UAV Suspended Transport System**|Weiyan Lu et.al.|[2509.10349](http://arxiv.org/abs/2509.10349)|null|
+|**2025-09-12**|**Towards Understanding Visual Grounding in Visual Language Models**|Georgios Pantazopoulos et.al.|[2509.10345](http://arxiv.org/abs/2509.10345)|null|
+|**2025-09-12**|**A Holistic Architecture for Monitoring and Optimization of Robust Multi-Agent Path Finding Plan Execution**|David Zahrádka et.al.|[2509.10284](http://arxiv.org/abs/2509.10284)|null|
+|**2025-09-12**|**Real-time identification and control of influential pandemic regions using graph signal variation**|Sudeepini Darapu et.al.|[2509.10281](http://arxiv.org/abs/2509.10281)|null|
+|**2025-09-12**|**Friend or Foe? Identifying Anomalous Peers in Moneros P2P Network**|Yannik Kopyciok et.al.|[2509.10214](http://arxiv.org/abs/2509.10214)|null|
+|**2025-09-12**|**Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction**|Ming Zhou et.al.|[2509.10213](http://arxiv.org/abs/2509.10213)|null|
+|**2025-09-12**|**Deep Reinforcement Learning for Active Flow Control around a Three-Dimensional Flow-Separated Wing at Re = 1,000**|R. Montalà et.al.|[2509.10195](http://arxiv.org/abs/2509.10195)|null|
+|**2025-09-12**|**Federated Multi-Agent Reinforcement Learning for Privacy-Preserving and Energy-Aware Resource Management in 6G Edge Networks**|Francisco Javier Esono Nkulu Andong et.al.|[2509.10163](http://arxiv.org/abs/2509.10163)|null|
+|**2025-09-12**|**Online Robust Planning under Model Uncertainty: A Sample-Based Approach**|Tamir Shazman et.al.|[2509.10162](http://arxiv.org/abs/2509.10162)|null|
+|**2025-09-12**|**Optimizing Freight Rail Electrification: A Framework for Charge Station Selection and Battery Charge/Swap Scheduling**|Jia Guo et.al.|[2509.10157](http://arxiv.org/abs/2509.10157)|null|
+|**2025-09-12**|**Soft Tissue Simulation and Force Estimation from Heterogeneous Structures using Equivariant Graph Neural Networks**|Madina Kojanazarova et.al.|[2509.10125](http://arxiv.org/abs/2509.10125)|null|
+|**2025-09-12**|**Arabic Large Language Models for Medical Text Generation**|Abdulrahman Allam et.al.|[2509.10095](http://arxiv.org/abs/2509.10095)|null|
+|**2025-09-12**|**FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification**|Weitao Tang et.al.|[2509.10082](http://arxiv.org/abs/2509.10082)|null|
+|**2025-09-12**|**BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals**|Minsang Kong et.al.|[2509.10080](http://arxiv.org/abs/2509.10080)|null|
+|**2025-09-12**|**The nature of alpha modulation through neurofeedback**|Jacob Maaz et.al.|[2509.10046](http://arxiv.org/abs/2509.10046)|null|
 |**2025-09-11**|**Unsteady gas dynamics modeling for leakage detection in parallel pipelines**|Ilgar G. Aliyev et.al.|[2509.09612](http://arxiv.org/abs/2509.09612)|null|
 |**2025-09-11**|**Human-in-the-loop Learning Through Decentralized Communication Mechanisms**|Yiting Hu et.al.|[2509.09574](http://arxiv.org/abs/2509.09574)|null|
 |**2025-09-11**|**BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging**|Peng Zhou et.al.|[2509.09484](http://arxiv.org/abs/2509.09484)|null|
@@ -4876,6 +4898,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario**|Saeed Saadatnejad et.al.|[2509.10096](http://arxiv.org/abs/2509.10096)|null|
 |**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/abs/2509.09667)|null|
 |**2025-09-11**|**InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation**|Sirui Xu et.al.|[2509.09555](http://arxiv.org/abs/2509.09555)|null|
 |**2025-09-11**|**Improving Human Motion Plausibility with Body Momentum**|Ha Linh Nguyen et.al.|[2509.09496](http://arxiv.org/abs/2509.09496)|null|
@@ -5169,7 +5192,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers**|Akshat Pandey et.al.|[2509.10452](http://arxiv.org/abs/2509.10452)|null|
+|**2025-09-12**|**Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps**|Xin Wang et.al.|[2509.10086](http://arxiv.org/abs/2509.10086)|null|
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-11**|**DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration**|Yanru Huo et.al.|[2509.09748](http://arxiv.org/abs/2509.09748)|null|
 |**2025-09-11**|**Mitigating Language Barriers in Education: Developing Multilingual Digital Learning Materials with Machine Translation**|Lucie Poláková et.al.|[2509.09473](http://arxiv.org/abs/2509.09473)|null|
 |**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
@@ -5179,6 +5205,7 @@ layout: default
 |**2025-09-10**|**Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching**|Siratish Sakpiboonchit et.al.|[2509.08696](http://arxiv.org/abs/2509.08696)|null|
 |**2025-09-10**|**Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition**|Jing-Tong Tzeng et.al.|[2509.08470](http://arxiv.org/abs/2509.08470)|null|
 |**2025-09-10**|**GlyphWeaver: Unlocking Glyph Design Creativity with Uniform Glyph DSL and AI**|Can Liu et.al.|[2509.08444](http://arxiv.org/abs/2509.08444)|null|
+|**2025-09-09**|**VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions**|Jun Zhan et.al.|[2509.09716](http://arxiv.org/abs/2509.09716)|null|
 |**2025-09-09**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
 |**2025-09-09**|**When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection**|Bin Hu et.al.|[2509.07323](http://arxiv.org/abs/2509.07323)|null|
 |**2025-09-09**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361](http://arxiv.org/abs/2509.06361)|null|
