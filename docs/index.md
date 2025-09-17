@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.09.16
+### Updated on 2025.09.17
 <details>
 
 <summary> Talking Face </summary>
@@ -935,6 +935,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|Yang Zhou et.al.|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
 |**2025-09-15**|**SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching**|Jiacheng Liu et.al.|[2509.11628](http://arxiv.org/abs/2509.11628)|null|
@@ -950,7 +951,6 @@ layout: default
 |**2025-09-10**|**RewardDance: Reward Scaling in Visual Generation**|Jie Wu et.al.|[2509.08826](http://arxiv.org/abs/2509.08826)|null|
 |**2025-09-10**|**GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts**|Jenna Kang et.al.|[2509.08818](http://arxiv.org/abs/2509.08818)|null|
 |**2025-09-10**|**HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**|Liyang Chen et.al.|[2509.08519](http://arxiv.org/abs/2509.08519)|null|
-|**2025-09-10**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-09**|**ANYPORTAL: Zero-Shot Consistent Video Background Replacement**|Wenshuo Gao et.al.|[2509.07472](http://arxiv.org/abs/2509.07472)|null|
 |**2025-09-09**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/abs/2509.05952)|null|
 |**2025-09-09**|**Attention of a Kiss: Exploring Attention Maps in Video Diffusion for XAIxArts**|Adam Cole et.al.|[2509.05323](http://arxiv.org/abs/2509.05323)|null|
@@ -2101,8 +2101,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**RailSafeNet: Visual Scene Understanding for Tram Safety**|Ondřej Valach et.al.|[2509.12125](http://arxiv.org/abs/2509.12125)|null|
 |**2025-09-15**|**Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.12138](http://arxiv.org/abs/2509.12138)|null|
-|**2025-09-15**|**RailSafeNet: Visual Scene Understanding for Tram Safety**|Ing. Ondrej Valach et.al.|[2509.12125](http://arxiv.org/abs/2509.12125)|null|
 |**2025-09-15**|**In-domain SSL pre-training and streaming ASR**|Jarod Duret et.al.|[2509.12101](http://arxiv.org/abs/2509.12101)|null|
 |**2025-09-15**|**A comparison between geostatistical and machine learning models for spatio-temporal prediction of PM2.5 data**|Zeinab Mohamed et.al.|[2509.12051](http://arxiv.org/abs/2509.12051)|null|
 |**2025-09-15**|**Gesture-Based Robot Control Integrating Mm-wave Radar and Behavior Trees**|Yuqing Song et.al.|[2509.12008](http://arxiv.org/abs/2509.12008)|null|

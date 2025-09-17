@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.09.16
+> Updated on 2025.09.17
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -821,7 +821,7 @@
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -936,7 +936,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -1592,7 +1592,7 @@
 - 2025-06-25, **BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos**, Jiahao Lin et.al., Paper: [http://arxiv.org/abs/2506.20103](http://arxiv.org/abs/2506.20103)
 - 2025-07-08, **Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**, Jaewan Park et.al., Paper: [http://arxiv.org/abs/2507.06133](http://arxiv.org/abs/2507.06133)
 - 2025-05-11, **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation**, Panwen Hu et.al., Paper: [http://arxiv.org/abs/2505.06985](http://arxiv.org/abs/2505.06985)
-- 2025-09-10, **BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**, Yuming Li et.al., Paper: [http://arxiv.org/abs/2509.06040](http://arxiv.org/abs/2509.06040)
+- 2025-09-16, **BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**, Yuming Li et.al., Paper: [http://arxiv.org/abs/2509.06040](http://arxiv.org/abs/2509.06040)
 - 2025-07-23, **Bob's Confetti: Phonetic Memorization Attacks in Music and Video Generation**, Jaechul Roh et.al., Paper: [http://arxiv.org/abs/2507.17937](http://arxiv.org/abs/2507.17937)
 - 2025-06-24, **Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**, Yubo Huang et.al., Paper: [http://arxiv.org/abs/2506.19833](http://arxiv.org/abs/2506.19833)
 - 2025-04-10, **Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**, Rundong Luo et.al., Paper: [http://arxiv.org/abs/2504.07940](http://arxiv.org/abs/2504.07940)
@@ -1649,7 +1649,7 @@
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -1739,7 +1739,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -2102,7 +2102,7 @@
 - 2025-07-08, **2D Instance Editing in 3D Space**, Yuhuan Xie et.al., Paper: [http://arxiv.org/abs/2507.05819](http://arxiv.org/abs/2507.05819)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -2880,7 +2880,7 @@
 - 2025-04-02, **Rapid Muon Tomography for Border Security**, Anzori Sh. Georgadze et.al., Paper: [http://arxiv.org/abs/2504.01525](http://arxiv.org/abs/2504.01525)
 - 2025-05-06, **Rapid AI-based generation of coverage paths for dispensing applications**, Simon Baeuerle et.al., Paper: [http://arxiv.org/abs/2505.03560](http://arxiv.org/abs/2505.03560)
 - 2025-09-03, **RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation**, Renzhi Wu et.al., Paper: [http://arxiv.org/abs/2509.02942](http://arxiv.org/abs/2509.02942)
-- 2025-09-15, **RailSafeNet: Visual Scene Understanding for Tram Safety**, Ing. Ondrej Valach et.al., Paper: [http://arxiv.org/abs/2509.12125](http://arxiv.org/abs/2509.12125)
+- 2025-09-16, **RailSafeNet: Visual Scene Understanding for Tram Safety**, Ondřej Valach et.al., Paper: [http://arxiv.org/abs/2509.12125](http://arxiv.org/abs/2509.12125)
 - 2025-02-19, **Radio observations of the ultra-long GRB 220627A reveal a hot cocoon supporting the blue supergiant progenitor scenario**, James K. Leung et.al., Paper: [http://arxiv.org/abs/2502.13435](http://arxiv.org/abs/2502.13435)
 - 2025-08-06, **Radar-Based NLoS Pedestrian Localization for Darting-Out Scenarios Near Parked Vehicles with Camera-Assisted Point Cloud Interpretation**, Hee-Yeun Kim et.al., Paper: [http://arxiv.org/abs/2508.04033](http://arxiv.org/abs/2508.04033)
 - 2025-03-04, **RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour**, Valerii Serpiva et.al., Paper: [http://arxiv.org/abs/2503.02572](http://arxiv.org/abs/2503.02572)
@@ -4930,7 +4930,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -5224,7 +5224,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -5754,7 +5754,7 @@
 - 2025-08-13, **$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**, Boyu Zhu et.al., Paper: [http://arxiv.org/abs/2508.09702](http://arxiv.org/abs/2508.09702)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 <details>
 
@@ -5785,7 +5785,7 @@
 - 2025-08-25, **Better Language Model-Based Judging Reward Modeling through Scaling Comprehension Boundaries**, Meiling Ning et.al., Paper: [http://arxiv.org/abs/2508.18212](http://arxiv.org/abs/2508.18212)
 - 2025-08-30, **Balanced Actor Initialization: Stable RLHF Training of Distillation-Based Reasoning Models**, Chen Zheng et.al., Paper: [http://arxiv.org/abs/2509.00309](http://arxiv.org/abs/2509.00309)
 
-</details><p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 Notes: 
 
