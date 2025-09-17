@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
 |**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
 |**2025-09-10**|**Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video**|Xiao Li et.al.|[2509.08376](http://arxiv.org/abs/2509.08376)|null|
@@ -935,6 +936,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
 |**2025-09-16**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|Yang Zhou et.al.|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
@@ -1738,6 +1740,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection**|Fei Wang et.al.|[2509.13214](http://arxiv.org/abs/2509.13214)|null|
+|**2025-09-16**|**Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder**|Qifei Jia et.al.|[2509.12883](http://arxiv.org/abs/2509.12883)|null|
+|**2025-09-16**|**Beyond Artificial Misalignment: Detecting and Grounding Semantic-Coordinated Multimodal Manipulations**|Jinjie Shen et.al.|[2509.12653](http://arxiv.org/abs/2509.12653)|null|
 |**2025-09-15**|**LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence**|Zixin Yin et.al.|[2509.12203](http://arxiv.org/abs/2509.12203)|null|
 |**2025-09-13**|**EditDuet: A Multi-Agent System for Video Non-Linear Editing**|Marcelo Sandoval-Castaneda et.al.|[2509.10761](http://arxiv.org/abs/2509.10761)|null|
 |**2025-09-12**|**Immunizing Images from Text to Image Editing via Adversarial Cross-Attention**|Matteo Trippodo et.al.|[2509.10359](http://arxiv.org/abs/2509.10359)|null|
@@ -2101,6 +2106,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Inferring Soil Drydown Behaviour with Adaptive Bayesian Online Changepoint Analysis**|Mengyi Gong et.al.|[2509.13293](http://arxiv.org/abs/2509.13293)|null|
+|**2025-09-16**|**RadGame: An AI-Powered Platform for Radiology Education**|Mohammed Baharoon et.al.|[2509.13270](http://arxiv.org/abs/2509.13270)|null|
+|**2025-09-16**|**Design and Control of a Perching Drone Inspired by the Prey-Capturing Mechanism of Venus Flytrap**|Ye Li et.al.|[2509.13249](http://arxiv.org/abs/2509.13249)|null|
+|**2025-09-16**|**Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance**|Ligang Chang et.al.|[2509.13210](http://arxiv.org/abs/2509.13210)|null|
+|**2025-09-16**|**SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty**|Zhao Feng et.al.|[2509.13189](http://arxiv.org/abs/2509.13189)|null|
+|**2025-09-16**|**UTI-LLM: A Personalized Articulatory-Speech Therapy Assistance System Based on Multimodal Large Language Model**|Yudong Yang et.al.|[2509.13145](http://arxiv.org/abs/2509.13145)|null|
+|**2025-09-16**|**From higher-order moments to time correlation functions in strongly correlated systems: A DMRG-based memory kernel coupling theory**|Yunhao Liu et.al.|[2509.13140](http://arxiv.org/abs/2509.13140)|null|
+|**2025-09-16**|**Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning**|Sijia Cui et.al.|[2509.13127](http://arxiv.org/abs/2509.13127)|null|
+|**2025-09-16**|**Real-time vacuum-state quantum random number generator on a chip**|Guan-Ru Qiao et.al.|[2509.13105](http://arxiv.org/abs/2509.13105)|null|
+|**2025-09-16**|**Practical Handling of Dynamic Environments in Decentralised Multi-Robot Patrol**|James C. Ward et.al.|[2509.13069](http://arxiv.org/abs/2509.13069)|null|
+|**2025-09-16**|**A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System**|Chao Xiong et.al.|[2509.12948](http://arxiv.org/abs/2509.12948)|null|
+|**2025-09-16**|**Beyond Averages: Open-Vocabulary 3D Scene Understanding with Gaussian Splatting and Bag of Embeddings**|Abdalla Arafa et.al.|[2509.12938](http://arxiv.org/abs/2509.12938)|null|
+|**2025-09-16**|**Spatiotemporal Calibration for Laser Vision Sensor in Hand-eye System Based on Straight-line Constraint**|Peiwen Yang et.al.|[2509.12928](http://arxiv.org/abs/2509.12928)|null|
+|**2025-09-16**|**Population Estimation using Deep Learning over Gandhinagar Urban Area**|Jai Singla et.al.|[2509.12926](http://arxiv.org/abs/2509.12926)|null|
+|**2025-09-16**|**A Novel Compression Framework for YOLOv8: Achiev-ing Real-Time Aerial Object Detection on Edge Devices via Structured Pruning and Channel-Wise Distillation**|Melika Sabaghian et.al.|[2509.12918](http://arxiv.org/abs/2509.12918)|null|
+|**2025-09-16**|**T-SiamTPN: Temporal Siamese Transformer Pyramid Networks for Robust and Efficient UAV Tracking**|Hojat Ardi et.al.|[2509.12913](http://arxiv.org/abs/2509.12913)|null|
+|**2025-09-16**|**Attosecond-resolved probing of recolliding electron wave packets in liquids and aqueous solutions**|Angana Mondal et.al.|[2509.12872](http://arxiv.org/abs/2509.12872)|null|
+|**2025-09-16**|**State Aware Traffic Generation for Real-Time Network Digital Twins**|Enes Koktas et.al.|[2509.12860](http://arxiv.org/abs/2509.12860)|null|
+|**2025-09-16**|**The AdvCam: Designing the future cameras for the Large-Sized Telescope of the Cherenkov Telescope Array Observatory**|Matthieu Heller et.al.|[2509.12854](http://arxiv.org/abs/2509.12854)|null|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
 |**2025-09-16**|**RailSafeNet: Visual Scene Understanding for Tram Safety**|Ondřej Valach et.al.|[2509.12125](http://arxiv.org/abs/2509.12125)|null|
 |**2025-09-15**|**Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.12138](http://arxiv.org/abs/2509.12138)|null|
 |**2025-09-15**|**In-domain SSL pre-training and streaming ASR**|Jarod Duret et.al.|[2509.12101](http://arxiv.org/abs/2509.12101)|null|
@@ -5223,6 +5248,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
+|**2025-09-16**|**Gesture Evaluation in Virtual Reality**|Axel Wiebe Werner et.al.|[2509.12816](http://arxiv.org/abs/2509.12816)|null|
 |**2025-09-15**|**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**|Marek Kubis et.al.|[2509.12171](http://arxiv.org/abs/2509.12171)|null|
 |**2025-09-14**|**Designing and Evaluating a Conversational Agent for Early Detection of Alzheimer's Disease and Related Dementias**|Andrew G. Breithaupt et.al.|[2509.11478](http://arxiv.org/abs/2509.11478)|null|
 |**2025-09-14**|**FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs**|Md Mubtasim Ahasan et.al.|[2509.11425](http://arxiv.org/abs/2509.11425)|null|
@@ -5753,6 +5781,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**The Anatomy of Alignment: Decomposing Preference Optimization by Steering Sparse Features**|Jeremias Ferrao et.al.|[2509.12934](http://arxiv.org/abs/2509.12934)|null|
+|**2025-09-16**|**Towards personalized, precise and survey-free environment recognition: AI-enhanced sensor fusion without pre-deployment**|Ruichen Wang et.al.|[2509.12870](http://arxiv.org/abs/2509.12870)|null|
+|**2025-09-16**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-15**|**NeuroStrike: Neuron-Level Attacks on Aligned LLMs**|Lichao Wu et.al.|[2509.11864](http://arxiv.org/abs/2509.11864)|null|
 |**2025-09-15**|**Murphys Laws of AI Alignment: Why the Gap Always Wins**|Madhava Gaikwad et.al.|[2509.05381](http://arxiv.org/abs/2509.05381)|null|
 |**2025-09-14**|**Opal: An Operator Algebra View of RLHF**|Madhava Gaikwad et.al.|[2509.11298](http://arxiv.org/abs/2509.11298)|null|
