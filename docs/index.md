@@ -936,8 +936,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models**|Artem Lykov et.al.|[2509.13903](http://arxiv.org/abs/2509.13903)|null|
+|**2025-09-17**|**BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching**|Hanshuai Cui et.al.|[2509.13789](http://arxiv.org/abs/2509.13789)|null|
 |**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
 |**2025-09-17**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
+|**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Kai Ye et.al.|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
 |**2025-09-16**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|Yang Zhou et.al.|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
@@ -1650,6 +1653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform**|Xingzi Xu et.al.|[2509.13506](http://arxiv.org/abs/2509.13506)|null|
 |**2025-09-05**|**LUIVITON: Learned Universal Interoperable VIrtual Try-ON**|Cong Cao et.al.|[2509.05030](http://arxiv.org/abs/2509.05030)|null|
 |**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
 |**2025-09-04**|**Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation**|Lydia Kin Ching Chau et.al.|[2509.02445](http://arxiv.org/abs/2509.02445)|null|
@@ -1740,6 +1744,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**Controllable-Continuous Color Editing in Diffusion Model via Color Mapping**|Yuqi Yang et.al.|[2509.13756](http://arxiv.org/abs/2509.13756)|null|
+|**2025-09-17**|**LLM-I: LLMs are Naturally Interleaved Multimodal Creators**|Zirun Guo et.al.|[2509.13642](http://arxiv.org/abs/2509.13642)|null|
+|**2025-09-16**|**EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing**|Tianyu Chen et.al.|[2509.13399](http://arxiv.org/abs/2509.13399)|null|
 |**2025-09-16**|**End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection**|Fei Wang et.al.|[2509.13214](http://arxiv.org/abs/2509.13214)|null|
 |**2025-09-16**|**Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder**|Qifei Jia et.al.|[2509.12883](http://arxiv.org/abs/2509.12883)|null|
 |**2025-09-16**|**Beyond Artificial Misalignment: Detecting and Grounding Semantic-Coordinated Multimodal Manipulations**|Jinjie Shen et.al.|[2509.12653](http://arxiv.org/abs/2509.12653)|null|
@@ -2106,6 +2113,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**GLIDE: A Coordinated Aerial-Ground Framework for Search and Rescue in Unknown Environments**|Seth Farrell et.al.|[2509.14210](http://arxiv.org/abs/2509.14210)|null|
+|**2025-09-17**|**Quantum Utility in Simulating the Real-time Dynamics of the Fermi-Hubbard Model using Superconducting Quantum Computers**|Talal Ahmed Chowdhury et.al.|[2509.14196](http://arxiv.org/abs/2509.14196)|null|
+|**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|
+|**2025-09-17**|**SV-Mixer: Replacing the Transformer Encoder with Lightweight MLPs for Self-Supervised Model Compression in Speaker Verification**|Jungwoo Heo et.al.|[2509.14136](http://arxiv.org/abs/2509.14136)|null|
+|**2025-09-17**|**A Task Equalization Allocation Algorithm Incorporating Blocking Estimation and Resource Similarity Analysis for Vehicle Control Real-Time Systems**|Qianlong Duan et.al.|[2509.14086](http://arxiv.org/abs/2509.14086)|null|
+|**2025-09-17**|**Queen Detection in Beehives via Environmental Sensor Fusion for Low-Power Edge Computing**|Chiara De Luca et.al.|[2509.14061](http://arxiv.org/abs/2509.14061)|null|
+|**2025-09-17**|**EEG-Based Cognitive Load Classification During Landmark-Based VR Navigation**|Jiahui An et.al.|[2509.14056](http://arxiv.org/abs/2509.14056)|null|
+|**2025-09-17**|**Deep Learning-Driven Peptide Classification in Biological Nanopores**|Samuel Tovey et.al.|[2509.14029](http://arxiv.org/abs/2509.14029)|null|
+|**2025-09-17**|**Whole-body Motion Control of an Omnidirectional Wheel-Legged Mobile Manipulator via Contact-Aware Dynamic Optimization**|Zong Chen et.al.|[2509.14010](http://arxiv.org/abs/2509.14010)|null|
+|**2025-09-17**|**Deep Temporal Graph Networks for Real-Time Correction of GNSS Jamming-Induced Deviations**|Ivana Kesić et.al.|[2509.14000](http://arxiv.org/abs/2509.14000)|null|
+|**2025-09-17**|**Personalization on a Budget: Minimally-Labeled Continual Learning for Resource-Efficient Seizure Detection**|Amirhossein Shahbazinia et.al.|[2509.13974](http://arxiv.org/abs/2509.13974)|null|
+|**2025-09-17**|**BIM Informed Visual SLAM for Construction Monitoring**|Asier Bikandi et.al.|[2509.13972](http://arxiv.org/abs/2509.13972)|null|
+|**2025-09-17**|**Distractor-Aware Memory-Based Visual Object Tracking**|Jovana Videnovic et.al.|[2509.13864](http://arxiv.org/abs/2509.13864)|null|
+|**2025-09-17**|**Flow Matching-Based Active Learning for Radio Map Construction with Low-Altitude UAVs**|Hao Sun et.al.|[2509.13822](http://arxiv.org/abs/2509.13822)|null|
+|**2025-09-17**|**SWA-PF: Semantic-Weighted Adaptive Particle Filter for Memory-Efficient 4-DoF UAV Localization in GNSS-Denied Environments**|Jiayu Yuan et.al.|[2509.13795](http://arxiv.org/abs/2509.13795)|null|
+|**2025-09-17**|**Efficient Quantization-Aware Neural Receivers: Beyond Post-Training Quantization**|SaiKrishna Saketh Yellapragada et.al.|[2509.13786](http://arxiv.org/abs/2509.13786)|null|
+|**2025-09-17**|**CETUS: Causal Event-Driven Temporal Modeling With Unified Variable-Rate Scheduling**|Hanfang Liang et.al.|[2509.13784](http://arxiv.org/abs/2509.13784)|null|
+|**2025-09-17**|**VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI**|Daiqi Liu et.al.|[2509.13767](http://arxiv.org/abs/2509.13767)|null|
+|**2025-09-17**|**TENET: An Efficient Sparsity-Aware LUT-Centric Architecture for Ternary LLM Inference On Edge**|Zhirui Huang et.al.|[2509.13765](http://arxiv.org/abs/2509.13765)|null|
+|**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou et.al.|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-17**|**A Novel Compression Framework for YOLOv8: Achieving Real-Time Aerial Object Detection on Edge Devices via Structured Pruning and Channel-Wise Distillation**|Melika Sabaghian et.al.|[2509.12918](http://arxiv.org/abs/2509.12918)|null|
 |**2025-09-16**|**Inferring Soil Drydown Behaviour with Adaptive Bayesian Online Changepoint Analysis**|Mengyi Gong et.al.|[2509.13293](http://arxiv.org/abs/2509.13293)|null|
 |**2025-09-16**|**RadGame: An AI-Powered Platform for Radiology Education**|Mohammed Baharoon et.al.|[2509.13270](http://arxiv.org/abs/2509.13270)|null|
@@ -4954,6 +4981,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Kai Ye et.al.|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
+|**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Chunxin Zheng et.al.|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
 |**2025-09-12**|**HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario**|Saeed Saadatnejad et.al.|[2509.10096](http://arxiv.org/abs/2509.10096)|null|
 |**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/abs/2509.09667)|null|
 |**2025-09-11**|**InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation**|Sirui Xu et.al.|[2509.09555](http://arxiv.org/abs/2509.09555)|null|
@@ -5248,6 +5277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset**|Brian Yan et.al.|[2509.14161](http://arxiv.org/abs/2509.14161)|null|
+|**2025-09-17**|**Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in Instruction-Guided Expressive Text-To-Speech Systems**|Yi-Cheng Lin et.al.|[2509.13989](http://arxiv.org/abs/2509.13989)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 |**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
 |**2025-09-16**|**Gesture Evaluation in Virtual Reality**|Axel Wiebe Werner et.al.|[2509.12816](http://arxiv.org/abs/2509.12816)|null|
