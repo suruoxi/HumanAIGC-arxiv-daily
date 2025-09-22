@@ -936,7 +936,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Lynx: Towards High-Fidelity Personalized Video Generation**|Shen Sang et.al.|[2509.15496](http://arxiv.org/abs/2509.15496)|null|
 |**2025-09-19**|**AToken: A Unified Tokenizer for Vision**|Jiasen Lu et.al.|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
+|**2025-09-18**|**OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data**|Björn Möller et.al.|[2509.15479](http://arxiv.org/abs/2509.15479)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Yuming Jiang et.al.|[2509.15212](http://arxiv.org/abs/2509.15212)|null|
 |**2025-09-18**|**WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance**|Chenxi Song et.al.|[2509.15130](http://arxiv.org/abs/2509.15130)|null|
 |**2025-09-18**|**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images**|Kazuma Nagata et.al.|[2509.14685](http://arxiv.org/abs/2509.14685)|null|
@@ -1748,6 +1750,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution**|Chang Soo Lim et.al.|[2509.15781](http://arxiv.org/abs/2509.15781)|null|
 |**2025-09-18**|**AutoEdit: Automatic Hyperparameter Tuning for Image Editing**|Chau Pham et.al.|[2509.15031](http://arxiv.org/abs/2509.15031)|null|
 |**2025-09-18**|**MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks**|Mingsong Li et.al.|[2509.14638](http://arxiv.org/abs/2509.14638)|null|
 |**2025-09-18**|**End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection**|Fei Wang et.al.|[2509.13214](http://arxiv.org/abs/2509.13214)|null|
@@ -2119,6 +2122,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation**|Luca Della Libera et.al.|[2509.16195](http://arxiv.org/abs/2509.16195)|null|
+|**2025-09-19**|**Fast OTSU Thresholding Using Bisection Method**|Sai Varun Kodathala et.al.|[2509.16179](http://arxiv.org/abs/2509.16179)|null|
+|**2025-09-19**|**Sequential analysis in a continuous spin-noise quantum sensor**|Elisabet Roda-Salichs et.al.|[2509.16177](http://arxiv.org/abs/2509.16177)|null|
+|**2025-09-19**|**A novel agile THz Pulsed Spectropolarimeter measuring 2D distributions of the magnetic field, density and ion temperature of fusion reactor equilibria**|Roger J Smith et.al.|[2509.16159](http://arxiv.org/abs/2509.16159)|null|
+|**2025-09-19**|**RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars**|Weiyi Xiong et.al.|[2509.16119](http://arxiv.org/abs/2509.16119)|null|
+|**2025-09-19**|**Real-Time Thermal State Estimation and Forecasting in Laser Powder Bed Fusion**|Yukta Pareek et.al.|[2509.16114](http://arxiv.org/abs/2509.16114)|null|
+|**2025-09-19**|**Real-Time Planning and Control with a Vortex Particle Model for Fixed-Wing UAVs in Unsteady Flows**|Ashwin Gupta et.al.|[2509.16079](http://arxiv.org/abs/2509.16079)|null|
+|**2025-09-19**|**Communications to Circulations: 3D Wind Field Retrieval and Real-Time Prediction Using 5G GNSS Signals and Deep Learning**|Yuchen Ye et.al.|[2509.16068](http://arxiv.org/abs/2509.16068)|null|
+|**2025-09-19**|**A High-performance Real-time Container File Monitoring Approach Based on Virtual Machine Introspection**|Kai Tan et.al.|[2509.16030](http://arxiv.org/abs/2509.16030)|null|
+|**2025-09-19**|**Simultaneous real-time multispectral fluorescence and reflectance imaging for enhanced intraoperative guidance**|Kyriakos Pentarakis et.al.|[2509.15979](http://arxiv.org/abs/2509.15979)|null|
+|**2025-09-19**|**The new architecture design of the Science Alert Generation pipeline of the Cherenkov Telescope Array Observatory**|CTAO-ACADA Collaboration et.al.|[2509.15970](http://arxiv.org/abs/2509.15970)|null|
+|**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|null|
+|**2025-09-19**|**CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine**|Shiyu Fang et.al.|[2509.15968](http://arxiv.org/abs/2509.15968)|null|
+|**2025-09-19**|**PAN: Pillars-Attention-Based Network for 3D Object Detection**|Ruan Bispo et.al.|[2509.15935](http://arxiv.org/abs/2509.15935)|null|
+|**2025-09-19**|**RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation**|Paul Julius Kühn et.al.|[2509.15886](http://arxiv.org/abs/2509.15886)|null|
+|**2025-09-19**|**Understanding the Role of Large Language Models in Competitive Programming**|Dongyijie Primo Pan et.al.|[2509.15867](http://arxiv.org/abs/2509.15867)|null|
+|**2025-09-19**|**Smart Interrupted Routing Based on Multi-head Attention Mask Mechanism-Driven MARL in Software-defined UASNs**|Zhenyu Wang et.al.|[2509.15856](http://arxiv.org/abs/2509.15856)|null|
+|**2025-09-19**|**ThermalGuardian: Temperature-Aware Testing of Automotive Deep Learning Frameworks**|Yinglong Zou et.al.|[2509.15815](http://arxiv.org/abs/2509.15815)|null|
+|**2025-09-19**|**CBPNet: A Continual Backpropagation Prompt Network for Alleviating Plasticity Loss on Edge Devices**|Runjie Shao et.al.|[2509.15785](http://arxiv.org/abs/2509.15785)|null|
+|**2025-09-19**|**UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression**|Chenlong Deng et.al.|[2509.15763](http://arxiv.org/abs/2509.15763)|null|
 |**2025-09-19**|**MeanFlowSE: one-step generative speech enhancement via conditional mean flow**|Duojia Li et.al.|[2509.14858](http://arxiv.org/abs/2509.14858)|null|
 |**2025-09-19**|**Beam Squint Assisted Joint Angle-Distance Localization for Near-Field Communications**|Aibiao Zhang et.al.|[2509.14850](http://arxiv.org/abs/2509.14850)|null|
 |**2025-09-18**|**Maize Seedling Detection Dataset (MSDD): A Curated High-Resolution RGB Dataset for Seedling Maize Detection and Benchmarking with YOLOv9, YOLO11, YOLOv12 and Faster-RCNN**|Dewi Endah Kharismawati et.al.|[2509.15181](http://arxiv.org/abs/2509.15181)|null|
@@ -5007,6 +5030,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning**|Xingyu Chen et.al.|[2509.15443](http://arxiv.org/abs/2509.15443)|null|
 |**2025-09-17**|**DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**|Dvij Kalaria et.al.|[2509.14353](http://arxiv.org/abs/2509.14353)|null|
 |**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Kai Ye et.al.|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
 |**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Chunxin Zheng et.al.|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
@@ -5304,6 +5328,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Fed-PISA: Federated Voice Cloning via Personalized Identity-Style Adaptation**|Qi Wang et.al.|[2509.16010](http://arxiv.org/abs/2509.16010)|null|
+|**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|null|
+|**2025-09-19**|**Deep Dubbing: End-to-End Auto-Audiobook System with Text-to-Timbre and Context-Aware Instruct-TTS**|Ziqi Dai et.al.|[2509.15845](http://arxiv.org/abs/2509.15845)|null|
+|**2025-09-19**|**LibriTTS-VI: A Public Corpus and Novel Methods for Efficient Voice Impression Control**|Junki Ohmura et.al.|[2509.15626](http://arxiv.org/abs/2509.15626)|null|
+|**2025-09-19**|**From Service-Oriented Computing to Metaverse Services: A Framework for Inclusive and Immersive Learning for Neurodivergent Students**|Rachid Hamadi et.al.|[2509.15545](http://arxiv.org/abs/2509.15545)|null|
+|**2025-09-19**|**Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech**|Xinlei Niu et.al.|[2509.15492](http://arxiv.org/abs/2509.15492)|null|
+|**2025-09-18**|**A Novel Semantic Compression Approach for Ultra-low Bandwidth Voice Communication**|Ryan Collette et.al.|[2509.15462](http://arxiv.org/abs/2509.15462)|null|
+|**2025-09-18**|**Frustratingly Easy Data Augmentation for Low-Resource ASR**|Katsumi Ibaraki et.al.|[2509.15373](http://arxiv.org/abs/2509.15373)|null|
+|**2025-09-18**|**Emotion-Aware Speech Generation with Character-Specific Voices for Comics**|Zhiwen Qian et.al.|[2509.15253](http://arxiv.org/abs/2509.15253)|null|
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
 |**2025-09-18**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|null|
 |**2025-09-18**|**MELA-TTS: Joint transformer-diffusion model with representation alignment for speech synthesis**|Keyu An et.al.|[2509.14784](http://arxiv.org/abs/2509.14784)|null|
