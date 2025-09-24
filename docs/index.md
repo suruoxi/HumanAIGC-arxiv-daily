@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Audio-Driven Universal Gaussian Head Avatars**|Kartik Teotia et.al.|[2509.18924](http://arxiv.org/abs/2509.18924)|null|
 |**2025-09-22**|**"I don't like my avatar": Investigating Human Digital Doubles**|Siyi Liu et.al.|[2509.17748](http://arxiv.org/abs/2509.17748)|null|
 |**2025-09-22**|**Stable Video-Driven Portraits**|Mallikarjun B. R. et.al.|[2509.17476](http://arxiv.org/abs/2509.17476)|null|
 |**2025-09-21**|**Beat on Gaze: Learning Stylized Generation of Gaze and Head Dynamics**|Chengwei Shi et.al.|[2509.17168](http://arxiv.org/abs/2509.17168)|null|
@@ -941,6 +942,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters**|Pin-Yen Chiu et.al.|[2509.18831](http://arxiv.org/abs/2509.18831)|null|
 |**2025-09-22**|**VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models**|Geonung Kim et.al.|[2509.17985](http://arxiv.org/abs/2509.17985)|null|
 |**2025-09-22**|**I2VWM: Robust Watermarking for Image to Video Generation**|Guanjie Wang et.al.|[2509.17773](http://arxiv.org/abs/2509.17773)|null|
 |**2025-09-21**|**Echo-Path: Pathology-Conditioned Echo Video Generation**|Kabir Hamzah Muhammad et.al.|[2509.17190](http://arxiv.org/abs/2509.17190)|null|
@@ -1763,6 +1765,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation**|Shufan Li et.al.|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
+|**2025-09-23**|**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation**|Yanzuo Lu et.al.|[2509.18824](http://arxiv.org/abs/2509.18824)|null|
+|**2025-09-23**|**Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation**|Yuanhuiyi Lyu et.al.|[2509.18639](http://arxiv.org/abs/2509.18639)|null|
+|**2025-09-23**|**GeoRemover: Removing Objects and Their Causal Visual Artifacts**|Zixin Zhu et.al.|[2509.18538](http://arxiv.org/abs/2509.18538)|null|
 |**2025-09-22**|**Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance**|Hongxing Fan et.al.|[2509.17757](http://arxiv.org/abs/2509.17757)|null|
 |**2025-09-20**|**Prompt-Driven Agentic Video Editing System: Autonomous Comprehension of Long-Form, Story-Driven Media**|Zihan Ding et.al.|[2509.16811](http://arxiv.org/abs/2509.16811)|null|
 |**2025-09-20**|**V-CECE: Visual Counterfactual Explanations via Conceptual Edits**|Nikolaos Spanos et.al.|[2509.16567](http://arxiv.org/abs/2509.16567)|null|
@@ -2139,6 +2145,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
+|**2025-09-23**|**STFT-AECNN: An Attention-Enhanced CNN for Efficient Φ-OTDR Event Recognition in IoT-Enabled Distributed Acoustic Sensing**|Xiyang Lan et.al.|[2509.19281](http://arxiv.org/abs/2509.19281)|null|
+|**2025-09-23**|**A Low-cost Quasi-planar Array Probe for Photoacoustic Imaging**|Xiyu Chen et.al.|[2509.19268](http://arxiv.org/abs/2509.19268)|null|
+|**2025-09-23**|**Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces**|Kuanqi Cai et.al.|[2509.19261](http://arxiv.org/abs/2509.19261)|null|
+|**2025-09-23**|**Study Design and Demystification of Physics Informed Neural Networks for Power Flow Simulation**|Milad Leyli-abadi et.al.|[2509.19233](http://arxiv.org/abs/2509.19233)|null|
+|**2025-09-23**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
+|**2025-09-23**|**MagiClaw: A Dual-Use, Vision-Based Soft Gripper for Bridging the Human Demonstration to Robotic Deployment Gap**|Tianyu Wu et.al.|[2509.19169](http://arxiv.org/abs/2509.19169)|null|
+|**2025-09-23**|**A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination**|Mark Gonzales et.al.|[2509.19168](http://arxiv.org/abs/2509.19168)|null|
+|**2025-09-23**|**YOLO-LAN: Precise Polyp Detection via Optimized Loss, Augmentations and Negatives**|Siddharth Gupta et.al.|[2509.19166](http://arxiv.org/abs/2509.19166)|null|
+|**2025-09-23**|**KAMERA: Enhancing Aerial Surveys of Ice-associated Seals in Arctic Environments**|Adam Romlein et.al.|[2509.19129](http://arxiv.org/abs/2509.19129)|null|
+|**2025-09-23**|**Track-On2: Enhancing Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2509.19115](http://arxiv.org/abs/2509.19115)|null|
+|**2025-09-23**|**AI-Enabled Smart Hygiene System for Real-Time Glucose Detection**|Khan Masood Parvez et.al.|[2509.19107](http://arxiv.org/abs/2509.19107)|null|
+|**2025-09-23**|**Investigating Traffic Accident Detection Using Multimodal Large Language Models**|Ilhan Skender et.al.|[2509.19096](http://arxiv.org/abs/2509.19096)|null|
+|**2025-09-23**|**Regularity estimate and sparse approximation of pathwise robust Duncan-Mortensen-Zakai equation**|Yuhua Meng et.al.|[2509.19093](http://arxiv.org/abs/2509.19093)|null|
+|**2025-09-23**|**Scheduler-Driven Job Atomization**|Michal Konopa et.al.|[2509.19086](http://arxiv.org/abs/2509.19086)|null|
+|**2025-09-23**|**SlicerROS2: A Research and Development Module for Image-Guided Robotic Interventions**|Laura Connolly et.al.|[2509.19076](http://arxiv.org/abs/2509.19076)|null|
+|**2025-09-23**|**Nonadiabatic processes in dynamical controls**|Yoshiaki Teranishi et.al.|[2509.19062](http://arxiv.org/abs/2509.19062)|null|
+|**2025-09-23**|**SAG-SCI: the Real-time, High-level Analysis Software for Array Control and Data Acquisition of the Cherenkov Telescope Array Observatory**|Gabriele Panebianco et.al.|[2509.18945](http://arxiv.org/abs/2509.18945)|null|
+|**2025-09-23**|**Native Mixed Reality Compositing on Meta Quest 3: A Quantitative Feasibility Study of ARM-Based SoCs and Thermal Headroom**|Muhammad Kaif Laghari et.al.|[2509.18929](http://arxiv.org/abs/2509.18929)|null|
+|**2025-09-23**|**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation**|Yanzuo Lu et.al.|[2509.18824](http://arxiv.org/abs/2509.18824)|null|
 |**2025-09-22**|**Convolutional Neural Network Optimization for Beehive Classification Using Bioacoustic Signals**|Harshit et.al.|[2509.17800](http://arxiv.org/abs/2509.17800)|null|
 |**2025-09-22**|**Spin-Seebeck Signatures of Spin Chirality in Kagome Antiferromagnets**|Feodor Svetlanov Konomaev et.al.|[2509.17798](http://arxiv.org/abs/2509.17798)|null|
 |**2025-09-22**|**Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2509.17790](http://arxiv.org/abs/2509.17790)|null|
@@ -5067,6 +5093,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Moving by Looking: Towards Vision-Driven Avatar Motion Generation**|Markos Diomataris et.al.|[2509.19259](http://arxiv.org/abs/2509.19259)|null|
+|**2025-09-23**|**Adversarially-Refined VQ-GAN with Dense Motion Tokenization for Spatio-Temporal Heatmaps**|Gabriel Maldonado et.al.|[2509.19252](http://arxiv.org/abs/2509.19252)|null|
 |**2025-09-21**|**Bi-modal Prediction and Transformation Coding for Compressing Complex Human Dynamics**|Huong Hoang et.al.|[2509.16919](http://arxiv.org/abs/2509.16919)|null|
 |**2025-09-21**|**DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**|Dvij Kalaria et.al.|[2509.14353](http://arxiv.org/abs/2509.14353)|null|
 |**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Jinrui Han et.al.|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
@@ -5367,6 +5395,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS**|Sihang Nie et.al.|[2509.19001](http://arxiv.org/abs/2509.19001)|null|
+|**2025-09-23**|**Direct Preference Optimization for Speech Autoregressive Diffusion Models**|Zhijun Liu et.al.|[2509.18928](http://arxiv.org/abs/2509.18928)|null|
+|**2025-09-23**|**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation**|Yanzuo Lu et.al.|[2509.18824](http://arxiv.org/abs/2509.18824)|null|
+|**2025-09-23**|**Group Relative Policy Optimization for Text-to-Speech with Large Language Models**|Chang Liu et.al.|[2509.18798](http://arxiv.org/abs/2509.18798)|null|
+|**2025-09-23**|**Explore the Reinforcement Learning for the LLM based ASR and TTS system**|Changfeng Gao et.al.|[2509.18569](http://arxiv.org/abs/2509.18569)|null|
+|**2025-09-23**|**No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS**|Seungyoun Shin et.al.|[2509.18531](http://arxiv.org/abs/2509.18531)|null|
+|**2025-09-22**|**Discrete-time diffusion-like models for speech synthesis**|Xiaozhou Tan et.al.|[2509.18470](http://arxiv.org/abs/2509.18470)|null|
 |**2025-09-22**|**TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2509.18060](http://arxiv.org/abs/2509.18060)|null|
 |**2025-09-22**|**Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech**|Zirui Li et.al.|[2509.17988](http://arxiv.org/abs/2509.17988)|null|
 |**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
@@ -5930,6 +5965,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Reinforcement Learning on Pre-Training Data**|Siheng Li et.al.|[2509.19249](http://arxiv.org/abs/2509.19249)|null|
 |**2025-09-22**|**SparseDoctor: Towards Efficient Chat Doctor with Mixture of Experts Enhanced Large Language Models**|Jianbin Zhang et.al.|[2509.14269](http://arxiv.org/abs/2509.14269)|null|
 |**2025-09-18**|**Aligning Audio Captions with Human Preferences**|Kartik Hegde et.al.|[2509.14659](http://arxiv.org/abs/2509.14659)|null|
 |**2025-09-17**|**IntrEx: A Dataset for Modeling Engagement in Educational Conversations**|Xingwei Tan et.al.|[2509.06652](http://arxiv.org/abs/2509.06652)|null|
