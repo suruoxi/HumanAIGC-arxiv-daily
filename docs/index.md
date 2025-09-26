@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.09.25
+### Updated on 2025.09.26
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Unlocking Financial Insights: An advanced Multimodal Summarization with Multimodal Output Framework for Financial Advisory Videos**|Sarmistha Das et.al.|[2509.20961](http://arxiv.org/abs/2509.20961)|null|
 |**2025-09-24**|**KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation**|Tianle Lyu et.al.|[2509.20128](http://arxiv.org/abs/2509.20128)|null|
 |**2025-09-24**|**Comparative Study of Subjective Video Quality Assessment Test Methods in Crowdsourcing for Varied Use Cases**|Babak Naderi et.al.|[2509.20118](http://arxiv.org/abs/2509.20118)|null|
 |**2025-09-24**|**SynchroRaMa : Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding**|Phyo Thet Yee et.al.|[2509.19965](http://arxiv.org/abs/2509.19965)|null|
@@ -946,6 +947,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics**|Yu Yuan et.al.|[2509.21309](http://arxiv.org/abs/2509.21309)|null|
+|**2025-09-25**|**MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation**|Guojun Lei et.al.|[2509.21119](http://arxiv.org/abs/2509.21119)|null|
 |**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
 |**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
@@ -1680,6 +1683,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han et.al.|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
 |**2025-09-24**|**Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On**|Qi Li et.al.|[2509.20343](http://arxiv.org/abs/2509.20343)|null|
 |**2025-09-23**|**Clothing agnostic Pre-inpainting Virtual Try-ON**|Sehyun Kim et.al.|[2509.17654](http://arxiv.org/abs/2509.17654)|null|
 |**2025-09-21**|**SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments**|Ruiyan Wang et.al.|[2509.16960](http://arxiv.org/abs/2509.16960)|null|
@@ -1774,10 +1778,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**FreeInsert: Personalized Object Insertion with Geometric and Style Control**|Yuhong Zhang et.al.|[2509.20756](http://arxiv.org/abs/2509.20756)|null|
+|**2025-09-25**|**ArtUV: Artist-style UV Unwrapping**|Yuguang Chen et.al.|[2509.20710](http://arxiv.org/abs/2509.20710)|null|
+|**2025-09-25**|**Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation**|Yuanhuiyi Lyu et.al.|[2509.18639](http://arxiv.org/abs/2509.18639)|null|
+|**2025-09-24**|**Seedream 4.0: Toward Next-generation Multimodal Image Generation**|Team Seedream et.al.|[2509.20427](http://arxiv.org/abs/2509.20427)|null|
 |**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
 |**2025-09-24**|**CAMILA: Context-Aware Masking for Image Editing with Language Alignment**|Hyunseung Kim et.al.|[2509.19731](http://arxiv.org/abs/2509.19731)|null|
 |**2025-09-24**|**Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation**|Shufan Li et.al.|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
-|**2025-09-24**|**Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation**|Yuanhuiyi Lyu et.al.|[2509.18639](http://arxiv.org/abs/2509.18639)|null|
 |**2025-09-23**|**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation**|Yanzuo Lu et.al.|[2509.18824](http://arxiv.org/abs/2509.18824)|null|
 |**2025-09-23**|**GeoRemover: Removing Objects and Their Causal Visual Artifacts**|Zixin Zhu et.al.|[2509.18538](http://arxiv.org/abs/2509.18538)|null|
 |**2025-09-22**|**Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance**|Hongxing Fan et.al.|[2509.17757](http://arxiv.org/abs/2509.17757)|null|
@@ -2156,6 +2163,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Interactive Recommendation Agent with Active User Commands**|Jiakai Tang et.al.|[2509.21317](http://arxiv.org/abs/2509.21317)|null|
+|**2025-09-25**|**Efficient Digital Methods to Quantify Sensor Output Uncertainty**|Orestis Kaparounakis et.al.|[2509.21311](http://arxiv.org/abs/2509.21311)|null|
+|**2025-09-25**|**Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization**|Yuhang Xu et.al.|[2509.21301](http://arxiv.org/abs/2509.21301)|null|
+|**2025-09-25**|**Vision-Intelligence-Enabled Beam Tracking for Cross-Interface Water-Air Optical Wireless Communications**|Tianqi Mao et.al.|[2509.21290](http://arxiv.org/abs/2509.21290)|null|
+|**2025-09-25**|**\LARGE GMP $^{3}$ : Learning-Driven, Bellman-Guided Trajectory Planning for UAVs in Real-Time on SE(3)**|Babak Salamat et.al.|[2509.21264](http://arxiv.org/abs/2509.21264)|null|
+|**2025-09-25**|**Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks**|Murat Arda Onsu et.al.|[2509.21259](http://arxiv.org/abs/2509.21259)|null|
+|**2025-09-25**|**A new era for multi-wavelength studies of blazars with Rubin and the CTAO**|Julian Hamo et.al.|[2509.21109](http://arxiv.org/abs/2509.21109)|null|
+|**2025-09-25**|**Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution**|Kaiwen He et.al.|[2509.21072](http://arxiv.org/abs/2509.21072)|null|
+|**2025-09-25**|**A sub-hourly spatio-temporal statistical model for solar irradiance in Ireland using open-source data**|Maeve Upton et.al.|[2509.21041](http://arxiv.org/abs/2509.21041)|null|
+|**2025-09-25**|**KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models**|Sibo Li et.al.|[2509.21027](http://arxiv.org/abs/2509.21027)|null|
+|**2025-09-25**|**A Novel Integrated Architecture for Intent Based Approach and Zero Touch Networks**|Neelam Gupta et.al.|[2509.21026](http://arxiv.org/abs/2509.21026)|null|
+|**2025-09-25**|**Multi-Robot Vision-Based Task and Motion Planning for EV Battery Disassembly and Sorting**|Abdelaziz Shaarawy et.al.|[2509.21020](http://arxiv.org/abs/2509.21020)|null|
+|**2025-09-25**|**Study on Locomotive Epidemic Dynamics in a Stochastic Spatio-Temporal Simulation Model on a Multiplex Network**|H. M. Shadman Tabib et.al.|[2509.21017](http://arxiv.org/abs/2509.21017)|null|
+|**2025-09-25**|**The Use of the Simplex Architecture to Enhance Safety in Deep-Learning-Powered Autonomous Systems**|Federico Nesti et.al.|[2509.21014](http://arxiv.org/abs/2509.21014)|null|
+|**2025-09-25**|**AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation**|Konstantin Gubernatorov et.al.|[2509.21006](http://arxiv.org/abs/2509.21006)|null|
+|**2025-09-25**|**TF-Restormer: Complex Spectral Prediction for Speech Restoration**|Ui-Hyeop Shin et.al.|[2509.21003](http://arxiv.org/abs/2509.21003)|null|
+|**2025-09-25**|**i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents**|Anupam Purwar et.al.|[2509.20971](http://arxiv.org/abs/2509.20971)|null|
+|**2025-09-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al.|[2509.20946](http://arxiv.org/abs/2509.20946)|null|
+|**2025-09-25**|**Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery**|Angelo Henriques et.al.|[2509.20941](http://arxiv.org/abs/2509.20941)|null|
+|**2025-09-25**|**FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network**|Chao Zha et.al.|[2509.20861](http://arxiv.org/abs/2509.20861)|null|
 |**2025-09-24**|**xGFabric: Coupling Sensor Networks and HPC Facilities with Private 5G Wireless Networks for Real-Time Digital Agriculture**|Liubov Kurafeeva et.al.|[2509.20340](http://arxiv.org/abs/2509.20340)|null|
 |**2025-09-24**|**A Comprehensive Evaluation of YOLO-based Deer Detection Performance on Edge Devices**|Bishal Adhikari et.al.|[2509.20318](http://arxiv.org/abs/2509.20318)|null|
 |**2025-09-24**|**A co-evolving agentic AI system for medical imaging analysis**|Songhao Li et.al.|[2509.20279](http://arxiv.org/abs/2509.20279)|null|
@@ -5124,8 +5151,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Taxonomy-aware Dynamic Motion Generation on Hyperbolic Manifolds**|Luis Augenstein et.al.|[2509.21281](http://arxiv.org/abs/2509.21281)|null|
+|**2025-09-25**|**AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation**|Konstantin Gubernatorov et.al.|[2509.21006](http://arxiv.org/abs/2509.21006)|null|
+|**2025-09-25**|**SimDiff: Simulator-constrained Diffusion Model for Physically Plausible Motion Generation**|Akihisa Watanabe et.al.|[2509.20927](http://arxiv.org/abs/2509.20927)|null|
+|**2025-09-25**|**HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms**|Bingjie Chen et.al.|[2509.20263](http://arxiv.org/abs/2509.20263)|null|
 |**2025-09-24**|**VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation**|Shaofeng Yin et.al.|[2509.20322](http://arxiv.org/abs/2509.20322)|null|
-|**2025-09-24**|**HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms**|Bingjie Chen et.al.|[2509.20263](http://arxiv.org/abs/2509.20263)|null|
 |**2025-09-23**|**Moving by Looking: Towards Vision-Driven Avatar Motion Generation**|Markos Diomataris et.al.|[2509.19259](http://arxiv.org/abs/2509.19259)|null|
 |**2025-09-23**|**Adversarially-Refined VQ-GAN with Dense Motion Tokenization for Spatio-Temporal Heatmaps**|Gabriel Maldonado et.al.|[2509.19252](http://arxiv.org/abs/2509.19252)|null|
 |**2025-09-21**|**Bi-modal Prediction and Transformation Coding for Compressing Complex Human Dynamics**|Huong Hoang et.al.|[2509.16919](http://arxiv.org/abs/2509.16919)|null|
@@ -5428,9 +5458,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice**|Sitong Cheng et.al.|[2509.21144](http://arxiv.org/abs/2509.21144)|null|
+|**2025-09-25**|**i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents**|Anupam Purwar et.al.|[2509.20971](http://arxiv.org/abs/2509.20971)|null|
+|**2025-09-25**|**SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS**|Tan Dat Nguyen et.al.|[2509.20802](http://arxiv.org/abs/2509.20802)|null|
+|**2025-09-25**|**AuthGlass: Enhancing Voice Authentication on Smart Glasses via Air-Bone Acoustic Features**|Weiye Xu et.al.|[2509.20799](http://arxiv.org/abs/2509.20799)|null|
+|**2025-09-25**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
+|**2025-09-24**|**Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens**|Ismail Rasim Ulgen et.al.|[2509.20485](http://arxiv.org/abs/2509.20485)|null|
 |**2025-09-24**|**A HyperGraphMamba-Based Multichannel Adaptive Model for ncRNA Classification**|Xin An et.al.|[2509.20240](http://arxiv.org/abs/2509.20240)|null|
 |**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
-|**2025-09-24**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
 |**2025-09-24**|**CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance**|Junchuan Zhao et.al.|[2509.19883](http://arxiv.org/abs/2509.19883)|null|
 |**2025-09-24**|**Eliminating stability hallucinations in llm-based tts models via attention guidance**|ShiMing Wang et.al.|[2509.19852](http://arxiv.org/abs/2509.19852)|null|
 |**2025-09-24**|**Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation**|Yang Cui et.al.|[2509.19812](http://arxiv.org/abs/2509.19812)|null|
@@ -6007,8 +6042,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Reinforcement Learning on Pre-Training Data**|Siheng Li et.al.|[2509.19249](http://arxiv.org/abs/2509.19249)|null|
 |**2025-09-24**|**bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs**|Wence Ji et.al.|[2509.19775](http://arxiv.org/abs/2509.19775)|null|
-|**2025-09-23**|**Reinforcement Learning on Pre-Training Data**|Siheng Li et.al.|[2509.19249](http://arxiv.org/abs/2509.19249)|null|
 |**2025-09-22**|**SparseDoctor: Towards Efficient Chat Doctor with Mixture of Experts Enhanced Large Language Models**|Jianbin Zhang et.al.|[2509.14269](http://arxiv.org/abs/2509.14269)|null|
 |**2025-09-18**|**Aligning Audio Captions with Human Preferences**|Kartik Hegde et.al.|[2509.14659](http://arxiv.org/abs/2509.14659)|null|
 |**2025-09-17**|**IntrEx: A Dataset for Modeling Engagement in Educational Conversations**|Xingwei Tan et.al.|[2509.06652](http://arxiv.org/abs/2509.06652)|null|
