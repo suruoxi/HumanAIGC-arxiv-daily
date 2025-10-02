@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.01
+### Updated on 2025.10.02
 <details>
 
 <summary> Talking Face </summary>
@@ -2220,6 +2220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-01**|**Introducing Large Language Models into the Design Flow of Time Sensitive Networking**|Rubi Debnath et.al.|[2509.26368](http://arxiv.org/abs/2509.26368)|null|
+|**2025-10-01**|**Machine Learning Detection of Lithium Plating in Lithium-ion Cells: A Gaussian Process Approach**|Ayush Patnaik et.al.|[2509.26234](http://arxiv.org/abs/2509.26234)|null|
 |**2025-09-30**|**Query-Kontext: An Unified Multimodal Model for Image Generation and Editing**|Yuxin Song et.al.|[2509.26641](http://arxiv.org/abs/2509.26641)|null|
 |**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|null|
 |**2025-09-30**|**Automated and Scalable SEM Image Analysis of Perovskite Solar Cell Materials via a Deep Segmentation Framework**|Jian Guo Pan et.al.|[2509.26548](http://arxiv.org/abs/2509.26548)|null|
@@ -2229,7 +2231,6 @@ layout: default
 |**2025-09-30**|**Real-time Velocity Profile Optimization for Time-Optimal Maneuvering with Generic Acceleration Constraints**|Mattia Piazza et.al.|[2509.26428](http://arxiv.org/abs/2509.26428)|null|
 |**2025-09-30**|**Real-time gait event detection using motion capture to control an electrical stimulator: Proof-of-concept**|Gabriel Graffagnino et.al.|[2509.26400](http://arxiv.org/abs/2509.26400)|null|
 |**2025-09-30**|**Game-Time: Evaluating Temporal Dynamics in Spoken Language Models**|Kai-Wei Chang et.al.|[2509.26388](http://arxiv.org/abs/2509.26388)|null|
-|**2025-09-30**|**Introducing Large Language Models in the Design Flow of Time Sensitive Networking**|Rubi Debnath et.al.|[2509.26368](http://arxiv.org/abs/2509.26368)|null|
 |**2025-09-30**|**Universal critical dynamics near the chiral phase transition and the QCD critical point**|Yunxin Ye et.al.|[2509.26355](http://arxiv.org/abs/2509.26355)|null|
 |**2025-09-30**|**SoK: Systematic analysis of adversarial threats against deep learning approaches for autonomous anomaly detection systems in SDN-IoT networks**|Tharindu Lakshan Yasarathna et.al.|[2509.26350](http://arxiv.org/abs/2509.26350)|null|
 |**2025-09-30**|**LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search**|Ruiyang Wang et.al.|[2509.26324](http://arxiv.org/abs/2509.26324)|null|
@@ -2237,7 +2238,6 @@ layout: default
 |**2025-09-30**|**Reservoir computing based predictive reduced order model for steel grade intermixing in an industrial continuous casting tundish**|Harshith Gowrachari et.al.|[2509.26293](http://arxiv.org/abs/2509.26293)|null|
 |**2025-09-30**|**Rings of Light, Speed of AI: YOLO for Cherenkov Reconstruction**|Martino Borsato et.al.|[2509.26273](http://arxiv.org/abs/2509.26273)|null|
 |**2025-09-30**|**Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document**|Adnan Ben Mansour et.al.|[2509.26235](http://arxiv.org/abs/2509.26235)|null|
-|**2025-09-30**|**Machine Learning Detection of Lithium Plating in Lithium-ion Cells: A Gaussian Process Approach**|Ayush Patnaik et.al.|[2509.26234](http://arxiv.org/abs/2509.26234)|null|
 |**2025-09-30**|**Terrain-Awared LiDAR-Inertial Odometry for Legged-Wheel Robots Based on Radial Basis Function Approximation**|Yizhe Liu et.al.|[2509.26222](http://arxiv.org/abs/2509.26222)|null|
 |**2025-09-30**|**Comparative Analysis of Ant Colony Optimization and Google OR-Tools for Solving the Open Capacitated Vehicle Routing Problem in Logistics**|Assem Omar et.al.|[2509.26216](http://arxiv.org/abs/2509.26216)|null|
 |**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
@@ -6191,12 +6191,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-01**|**Latent Collective Preference Optimization: A General Framework for Robust LLM Alignment**|Xiaoyang Cao et.al.|[2509.24159](http://arxiv.org/abs/2509.24159)|null|
 |**2025-09-30**|**OPPO: Accelerating PPO-based RLHF via Pipeline Overlap**|Kaizhuo Yan et.al.|[2509.25762](http://arxiv.org/abs/2509.25762)|null|
 |**2025-09-29**|**IRIS: Intrinsic Reward Image Synthesis**|Yihang Chen et.al.|[2509.25562](http://arxiv.org/abs/2509.25562)|null|
 |**2025-09-29**|**Circuit-Aware Reward Training: A Mechanistic Framework for Longtail Robustness in RLHF**|Jing Liu et.al.|[2509.24713](http://arxiv.org/abs/2509.24713)|null|
 |**2025-09-29**|**SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer**|Junsong Chen et.al.|[2509.24695](http://arxiv.org/abs/2509.24695)|null|
 |**2025-09-29**|**UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark**|Ailing Zhang et.al.|[2509.24427](http://arxiv.org/abs/2509.24427)|null|
-|**2025-09-29**|**Robust Preference Optimization: Aligning Language Models with Noisy Preference Feedback**|Xiaoyang Cao et.al.|[2509.24159](http://arxiv.org/abs/2509.24159)|null|
 |**2025-09-29**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-28**|**Toward Preference-aligned Large Language Models via Residual-based Model Steering**|Lucio La Cava et.al.|[2509.23982](http://arxiv.org/abs/2509.23982)|null|
 |**2025-09-28**|**Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment for Long-Form Factuality**|Junliang Li et.al.|[2509.23765](http://arxiv.org/abs/2509.23765)|null|
