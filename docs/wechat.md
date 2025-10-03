@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2025.10.02
+> Updated on 2025.10.03
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -835,7 +835,7 @@
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -950,7 +950,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -1723,7 +1723,7 @@
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -1821,7 +1821,7 @@
 - 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414](http://arxiv.org/abs/2504.17414)
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -1855,7 +1855,7 @@
 - 2025-05-29, **Video Editing for Audio-Visual Dubbing**, Binyamin Manela et.al., Paper: [http://arxiv.org/abs/2505.23406](http://arxiv.org/abs/2505.23406), Code: **[https://github.com/edidub/edidub-results](https://github.com/edidub/edidub-results)**
 - 2025-06-18, **VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics**, Josef Kuchař et.al., Paper: [http://arxiv.org/abs/2506.15903](http://arxiv.org/abs/2506.15903)
 - 2025-05-28, **VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**, Mingyuan Wu et.al., Paper: [http://arxiv.org/abs/2505.19255](http://arxiv.org/abs/2505.19255)
-- 2025-09-30, **VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**, Abdelilah Aitrouga et.al., Paper: [http://arxiv.org/abs/2509.25998](http://arxiv.org/abs/2509.25998)
+- 2025-10-02, **VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**, Abdelilah Aitrouga et.al., Paper: [http://arxiv.org/abs/2509.25998](http://arxiv.org/abs/2509.25998)
 - 2025-06-12, **VINCIE: Unlocking In-context Image Editing from Video**, Leigang Qu et.al., Paper: [http://arxiv.org/abs/2506.10941](http://arxiv.org/abs/2506.10941)
 - 2025-04-24, **VEU-Bench: Towards Comprehensive Understanding of Video Editing**, Bozheng Li et.al., Paper: [http://arxiv.org/abs/2504.17828](http://arxiv.org/abs/2504.17828)
 - 2025-03-19, **VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**, Shoubin Yu et.al., Paper: [http://arxiv.org/abs/2503.14350](http://arxiv.org/abs/2503.14350)
@@ -2184,7 +2184,7 @@
 - 2025-04-07, **CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**, Kavana Venkatesh et.al., Paper: [http://arxiv.org/abs/2504.05306](http://arxiv.org/abs/2504.05306)
 - 2025-06-23, **CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**, Dinh-Khoi Vo et.al., Paper: [http://arxiv.org/abs/2506.18438](http://arxiv.org/abs/2506.18438)
 - 2025-08-10, **CLUE: Leveraging Low-Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization**, Youqi Wang et.al., Paper: [http://arxiv.org/abs/2508.07413](http://arxiv.org/abs/2508.07413)
-- 2025-09-24, **CAMILA: Context-Aware Masking for Image Editing with Language Alignment**, Hyunseung Kim et.al., Paper: [http://arxiv.org/abs/2509.19731](http://arxiv.org/abs/2509.19731)
+- 2025-10-01, **CAMILA: Context-Aware Masking for Image Editing with Language Alignment**, Hyunseung Kim et.al., Paper: [http://arxiv.org/abs/2509.19731](http://arxiv.org/abs/2509.19731)
 - 2025-03-11, **CAD-VAE: Leveraging Correlation-Aware Latents for Comprehensive Fair Disentanglement**, Chenrui Ma et.al., Paper: [http://arxiv.org/abs/2503.07938](http://arxiv.org/abs/2503.07938)
 - 2025-06-03, **ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**, Di Chang et.al., Paper: [http://arxiv.org/abs/2506.03107](http://arxiv.org/abs/2506.03107)
 - 2025-06-06, **Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models**, Yifu Qiu et.al., Paper: [http://arxiv.org/abs/2506.06006](http://arxiv.org/abs/2506.06006), Code: **[https://github.com/yfqiu-nlp/vlm-world-model](https://github.com/yfqiu-nlp/vlm-world-model)**
@@ -2221,7 +2221,7 @@
 - 2025-07-08, **2D Instance Editing in 3D Space**, Yuhuan Xie et.al., Paper: [http://arxiv.org/abs/2507.05819](http://arxiv.org/abs/2507.05819)
 - 2025-04-17, **$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**, Siwei Yang et.al., Paper: [http://arxiv.org/abs/2504.13143](http://arxiv.org/abs/2504.13143)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -5269,7 +5269,7 @@
 - 2025-04-08, **$L_\textrm{dT}$ : An ionospheric activity index based on distributions in GNSS-derived TEC rates of change**, Paul Kinsler et.al., Paper: [http://arxiv.org/abs/2504.06056](http://arxiv.org/abs/2504.06056)
 - 2025-05-07, **"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.04488](http://arxiv.org/abs/2505.04488)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -5585,7 +5585,7 @@
 - 2025-03-19, **A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**, Tommaso Van Der Meer et.al., Paper: [http://arxiv.org/abs/2503.15127](http://arxiv.org/abs/2503.15127), Code: **[https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)**
 - 2025-03-17, **3D Human Interaction Generation: A Survey**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2503.13120](http://arxiv.org/abs/2503.13120)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -6192,7 +6192,7 @@
 - 2025-08-13, **$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**, Boyu Zhu et.al., Paper: [http://arxiv.org/abs/2508.09702](http://arxiv.org/abs/2508.09702)
 - 2025-04-12, **"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**, Shira Michel et.al., Paper: [http://arxiv.org/abs/2504.09346](http://arxiv.org/abs/2504.09346)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 <details>
 
@@ -6242,7 +6242,7 @@
 - 2025-09-18, **Aligning Audio Captions with Human Preferences**, Kartik Hegde et.al., Paper: [http://arxiv.org/abs/2509.14659](http://arxiv.org/abs/2509.14659)
 - 2025-09-26, **Adaptive Margin RLHF via Preference over Preferences**, Yaswanth Chittepu et.al., Paper: [http://arxiv.org/abs/2509.22851](http://arxiv.org/abs/2509.22851)
 
-</details><p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 Notes: 
 
