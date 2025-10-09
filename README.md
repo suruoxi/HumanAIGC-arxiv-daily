@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.10.08
+### Updated on 2025.10.09
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
 |**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-03**|**Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing**|Danial Samadi Vahdati et.al.|[2510.03548](http://arxiv.org/abs/2510.03548)|null|
 |**2025-10-02**|**Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation**|Beijia Lu et.al.|[2510.02617](http://arxiv.org/abs/2510.02617)|null|
@@ -839,7 +840,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -957,7 +958,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -967,6 +968,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Zezhong Qian et.al.|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
+|**2025-10-08**|**MATRIX: Mask Track Alignment for Interaction-aware Video Generation**|Siyoon Jin et.al.|[2510.07310](http://arxiv.org/abs/2510.07310)|null|
+|**2025-10-08**|**TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**|Jiaben Chen et.al.|[2510.07249](http://arxiv.org/abs/2510.07249)|null|
+|**2025-10-08**|**MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis**|Yihao Zhi et.al.|[2510.07190](http://arxiv.org/abs/2510.07190)|null|
+|**2025-10-08**|**Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report**|Riccardo Mereu et.al.|[2510.07092](http://arxiv.org/abs/2510.07092)|null|
+|**2025-10-08**|**Addressing the ID-Matching Challenge in Long Video Captioning**|Zhantao Yang et.al.|[2510.06973](http://arxiv.org/abs/2510.06973)|null|
 |**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
 |**2025-10-07**|**When and How to Cut Classical Concerts? A Multimodal Automated Video Editing Approach**|Daniel Gonzálbez-Biosca et.al.|[2510.05661](http://arxiv.org/abs/2510.05661)|null|
 |**2025-10-06**|**LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation**|Yang Xiao et.al.|[2510.05367](http://arxiv.org/abs/2510.05367)|null|
@@ -1762,7 +1769,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -1865,7 +1872,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -1875,6 +1882,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**DreamOmni2: Multimodal Instruction-based Editing and Generation**|Bin Xia et.al.|[2510.06679](http://arxiv.org/abs/2510.06679)|null|
+|**2025-10-07**|**Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding**|Yi Xin et.al.|[2510.06308](http://arxiv.org/abs/2510.06308)|null|
+|**2025-10-07**|**Efficient High-Resolution Image Editing with Hallucination-Aware Loss and Adaptive Tiling**|Young D. Kwon et.al.|[2510.06295](http://arxiv.org/abs/2510.06295)|null|
 |**2025-10-07**|**Diffusion-Based Image Editing for Breaking Robust Watermarks**|Yunyi Ni et.al.|[2510.05978](http://arxiv.org/abs/2510.05978)|null|
 |**2025-10-07**|**When and How to Cut Classical Concerts? A Multimodal Automated Video Editing Approach**|Daniel Gonzálbez-Biosca et.al.|[2510.05661](http://arxiv.org/abs/2510.05661)|null|
 |**2025-10-06**|**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder**|Ronen Kamenetsky et.al.|[2510.05081](http://arxiv.org/abs/2510.05081)|null|
@@ -2284,7 +2294,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -2294,6 +2304,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**A multi-layered embedded intrusion detection framework for programmable logic controllers**|Rishabh Das. Aaron Werth et.al.|[2510.07171](http://arxiv.org/abs/2510.07171)|null|
+|**2025-10-08**|**Optimal network pricing with oblivious users: a new model and algorithm**|Yixuan Li et.al.|[2510.07157](http://arxiv.org/abs/2510.07157)|null|
+|**2025-10-08**|**Notes from the Physics Teaching Lab: Diode Laser Spectroscopy at 658 nm**|Kenneth G. Libbrecht et.al.|[2510.07154](http://arxiv.org/abs/2510.07154)|null|
+|**2025-10-08**|**From Neural Sensing to Stimulation: An Interdisciplinary Roadmap for Neurotechnology**|Ruben Ruiz-Mateos Serrano et.al.|[2510.07116](http://arxiv.org/abs/2510.07116)|null|
+|**2025-10-08**|**The Stage Comes to You: A Real-Time Tele-Immersive System with 3D Point Clouds and Vibrotactile Feedback**|Takahiro Matsumoto et.al.|[2510.07009](http://arxiv.org/abs/2510.07009)|null|
+|**2025-10-08**|**Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels**|Davide Oberto et.al.|[2510.06992](http://arxiv.org/abs/2510.06992)|null|
+|**2025-10-08**|**Open ASR Leaderboard: Towards Reproducible and Transparent Multilingual and Long-Form Speech Recognition Evaluation**|Vaibhav Srivastav et.al.|[2510.06961](http://arxiv.org/abs/2510.06961)|null|
+|**2025-10-08**|**Optimal Real-time Communication in 6G Ultra-Massive V2X Mobile Networks**|He Huang et.al.|[2510.06937](http://arxiv.org/abs/2510.06937)|null|
+|**2025-10-08**|**SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models**|Cheng-Han Chiang et.al.|[2510.06917](http://arxiv.org/abs/2510.06917)|null|
+|**2025-10-08**|**Dynamic Control Aware Semantic Communication Enabled Image Transmission for Lunar Landing**|Fangzhou Zhao et.al.|[2510.06916](http://arxiv.org/abs/2510.06916)|null|
+|**2025-10-08**|**Memory-Augmented Generative AI for Real-time Wireless Prediction in Dynamic Industrial Environments**|Rahul Gulia et.al.|[2510.06884](http://arxiv.org/abs/2510.06884)|null|
+|**2025-10-08**|**HARP-NeXt: High-Speed and Accurate Range-Point Fusion Network for 3D LiDAR Semantic Segmentation**|Samir Abou Haidar et.al.|[2510.06876](http://arxiv.org/abs/2510.06876)|null|
+|**2025-10-08**|**Prototyping Multimodal GenAI Real-Time Agents with Counterfactual Replays and Hybrid Wizard-of-Oz**|Frederic Gmeiner et.al.|[2510.06872](http://arxiv.org/abs/2510.06872)|null|
+|**2025-10-08**|**Towards Generalization of Graph Neural Networks for AC Optimal Power Flow**|Olayiwola Arowolo et.al.|[2510.06860](http://arxiv.org/abs/2510.06860)|null|
+|**2025-10-08**|**Online Generic Event Boundary Detection**|Hyungrok Jung et.al.|[2510.06855](http://arxiv.org/abs/2510.06855)|null|
+|**2025-10-08**|**Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera**|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|null|
+|**2025-10-08**|**VA-Adapter: Adapting Ultrasound Foundation Model to Echocardiography Probe Guidance**|Teng Wang et.al.|[2510.06809](http://arxiv.org/abs/2510.06809)|null|
+|**2025-10-08**|**Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity**|Islomjon Shukhratov et.al.|[2510.06802](http://arxiv.org/abs/2510.06802)|null|
+|**2025-10-08**|**Developing a Cost-Effective Spectrometer: A Practical Approach**|Mohammad Tahsin Alam et.al.|[2510.06703](http://arxiv.org/abs/2510.06703)|null|
+|**2025-10-08**|**REACH: Reinforcement Learning for Adaptive Microservice Rescheduling in the Cloud-Edge Continuum**|Xu Bai et.al.|[2510.06675](http://arxiv.org/abs/2510.06675)|null|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
 |**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
 |**2025-10-07**|**Rapid calibration of atrial electrophysiology models using Gaussian process emulators in the ensemble Kalman filter**|Mariya Mamajiwala et.al.|[2510.06191](http://arxiv.org/abs/2510.06191)|null|
@@ -5414,7 +5444,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -5424,9 +5454,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts**|Girolamo Macaluso et.al.|[2510.06988](http://arxiv.org/abs/2510.06988)|null|
+|**2025-10-08**|**ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning**|Siheng Zhao et.al.|[2510.05070](http://arxiv.org/abs/2510.05070)|null|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
 |**2025-10-06**|**Pulp Motion: Framing-aware multimodal camera and human motion generation**|Robin Courant et.al.|[2510.05097](http://arxiv.org/abs/2510.05097)|null|
-|**2025-10-06**|**ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning**|Siheng Zhao et.al.|[2510.05070](http://arxiv.org/abs/2510.05070)|null|
 |**2025-10-06**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Zewen He et.al.|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
 |**2025-10-05**|**Physics-Inspired All-Pair Interaction Learning for 3D Dynamics Modeling**|Kai Yang et.al.|[2510.04233](http://arxiv.org/abs/2510.04233)|null|
 |**2025-10-04**|**Generating Human Motion Videos using a Cascaded Text-to-Video Framework**|Hyelin Nam et.al.|[2510.03909](http://arxiv.org/abs/2510.03909)|null|
@@ -5742,7 +5773,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -5752,6 +5783,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
+|**2025-10-08**|**Engineering Rogue Waves via Multimode Interactions in Integrated Waveguides**|Gülsüm Yaren Durdu et.al.|[2510.07082](http://arxiv.org/abs/2510.07082)|null|
+|**2025-10-08**|**Towards Responsible Evaluation for Text-to-Speech**|Yifan Yang et.al.|[2510.06927](http://arxiv.org/abs/2510.06927)|null|
+|**2025-10-08**|**XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection**|Phuong Tuan Dat et.al.|[2510.06706](http://arxiv.org/abs/2510.06706)|null|
 |**2025-10-07**|**ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning**|Tao Zhu et.al.|[2510.05984](http://arxiv.org/abs/2510.05984)|null|
 |**2025-10-07**|**Data-efficient Targeted Token-level Preference Optimization for LLM-based Text-to-Speech**|Rikuto Kotoge et.al.|[2510.05799](http://arxiv.org/abs/2510.05799)|null|
 |**2025-10-07**|**Investigation of perception inconsistency in speaker embedding for asynchronous voice anonymization**|Rui Wang et.al.|[2510.05718](http://arxiv.org/abs/2510.05718)|null|
@@ -6367,7 +6402,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 <details>
 
@@ -6377,6 +6412,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**PIKA: Expert-Level Synthetic Datasets for Post-Training Alignment from Scratch**|Shangjian Yin et.al.|[2510.06670](http://arxiv.org/abs/2510.06670)|null|
+|**2025-10-08**|**Aligning Large Language Models via Fully Self-Synthetic Data**|Shangjian Yin et.al.|[2510.06652](http://arxiv.org/abs/2510.06652)|null|
 |**2025-10-07**|**Learning from Failures: Understanding LLM Alignment through Failure-Aware Inverse RL**|Nyal Patel et.al.|[2510.06092](http://arxiv.org/abs/2510.06092)|null|
 |**2025-10-07**|**StereoSync: Spatially-Aware Stereo Audio Generation from Video**|Christian Marinoni et.al.|[2510.05828](http://arxiv.org/abs/2510.05828)|null|
 |**2025-10-07**|**Provably Mitigating Corruption, Overoptimization, and Verbosity Simultaneously in Offline and Online RLHF/DPO Alignment**|Ziyi Chen et.al.|[2510.05526](http://arxiv.org/abs/2510.05526)|null|
@@ -6426,7 +6463,7 @@
 |**2025-08-14**|**Interpretable Reward Model via Sparse Autoencoder**|Shuyi Zhang et.al.|[2508.08746](http://arxiv.org/abs/2508.08746)|null|
 |**2025-08-12**|**Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training**|Jianfeng Si et.al.|[2508.14904](http://arxiv.org/abs/2508.14904)|null|
 
-</details><p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 Notes: 
 
