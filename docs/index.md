@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.09
+### Updated on 2025.10.10
 <details>
 
 <summary> Talking Face </summary>
@@ -12,8 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
-|**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-03**|**Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing**|Danial Samadi Vahdati et.al.|[2510.03548](http://arxiv.org/abs/2510.03548)|null|
 |**2025-10-02**|**Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation**|Beijia Lu et.al.|[2510.02617](http://arxiv.org/abs/2510.02617)|null|
 |**2025-10-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
@@ -954,6 +954,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Zezhong Qian et.al.|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
 |**2025-10-08**|**MATRIX: Mask Track Alignment for Interaction-aware Video Generation**|Siyoon Jin et.al.|[2510.07310](http://arxiv.org/abs/2510.07310)|null|
 |**2025-10-08**|**TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**|Jiaben Chen et.al.|[2510.07249](http://arxiv.org/abs/2510.07249)|null|
@@ -963,7 +964,6 @@ layout: default
 |**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
 |**2025-10-07**|**When and How to Cut Classical Concerts? A Multimodal Automated Video Editing Approach**|Daniel Gonzálbez-Biosca et.al.|[2510.05661](http://arxiv.org/abs/2510.05661)|null|
 |**2025-10-06**|**LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation**|Yang Xiao et.al.|[2510.05367](http://arxiv.org/abs/2510.05367)|null|
-|**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-06**|**VChain: Chain-of-Visual-Thought for Reasoning in Video Generation**|Ziqi Huang et.al.|[2510.05094](http://arxiv.org/abs/2510.05094)|null|
 |**2025-10-06**|**Character Mixing for Video Generation**|Tingting Liao et.al.|[2510.05093](http://arxiv.org/abs/2510.05093)|null|
 |**2025-10-06**|**Bridging Text and Video Generation: A Survey**|Nilay Kumar et.al.|[2510.04999](http://arxiv.org/abs/2510.04999)|null|
@@ -2284,13 +2284,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Optimal network pricing with oblivious users: a new model and algorithm**|Yixuan Li et.al.|[2510.07157](http://arxiv.org/abs/2510.07157)|null|
+|**2025-10-09**|**Open ASR Leaderboard: Towards Reproducible and Transparent Multilingual and Long-Form Speech Recognition Evaluation**|Vaibhav Srivastav et.al.|[2510.06961](http://arxiv.org/abs/2510.06961)|null|
+|**2025-10-09**|**Developing a Cost-Effective Spectrometer: A Practical Approach**|Mohammad Tahsin Alam et.al.|[2510.06703](http://arxiv.org/abs/2510.06703)|null|
 |**2025-10-08**|**A multi-layered embedded intrusion detection framework for programmable logic controllers**|Rishabh Das. Aaron Werth et.al.|[2510.07171](http://arxiv.org/abs/2510.07171)|null|
-|**2025-10-08**|**Optimal network pricing with oblivious users: a new model and algorithm**|Yixuan Li et.al.|[2510.07157](http://arxiv.org/abs/2510.07157)|null|
 |**2025-10-08**|**Notes from the Physics Teaching Lab: Diode Laser Spectroscopy at 658 nm**|Kenneth G. Libbrecht et.al.|[2510.07154](http://arxiv.org/abs/2510.07154)|null|
 |**2025-10-08**|**From Neural Sensing to Stimulation: An Interdisciplinary Roadmap for Neurotechnology**|Ruben Ruiz-Mateos Serrano et.al.|[2510.07116](http://arxiv.org/abs/2510.07116)|null|
 |**2025-10-08**|**The Stage Comes to You: A Real-Time Tele-Immersive System with 3D Point Clouds and Vibrotactile Feedback**|Takahiro Matsumoto et.al.|[2510.07009](http://arxiv.org/abs/2510.07009)|null|
 |**2025-10-08**|**Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels**|Davide Oberto et.al.|[2510.06992](http://arxiv.org/abs/2510.06992)|null|
-|**2025-10-08**|**Open ASR Leaderboard: Towards Reproducible and Transparent Multilingual and Long-Form Speech Recognition Evaluation**|Vaibhav Srivastav et.al.|[2510.06961](http://arxiv.org/abs/2510.06961)|null|
 |**2025-10-08**|**Optimal Real-time Communication in 6G Ultra-Massive V2X Mobile Networks**|He Huang et.al.|[2510.06937](http://arxiv.org/abs/2510.06937)|null|
 |**2025-10-08**|**SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models**|Cheng-Han Chiang et.al.|[2510.06917](http://arxiv.org/abs/2510.06917)|null|
 |**2025-10-08**|**Dynamic Control Aware Semantic Communication Enabled Image Transmission for Lunar Landing**|Fangzhou Zhao et.al.|[2510.06916](http://arxiv.org/abs/2510.06916)|null|
@@ -2302,7 +2303,6 @@ layout: default
 |**2025-10-08**|**Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera**|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|null|
 |**2025-10-08**|**VA-Adapter: Adapting Ultrasound Foundation Model to Echocardiography Probe Guidance**|Teng Wang et.al.|[2510.06809](http://arxiv.org/abs/2510.06809)|null|
 |**2025-10-08**|**Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity**|Islomjon Shukhratov et.al.|[2510.06802](http://arxiv.org/abs/2510.06802)|null|
-|**2025-10-08**|**Developing a Cost-Effective Spectrometer: A Practical Approach**|Mohammad Tahsin Alam et.al.|[2510.06703](http://arxiv.org/abs/2510.06703)|null|
 |**2025-10-08**|**REACH: Reinforcement Learning for Adaptive Microservice Rescheduling in the Cloud-Edge Continuum**|Xu Bai et.al.|[2510.06675](http://arxiv.org/abs/2510.06675)|null|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
 |**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
@@ -5434,6 +5434,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-08**|**No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts**|Girolamo Macaluso et.al.|[2510.06988](http://arxiv.org/abs/2510.06988)|null|
 |**2025-10-08**|**ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning**|Siheng Zhao et.al.|[2510.05070](http://arxiv.org/abs/2510.05070)|null|
+|**2025-10-08**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang et.al.|[2509.26633](http://arxiv.org/abs/2509.26633)|null|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
 |**2025-10-06**|**Pulp Motion: Framing-aware multimodal camera and human motion generation**|Robin Courant et.al.|[2510.05097](http://arxiv.org/abs/2510.05097)|null|
 |**2025-10-06**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Zewen He et.al.|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
@@ -5444,7 +5445,6 @@ layout: default
 |**2025-10-03**|**HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton**|Rui Zhong et.al.|[2510.03022](http://arxiv.org/abs/2510.03022)|null|
 |**2025-10-02**|**PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction**|Qiao Feng et.al.|[2510.02566](http://arxiv.org/abs/2510.02566)|null|
 |**2025-10-02**|**Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking**|Joao Pedro Araujo et.al.|[2510.02252](http://arxiv.org/abs/2510.02252)|null|
-|**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang et.al.|[2509.26633](http://arxiv.org/abs/2509.26633)|null|
 |**2025-09-30**|**Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs**|Cheng Guo et.al.|[2509.25704](http://arxiv.org/abs/2509.25704)|null|
 |**2025-09-30**|**DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**|Dvij Kalaria et.al.|[2509.14353](http://arxiv.org/abs/2509.14353)|null|
 |**2025-09-29**|**LaMoGen: Laban Movement-Guided Diffusion for Text-to-Motion Generation**|Heechang Kim et.al.|[2509.24469](http://arxiv.org/abs/2509.24469)|null|
@@ -5759,6 +5759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
 |**2025-10-08**|**Engineering Rogue Waves via Multimode Interactions in Integrated Waveguides**|Gülsüm Yaren Durdu et.al.|[2510.07082](http://arxiv.org/abs/2510.07082)|null|
 |**2025-10-08**|**Towards Responsible Evaluation for Text-to-Speech**|Yifan Yang et.al.|[2510.06927](http://arxiv.org/abs/2510.06927)|null|
@@ -5769,7 +5770,6 @@ layout: default
 |**2025-10-07**|**Sparse deepfake detection promotes better disentanglement**|Antoine Teissier et.al.|[2510.05696](http://arxiv.org/abs/2510.05696)|null|
 |**2025-10-07**|**Teaching Machines to Speak Using Articulatory Control**|Akshay Anand et.al.|[2510.05619](http://arxiv.org/abs/2510.05619)|null|
 |**2025-10-07**|**Synthetic Audio Forensics Evaluation (SAFE) Challenge**|Kirill Trapeznikov et.al.|[2510.03387](http://arxiv.org/abs/2510.03387)|null|
-|**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
 |**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
 |**2025-10-05**|**GDiffuSE: Diffusion-based speech enhancement with noise model guidance**|Efrayim Yanir et.al.|[2510.04157](http://arxiv.org/abs/2510.04157)|null|
