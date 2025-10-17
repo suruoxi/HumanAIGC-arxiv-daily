@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.16
+### Updated on 2025.10.17
 <details>
 
 <summary> Talking Face </summary>
@@ -1800,11 +1800,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On**|Junseo Park et.al.|[2509.25749](http://arxiv.org/abs/2509.25749)|null|
 |**2025-10-09**|**Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection**|Yanjie Pan et.al.|[2510.07654](http://arxiv.org/abs/2510.07654)|null|
 |**2025-10-06**|**AvatarVTON: 4D Virtual Try-On for Animatable Avatars**|Zicheng Jiang et.al.|[2510.04822](http://arxiv.org/abs/2510.04822)|null|
 |**2025-10-03**|**DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing**|Qi Li et.al.|[2510.04797](http://arxiv.org/abs/2510.04797)|null|
 |**2025-10-01**|**Virtual Fashion Photo-Shoots: Building a Large-Scale Garment-Lookbook Dataset**|Yannick Hauri et.al.|[2510.00633](http://arxiv.org/abs/2510.00633)|null|
-|**2025-09-30**|**ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On**|Junseo Park et.al.|[2509.25749](http://arxiv.org/abs/2509.25749)|null|
 |**2025-09-29**|**UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections**|Zeyu Cai et.al.|[2509.24817](http://arxiv.org/abs/2509.24817)|null|
 |**2025-09-29**|**ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering**|Weikai Lin et.al.|[2509.21541](http://arxiv.org/abs/2509.21541)|null|
 |**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han et.al.|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
@@ -2340,10 +2340,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**Progressive multi-fidelity learning for physical system predictions**|Paolo Conti et.al.|[2510.13762](http://arxiv.org/abs/2510.13762)|null|
 |**2025-10-15**|**Invited Paper: BitMedViT: Ternary-Quantized Vision Transformer for Medical AI Assistants on the Edge**|Mikolaj Walczak et.al.|[2510.13760](http://arxiv.org/abs/2510.13760)|null|
 |**2025-10-15**|**From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails**|Ravi Pandya et.al.|[2510.13727](http://arxiv.org/abs/2510.13727)|null|
-|**2025-10-15**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**Dedelayed: Deleting remote inference delay via on-device correction**|Dan Jacobellis et.al.|[2510.13714](http://arxiv.org/abs/2510.13714)|null|
 |**2025-10-15**|**Characterizing Lidar Point-Cloud Adversities Using a Vector Field Visualization**|Daniel Choate et.al.|[2510.13619](http://arxiv.org/abs/2510.13619)|null|
 |**2025-10-15**|**Efficient Force and Stiffness Prediction in Robotic Produce Handling with a Piezoresistive Pressure Sensor**|Preston Fairchild et.al.|[2510.13616](http://arxiv.org/abs/2510.13616)|null|
@@ -5568,6 +5568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
 |**2025-10-15**|**MotionBeat: Motion-Aligned Music Representation via Embodied Contrastive Learning and Bar-Equivariant Contact-Aware Encoding**|Xuanchen Wang et.al.|[2510.13244](http://arxiv.org/abs/2510.13244)|null|
 |**2025-10-15**|**MimicParts: Part-aware Style Injection for Speech-Driven 3D Motion Generation**|Lianlian Liu et.al.|[2510.13208](http://arxiv.org/abs/2510.13208)|null|
 |**2025-10-14**|**SceneAdapt: Scene-aware Adaptation of Human Motion Diffusion**|Jungbin Cho et.al.|[2510.13044](http://arxiv.org/abs/2510.13044)|null|
@@ -5576,7 +5577,6 @@ layout: default
 |**2025-10-14**|**A Task-Efficient Reinforcement Learning Task-Motion Planner for Safe Human-Robot Cooperation**|Gaoyuan Liu et.al.|[2510.12477](http://arxiv.org/abs/2510.12477)|null|
 |**2025-10-14**|**M3D-skin: Multi-material 3D-printed Tactile Sensor with Hierarchical Infill Structures for Pressure Sensing**|Shunnosuke Yoshimura et.al.|[2510.12419](http://arxiv.org/abs/2510.12419)|null|
 |**2025-10-13**|**High-Resolution Spatiotemporal Modeling with Global-Local State Space Models for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2510.11017](http://arxiv.org/abs/2510.11017)|null|
-|**2025-10-12**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
 |**2025-10-11**|**It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots**|Zuhong Liu et.al.|[2510.10206](http://arxiv.org/abs/2510.10206)|null|
 |**2025-10-11**|**The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping**|Onur Keleş et.al.|[2510.08482](http://arxiv.org/abs/2510.08482)|null|
 |**2025-10-09**|**Reliability of Single-Level Equality-Constrained Inverse Optimal Control**|Filip Bečanović et.al.|[2510.08406](http://arxiv.org/abs/2510.08406)|null|
@@ -5909,14 +5909,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
-|**2025-10-15**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
 |**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
+|**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-14**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
 |**2025-10-14**|**Hey Dashboard!: Supporting Voice, Text, and Pointing Modalities in Dashboard Onboarding**|Vaishali Dhanoa et.al.|[2510.12386](http://arxiv.org/abs/2510.12386)|null|
 |**2025-10-14**|**Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation**|Greta Damo et.al.|[2510.12316](http://arxiv.org/abs/2510.12316)|null|
-|**2025-10-14**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
 |**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
