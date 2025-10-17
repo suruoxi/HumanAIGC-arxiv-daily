@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis**|Soumyya Kanti Datta et.al.|[2510.14241](http://arxiv.org/abs/2510.14241)|null|
 |**2025-10-14**|**Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback**|Xingpei Ma et.al.|[2510.12089](http://arxiv.org/abs/2510.12089)|null|
 |**2025-10-12**|**DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis**|Peiyin Chen et.al.|[2510.10650](http://arxiv.org/abs/2510.10650)|null|
 |**2025-10-11**|**VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework**|Donglin Huang et.al.|[2510.10269](http://arxiv.org/abs/2510.10269)|null|
@@ -973,6 +974,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**RealDPO: Real or Not Real, that is the Preference**|Guo Cheng et.al.|[2510.14955](http://arxiv.org/abs/2510.14955)|null|
+|**2025-10-16**|**DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation**|Yu Zhou et.al.|[2510.14949](http://arxiv.org/abs/2510.14949)|null|
+|**2025-10-16**|**3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation**|JoungBin Lee et.al.|[2510.14945](http://arxiv.org/abs/2510.14945)|null|
+|**2025-10-16**|**ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints**|Meiqi Wu et.al.|[2510.14847](http://arxiv.org/abs/2510.14847)|null|
+|**2025-10-16**|**In-Context Learning with Unpaired Clips for Instruction-based Video Editing**|Xinyao Liao et.al.|[2510.14648](http://arxiv.org/abs/2510.14648)|null|
+|**2025-10-16**|**STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding**|Zhifei Chen et.al.|[2510.14588](http://arxiv.org/abs/2510.14588)|null|
+|**2025-10-16**|**Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning**|Xiangyu Meng et.al.|[2510.14256](http://arxiv.org/abs/2510.14256)|null|
+|**2025-10-16**|**Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization**|Liao Shen et.al.|[2510.14255](http://arxiv.org/abs/2510.14255)|null|
+|**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu et.al.|[2510.14179](http://arxiv.org/abs/2510.14179)|null|
 |**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|Sihui Ji et.al.|[2510.13809](http://arxiv.org/abs/2510.13809)|null|
 |**2025-10-15**|**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**|Zian Li et.al.|[2510.13669](http://arxiv.org/abs/2510.13669)|null|
 |**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go et.al.|[2510.13454](http://arxiv.org/abs/2510.13454)|null|
@@ -1920,6 +1930,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Coupled Diffusion Sampling for Training-Free Multi-View Image Editing**|Hadi Alzayer et.al.|[2510.14981](http://arxiv.org/abs/2510.14981)|null|
+|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|null|
+|**2025-10-16**|**In-Context Learning with Unpaired Clips for Instruction-based Video Editing**|Xinyao Liao et.al.|[2510.14648](http://arxiv.org/abs/2510.14648)|null|
 |**2025-10-15**|**Edit-Your-Interest: Efficient Video Editing via Feature Most-Similar Propagation**|Yi Zuo et.al.|[2510.13084](http://arxiv.org/abs/2510.13084)|null|
 |**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li et.al.|[2510.12789](http://arxiv.org/abs/2510.12789)|null|
 |**2025-10-14**|**Vectorized Video Representation with Easy Editing via Hierarchical Spatio-Temporally Consistent Proxy Embedding**|Ye Chen et.al.|[2510.12256](http://arxiv.org/abs/2510.12256)|null|
@@ -2360,6 +2373,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression**|Zhe Li et.al.|[2510.14954](http://arxiv.org/abs/2510.14954)|null|
+|**2025-10-16**|**DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation**|Yu Zhou et.al.|[2510.14949](http://arxiv.org/abs/2510.14949)|null|
+|**2025-10-16**|**EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices**|Romina Aalishah et.al.|[2510.14946](http://arxiv.org/abs/2510.14946)|null|
+|**2025-10-16**|**STITCHER: Constrained Trajectory Planning in Known Environments with Real-Time Motion Primitive Search**|Helene J. Levy et.al.|[2510.14893](http://arxiv.org/abs/2510.14893)|null|
+|**2025-10-16**|**Multi-modal video data-pipelines for machine learning with minimal human supervision**|Mihai-Cristian Pîrvu et.al.|[2510.14862](http://arxiv.org/abs/2510.14862)|null|
+|**2025-10-16**|**LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**|Le Cong et.al.|[2510.14861](http://arxiv.org/abs/2510.14861)|null|
+|**2025-10-16**|**SADCHER: Scheduling using Attention-based Dynamic Coalitions of Heterogeneous Robots in Real-Time**|Jakob Bichler et.al.|[2510.14851](http://arxiv.org/abs/2510.14851)|null|
+|**2025-10-16**|**Dynamic-Key-Aware Co-Simulation Framework for Next Generation of SCADA Systems Encrypted by Quantum-Key-Distribution Techniques**|Ziqing Zhu et.al.|[2510.14838](http://arxiv.org/abs/2510.14838)|null|
+|**2025-10-16**|**A Scalable MVDR Beamforming Algorithm That is Linear in the Number of Antennas**|Sanjaya Herath et.al.|[2510.14802](http://arxiv.org/abs/2510.14802)|null|
+|**2025-10-16**|**SkyDreamer: Interpretable End-to-End Vision-Based Drone Racing with Model-Based Reinforcement Learning**|Aderik Verraest et.al.|[2510.14783](http://arxiv.org/abs/2510.14783)|null|
+|**2025-10-16**|**Herman-Kluk-Like Semi-Classical Initial-Value Representation for Boltzmann Operator**|Binhao Wang et.al.|[2510.14761](http://arxiv.org/abs/2510.14761)|null|
+|**2025-10-16**|**Multiparameter quantum-enhanced adaptive metrology with squeezed light**|Giorgio Minati et.al.|[2510.14739](http://arxiv.org/abs/2510.14739)|null|
+|**2025-10-16**|**Efficient Verification of Metric Temporal Properties with Past in Pointwise Semantics**|S. Akshay et.al.|[2510.14699](http://arxiv.org/abs/2510.14699)|null|
+|**2025-10-16**|**The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain**|Andrei Seoev et.al.|[2510.14642](http://arxiv.org/abs/2510.14642)|null|
+|**2025-10-16**|**Towards a Multimodal Stream Processing System**|Uélison Jean Lopes dos Santos et.al.|[2510.14631](http://arxiv.org/abs/2510.14631)|null|
+|**2025-10-16**|**Real-Time Surgical Instrument Defect Detection via Non-Destructive Testing**|Qurrat Ul Ain et.al.|[2510.14525](http://arxiv.org/abs/2510.14525)|null|
+|**2025-10-16**|**A Structured Neural ODE Approach for Real Time Evaluation of AC Losses in 3D Superconducting Tapes**|Riccardo Basei et.al.|[2510.14487](http://arxiv.org/abs/2510.14487)|null|
+|**2025-10-16**|**Feature Selection and Regularization in Multi-Class Classification: An Empirical Study of One-vs-Rest Logistic Regression with Gradient Descent Optimization and L1 Sparsity Constraints**|Jahidul Arafat et.al.|[2510.14449](http://arxiv.org/abs/2510.14449)|null|
+|**2025-10-16**|**Big Data Approaches to Bovine Bioacoustics: A FAIR-Compliant Dataset and Scalable ML Framework for Precision Livestock Welfare**|Mayuri Kate et.al.|[2510.14443](http://arxiv.org/abs/2510.14443)|null|
+|**2025-10-16**|**Real-Time Neural Video Compression with Unified Intra and Inter Coding**|Hui Xiang et.al.|[2510.14431](http://arxiv.org/abs/2510.14431)|null|
 |**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**Progressive multi-fidelity learning for physical system predictions**|Paolo Conti et.al.|[2510.13762](http://arxiv.org/abs/2510.13762)|null|
 |**2025-10-15**|**Invited Paper: BitMedViT: Ternary-Quantized Vision Transformer for Medical AI Assistants on the Edge**|Mikolaj Walczak et.al.|[2510.13760](http://arxiv.org/abs/2510.13760)|null|
@@ -5590,6 +5623,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression**|Zhe Li et.al.|[2510.14954](http://arxiv.org/abs/2510.14954)|null|
+|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li et.al.|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-16**|**Neural Implicit Flow Fields for Spatio-Temporal Motion Mapping**|Yufei Zhu et.al.|[2510.14827](http://arxiv.org/abs/2510.14827)|null|
 |**2025-10-16**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
 |**2025-10-15**|**MotionBeat: Motion-Aligned Music Representation via Embodied Contrastive Learning and Bar-Equivariant Contact-Aware Encoding**|Xuanchen Wang et.al.|[2510.13244](http://arxiv.org/abs/2510.13244)|null|
 |**2025-10-15**|**MimicParts: Part-aware Style Injection for Speech-Driven 3D Motion Generation**|Lianlian Liu et.al.|[2510.13208](http://arxiv.org/abs/2510.13208)|null|
@@ -5933,6 +5969,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF**|Qing Yang et.al.|[2510.14628](http://arxiv.org/abs/2510.14628)|null|
 |**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
@@ -6582,6 +6619,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Big Data Approaches to Bovine Bioacoustics: A FAIR-Compliant Dataset and Scalable ML Framework for Precision Livestock Welfare**|Mayuri Kate et.al.|[2510.14443](http://arxiv.org/abs/2510.14443)|null|
 |**2025-10-15**|**Information-Theoretic Reward Modeling for Stable RLHF: Detecting and Mitigating Reward Hacking**|Yuchun Miao et.al.|[2510.13694](http://arxiv.org/abs/2510.13694)|null|
 |**2025-10-15**|**Offline and Online KL-Regularized RLHF under Differential Privacy**|Yulian Wu et.al.|[2510.13512](http://arxiv.org/abs/2510.13512)|null|
 |**2025-10-13**|**SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer**|Junsong Chen et.al.|[2509.24695](http://arxiv.org/abs/2509.24695)|null|
