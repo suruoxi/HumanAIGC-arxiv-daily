@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.21
+### Updated on 2025.10.22
 <details>
 
 <summary> Talking Face </summary>
@@ -962,6 +962,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-20**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
 |**2025-10-20**|**From Preferences to Prejudice: The Role of Alignment Tuning in Shaping Social Bias in Video Diffusion Models**|Zefan Cai et.al.|[2510.17247](http://arxiv.org/abs/2510.17247)|null|
+|**2025-10-20**|**Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization**|Liao Shen et.al.|[2510.14255](http://arxiv.org/abs/2510.14255)|null|
 |**2025-10-19**|**An empirical study of the effect of video encoders on Temporal Video Grounding**|Ignacio M. De la Jara et.al.|[2510.17007](http://arxiv.org/abs/2510.17007)|null|
 |**2025-10-19**|**From Mannequin to Human: A Pose-Aware and Identity-Preserving Video Generation Framework for Lifelike Clothing Display**|Xiangyu Mu et.al.|[2510.16833](http://arxiv.org/abs/2510.16833)|null|
 |**2025-10-19**|**STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding**|Zhifei Chen et.al.|[2510.14588](http://arxiv.org/abs/2510.14588)|null|
@@ -975,7 +976,6 @@ layout: default
 |**2025-10-16**|**3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation**|JoungBin Lee et.al.|[2510.14945](http://arxiv.org/abs/2510.14945)|null|
 |**2025-10-16**|**ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints**|Meiqi Wu et.al.|[2510.14847](http://arxiv.org/abs/2510.14847)|null|
 |**2025-10-16**|**In-Context Learning with Unpaired Clips for Instruction-based Video Editing**|Xinyao Liao et.al.|[2510.14648](http://arxiv.org/abs/2510.14648)|null|
-|**2025-10-16**|**Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization**|Liao Shen et.al.|[2510.14255](http://arxiv.org/abs/2510.14255)|null|
 |**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu et.al.|[2510.14179](http://arxiv.org/abs/2510.14179)|null|
 |**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|Sihui Ji et.al.|[2510.13809](http://arxiv.org/abs/2510.13809)|null|
 |**2025-10-15**|**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**|Zian Li et.al.|[2510.13669](http://arxiv.org/abs/2510.13669)|null|
@@ -1920,9 +1920,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**PICABench: How Far Are We from Physically Realistic Image Editing?**|Yuandong Pu et.al.|[2510.17681](http://arxiv.org/abs/2510.17681)|null|
+|**2025-10-21**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
 |**2025-10-20**|**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing**|Zixin Yin et.al.|[2510.17803](http://arxiv.org/abs/2510.17803)|null|
-|**2025-10-20**|**PICABench: How Far Are We from Physically Realistic Image Editing?**|Yuandong Pu et.al.|[2510.17681](http://arxiv.org/abs/2510.17681)|null|
-|**2025-10-19**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
 |**2025-10-19**|**Region in Context: Text-condition Image editing with Human-like semantic reasoning**|Thuy Phuong Vu et.al.|[2510.16772](http://arxiv.org/abs/2510.16772)|null|
 |**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|Jiuhai Chen et.al.|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
 |**2025-10-17**|**Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset**|Qingyan Bai et.al.|[2510.15742](http://arxiv.org/abs/2510.15742)|null|
@@ -2367,15 +2367,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Field-Trial Quantum Key Distribution with Qubit-Based Frame Synchronization**|Rui Guan et.al.|[2510.17659](http://arxiv.org/abs/2510.17659)|null|
+|**2025-10-21**|**Dynamic Switched Quantum Key Distribution Network with PUF-based authentication**|Persefoni Konteli et.al.|[2510.17552](http://arxiv.org/abs/2510.17552)|null|
 |**2025-10-20**|**Enterprise Deep Research: Steerable Multi-Agent Deep Research for Enterprise Analytics**|Akshara Prabhakar et.al.|[2510.17797](http://arxiv.org/abs/2510.17797)|null|
 |**2025-10-20**|**Real-Time Readout System Design for the BULLKID-DM Experiment: Enhancing Dark Matter Search Capabilities**|T. Muscheid et.al.|[2510.17682](http://arxiv.org/abs/2510.17682)|null|
 |**2025-10-20**|**On-the-Fly OVD Adaptation with FLAME: Few-shot Localization via Active Marginal-Samples Exploration**|Yehonathan Refael et.al.|[2510.17670](http://arxiv.org/abs/2510.17670)|null|
 |**2025-10-20**|**4DSegStreamer: Streaming 4D Panoptic Segmentation via Dual Threads**|Ling Liu et.al.|[2510.17664](http://arxiv.org/abs/2510.17664)|null|
-|**2025-10-20**|**Field-Trial Quantum Key Distribution with Qubit-Based Frame Synchronization**|Rui Guan et.al.|[2510.17659](http://arxiv.org/abs/2510.17659)|null|
 |**2025-10-20**|**Frugal Federated Learning for Violence Detection: A Comparison of LoRA-Tuned VLMs and Personalized CNNs**|Sébastien Thuau et.al.|[2510.17651](http://arxiv.org/abs/2510.17651)|null|
 |**2025-10-20**|**ZACH-ViT: A Zero-Token Vision Transformer with ShuffleStrides Data Augmentation for Robust Lung Ultrasound Classification**|Athanasios Angelakis et.al.|[2510.17650](http://arxiv.org/abs/2510.17650)|null|
 |**2025-10-20**|**OG-Rank: Learning to Rank Fast and Slow with Uncertainty and Reward-Trend Guided Adaptive Exploration**|Praphul Singh et.al.|[2510.17614](http://arxiv.org/abs/2510.17614)|null|
-|**2025-10-20**|**Dynamic Switched Quantum Key Distribution Networkwith PUF-based authentication**|Persefoni Konteli et.al.|[2510.17552](http://arxiv.org/abs/2510.17552)|null|
 |**2025-10-20**|**Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey**|Dezhong Tong et.al.|[2510.17546](http://arxiv.org/abs/2510.17546)|null|
 |**2025-10-20**|**NieNie: Adaptive Rhythmic System for Stress Relief with LLM-Based Guidance**|Yichen Yu et.al.|[2510.17534](http://arxiv.org/abs/2510.17534)|null|
 |**2025-10-20**|**Monitoring Horses in Stalls: From Object to Event Detection**|Dmitrii Galimzianov et.al.|[2510.17409](http://arxiv.org/abs/2510.17409)|null|
