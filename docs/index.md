@@ -960,6 +960,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**UltraGen: High-Resolution Video Generation with Hierarchical Attention**|Teng Hu et.al.|[2510.18775](http://arxiv.org/abs/2510.18775)|null|
+|**2025-10-21**|**A Renaissance of Explicit Motion Information Mining from Transformers for Action Recognition**|Peiqin Zhuang et.al.|[2510.18705](http://arxiv.org/abs/2510.18705)|null|
+|**2025-10-21**|**MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation**|Weinan Jia et.al.|[2510.18692](http://arxiv.org/abs/2510.18692)|null|
+|**2025-10-21**|**Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model**|Zhenxing Zhang et.al.|[2510.18573](http://arxiv.org/abs/2510.18573)|null|
+|**2025-10-21**|**FeatureFool: Zero-Query Fooling of Video Models via Feature Map**|Duoxun Tang et.al.|[2510.18362](http://arxiv.org/abs/2510.18362)|null|
+|**2025-10-21**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
+|**2025-10-20**|**World-in-World: World Models in a Closed-Loop World**|Jiahan Zhang et.al.|[2510.18135](http://arxiv.org/abs/2510.18135)|null|
+|**2025-10-20**|**Demystifying Transition Matching: When and Why It Can Beat Flow Matching**|Jaihoon Kim et.al.|[2510.17991](http://arxiv.org/abs/2510.17991)|null|
 |**2025-10-20**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
 |**2025-10-20**|**From Preferences to Prejudice: The Role of Alignment Tuning in Shaping Social Bias in Video Diffusion Models**|Zefan Cai et.al.|[2510.17247](http://arxiv.org/abs/2510.17247)|null|
 |**2025-10-20**|**Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization**|Liao Shen et.al.|[2510.14255](http://arxiv.org/abs/2510.14255)|null|
@@ -2367,6 +2375,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Sharing the Load: Distributed Model-Predictive Control for Precise Multi-Rover Cargo Transport**|Alexander Krawciw et.al.|[2510.18766](http://arxiv.org/abs/2510.18766)|null|
+|**2025-10-21**|**Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting**|Hao Wang et.al.|[2510.18739](http://arxiv.org/abs/2510.18739)|null|
+|**2025-10-21**|**Formal Methods for Mobile Ad Hoc Networks: A Survey**|Wan Fokkink et.al.|[2510.18730](http://arxiv.org/abs/2510.18730)|null|
+|**2025-10-21**|**mSQUID: Model-Based Leanred Modulo Recovery at Low Sampling Rates**|Yhonatan Kvich et.al.|[2510.18729](http://arxiv.org/abs/2510.18729)|null|
+|**2025-10-21**|**HarmNet: A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language Models**|Sidhant Narula et.al.|[2510.18728](http://arxiv.org/abs/2510.18728)|null|
+|**2025-10-21**|**Reinforcement Learning with Imperfect Transition Predictions: A Bellman-Jensen Approach**|Chenbei Lu et.al.|[2510.18687](http://arxiv.org/abs/2510.18687)|null|
+|**2025-10-21**|**PIRA: Pan-CDN Intra-video Resource Adaptation for Short Video Streaming**|Chunyu Qiao et.al.|[2510.18606](http://arxiv.org/abs/2510.18606)|null|
+|**2025-10-21**|**Privacy-Preserving Healthcare Data in IoT: A Synergistic Approach with Deep Learning and Blockchain**|Behnam Rezaei Bezanjani et.al.|[2510.18568](http://arxiv.org/abs/2510.18568)|null|
+|**2025-10-21**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546](http://arxiv.org/abs/2510.18546)|null|
+|**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou et.al.|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
+|**2025-10-21**|**Physics-guided Emulators Reveal Resilience and Fragility under Operational Latencies and Outages**|Sarth Dubey et.al.|[2510.18535](http://arxiv.org/abs/2510.18535)|null|
+|**2025-10-21**|**Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning**|Fang Nan et.al.|[2510.18518](http://arxiv.org/abs/2510.18518)|null|
+|**2025-10-21**|**DWaste: Greener AI for Waste Sorting using Mobile and Edge Devices**|Suman Kunwar et.al.|[2510.18513](http://arxiv.org/abs/2510.18513)|null|
+|**2025-10-21**|**Microsecond Federated SVD on Grassmann Manifold for Real-time IoT Intrusion Detection**|Tung-Anh Nguyen et.al.|[2510.18501](http://arxiv.org/abs/2510.18501)|null|
+|**2025-10-21**|**PP3D: An In-Browser Vision-Based Defense Against Web Behavior Manipulation Attacks**|Spencer King et.al.|[2510.18465](http://arxiv.org/abs/2510.18465)|null|
+|**2025-10-21**|**Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation**|Yasser Hamidullah et.al.|[2510.18439](http://arxiv.org/abs/2510.18439)|null|
+|**2025-10-21**|**DeepTx: Real-Time Transaction Risk Analysis via Multi-Modal Features and LLM Reasoning**|Yixuan Liu et.al.|[2510.18438](http://arxiv.org/abs/2510.18438)|null|
+|**2025-10-21**|**Sliding-Mode Control Strategies for PMSM speed control: A Comprehensive Review, Taxonomy and Research Gaps**|Abdullah Ajasa et.al.|[2510.18420](http://arxiv.org/abs/2510.18420)|null|
+|**2025-10-21**|**On AI Verification in Open RAN**|Rahul Soundrarajan et.al.|[2510.18417](http://arxiv.org/abs/2510.18417)|null|
+|**2025-10-21**|**Heterogeneous Adversarial Play in Interactive Environments**|Manjie Xu et.al.|[2510.18407](http://arxiv.org/abs/2510.18407)|null|
 |**2025-10-21**|**Field-Trial Quantum Key Distribution with Qubit-Based Frame Synchronization**|Rui Guan et.al.|[2510.17659](http://arxiv.org/abs/2510.17659)|null|
 |**2025-10-21**|**Dynamic Switched Quantum Key Distribution Network with PUF-based authentication**|Persefoni Konteli et.al.|[2510.17552](http://arxiv.org/abs/2510.17552)|null|
 |**2025-10-20**|**Enterprise Deep Research: Steerable Multi-Agent Deep Research for Enterprise Analytics**|Akshara Prabhakar et.al.|[2510.17797](http://arxiv.org/abs/2510.17797)|null|
@@ -5655,6 +5683,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Latent-Info and Low-Dimensional Learning for Human Mesh Recovery and Parallel Optimization**|Xiang Zhang et.al.|[2510.18267](http://arxiv.org/abs/2510.18267)|null|
+|**2025-10-20**|**Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints**|Junli Ren et.al.|[2510.18002](http://arxiv.org/abs/2510.18002)|null|
 |**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Gabriel B. Margolis et.al.|[2510.17792](http://arxiv.org/abs/2510.17792)|null|
 |**2025-10-20**|**HumanMPC - Safe and Efficient MAV Navigation among Humans**|Simon Schaefer et.al.|[2510.17525](http://arxiv.org/abs/2510.17525)|null|
 |**2025-10-20**|**Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors**|Lu Yin et.al.|[2510.17101](http://arxiv.org/abs/2510.17101)|null|
@@ -6006,6 +6036,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers**|Mohd Ruhul Ameen et.al.|[2510.18355](http://arxiv.org/abs/2510.18355)|null|
+|**2025-10-21**|**ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation**|Haowei Lou et.al.|[2510.18308](http://arxiv.org/abs/2510.18308)|null|
 |**2025-10-19**|**U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation**|Xusheng Yang et.al.|[2510.16718](http://arxiv.org/abs/2510.16718)|null|
 |**2025-10-18**|**Edge-Based Speech Transcription and Synthesis for Kinyarwanda and Swahili Languages**|Pacome Simon Mbonimpa et.al.|[2510.16497](http://arxiv.org/abs/2510.16497)|null|
 |**2025-10-17**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
@@ -6657,7 +6689,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning**|Chenghao Zhu et.al.|[2510.18849](http://arxiv.org/abs/2510.18849)|null|
 |**2025-10-20**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
+|**2025-10-17**|**POPI: Personalizing LLMs via Optimized Natural Language Preference Inference**|Yizhuo Chen et.al.|[2510.17881](http://arxiv.org/abs/2510.17881)|null|
 |**2025-10-17**|**Learning Correlated Reward Models: Statistical Barriers and Opportunities**|Yeshwanth Cherapanamjeri et.al.|[2510.15839](http://arxiv.org/abs/2510.15839)|null|
 |**2025-10-17**|**Direct Preference Optimization with Unobserved Preference Heterogeneity: The Necessity of Ternary Preferences**|Keertana Chidambaram et.al.|[2510.15716](http://arxiv.org/abs/2510.15716)|null|
 |**2025-10-16**|**Big Data Approaches to Bovine Bioacoustics: A FAIR-Compliant Dataset and Scalable ML Framework for Precision Livestock Welfare**|Mayuri Kate et.al.|[2510.14443](http://arxiv.org/abs/2510.14443)|null|
