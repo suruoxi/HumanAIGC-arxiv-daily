@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.27
+### Updated on 2025.10.28
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing**|Danial Samadi Vahdati et.al.|[2510.03548](http://arxiv.org/abs/2510.03548)|null|
 |**2025-10-16**|**PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis**|Soumyya Kanti Datta et.al.|[2510.14241](http://arxiv.org/abs/2510.14241)|null|
 |**2025-10-14**|**Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback**|Xingpei Ma et.al.|[2510.12089](http://arxiv.org/abs/2510.12089)|null|
 |**2025-10-12**|**DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis**|Peiyin Chen et.al.|[2510.10650](http://arxiv.org/abs/2510.10650)|null|
@@ -20,7 +21,6 @@ layout: default
 |**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
 |**2025-10-03**|**EGSTalker: Real-Time Audio-Driven Talking Head Generation with Efficient Gaussian Deformation**|Tianheng Zhu et.al.|[2510.08587](http://arxiv.org/abs/2510.08587)|null|
-|**2025-10-03**|**Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing**|Danial Samadi Vahdati et.al.|[2510.03548](http://arxiv.org/abs/2510.03548)|null|
 |**2025-10-02**|**Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation**|Beijia Lu et.al.|[2510.02617](http://arxiv.org/abs/2510.02617)|null|
 |**2025-10-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
 |**2025-09-30**|**3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation**|Balamurugan Thambiraja et.al.|[2509.26233](http://arxiv.org/abs/2509.26233)|null|
@@ -960,6 +960,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**BachVid: Training-Free Video Generation with Consistent Background and Character**|Han Yan et.al.|[2510.21696](http://arxiv.org/abs/2510.21696)|null|
+|**2025-10-24**|**Epipolar Geometry Improves Video Generation Models**|Orest Kupyn et.al.|[2510.21615](http://arxiv.org/abs/2510.21615)|null|
+|**2025-10-24**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
+|**2025-10-23**|**Video-As-Prompt: Unified Semantic Control for Video Generation**|Yuxuan Bian et.al.|[2510.20888](http://arxiv.org/abs/2510.20888)|null|
 |**2025-10-23**|**Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers**|Dean L Slack et.al.|[2510.20807](http://arxiv.org/abs/2510.20807)|null|
 |**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](http://arxiv.org/abs/2510.20206)|null|
 |**2025-10-23**|**Evaluating Video Models as Simulators of Multi-Person Pedestrian Trajectories**|Aaron Appelle et.al.|[2510.20182](http://arxiv.org/abs/2510.20182)|null|
@@ -969,7 +973,6 @@ layout: default
 |**2025-10-22**|**PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis**|Qing Mao et.al.|[2510.19527](http://arxiv.org/abs/2510.19527)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team et.al.|[2510.19430](http://arxiv.org/abs/2510.19430)|null|
 |**2025-10-22**|**FeatureFool: Zero-Query Fooling of Video Models via Feature Map**|Duoxun Tang et.al.|[2510.18362](http://arxiv.org/abs/2510.18362)|null|
-|**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
 |**2025-10-22**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
 |**2025-10-22**|**ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints**|Meiqi Wu et.al.|[2510.14847](http://arxiv.org/abs/2510.14847)|null|
 |**2025-10-21**|**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models**|Aritra Bhowmik et.al.|[2510.19022](http://arxiv.org/abs/2510.19022)|null|
@@ -1936,12 +1939,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**SafetyPairs: Isolating Safety Critical Image Features with Counterfactual Image Generation**|Alec Helbling et.al.|[2510.21120](http://arxiv.org/abs/2510.21120)|null|
+|**2025-10-24**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|null|
+|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
 |**2025-10-23**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
 |**2025-10-23**|**Positional Encoding Field**|Yunpeng Bai et.al.|[2510.20385](http://arxiv.org/abs/2510.20385)|null|
-|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|null|
 |**2025-10-23**|**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**|Yanghao Wang et.al.|[2510.20212](http://arxiv.org/abs/2510.20212)|null|
 |**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|Yusu Qian et.al.|[2510.19808](http://arxiv.org/abs/2510.19808)|null|
-|**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
 |**2025-10-21**|**PICABench: How Far Are We from Physically Realistic Image Editing?**|Yuandong Pu et.al.|[2510.17681](http://arxiv.org/abs/2510.17681)|null|
 |**2025-10-21**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
 |**2025-10-20**|**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing**|Zixin Yin et.al.|[2510.17803](http://arxiv.org/abs/2510.17803)|null|
@@ -2389,6 +2393,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**FlowSynth: Instrument Generation Through Distributional Flow Matching and Test-Time Search**|Qihui Yang et.al.|[2510.21667](http://arxiv.org/abs/2510.21667)|null|
+|**2025-10-24**|**Smule Renaissance Small: Efficient General-Purpose Vocal Restoration**|Yongyi Zang et.al.|[2510.21659](http://arxiv.org/abs/2510.21659)|null|
+|**2025-10-24**|**Design and Structural Validation of a Micro-UAV with On-Board Dynamic Route Planning**|Inbazhagan Ravikumar et.al.|[2510.21648](http://arxiv.org/abs/2510.21648)|null|
+|**2025-10-24**|**Hybrid Genetic Algorithm for Optimal User Order Routing: Multi-Objective Solver Optimization in CoW Protocol Batch Auctions**|Mitchell Marfinetz et.al.|[2510.21647](http://arxiv.org/abs/2510.21647)|null|
+|**2025-10-24**|**Real-time decoding of the gross code memory with FPGAs**|Thilo Maurer et.al.|[2510.21600](http://arxiv.org/abs/2510.21600)|null|
+|**2025-10-24**|**MATrack: Efficient Multiscale Adaptive Tracker for Real-Time Nighttime UAV Operations**|Xuzhao Li et.al.|[2510.21586](http://arxiv.org/abs/2510.21586)|null|
+|**2025-10-24**|**Auction-Based Responsibility Allocation for Scalable Decentralized Safety Filters in Cooperative Multi-Agent Collision Avoidance**|Johannes Autenrieb et.al.|[2510.21546](http://arxiv.org/abs/2510.21546)|null|
+|**2025-10-24**|**Cost Minimization for Space-Air-Ground Integrated Multi-Access Edge Computing Systems**|Weihong Qin et.al.|[2510.21541](http://arxiv.org/abs/2510.21541)|null|
+|**2025-10-24**|**AURASeg: Attention Guided Upsampling with Residual Boundary-Assistive Refinement for Drivable-Area Segmentation**|Narendhiran Vijayakumar et.al.|[2510.21536](http://arxiv.org/abs/2510.21536)|null|
+|**2025-10-24**|**A Unified Model for Multi-Task Drone Routing in Post-Disaster Road Assessment**|Huatian Gong et.al.|[2510.21525](http://arxiv.org/abs/2510.21525)|null|
+|**2025-10-24**|**An Automatic Detection Method for Hematoma Features in Placental Abruption Ultrasound Images Based on Few-Shot Learning**|Xiaoqing Liu et.al.|[2510.21495](http://arxiv.org/abs/2510.21495)|null|
+|**2025-10-24**|**Scalpel: Automotive Deep Learning Framework Testing via Assembling Model Components**|Yinglong Zou et.al.|[2510.21451](http://arxiv.org/abs/2510.21451)|null|
+|**2025-10-24**|**MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection**|Shengtian Yang et.al.|[2510.21449](http://arxiv.org/abs/2510.21449)|null|
+|**2025-10-24**|**Unified token representations for sequential decision models**|Zhuojing Tian et.al.|[2510.21448](http://arxiv.org/abs/2510.21448)|null|
+|**2025-10-24**|**REMONI: An Autonomous System Integrating Wearables and Multimodal Large Language Models for Enhanced Remote Health Monitoring**|Thanh Cong Ho et.al.|[2510.21445](http://arxiv.org/abs/2510.21445)|null|
+|**2025-10-24**|**Learning to Schedule: A Supervised Learning Framework for Network-Aware Scheduling of Data-Intensive Workloads**|Sankalpa Timilsina et.al.|[2510.21419](http://arxiv.org/abs/2510.21419)|null|
+|**2025-10-24**|**BADiff: Bandwidth Adaptive Diffusion Model**|Xi Zhang et.al.|[2510.21366](http://arxiv.org/abs/2510.21366)|null|
+|**2025-10-24**|**Predictive control barrier functions for piecewise affine systems with non-smooth constraints**|Kanghui He et.al.|[2510.21321](http://arxiv.org/abs/2510.21321)|null|
+|**2025-10-24**|**Towards Physically Executable 3D Gaussian for Embodied Navigation**|Bingchen Miao et.al.|[2510.21307](http://arxiv.org/abs/2510.21307)|null|
+|**2025-10-24**|**DispatchMAS: Fusing taxonomy and artificial intelligence agents for emergency medical services**|Xiang Li et.al.|[2510.21228](http://arxiv.org/abs/2510.21228)|null|
 |**2025-10-23**|**AI-Enabled Digital Twins for Next-Generation Networks: Forecasting Traffic and Resource Management in 5G/6G**|John Sengendo et.al.|[2510.20796](http://arxiv.org/abs/2510.20796)|null|
 |**2025-10-23**|**CSU-PCAST: A Dual-Branch Transformer Framework for medium-range ensemble Precipitation Forecasting**|Tianyi Xiong et.al.|[2510.20769](http://arxiv.org/abs/2510.20769)|null|
 |**2025-10-23**|**Building Network Digital Twins Part II: Real-Time Adaptive PID for Enhanced State Synchronization**|John Sengendo et.al.|[2510.20753](http://arxiv.org/abs/2510.20753)|null|
@@ -5737,6 +5761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Ying Xue et.al.|[2510.21654](http://arxiv.org/abs/2510.21654)|null|
 |**2025-10-23**|**HumanCM: One Step Human Motion Prediction**|Liu Haojie et.al.|[2510.16709](http://arxiv.org/abs/2510.16709)|null|
 |**2025-10-22**|**OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation**|Guowei Xu et.al.|[2510.19789](http://arxiv.org/abs/2510.19789)|null|
 |**2025-10-22**|**FootFormer: Estimating Stability from Visual Input**|Keaton Kraiger et.al.|[2510.19170](http://arxiv.org/abs/2510.19170)|null|
@@ -6092,8 +6117,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
 |**2025-10-23**|**Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator**|Hualei Wang et.al.|[2510.20210](http://arxiv.org/abs/2510.20210)|null|
 |**2025-10-23**|**SpeechAgent: An End-to-End Mobile Infrastructure for Speech Impairment Assistance**|Haowei Lou et.al.|[2510.20113](http://arxiv.org/abs/2510.20113)|null|
+|**2025-10-23**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
 |**2025-10-22**|**Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent**|Yangshijie Zhang et.al.|[2510.19641](http://arxiv.org/abs/2510.19641)|null|
 |**2025-10-22**|**Which Evaluation for Which Model? A Taxonomy for Speech Model Assessment**|Maureen de Seyssel et.al.|[2510.19509](http://arxiv.org/abs/2510.19509)|null|
 |**2025-10-22**|**EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection**|Tong Zhang et.al.|[2510.19414](http://arxiv.org/abs/2510.19414)|null|
@@ -6110,7 +6137,6 @@ layout: default
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
 |**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
 |**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
-|**2025-10-14**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
 |**2025-10-14**|**Hey Dashboard!: Supporting Voice, Text, and Pointing Modalities in Dashboard Onboarding**|Vaishali Dhanoa et.al.|[2510.12386](http://arxiv.org/abs/2510.12386)|null|
 |**2025-10-14**|**Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation**|Greta Damo et.al.|[2510.12316](http://arxiv.org/abs/2510.12316)|null|
 |**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
