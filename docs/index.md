@@ -965,6 +965,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Generative View Stitching**|Chonghyuk Song et.al.|[2510.24718](http://arxiv.org/abs/2510.24718)|null|
+|**2025-10-28**|**Uniform Discrete Diffusion with Metric Path for Video Generation**|Haoge Deng et.al.|[2510.24717](http://arxiv.org/abs/2510.24717)|null|
+|**2025-10-28**|**MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration**|Junhyuk So et.al.|[2510.24211](http://arxiv.org/abs/2510.24211)|null|
+|**2025-10-28**|**VC4VG: Optimizing Video Captions for Text-to-Video Generation**|Yang Du et.al.|[2510.24134](http://arxiv.org/abs/2510.24134)|null|
 |**2025-10-28**|**LongCat-Video Technical Report**|Meituan LongCat Team et.al.|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
 |**2025-10-27**|**CoMo: Compositional Motion Customization for Text-to-Video Generation**|Youcan Xu et.al.|[2510.23007](http://arxiv.org/abs/2510.23007)|null|
 |**2025-10-27**|**Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method**|Bohan Li et.al.|[2510.22973](http://arxiv.org/abs/2510.22973)|null|
@@ -1952,6 +1956,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Group Relative Attention Guidance for Image Editing**|Xuanpu Zhang et.al.|[2510.24657](http://arxiv.org/abs/2510.24657)|null|
+|**2025-10-28**|**Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models**|Byeonghu Na et.al.|[2510.23974](http://arxiv.org/abs/2510.23974)|null|
 |**2025-10-27**|**Autoregressive Styled Text Image Generation, but Make it Reliable**|Carmine Zaccagnino et.al.|[2510.23240](http://arxiv.org/abs/2510.23240)|null|
 |**2025-10-27**|**UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization**|Huixuan Zhang et.al.|[2510.23023](http://arxiv.org/abs/2510.23023)|null|
 |**2025-10-27**|**VALA: Learning Latent Anchors for Training-Free and Temporally Consistent**|Zhangkai Wu et.al.|[2510.22970](http://arxiv.org/abs/2510.22970)|null|
@@ -2413,6 +2419,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**A Framework for the Systematic Evaluation of Obstacle Avoidance and Object-Aware Controllers**|Caleb Escobedo et.al.|[2510.24683](http://arxiv.org/abs/2510.24683)|null|
+|**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Nitin Rai et.al.|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
+|**2025-10-28**|**Tunable magnetism in 2D organic-ion-intercalated MnPS3 via molecule-dependent vacancy generation**|Daniel Tezze et.al.|[2510.24613](http://arxiv.org/abs/2510.24613)|null|
+|**2025-10-28**|**Strategic Task Offloading for Delay-Sensitive IoT Applications: A Game-Theory-Based Demand-Supply Mechanism with Participation Incentives**|Azadeh Pourkabirian et.al.|[2510.24611](http://arxiv.org/abs/2510.24611)|null|
+|**2025-10-28**|**Exascale In-situ visualization for Astronomy & Cosmology**|Nicola Tuccari et.al.|[2510.24545](http://arxiv.org/abs/2510.24545)|null|
+|**2025-10-28**|**Characterisation and extension of a rigid body dynamics solver coupled with OpenFOAM for flight performance analysis of flapping-wing drones**|Romain Poletti et.al.|[2510.24518](http://arxiv.org/abs/2510.24518)|null|
+|**2025-10-28**|**Thermally Assisted Supersolidity in a Dipolar Bose-Einstein Condensate**|Changjian Yu et.al.|[2510.24419](http://arxiv.org/abs/2510.24419)|null|
+|**2025-10-28**|**50 Years of Water Body Monitoring: The Case of Qaraaoun Reservoir, Lebanon**|Ali Ahmad Faour et.al.|[2510.24413](http://arxiv.org/abs/2510.24413)|null|
+|**2025-10-28**|**Improving LLM Reasoning via Dependency-Aware Query Decomposition and Logic-Parallel Content Expansion**|Xianjun Gao et.al.|[2510.24390](http://arxiv.org/abs/2510.24390)|null|
+|**2025-10-28**|**Physics-Informed Visual MARFE Prediction on the HL-3 Tokamak**|Qianyun Dong et.al.|[2510.24347](http://arxiv.org/abs/2510.24347)|null|
+|**2025-10-28**|**Global-State-Free Obstacle Avoidance for Quadrotor Control in Air-Ground Cooperation**|Baozhe Zhang et.al.|[2510.24315](http://arxiv.org/abs/2510.24315)|null|
+|**2025-10-28**|**Trajectory Design for UAV-Based Low-Altitude Wireless Networks in Unknown Environments: A Digital Twin-Assisted TD3 Approach**|Jihao Luo et.al.|[2510.24255](http://arxiv.org/abs/2510.24255)|null|
+|**2025-10-28**|**Hybrid Neural Interpolation of a Sequence of Wind Flows**|Ameir Shaa et.al.|[2510.24079](http://arxiv.org/abs/2510.24079)|null|
+|**2025-10-28**|**Deep Learning-Enhanced Calibration of the Heston Model: A Unified Framework**|Arman Zadgar et.al.|[2510.24074](http://arxiv.org/abs/2510.24074)|null|
+|**2025-10-28**|**VR-Assisted Guide Dog Training: A 360° PanoHaptic System for Right-Hand Commands Analysis**|Qirong Zhu et.al.|[2510.24057](http://arxiv.org/abs/2510.24057)|null|
+|**2025-10-28**|**Predicting Barge Tow Size on Inland Waterways Using Vessel Trajectory Derived Features: Proof of Concept**|Geoffery Agorku et.al.|[2510.23994](http://arxiv.org/abs/2510.23994)|null|
+|**2025-10-28**|**A Survey on Collaborative SLAM with 3D Gaussian Splatting**|Phuc Nguyen Xuan et.al.|[2510.23988](http://arxiv.org/abs/2510.23988)|null|
+|**2025-10-28**|**TeleEgo: Benchmarking Egocentric AI Assistants in the Wild**|Jiaqi Yan et.al.|[2510.23981](http://arxiv.org/abs/2510.23981)|null|
+|**2025-10-27**|**A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations**|Junho Choi et.al.|[2510.23936](http://arxiv.org/abs/2510.23936)|null|
+|**2025-10-27**|**Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments**|Raman Jha et.al.|[2510.23928](http://arxiv.org/abs/2510.23928)|null|
 |**2025-10-27**|**FPGA-Based Adaptive Control for Phase Stabilization in Fiber-Optic Interferometers Using Correlated Photons**|P. M. Berto et.al.|[2510.23572](http://arxiv.org/abs/2510.23572)|null|
 |**2025-10-27**|**OntoPret: An Ontology for the Interpretation of Human Behavior**|Alexis Ellis et.al.|[2510.23553](http://arxiv.org/abs/2510.23553)|null|
 |**2025-10-27**|**An Error-Based Safety Buffer for Safe Adaptive Control (Extended Version)**|Peter A. Fisher et.al.|[2510.23491](http://arxiv.org/abs/2510.23491)|null|
@@ -5801,6 +5827,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**|Ziqi Ma et.al.|[2510.24257](http://arxiv.org/abs/2510.24257)|null|
 |**2025-10-26**|**Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles**|Jose Luis Ponton et.al.|[2510.22712](http://arxiv.org/abs/2510.22712)|null|
 |**2025-10-25**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-24**|**Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Ying Xue et.al.|[2510.21654](http://arxiv.org/abs/2510.21654)|null|
@@ -6159,6 +6186,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Levée d'ambiguïtés par grammaires locales**|Eric G. C. Laporte et.al.|[2510.24530](http://arxiv.org/abs/2510.24530)|null|
+|**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
+|**2025-10-28**|**PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI**|Wenbin Ding et.al.|[2510.24109](http://arxiv.org/abs/2510.24109)|null|
+|**2025-10-28**|**emg2speech: synthesizing speech from electromyography using self-supervised speech models**|Harshavardhana T. Gowda et.al.|[2510.23969](http://arxiv.org/abs/2510.23969)|null|
 |**2025-10-28**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
 |**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588](http://arxiv.org/abs/2510.22588)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
@@ -6821,6 +6852,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Greedy Sampling Is Provably Efficient for RLHF**|Di Wu et.al.|[2510.24700](http://arxiv.org/abs/2510.24700)|null|
+|**2025-10-28**|**PaTaRM: Bridging Pairwise and Pointwise Signals via Preference-Aware Task-Adaptive Reward Modeling**|Ai Jian et.al.|[2510.24235](http://arxiv.org/abs/2510.24235)|null|
+|**2025-10-27**|**Debiasing Reward Models by Representation Learning with Guarantees**|Ignavier Ng et.al.|[2510.23751](http://arxiv.org/abs/2510.23751)|null|
 |**2025-10-27**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
 |**2025-10-27**|**Offline Preference Optimization via Maximum Marginal Likelihood Estimation**|Saeed Najafi et.al.|[2510.22881](http://arxiv.org/abs/2510.22881)|null|
 |**2025-10-27**|**Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients**|Omar El Mansouri et.al.|[2510.18924](http://arxiv.org/abs/2510.18924)|null|
