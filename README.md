@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.10.29
+### Updated on 2025.10.30
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -851,7 +851,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -969,7 +969,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -1860,7 +1860,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -1964,7 +1964,7 @@
 |**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
 |**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -1974,13 +1974,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation**|Zeyu Wang et.al.|[2510.22946](http://arxiv.org/abs/2510.22946)|null|
 |**2025-10-28**|**Group Relative Attention Guidance for Image Editing**|Xuanpu Zhang et.al.|[2510.24657](http://arxiv.org/abs/2510.24657)|null|
 |**2025-10-28**|**Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models**|Byeonghu Na et.al.|[2510.23974](http://arxiv.org/abs/2510.23974)|null|
 |**2025-10-27**|**Autoregressive Styled Text Image Generation, but Make it Reliable**|Carmine Zaccagnino et.al.|[2510.23240](http://arxiv.org/abs/2510.23240)|null|
 |**2025-10-27**|**UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization**|Huixuan Zhang et.al.|[2510.23023](http://arxiv.org/abs/2510.23023)|null|
 |**2025-10-27**|**VALA: Learning Latent Anchors for Training-Free and Temporally Consistent**|Zhangkai Wu et.al.|[2510.22970](http://arxiv.org/abs/2510.22970)|null|
 |**2025-10-27**|**FAME: Fairness-aware Attention-modulated Video Editing**|Zhangkai Wu et.al.|[2510.22960](http://arxiv.org/abs/2510.22960)|null|
-|**2025-10-27**|**LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation**|Zeyu Wang et.al.|[2510.22946](http://arxiv.org/abs/2510.22946)|null|
 |**2025-10-27**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
 |**2025-10-25**|**GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation**|Phillip Mueller et.al.|[2510.22337](http://arxiv.org/abs/2510.22337)|null|
 |**2025-10-24**|**FlowOpt: Fast Optimization Through Whole Flow Processes for Training-Free Editing**|Or Ronai et.al.|[2510.22010](http://arxiv.org/abs/2510.22010)|null|
@@ -2429,7 +2429,7 @@
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -5839,7 +5839,7 @@
 |**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
 |**2025-02-18**|**AnimAlte:Designing AI-Infused Cartoon Videos to Improve Preschoolers' Language Learning with Family Engagement at Home**|Shiya Tsang et.al.|[2502.12526](http://arxiv.org/abs/2502.12526)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -6200,7 +6200,7 @@
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -6868,7 +6868,7 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 <details>
 
@@ -6951,7 +6951,7 @@
 |**2025-08-14**|**Interpretable Reward Model via Sparse Autoencoder**|Shuyi Zhang et.al.|[2508.08746](http://arxiv.org/abs/2508.08746)|null|
 |**2025-08-12**|**Efficient Switchable Safety Control in LLMs via Magic-Token-Guided Co-Training**|Jianfeng Si et.al.|[2508.14904](http://arxiv.org/abs/2508.14904)|null|
 
-</details><p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 Notes: 
 

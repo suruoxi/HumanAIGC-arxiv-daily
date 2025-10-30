@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.29
+### Updated on 2025.10.30
 <details>
 
 <summary> Talking Face </summary>
@@ -1956,13 +1956,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation**|Zeyu Wang et.al.|[2510.22946](http://arxiv.org/abs/2510.22946)|null|
 |**2025-10-28**|**Group Relative Attention Guidance for Image Editing**|Xuanpu Zhang et.al.|[2510.24657](http://arxiv.org/abs/2510.24657)|null|
 |**2025-10-28**|**Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models**|Byeonghu Na et.al.|[2510.23974](http://arxiv.org/abs/2510.23974)|null|
 |**2025-10-27**|**Autoregressive Styled Text Image Generation, but Make it Reliable**|Carmine Zaccagnino et.al.|[2510.23240](http://arxiv.org/abs/2510.23240)|null|
 |**2025-10-27**|**UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization**|Huixuan Zhang et.al.|[2510.23023](http://arxiv.org/abs/2510.23023)|null|
 |**2025-10-27**|**VALA: Learning Latent Anchors for Training-Free and Temporally Consistent**|Zhangkai Wu et.al.|[2510.22970](http://arxiv.org/abs/2510.22970)|null|
 |**2025-10-27**|**FAME: Fairness-aware Attention-modulated Video Editing**|Zhangkai Wu et.al.|[2510.22960](http://arxiv.org/abs/2510.22960)|null|
-|**2025-10-27**|**LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation**|Zeyu Wang et.al.|[2510.22946](http://arxiv.org/abs/2510.22946)|null|
 |**2025-10-27**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
 |**2025-10-25**|**GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation**|Phillip Mueller et.al.|[2510.22337](http://arxiv.org/abs/2510.22337)|null|
 |**2025-10-24**|**FlowOpt: Fast Optimization Through Whole Flow Processes for Training-Free Editing**|Or Ronai et.al.|[2510.22010](http://arxiv.org/abs/2510.22010)|null|
