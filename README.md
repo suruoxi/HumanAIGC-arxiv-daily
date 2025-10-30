@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[2510.25234](http://arxiv.org/abs/2510.25234)|null|
 |**2025-10-27**|**Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation**|Junyoung Seo et.al.|[2510.23581](http://arxiv.org/abs/2510.23581)|null|
 |**2025-10-27**|**Revising Second Order Terms in Deep Animation Video Coding**|Konstantin Schmidt et.al.|[2510.23561](http://arxiv.org/abs/2510.23561)|null|
 |**2025-10-26**|**MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control**|Fatemeh Nazarieh et.al.|[2510.22810](http://arxiv.org/abs/2510.22810)|null|
@@ -979,6 +980,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**|Baolu Li et.al.|[2510.25772](http://arxiv.org/abs/2510.25772)|null|
+|**2025-10-28**|**VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos**|Qiucheng Wu et.al.|[2510.24904](http://arxiv.org/abs/2510.24904)|null|
 |**2025-10-28**|**Generative View Stitching**|Chonghyuk Song et.al.|[2510.24718](http://arxiv.org/abs/2510.24718)|null|
 |**2025-10-28**|**Uniform Discrete Diffusion with Metric Path for Video Generation**|Haoge Deng et.al.|[2510.24717](http://arxiv.org/abs/2510.24717)|null|
 |**2025-10-28**|**MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration**|Junhyuk So et.al.|[2510.24211](http://arxiv.org/abs/2510.24211)|null|
@@ -1974,7 +1977,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**RegionE: Adaptive Region-Aware Generation for Efficient Image Editing**|Pengtao Chen et.al.|[2510.25590](http://arxiv.org/abs/2510.25590)|null|
 |**2025-10-29**|**LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation**|Zeyu Wang et.al.|[2510.22946](http://arxiv.org/abs/2510.22946)|null|
+|**2025-10-28**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
 |**2025-10-28**|**Group Relative Attention Guidance for Image Editing**|Xuanpu Zhang et.al.|[2510.24657](http://arxiv.org/abs/2510.24657)|null|
 |**2025-10-28**|**Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models**|Byeonghu Na et.al.|[2510.23974](http://arxiv.org/abs/2510.23974)|null|
 |**2025-10-27**|**Autoregressive Styled Text Image Generation, but Make it Reliable**|Carmine Zaccagnino et.al.|[2510.23240](http://arxiv.org/abs/2510.23240)|null|
@@ -2439,6 +2444,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Statistical Process Monitoring based on Functional Data Analysis**|Fabio Centofanti et.al.|[2510.25742](http://arxiv.org/abs/2510.25742)|null|
+|**2025-10-29**|**Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models**|Boshi An et.al.|[2510.25713](http://arxiv.org/abs/2510.25713)|null|
+|**2025-10-29**|**MetaLore: Learning to Orchestrate Communication and Computation for Metaverse Synchronization**|Elif Ebru Ohri et.al.|[2510.25705](http://arxiv.org/abs/2510.25705)|null|
+|**2025-10-29**|**An OPF-based Control Framework for Hybrid AC-MTDC Power Systems under Uncertainty**|Hongjin Du et.al.|[2510.25671](http://arxiv.org/abs/2510.25671)|null|
+|**2025-10-29**|**Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach**|Siddhartha Upadhyay et.al.|[2510.25597](http://arxiv.org/abs/2510.25597)|null|
+|**2025-10-29**|**MTIR-SQL: Multi-turn Tool-Integrated Reasoning Reinforcement Learning for Text-to-SQL**|Zekun Xu et.al.|[2510.25510](http://arxiv.org/abs/2510.25510)|null|
+|**2025-10-29**|**Dynamic Beamforming and Power Allocation in ISAC via Deep Reinforcement Learning**|Duc Nguyen Dao et.al.|[2510.25496](http://arxiv.org/abs/2510.25496)|null|
+|**2025-10-29**|**NetEcho: From Real-World Streaming Side-Channels to Full LLM Conversation Recovery**|Zheng Zhang et.al.|[2510.25472](http://arxiv.org/abs/2510.25472)|null|
+|**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|null|
+|**2025-10-29**|**Fine-Tuned Language Models for Domain-Specific Summarization and Tagging**|Jun Wang et.al.|[2510.25460](http://arxiv.org/abs/2510.25460)|null|
+|**2025-10-29**|**Seeing, Signing, and Saying: A Vision-Language Model-Assisted Pipeline for Sign Language Data Acquisition and Curation from Social Media**|Shakib Yazdani et.al.|[2510.25413](http://arxiv.org/abs/2510.25413)|null|
+|**2025-10-29**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
+|**2025-10-29**|**Adaptive Design of mmWave Initial Access Codebooks using Reinforcement Learning**|Sabrine Aroua et.al.|[2510.25271](http://arxiv.org/abs/2510.25271)|null|
+|**2025-10-29**|**TECS/Rust: Memory-safe Component Framework for Embedded Systems**|Nao Yoshimura et.al.|[2510.25270](http://arxiv.org/abs/2510.25270)|null|
+|**2025-10-29**|**RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models**|Zijun Liao et.al.|[2510.25257](http://arxiv.org/abs/2510.25257)|null|
+|**2025-10-29**|**Photoacoustics on the go: An Embedded Photoacoustic Sensing Platform**|Talia Xu et.al.|[2510.25256](http://arxiv.org/abs/2510.25256)|null|
+|**2025-10-29**|**TECS/Rust-OE: Optimizing Exclusive Control in Rust-based Component Systems for Embedded Devices**|Nao Yoshimura et.al.|[2510.25242](http://arxiv.org/abs/2510.25242)|null|
+|**2025-10-29**|**Hybrid Vision Servoing with Depp Alignment and GRU-Based Occlusion Recovery**|Jee Won Lee et.al.|[2510.25233](http://arxiv.org/abs/2510.25233)|null|
+|**2025-10-29**|**Studies for : A Human-AI Co-Creative Sound Artwork Using a Real-time Multi-channel Sound Generation Model**|Chihiro Nagashima et.al.|[2510.25228](http://arxiv.org/abs/2510.25228)|null|
+|**2025-10-29**|**Decoder Switching: Breaking the Speed-Accuracy Tradeoff in Real-Time Quantum Error Correction**|Riki Toshio et.al.|[2510.25222](http://arxiv.org/abs/2510.25222)|null|
 |**2025-10-28**|**A Framework for the Systematic Evaluation of Obstacle Avoidance and Object-Aware Controllers**|Caleb Escobedo et.al.|[2510.24683](http://arxiv.org/abs/2510.24683)|null|
 |**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Nitin Rai et.al.|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
 |**2025-10-28**|**Tunable magnetism in 2D organic-ion-intercalated MnPS3 via molecule-dependent vacancy generation**|Daniel Tezze et.al.|[2510.24613](http://arxiv.org/abs/2510.24613)|null|
@@ -5849,9 +5874,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**One-shot Humanoid Whole-body Motion Learning**|Hao Huang et.al.|[2510.25241](http://arxiv.org/abs/2510.25241)|null|
 |**2025-10-28**|**Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**|Ziqi Ma et.al.|[2510.24257](http://arxiv.org/abs/2510.24257)|null|
 |**2025-10-26**|**Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles**|Jose Luis Ponton et.al.|[2510.22712](http://arxiv.org/abs/2510.22712)|null|
 |**2025-10-25**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
+|**2025-10-24**|**Towards Fine-Grained Human Motion Video Captioning**|Guorui Song et.al.|[2510.24767](http://arxiv.org/abs/2510.24767)|null|
 |**2025-10-24**|**Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Ying Xue et.al.|[2510.21654](http://arxiv.org/abs/2510.21654)|null|
 |**2025-10-23**|**HumanCM: One Step Human Motion Prediction**|Liu Haojie et.al.|[2510.16709](http://arxiv.org/abs/2510.16709)|null|
 |**2025-10-22**|**OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation**|Guowei Xu et.al.|[2510.19789](http://arxiv.org/abs/2510.19789)|null|
@@ -6215,6 +6242,7 @@
 |**2025-10-28**|**PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI**|Wenbin Ding et.al.|[2510.24109](http://arxiv.org/abs/2510.24109)|null|
 |**2025-10-28**|**emg2speech: synthesizing speech from electromyography using self-supervised speech models**|Harshavardhana T. Gowda et.al.|[2510.23969](http://arxiv.org/abs/2510.23969)|null|
 |**2025-10-28**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
+|**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588](http://arxiv.org/abs/2510.22588)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
 |**2025-10-23**|**Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator**|Hualei Wang et.al.|[2510.20210](http://arxiv.org/abs/2510.20210)|null|
