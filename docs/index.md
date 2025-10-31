@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.10.30
+### Updated on 2025.10.31
 <details>
 
 <summary> Talking Face </summary>
@@ -967,11 +967,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-29**|**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**|Baolu Li et.al.|[2510.25772](http://arxiv.org/abs/2510.25772)|null|
+|**2025-10-29**|**VC4VG: Optimizing Video Captions for Text-to-Video Generation**|Yang Du et.al.|[2510.24134](http://arxiv.org/abs/2510.24134)|null|
 |**2025-10-28**|**VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos**|Qiucheng Wu et.al.|[2510.24904](http://arxiv.org/abs/2510.24904)|null|
 |**2025-10-28**|**Generative View Stitching**|Chonghyuk Song et.al.|[2510.24718](http://arxiv.org/abs/2510.24718)|null|
 |**2025-10-28**|**Uniform Discrete Diffusion with Metric Path for Video Generation**|Haoge Deng et.al.|[2510.24717](http://arxiv.org/abs/2510.24717)|null|
 |**2025-10-28**|**MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration**|Junhyuk So et.al.|[2510.24211](http://arxiv.org/abs/2510.24211)|null|
-|**2025-10-28**|**VC4VG: Optimizing Video Captions for Text-to-Video Generation**|Yang Du et.al.|[2510.24134](http://arxiv.org/abs/2510.24134)|null|
 |**2025-10-28**|**LongCat-Video Technical Report**|Meituan LongCat Team et.al.|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
 |**2025-10-27**|**CoMo: Compositional Motion Customization for Text-to-Video Generation**|Youcan Xu et.al.|[2510.23007](http://arxiv.org/abs/2510.23007)|null|
 |**2025-10-27**|**Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method**|Bohan Li et.al.|[2510.22973](http://arxiv.org/abs/2510.22973)|null|
@@ -2424,6 +2424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
 |**2025-10-29**|**Statistical Process Monitoring based on Functional Data Analysis**|Fabio Centofanti et.al.|[2510.25742](http://arxiv.org/abs/2510.25742)|null|
 |**2025-10-29**|**Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models**|Boshi An et.al.|[2510.25713](http://arxiv.org/abs/2510.25713)|null|
 |**2025-10-29**|**MetaLore: Learning to Orchestrate Communication and Computation for Metaverse Synchronization**|Elif Ebru Ohri et.al.|[2510.25705](http://arxiv.org/abs/2510.25705)|null|
@@ -2435,7 +2436,6 @@ layout: default
 |**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|null|
 |**2025-10-29**|**Fine-Tuned Language Models for Domain-Specific Summarization and Tagging**|Jun Wang et.al.|[2510.25460](http://arxiv.org/abs/2510.25460)|null|
 |**2025-10-29**|**Seeing, Signing, and Saying: A Vision-Language Model-Assisted Pipeline for Sign Language Data Acquisition and Curation from Social Media**|Shakib Yazdani et.al.|[2510.25413](http://arxiv.org/abs/2510.25413)|null|
-|**2025-10-29**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
 |**2025-10-29**|**Adaptive Design of mmWave Initial Access Codebooks using Reinforcement Learning**|Sabrine Aroua et.al.|[2510.25271](http://arxiv.org/abs/2510.25271)|null|
 |**2025-10-29**|**TECS/Rust: Memory-safe Component Framework for Embedded Systems**|Nao Yoshimura et.al.|[2510.25270](http://arxiv.org/abs/2510.25270)|null|
 |**2025-10-29**|**RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models**|Zijun Liao et.al.|[2510.25257](http://arxiv.org/abs/2510.25257)|null|
@@ -6880,10 +6880,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
 |**2025-10-28**|**Greedy Sampling Is Provably Efficient for RLHF**|Di Wu et.al.|[2510.24700](http://arxiv.org/abs/2510.24700)|null|
 |**2025-10-28**|**PaTaRM: Bridging Pairwise and Pointwise Signals via Preference-Aware Task-Adaptive Reward Modeling**|Ai Jian et.al.|[2510.24235](http://arxiv.org/abs/2510.24235)|null|
 |**2025-10-27**|**Debiasing Reward Models by Representation Learning with Guarantees**|Ignavier Ng et.al.|[2510.23751](http://arxiv.org/abs/2510.23751)|null|
-|**2025-10-27**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
 |**2025-10-27**|**Offline Preference Optimization via Maximum Marginal Likelihood Estimation**|Saeed Najafi et.al.|[2510.22881](http://arxiv.org/abs/2510.22881)|null|
 |**2025-10-27**|**Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients**|Omar El Mansouri et.al.|[2510.18924](http://arxiv.org/abs/2510.18924)|null|
 |**2025-10-27**|**ADPO: Anchored Direct Preference Optimization**|Wang Zixian et.al.|[2510.18913](http://arxiv.org/abs/2510.18913)|null|
