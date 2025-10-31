@@ -966,6 +966,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark**|Ziyu Guo et.al.|[2510.26802](http://arxiv.org/abs/2510.26802)|null|
+|**2025-10-30**|**SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting**|Dongyue Lu et.al.|[2510.26796](http://arxiv.org/abs/2510.26796)|null|
+|**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
+|**2025-10-30**|**Co-Evolving Latent Action World Models**|Yucen Wang et.al.|[2510.26433](http://arxiv.org/abs/2510.26433)|null|
+|**2025-10-30**|**LoCoT2V-Bench: A Benchmark for Long-Form and Complex Text-to-Video Generation**|Xiangqing Zheng et.al.|[2510.26412](http://arxiv.org/abs/2510.26412)|null|
 |**2025-10-29**|**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**|Baolu Li et.al.|[2510.25772](http://arxiv.org/abs/2510.25772)|null|
 |**2025-10-29**|**VC4VG: Optimizing Video Captions for Text-to-Video Generation**|Yang Du et.al.|[2510.24134](http://arxiv.org/abs/2510.24134)|null|
 |**2025-10-28**|**VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos**|Qiucheng Wu et.al.|[2510.24904](http://arxiv.org/abs/2510.24904)|null|
@@ -1959,6 +1964,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Security Risk of Misalignment between Text and Image in Multi-modal Model**|Xiaosen Wang et.al.|[2510.26105](http://arxiv.org/abs/2510.26105)|null|
+|**2025-10-29**|**SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing**|Sung-Hoon Yoon et.al.|[2510.25970](http://arxiv.org/abs/2510.25970)|null|
 |**2025-10-29**|**RegionE: Adaptive Region-Aware Generation for Efficient Image Editing**|Pengtao Chen et.al.|[2510.25590](http://arxiv.org/abs/2510.25590)|null|
 |**2025-10-29**|**LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation**|Zeyu Wang et.al.|[2510.22946](http://arxiv.org/abs/2510.22946)|null|
 |**2025-10-28**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
@@ -2424,6 +2431,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Running VLAs at Real-time Speed**|Yunchao Ma et.al.|[2510.26742](http://arxiv.org/abs/2510.26742)|null|
+|**2025-10-30**|**Process Integrated Computer Vision for Real-Time Failure Prediction in Steel Rolling Mill**|Vaibhav Kurrey et.al.|[2510.26684](http://arxiv.org/abs/2510.26684)|null|
+|**2025-10-30**|**Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation**|Qianyou Zhao et.al.|[2510.26670](http://arxiv.org/abs/2510.26670)|null|
+|**2025-10-30**|**A Sliding-Window Filter for Online Continuous-Time Continuum Robot State Estimation**|Spencer Teetaert et.al.|[2510.26623](http://arxiv.org/abs/2510.26623)|null|
+|**2025-10-30**|**Optimal Bidding and Coordinated Dispatch of Hybrid Energy Systems in Regulation Markets**|Tanmay Mishra et.al.|[2510.26602](http://arxiv.org/abs/2510.26602)|null|
+|**2025-10-30**|**Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems**|Fulin Lin et.al.|[2510.26585](http://arxiv.org/abs/2510.26585)|null|
+|**2025-10-30**|**Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices**|Jan Stenkamp et.al.|[2510.26557](http://arxiv.org/abs/2510.26557)|null|
+|**2025-10-30**|**Wireless Sensor Networks as Parallel and Distributed Hardware Platform for Artificial Neural Networks**|Gursel Serpen et.al.|[2510.26492](http://arxiv.org/abs/2510.26492)|null|
+|**2025-10-30**|**XWAVE: A Novel Software-Defined Everything Approach for the Manufacturing Industry**|Juanjo Zulaika et.al.|[2510.26393](http://arxiv.org/abs/2510.26393)|null|
+|**2025-10-30**|**AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM**|Mirko Usuelli et.al.|[2510.26358](http://arxiv.org/abs/2510.26358)|null|
+|**2025-10-30**|**Generative Artificial Intelligence for Air Shower Simulation**|C. Bozza et.al.|[2510.26316](http://arxiv.org/abs/2510.26316)|null|
+|**2025-10-30**|**Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in Web Games**|Jingran Zhang et.al.|[2510.26298](http://arxiv.org/abs/2510.26298)|null|
+|**2025-10-30**|**DiSE: A diffusion probabilistic model for automatic structure elucidation of organic compounds**|Haochen Chen et.al.|[2510.26231](http://arxiv.org/abs/2510.26231)|null|
+|**2025-10-30**|**ChatGPT in Systematic Investing - Enhancing Risk-Adjusted Returns with LLMs**|Nikolas Anic et.al.|[2510.26228](http://arxiv.org/abs/2510.26228)|null|
+|**2025-10-30**|**Detecting Unauthorized Vehicles using Deep Learning for Smart Cities: A Case Study on Bangladesh**|Sudipto Das Sukanto et.al.|[2510.26154](http://arxiv.org/abs/2510.26154)|null|
+|**2025-10-30**|**STAR: A Privacy-Preserving, Energy-Efficient Edge AI Framework for Human Activity Recognition via Wi-Fi CSI in Mobile and Pervasive Computing Environments**|Kexing Liu et.al.|[2510.26148](http://arxiv.org/abs/2510.26148)|null|
+|**2025-10-30**|**maxVSTAR: Maximally Adaptive Vision-Guided CSI Sensing with Closed-Loop Edge Model Adaptation for Robust Human Activity Recognition**|Kexing Liu et.al.|[2510.26146](http://arxiv.org/abs/2510.26146)|null|
+|**2025-10-30**|**FGGM: Formal Grey-box Gradient Method for Attacking DRL-based MU-MIMO Scheduler**|Thanh Le et.al.|[2510.26075](http://arxiv.org/abs/2510.26075)|null|
+|**2025-10-30**|**FlexICL: A Flexible Visual In-context Learning Framework for Elbow and Wrist Ultrasound Segmentation**|Yuyue Zhou et.al.|[2510.26049](http://arxiv.org/abs/2510.26049)|null|
+|**2025-10-30**|**FractalBrain: A Neuro-interactive Virtual Reality Experience using Electroencephalogram (EEG) for Mindfulness**|Jamie Ngoc Dinh et.al.|[2510.26041](http://arxiv.org/abs/2510.26041)|null|
 |**2025-10-30**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
 |**2025-10-29**|**Statistical Process Monitoring based on Functional Data Analysis**|Fabio Centofanti et.al.|[2510.25742](http://arxiv.org/abs/2510.25742)|null|
 |**2025-10-29**|**Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models**|Boshi An et.al.|[2510.25713](http://arxiv.org/abs/2510.25713)|null|
@@ -5852,6 +5879,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
 |**2025-10-29**|**One-shot Humanoid Whole-body Motion Learning**|Hao Huang et.al.|[2510.25241](http://arxiv.org/abs/2510.25241)|null|
 |**2025-10-28**|**Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**|Ziqi Ma et.al.|[2510.24257](http://arxiv.org/abs/2510.24257)|null|
 |**2025-10-26**|**Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles**|Jose Luis Ponton et.al.|[2510.22712](http://arxiv.org/abs/2510.22712)|null|
@@ -6881,6 +6909,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-30**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
+|**2025-10-29**|**Approximating Human Preferences Using a Multi-Judge Learned System**|Eitán Sprejer et.al.|[2510.25884](http://arxiv.org/abs/2510.25884)|null|
 |**2025-10-28**|**Greedy Sampling Is Provably Efficient for RLHF**|Di Wu et.al.|[2510.24700](http://arxiv.org/abs/2510.24700)|null|
 |**2025-10-28**|**PaTaRM: Bridging Pairwise and Pointwise Signals via Preference-Aware Task-Adaptive Reward Modeling**|Ai Jian et.al.|[2510.24235](http://arxiv.org/abs/2510.24235)|null|
 |**2025-10-27**|**Debiasing Reward Models by Representation Learning with Guarantees**|Ignavier Ng et.al.|[2510.23751](http://arxiv.org/abs/2510.23751)|null|
