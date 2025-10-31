@@ -2444,7 +2444,7 @@ layout: default
 |**2025-10-30**|**Generative Artificial Intelligence for Air Shower Simulation**|C. Bozza et.al.|[2510.26316](http://arxiv.org/abs/2510.26316)|null|
 |**2025-10-30**|**Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in Web Games**|Jingran Zhang et.al.|[2510.26298](http://arxiv.org/abs/2510.26298)|null|
 |**2025-10-30**|**DiSE: A diffusion probabilistic model for automatic structure elucidation of organic compounds**|Haochen Chen et.al.|[2510.26231](http://arxiv.org/abs/2510.26231)|null|
-|**2025-10-30**|**ChatGPT in Systematic Investing - Enhancing Risk-Adjusted Returns with LLMs**|Nikolas Anic et.al.|[2510.26228](http://arxiv.org/abs/2510.26228)|null|
+|**2025-10-30**|**ChatGPT in Systematic Investing -- Enhancing Risk-Adjusted Returns with LLMs**|Nikolas Anic et.al.|[2510.26228](http://arxiv.org/abs/2510.26228)|null|
 |**2025-10-30**|**Detecting Unauthorized Vehicles using Deep Learning for Smart Cities: A Case Study on Bangladesh**|Sudipto Das Sukanto et.al.|[2510.26154](http://arxiv.org/abs/2510.26154)|null|
 |**2025-10-30**|**STAR: A Privacy-Preserving, Energy-Efficient Edge AI Framework for Human Activity Recognition via Wi-Fi CSI in Mobile and Pervasive Computing Environments**|Kexing Liu et.al.|[2510.26148](http://arxiv.org/abs/2510.26148)|null|
 |**2025-10-30**|**maxVSTAR: Maximally Adaptive Vision-Guided CSI Sensing with Closed-Loop Edge Model Adaptation for Robust Human Activity Recognition**|Kexing Liu et.al.|[2510.26146](http://arxiv.org/abs/2510.26146)|null|

@@ -5252,7 +5252,7 @@
 - 2025-04-21, **Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides**, Jinghua Zhao et.al., Paper: [http://arxiv.org/abs/2504.15066](http://arxiv.org/abs/2504.15066)
 - 2025-02-21, **Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**, Yunfeng Li et.al., Paper: [http://arxiv.org/abs/2502.15583](http://arxiv.org/abs/2502.15583)
 - 2025-04-18, **ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**, Takuya Sera et.al., Paper: [http://arxiv.org/abs/2504.13793](http://arxiv.org/abs/2504.13793)
-- 2025-10-30, **ChatGPT in Systematic Investing - Enhancing Risk-Adjusted Returns with LLMs**, Nikolas Anic et.al., Paper: [http://arxiv.org/abs/2510.26228](http://arxiv.org/abs/2510.26228)
+- 2025-10-30, **ChatGPT in Systematic Investing -- Enhancing Risk-Adjusted Returns with LLMs**, Nikolas Anic et.al., Paper: [http://arxiv.org/abs/2510.26228](http://arxiv.org/abs/2510.26228)
 - 2025-07-14, **Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**, Jiangkai Wu et.al., Paper: [http://arxiv.org/abs/2507.10510](http://arxiv.org/abs/2507.10510)
 - 2025-10-15, **Characterizing Lidar Point-Cloud Adversities Using a Vector Field Visualization**, Daniel Choate et.al., Paper: [http://arxiv.org/abs/2510.13619](http://arxiv.org/abs/2510.13619)
 - 2025-09-05, **Characterization of a novel plastic scintillation detector for in vivo electron dosimetry**, Cornelius J. Bauer et.al., Paper: [http://arxiv.org/abs/2509.04933](http://arxiv.org/abs/2509.04933)
