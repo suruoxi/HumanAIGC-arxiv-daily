@@ -13,6 +13,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[2510.25234](http://arxiv.org/abs/2510.25234)|null|
+|**2025-10-28**|**See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement**|Jinting Wang et.al.|[2510.26819](http://arxiv.org/abs/2510.26819)|null|
 |**2025-10-27**|**Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation**|Junyoung Seo et.al.|[2510.23581](http://arxiv.org/abs/2510.23581)|null|
 |**2025-10-27**|**Revising Second Order Terms in Deep Animation Video Coding**|Konstantin Schmidt et.al.|[2510.23561](http://arxiv.org/abs/2510.23561)|null|
 |**2025-10-26**|**MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control**|Fatemeh Nazarieh et.al.|[2510.22810](http://arxiv.org/abs/2510.22810)|null|
@@ -966,6 +967,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals**|Xiangyu Fan et.al.|[2510.27684](http://arxiv.org/abs/2510.27684)|null|
+|**2025-10-31**|**Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V**|Meftun Akarsu et.al.|[2510.27364](http://arxiv.org/abs/2510.27364)|null|
+|**2025-10-31**|**DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model**|Yucheng Xing et.al.|[2510.27169](http://arxiv.org/abs/2510.27169)|null|
 |**2025-10-30**|**Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark**|Ziyu Guo et.al.|[2510.26802](http://arxiv.org/abs/2510.26802)|null|
 |**2025-10-30**|**SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting**|Dongyue Lu et.al.|[2510.26796](http://arxiv.org/abs/2510.26796)|null|
 |**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
@@ -1964,6 +1968,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing**|Yijia Wang et.al.|[2510.27335](http://arxiv.org/abs/2510.27335)|null|
 |**2025-10-30**|**Security Risk of Misalignment between Text and Image in Multi-modal Model**|Xiaosen Wang et.al.|[2510.26105](http://arxiv.org/abs/2510.26105)|null|
 |**2025-10-29**|**SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing**|Sung-Hoon Yoon et.al.|[2510.25970](http://arxiv.org/abs/2510.25970)|null|
 |**2025-10-29**|**RegionE: Adaptive Region-Aware Generation for Efficient Image Editing**|Pengtao Chen et.al.|[2510.25590](http://arxiv.org/abs/2510.25590)|null|
@@ -2431,6 +2436,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Scalable quantum computation of Quantum Electrodynamics beyond one spatial dimension**|Zong-Gang Mou et.al.|[2510.27668](http://arxiv.org/abs/2510.27668)|null|
+|**2025-10-31**|**Intensity-Correlation Synthetic Wavelength Imaging in Dynamic Scattering Media**|Khaled Kassem et.al.|[2510.27620](http://arxiv.org/abs/2510.27620)|null|
+|**2025-10-31**|**Automation in quantum logic experiments with cold molecular ions**|Richard Karl et.al.|[2510.27582](http://arxiv.org/abs/2510.27582)|null|
+|**2025-10-31**|**AstuteRAG-FQA: Task-Aware Retrieval-Augmented Generation Framework for Proprietary Data Challenges in Financial Question Answering**|Mohammad Zahangir Alam et.al.|[2510.27537](http://arxiv.org/abs/2510.27537)|null|
+|**2025-10-31**|**On chip plasmonic slit cavity platform for room temperature strong coupling with deterministically positioned colloidal quantum dots**|Jin Qin et.al.|[2510.27531](http://arxiv.org/abs/2510.27531)|null|
+|**2025-10-31**|**Unveiling Spin Transition at Single Particle Level in Levitating Spin Crossover Nanoparticles**|Elena Pinilla-Cienfuegos et.al.|[2510.27494](http://arxiv.org/abs/2510.27494)|null|
+|**2025-10-31**|**Beyond real blow-up: Masuda detours and complex holonomy**|Bernold Fiedler et.al.|[2510.27453](http://arxiv.org/abs/2510.27453)|null|
+|**2025-10-31**|**DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains**|Tian Liang et.al.|[2510.27419](http://arxiv.org/abs/2510.27419)|null|
+|**2025-10-31**|**Streptococcosis in aquaculture: Advances, challenges, and future directions in disease control and prevention**|Hussein Aliu Sule et.al.|[2510.27354](http://arxiv.org/abs/2510.27354)|null|
+|**2025-10-31**|**Dynamic Service Scheduling and Resource Management in Energy-Harvesting Multi-access Edge Computing**|Shuyi Chen et.al.|[2510.27317](http://arxiv.org/abs/2510.27317)|null|
+|**2025-10-31**|**Object-IR: Leveraging Object Consistency and Mesh Deformation for Self-Supervised Image Retargeting**|Tianli Liao et.al.|[2510.27236](http://arxiv.org/abs/2510.27236)|null|
+|**2025-10-31**|**Mask-to-Height: A YOLOv11-Based Architecture for Joint Building Instance Segmentation and Height Classification from Satellite Imagery**|Mahmoud El Hussieni et.al.|[2510.27224](http://arxiv.org/abs/2510.27224)|null|
+|**2025-10-31**|**Confined Space Underwater Positioning Using Collaborative Robots**|Xueliang Cheng et.al.|[2510.27151](http://arxiv.org/abs/2510.27151)|null|
+|**2025-10-31**|**SERVIMON: AI-Driven Predictive Maintenance and Real-Time Monitoring for Astronomical Observatories**|Emilio Mastriani et.al.|[2510.27146](http://arxiv.org/abs/2510.27146)|null|
+|**2025-10-31**|**AURA: A Reinforcement Learning Framework for AI-Driven Adaptive Conversational Surveys**|Jinwen Tang et.al.|[2510.27126](http://arxiv.org/abs/2510.27126)|null|
+|**2025-10-31**|**Functional connectivity guided deep neural network for decoding high-level visual imagery**|Byoung-Hee Kwon et.al.|[2510.27075](http://arxiv.org/abs/2510.27075)|null|
+|**2025-10-31**|**MLPerf Automotive**|Radoyeh Shojaei et.al.|[2510.27065](http://arxiv.org/abs/2510.27065)|null|
+|**2025-10-30**|**A Cloud-Based Spatio-Temporal GNN-Transformer Hybrid Model for Traffic Flow Forecasting with External Feature Integration**|Zhuo Zheng et.al.|[2510.27039](http://arxiv.org/abs/2510.27039)|null|
+|**2025-10-30**|**Trace-driven Path Emulation of Satellite Networks using Hypatia**|Martin Ottens et.al.|[2510.27027](http://arxiv.org/abs/2510.27027)|null|
+|**2025-10-30**|**AIOT based Smart Education System: A Dual Layer Authentication and Context-Aware Tutoring Framework for Learning Environments**|Adithya Neelakantan et.al.|[2510.26999](http://arxiv.org/abs/2510.26999)|null|
 |**2025-10-30**|**Running VLAs at Real-time Speed**|Yunchao Ma et.al.|[2510.26742](http://arxiv.org/abs/2510.26742)|null|
 |**2025-10-30**|**Process Integrated Computer Vision for Real-Time Failure Prediction in Steel Rolling Mill**|Vaibhav Kurrey et.al.|[2510.26684](http://arxiv.org/abs/2510.26684)|null|
 |**2025-10-30**|**Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation**|Qianyou Zhao et.al.|[2510.26670](http://arxiv.org/abs/2510.26670)|null|
@@ -5879,6 +5904,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model**|Yucheng Xing et.al.|[2510.27169](http://arxiv.org/abs/2510.27169)|null|
 |**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
 |**2025-10-29**|**One-shot Humanoid Whole-body Motion Learning**|Hao Huang et.al.|[2510.25241](http://arxiv.org/abs/2510.25241)|null|
 |**2025-10-28**|**Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**|Ziqi Ma et.al.|[2510.24257](http://arxiv.org/abs/2510.24257)|null|
@@ -6241,6 +6267,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Reconstructing Unseen Sentences from Speech-related Biosignals for Open-vocabulary Neural Communication**|Deok-Seon Kim et.al.|[2510.27247](http://arxiv.org/abs/2510.27247)|null|
+|**2025-10-31**|**Can MLLMs Read the Room? A Multimodal Benchmark for Verifying Truthfulness in Multi-Party Social Interactions**|Caixin Kang et.al.|[2510.27195](http://arxiv.org/abs/2510.27195)|null|
 |**2025-10-28**|**Levée d'ambiguïtés par grammaires locales**|Eric G. C. Laporte et.al.|[2510.24530](http://arxiv.org/abs/2510.24530)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
 |**2025-10-28**|**PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI**|Wenbin Ding et.al.|[2510.24109](http://arxiv.org/abs/2510.24109)|null|
@@ -6908,6 +6936,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Mitigating Semantic Collapse in Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2510.27432](http://arxiv.org/abs/2510.27432)|null|
+|**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Eric T. Chang et.al.|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-30**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
 |**2025-10-29**|**Approximating Human Preferences Using a Multi-Judge Learned System**|Eitán Sprejer et.al.|[2510.25884](http://arxiv.org/abs/2510.25884)|null|
 |**2025-10-28**|**Greedy Sampling Is Provably Efficient for RLHF**|Di Wu et.al.|[2510.24700](http://arxiv.org/abs/2510.24700)|null|
