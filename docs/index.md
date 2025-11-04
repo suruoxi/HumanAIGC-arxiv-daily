@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.11.03
+### Updated on 2025.11.04
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
 |**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[2510.25234](http://arxiv.org/abs/2510.25234)|null|
 |**2025-10-28**|**See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement**|Jinting Wang et.al.|[2510.26819](http://arxiv.org/abs/2510.26819)|null|
 |**2025-10-27**|**Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation**|Junyoung Seo et.al.|[2510.23581](http://arxiv.org/abs/2510.23581)|null|
@@ -29,7 +30,6 @@ layout: default
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
 |**2025-10-03**|**EGSTalker: Real-Time Audio-Driven Talking Head Generation with Efficient Gaussian Deformation**|Tianheng Zhu et.al.|[2510.08587](http://arxiv.org/abs/2510.08587)|null|
 |**2025-10-02**|**Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation**|Beijia Lu et.al.|[2510.02617](http://arxiv.org/abs/2510.02617)|null|
-|**2025-10-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
 |**2025-09-30**|**3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation**|Balamurugan Thambiraja et.al.|[2509.26233](http://arxiv.org/abs/2509.26233)|null|
 |**2025-09-28**|**Durian: Dual Reference Image-Guided Portrait Animation with Attribute Transfer**|Hyunsoo Cha et.al.|[2509.04434](http://arxiv.org/abs/2509.04434)|null|
 |**2025-09-26**|**StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing**|Liyang Chen et.al.|[2509.21887](http://arxiv.org/abs/2509.21887)|null|
@@ -6936,6 +6936,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-01**|**ADPO: Anchored Direct Preference Optimization**|Wang Zixian et.al.|[2510.18913](http://arxiv.org/abs/2510.18913)|null|
 |**2025-10-31**|**Mitigating Semantic Collapse in Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2510.27432](http://arxiv.org/abs/2510.27432)|null|
 |**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Eric T. Chang et.al.|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-30**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
@@ -6945,7 +6946,6 @@ layout: default
 |**2025-10-27**|**Debiasing Reward Models by Representation Learning with Guarantees**|Ignavier Ng et.al.|[2510.23751](http://arxiv.org/abs/2510.23751)|null|
 |**2025-10-27**|**Offline Preference Optimization via Maximum Marginal Likelihood Estimation**|Saeed Najafi et.al.|[2510.22881](http://arxiv.org/abs/2510.22881)|null|
 |**2025-10-27**|**Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients**|Omar El Mansouri et.al.|[2510.18924](http://arxiv.org/abs/2510.18924)|null|
-|**2025-10-27**|**ADPO: Anchored Direct Preference Optimization**|Wang Zixian et.al.|[2510.18913](http://arxiv.org/abs/2510.18913)|null|
 |**2025-10-22**|**SynCast: Synergizing Contradictions in Precipitation Nowcasting via Diffusion Sequential Preference Optimization**|Kaiyi Xu et.al.|[2510.21847](http://arxiv.org/abs/2510.21847)|null|
 |**2025-10-22**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
 |**2025-10-21**|**Frame-Difference Guided Dynamic Region Perception for CLIP Adaptation in Text-Video Retrieval**|Jiaao Yu et.al.|[2510.21806](http://arxiv.org/abs/2510.21806)|null|
