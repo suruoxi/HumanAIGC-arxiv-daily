@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-11-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
 |**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[2510.25234](http://arxiv.org/abs/2510.25234)|null|
@@ -982,6 +983,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
+|**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-05**|**Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**|Jie Du et.al.|[2511.01450](http://arxiv.org/abs/2511.01450)|null|
 |**2025-11-04**|**ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation**|Panwang Pan et.al.|[2511.00511](http://arxiv.org/abs/2511.00511)|null|
 |**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen et.al.|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
@@ -1998,6 +2001,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-05**|**ESA: Energy-Based Shot Assembly Optimization for Automatic Video Editing**|Yaosen Chen et.al.|[2511.02505](http://arxiv.org/abs/2511.02505)|null|
 |**2025-11-05**|**Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing**|Zhihui Chen et.al.|[2511.00801](http://arxiv.org/abs/2511.00801)|null|
 |**2025-11-03**|**UniREditBench: A Unified Reasoning-based Image Editing Benchmark**|Feng Han et.al.|[2511.01295](http://arxiv.org/abs/2511.01295)|null|
@@ -2473,8 +2477,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol**|Yu-Erh Pan et.al.|[2511.03706](http://arxiv.org/abs/2511.03706)|null|
+|**2025-11-05**|**Certified randomness amplification by dynamically probing remote random quantum states**|Minzhao Liu et.al.|[2511.03686](http://arxiv.org/abs/2511.03686)|null|
+|**2025-11-05**|**Simulation-Based Validation of an Integrated 4D/5D Digital-Twin Framework for Predictive Construction Control**|Atena Khoshkonesh et.al.|[2511.03684](http://arxiv.org/abs/2511.03684)|null|
+|**2025-11-05**|**LiveTradeBench: Seeking Real-World Alpha with Large Language Models**|Haofei Yu et.al.|[2511.03628](http://arxiv.org/abs/2511.03628)|null|
+|**2025-11-05**|**Super-resolution Optical Near-field EM for bio- and materials science**|Ilia Zykov et.al.|[2511.03597](http://arxiv.org/abs/2511.03597)|null|
+|**2025-11-05**|**Performance Evaluation of a Position-Sensitive SiPM-based Gamma Camera for Intraoperative Imaging**|Aramis Raiola et.al.|[2511.03493](http://arxiv.org/abs/2511.03493)|null|
+|**2025-11-05**|**A Modified Pulse and Design Framework to Halve the Complexity of OFDM Spectral Shaping Techniques**|Javier Giménez et.al.|[2511.03465](http://arxiv.org/abs/2511.03465)|null|
+|**2025-11-05**|**Formalizing ETLT and ELTL Design Patterns and Proposing Enhanced Variants: A Systematic Framework for Modern Data Engineering**|Chiara Rucco et.al.|[2511.03393](http://arxiv.org/abs/2511.03393)|null|
+|**2025-11-05**|**A Digital Twin of Evaporative Thermo-Fluidic Process in Fixation Unit of DoD Inkjet Printers**|Samarth Toolhally et.al.|[2511.03379](http://arxiv.org/abs/2511.03379)|null|
+|**2025-11-05**|**Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Vide**|Alexander Htet Kyaw et.al.|[2511.03227](http://arxiv.org/abs/2511.03227)|null|
+|**2025-11-05**|**Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification**|Shaghayegh Kolli et.al.|[2511.03217](http://arxiv.org/abs/2511.03217)|null|
+|**2025-11-05**|**SurgAnt-ViVQA: Learning to Anticipate Surgical Events through GRU-Driven Temporal Cross-Attention**|Shreyas C. Dhake et.al.|[2511.03178](http://arxiv.org/abs/2511.03178)|null|
+|**2025-11-05**|**Subsampled Randomized Fourier GaLore for Adapting Foundation Models in Depth-Driven Liver Landmark Segmentation**|Yun-Chen Lin et.al.|[2511.03163](http://arxiv.org/abs/2511.03163)|null|
+|**2025-11-05**|**A Proprietary Model-Based Safety Response Framework for AI Agents**|Qi Li et.al.|[2511.03138](http://arxiv.org/abs/2511.03138)|null|
 |**2025-11-05**|**NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers**|Mohammad Sadegh Eshaghi et.al.|[2511.02481](http://arxiv.org/abs/2511.02481)|null|
 |**2025-11-05**|**Ultrafast magnetic moment transfer and bandgap renormalization in monolayer FeCl $_2$**|Yu-Hui Song et.al.|[2511.02461](http://arxiv.org/abs/2511.02461)|null|
+|**2025-11-04**|**A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics**|Markus Buchholz et.al.|[2511.03075](http://arxiv.org/abs/2511.03075)|null|
+|**2025-11-04**|**Reading Between the Lines: The One-Sided Conversation Problem**|Victoria Ebert et.al.|[2511.03056](http://arxiv.org/abs/2511.03056)|null|
+|**2025-11-04**|**ROBoto2: An Interactive System and Dataset for LLM-assisted Clinical Trial Risk of Bias Assessment**|Anthony Hevia et.al.|[2511.03048](http://arxiv.org/abs/2511.03048)|null|
+|**2025-11-04**|**Exploratory Analysis of Cyberattack Patterns on E-Commerce Platforms Using Statistical Methods**|Fatimo Adenike Adeniya et.al.|[2511.03020](http://arxiv.org/abs/2511.03020)|null|
+|**2025-11-04**|**Establishing Trust in Crowdsourced Data**|Iffat Gheyas et.al.|[2511.03016](http://arxiv.org/abs/2511.03016)|null|
+|**2025-11-04**|**Observer-based neural networks for flow estimation and control**|Tarcísio C. Déda et.al.|[2511.02995](http://arxiv.org/abs/2511.02995)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze et.al.|[2511.02832](http://arxiv.org/abs/2511.02832)|null|
 |**2025-11-04**|**Majorana string simulation of nonequilibrium dynamics in two-dimensional lattice fermion systems**|Matteo D'Anna et.al.|[2511.02809](http://arxiv.org/abs/2511.02809)|null|
 |**2025-11-04**|**Optimal Source Coding of Markov Chains for Real-Time Remote Estimation**|Ismail Cosandal et.al.|[2511.02803](http://arxiv.org/abs/2511.02803)|null|
@@ -5963,6 +5987,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition**|Jongseo Lee et.al.|[2511.03725](http://arxiv.org/abs/2511.03725)|null|
+|**2025-11-05**|**Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**|Taito Tashiro et.al.|[2511.03676](http://arxiv.org/abs/2511.03676)|null|
+|**2025-11-05**|**UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**|Tingzhu Bi et.al.|[2511.03168](http://arxiv.org/abs/2511.03168)|null|
 |**2025-11-05**|**On Improvisation and Open-Endedness: Insights for Experiential AI**|Botao 'Amber' Hu et.al.|[2511.00529](http://arxiv.org/abs/2511.00529)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze et.al.|[2511.02832](http://arxiv.org/abs/2511.02832)|null|
 |**2025-11-03**|**HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA**|Lei Hu et.al.|[2511.01463](http://arxiv.org/abs/2511.01463)|null|
@@ -6334,6 +6361,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
+|**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
 |**2025-11-05**|**StutterZero and StutterFormer: End-to-End Speech Conversion for Stuttering Transcription and Correction**|Qianheng Xu et.al.|[2510.18938](http://arxiv.org/abs/2510.18938)|null|
 |**2025-11-04**|**Augmenting Open-Vocabulary Dysarthric Speech Assessment with Human Perceptual Supervision**|Kaimeng Jia et.al.|[2511.02270](http://arxiv.org/abs/2511.02270)|null|
 |**2025-11-04**|**Can MLLMs Read the Room? A Multimodal Benchmark for Verifying Truthfulness in Multi-Party Social Interactions**|Caixin Kang et.al.|[2510.27195](http://arxiv.org/abs/2510.27195)|null|
