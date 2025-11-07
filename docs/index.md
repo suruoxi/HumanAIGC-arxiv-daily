@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-11-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
@@ -969,6 +970,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation**|Jinlai Liu et.al.|[2511.04675](http://arxiv.org/abs/2511.04675)|null|
+|**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
+|**2025-11-06**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
+|**2025-11-06**|**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation**|Xiangjun Zhang et.al.|[2511.04317](http://arxiv.org/abs/2511.04317)|null|
+|**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-05**|**Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**|Jie Du et.al.|[2511.01450](http://arxiv.org/abs/2511.01450)|null|
@@ -2457,6 +2463,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Funnel-Based Online Recovery Control for Nonlinear Systems With Unknown Dynamics**|Zihao Song et.al.|[2511.04626](http://arxiv.org/abs/2511.04626)|null|
+|**2025-11-06**|**Optimizing Sensor Placement in Urban Storm Sewers: A Data-Driven Sparse Sensing Approach**|Zihang Ding et.al.|[2511.04556](http://arxiv.org/abs/2511.04556)|null|
+|**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[2511.04555](http://arxiv.org/abs/2511.04555)|null|
+|**2025-11-06**|**Portable, cost_effective UV_vis_NIR microspectrophotometer for absorption and fluorescence microscopy and spectroscopy**|Negar Karpourazar et.al.|[2511.04507](http://arxiv.org/abs/2511.04507)|null|
+|**2025-11-06**|**AI-Driven Phase-Shifted Carrier Optimization for Cascaded Bridge Converters, Modular Multilevel Converters, and Reconfigurable Batteries**|Amin Hashemi-Zadeh et.al.|[2511.04470](http://arxiv.org/abs/2511.04470)|null|
+|**2025-11-06**|**Cutana: A High-Performance Tool for Astronomical Image Cutout Generation at Petabyte Scale**|Pablo Gómez et.al.|[2511.04429](http://arxiv.org/abs/2511.04429)|null|
+|**2025-11-06**|**Mitigating effects of nonlinearities in homodyne quadrature interferometers**|Johannes Lehmann et.al.|[2511.04386](http://arxiv.org/abs/2511.04386)|null|
+|**2025-11-06**|**Self-correcting High-speed Opto-electronic Probabilistic Computer**|Ramy Aboushelbaya et.al.|[2511.04300](http://arxiv.org/abs/2511.04300)|null|
+|**2025-11-06**|**A Parallel Region-Adaptive Differential Privacy Framework for Image Pixelization**|Ming Liu et.al.|[2511.04261](http://arxiv.org/abs/2511.04261)|null|
+|**2025-11-06**|**Accurate humidity and pH synchronized measurement with temperature compensation based on polarization maintaining fiber**|Jia Liu et.al.|[2511.04203](http://arxiv.org/abs/2511.04203)|null|
+|**2025-11-06**|**Deep reinforcement learning based navigation of a jellyfish-like swimmer in flows with obstacles**|Yihao Chen et.al.|[2511.04156](http://arxiv.org/abs/2511.04156)|null|
+|**2025-11-06**|**Infrared Microscopy of Biochemistry and Metabolism in Single Living Eukaryotic Cells**|Luca Quaroni et.al.|[2511.04143](http://arxiv.org/abs/2511.04143)|null|
+|**2025-11-06**|**Automated Tennis Player and Ball Tracking with Court Keypoints Detection (Hawk Eye System)**|Venkata Manikanta Desu et.al.|[2511.04126](http://arxiv.org/abs/2511.04126)|null|
+|**2025-11-06**|**Unified Effective Field Theory for Nonlinear and Quantum Optics**|Xiaochen Liu et.al.|[2511.04118](http://arxiv.org/abs/2511.04118)|null|
+|**2025-11-06**|**Tortoise and Hare Guidance: Accelerating Diffusion Model Inference with Multirate Integration**|Yunghee Lee et.al.|[2511.04117](http://arxiv.org/abs/2511.04117)|null|
+|**2025-11-06**|**Automated and Explainable Denial of Service Analysis for AI-Driven Intrusion Detection Systems**|Paul Badu Yakubu et.al.|[2511.04114](http://arxiv.org/abs/2511.04114)|null|
+|**2025-11-06**|**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**|Ge Zhang et.al.|[2511.04087](http://arxiv.org/abs/2511.04087)|null|
+|**2025-11-06**|**Enhancing Fault-Tolerant Space Computing: Guidance Navigation and Control (GNC) and Landing Vision System (LVS) Implementations on Next-Gen Multi-Core Processors**|Kyongsik Yun et.al.|[2511.04052](http://arxiv.org/abs/2511.04052)|null|
+|**2025-11-06**|**An LLM-based Framework for Human-Swarm Teaming Cognition in Disaster Search and Rescue**|Kailun Ji et.al.|[2511.04042](http://arxiv.org/abs/2511.04042)|null|
+|**2025-11-06**|**Shellular Metamaterial Design via Compact Electric Potential Parametrization**|Chang Liu et.al.|[2511.04025](http://arxiv.org/abs/2511.04025)|null|
 |**2025-11-06**|**Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Video**|Alexander Htet Kyaw et.al.|[2511.03227](http://arxiv.org/abs/2511.03227)|null|
 |**2025-11-05**|**LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol**|Yu-Erh Pan et.al.|[2511.03706](http://arxiv.org/abs/2511.03706)|null|
 |**2025-11-05**|**Certified randomness amplification by dynamically probing remote random quantum states**|Minzhao Liu et.al.|[2511.03686](http://arxiv.org/abs/2511.03686)|null|
@@ -5965,6 +5991,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**|Qingzhou Lu et.al.|[2511.04679](http://arxiv.org/abs/2511.04679)|null|
+|**2025-11-06**|**AStF: Motion Style Transfer via Adaptive Statistics Fusor**|Hanmo Chen et.al.|[2511.04192](http://arxiv.org/abs/2511.04192)|null|
 |**2025-11-05**|**Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition**|Jongseo Lee et.al.|[2511.03725](http://arxiv.org/abs/2511.03725)|null|
 |**2025-11-05**|**Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**|Taito Tashiro et.al.|[2511.03676](http://arxiv.org/abs/2511.03676)|null|
 |**2025-11-05**|**UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**|Tingzhu Bi et.al.|[2511.03168](http://arxiv.org/abs/2511.03168)|null|
