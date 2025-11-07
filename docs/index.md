@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.11.06
+### Updated on 2025.11.07
 <details>
 
 <summary> Talking Face </summary>
@@ -2457,6 +2457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Video**|Alexander Htet Kyaw et.al.|[2511.03227](http://arxiv.org/abs/2511.03227)|null|
 |**2025-11-05**|**LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol**|Yu-Erh Pan et.al.|[2511.03706](http://arxiv.org/abs/2511.03706)|null|
 |**2025-11-05**|**Certified randomness amplification by dynamically probing remote random quantum states**|Minzhao Liu et.al.|[2511.03686](http://arxiv.org/abs/2511.03686)|null|
 |**2025-11-05**|**Simulation-Based Validation of an Integrated 4D/5D Digital-Twin Framework for Predictive Construction Control**|Atena Khoshkonesh et.al.|[2511.03684](http://arxiv.org/abs/2511.03684)|null|
@@ -2466,7 +2467,6 @@ layout: default
 |**2025-11-05**|**A Modified Pulse and Design Framework to Halve the Complexity of OFDM Spectral Shaping Techniques**|Javier Giménez et.al.|[2511.03465](http://arxiv.org/abs/2511.03465)|null|
 |**2025-11-05**|**Formalizing ETLT and ELTL Design Patterns and Proposing Enhanced Variants: A Systematic Framework for Modern Data Engineering**|Chiara Rucco et.al.|[2511.03393](http://arxiv.org/abs/2511.03393)|null|
 |**2025-11-05**|**A Digital Twin of Evaporative Thermo-Fluidic Process in Fixation Unit of DoD Inkjet Printers**|Samarth Toolhally et.al.|[2511.03379](http://arxiv.org/abs/2511.03379)|null|
-|**2025-11-05**|**Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Vide**|Alexander Htet Kyaw et.al.|[2511.03227](http://arxiv.org/abs/2511.03227)|null|
 |**2025-11-05**|**Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification**|Shaghayegh Kolli et.al.|[2511.03217](http://arxiv.org/abs/2511.03217)|null|
 |**2025-11-05**|**SurgAnt-ViVQA: Learning to Anticipate Surgical Events through GRU-Driven Temporal Cross-Attention**|Shreyas C. Dhake et.al.|[2511.03178](http://arxiv.org/abs/2511.03178)|null|
 |**2025-11-05**|**Subsampled Randomized Fourier GaLore for Adapting Foundation Models in Depth-Driven Liver Landmark Segmentation**|Yun-Chen Lin et.al.|[2511.03163](http://arxiv.org/abs/2511.03163)|null|
