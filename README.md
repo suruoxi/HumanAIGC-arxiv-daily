@@ -7066,6 +7066,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Efficient Reinforcement Learning from Human Feedback via Bayesian Preference Inference**|Matteo Cercola et.al.|[2511.04286](http://arxiv.org/abs/2511.04286)|null|
+|**2025-11-06**|**RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods**|Raghav Sharma et.al.|[2511.03939](http://arxiv.org/abs/2511.03939)|null|
 |**2025-11-01**|**ADPO: Anchored Direct Preference Optimization**|Wang Zixian et.al.|[2510.18913](http://arxiv.org/abs/2510.18913)|null|
 |**2025-10-31**|**Mitigating Semantic Collapse in Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2510.27432](http://arxiv.org/abs/2510.27432)|null|
 |**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Eric T. Chang et.al.|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
