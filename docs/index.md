@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
@@ -2463,6 +2464,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**FPGA-Based Real-Time Waveform Classification**|Alperen Aksoy et.al.|[2511.05479](http://arxiv.org/abs/2511.05479)|null|
+|**2025-11-07**|**Precipitation nowcasting of satellite data using physically conditioned neural networks**|Antônio Catão et.al.|[2511.05471](http://arxiv.org/abs/2511.05471)|null|
+|**2025-11-07**|**EventFlow: Real-Time Neuromorphic Event-Driven Classification of Two-Phase Boiling Flow Regimes**|Sanghyeon Chang et.al.|[2511.05467](http://arxiv.org/abs/2511.05467)|null|
+|**2025-11-07**|**Helios: A 98-qubit trapped-ion quantum computer**|Anthony Ransford et.al.|[2511.05465](http://arxiv.org/abs/2511.05465)|null|
+|**2025-11-07**|**Large Language Models for Explainable Threat Intelligence**|Tiago Dinis et.al.|[2511.05406](http://arxiv.org/abs/2511.05406)|null|
+|**2025-11-07**|**AI Assisted AR Assembly: Object Recognition and Computer Vision for Augmented Reality Assisted Assembly**|Alexander Htet Kyaw et.al.|[2511.05394](http://arxiv.org/abs/2511.05394)|null|
+|**2025-11-07**|**Optimal Control of H-Mode Tokamak Plasma Temperature based on Pontryagin's Principle**|Slim Jmal et.al.|[2511.05382](http://arxiv.org/abs/2511.05382)|null|
+|**2025-11-07**|**ETHOS: A Robotic Encountered-Type Haptic Display for Social Interaction in Virtual Reality**|Eric Godden et.al.|[2511.05379](http://arxiv.org/abs/2511.05379)|null|
+|**2025-11-07**|**MultiVic: A Time-Predictable RISC-V Multi-Core Processor Optimized for Neural Network Inference**|Maximilian Kirschner et.al.|[2511.05321](http://arxiv.org/abs/2511.05321)|null|
+|**2025-11-07**|**Force-Safe Environment Maps and Real-Time Detection for Soft Robot Manipulators**|Akua K. Dickson et.al.|[2511.05307](http://arxiv.org/abs/2511.05307)|null|
+|**2025-11-07**|**psiUnity: A Platform for Multimodal Data-Driven XR**|Akhil Ajikumar et.al.|[2511.05304](http://arxiv.org/abs/2511.05304)|null|
+|**2025-11-07**|**LiveStar: Live Streaming Assistant for Real-World Online Video Understanding**|Zhenyu Yang et.al.|[2511.05299](http://arxiv.org/abs/2511.05299)|null|
+|**2025-11-07**|**Automatic segmentation of colorectal liver metastases for ultrasound-based navigated resection**|Tiziano Natali et.al.|[2511.05253](http://arxiv.org/abs/2511.05253)|null|
+|**2025-11-07**|**Transporter: A 128 $\times$ 4 SPAD Imager with On-chip Encoder for Spiking Neural Network-based Processing**|Yang Lin et.al.|[2511.05241](http://arxiv.org/abs/2511.05241)|null|
+|**2025-11-07**|**Scaling behavior of dissipative systems with imaginary gap closing**|Jinghui Pi et.al.|[2511.05220](http://arxiv.org/abs/2511.05220)|null|
+|**2025-11-07**|**Neural Operators for Power Systems: A Physics-Informed Framework for Modeling Power System Components**|Ioannis Karampinis et.al.|[2511.05216](http://arxiv.org/abs/2511.05216)|null|
+|**2025-11-07**|**SmartSecChain-SDN: A Blockchain-Integrated Intelligent Framework for Secure and Efficient Software-Defined Networks**|Azhar Hussain Mozumder et.al.|[2511.05156](http://arxiv.org/abs/2511.05156)|null|
+|**2025-11-07**|**On the Estimation of Climate Normals and Anomalies**|Tommaso Proietti et.al.|[2511.05071](http://arxiv.org/abs/2511.05071)|null|
+|**2025-11-07**|**Epically Powerful: An open-source software and mechatronics infrastructure for wearable robotic systems**|Jennifer K. Leestma et.al.|[2511.05033](http://arxiv.org/abs/2511.05033)|null|
+|**2025-11-07**|**Multi-agent Coordination via Flow Matching**|Dongsu Lee et.al.|[2511.05005](http://arxiv.org/abs/2511.05005)|null|
 |**2025-11-06**|**Funnel-Based Online Recovery Control for Nonlinear Systems With Unknown Dynamics**|Zihao Song et.al.|[2511.04626](http://arxiv.org/abs/2511.04626)|null|
 |**2025-11-06**|**Optimizing Sensor Placement in Urban Storm Sewers: A Data-Driven Sparse Sensing Approach**|Zihang Ding et.al.|[2511.04556](http://arxiv.org/abs/2511.04556)|null|
 |**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[2511.04555](http://arxiv.org/abs/2511.04555)|null|
@@ -5991,6 +6012,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Dense Motion Captioning**|Shiyao Xu et.al.|[2511.05369](http://arxiv.org/abs/2511.05369)|null|
+|**2025-11-07**|**QuAnTS: Question Answering on Time Series**|Felix Divo et.al.|[2511.05124](http://arxiv.org/abs/2511.05124)|null|
+|**2025-11-07**|**Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance**|Zhengxuan Li et.al.|[2511.05038](http://arxiv.org/abs/2511.05038)|null|
 |**2025-11-06**|**GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**|Qingzhou Lu et.al.|[2511.04679](http://arxiv.org/abs/2511.04679)|null|
 |**2025-11-06**|**AStF: Motion Style Transfer via Adaptive Statistics Fusor**|Hanmo Chen et.al.|[2511.04192](http://arxiv.org/abs/2511.04192)|null|
 |**2025-11-05**|**Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition**|Jongseo Lee et.al.|[2511.03725](http://arxiv.org/abs/2511.03725)|null|
@@ -6365,6 +6389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
 |**2025-11-05**|**StutterZero and StutterFormer: End-to-End Speech Conversion for Stuttering Transcription and Correction**|Qianheng Xu et.al.|[2510.18938](http://arxiv.org/abs/2510.18938)|null|
