@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.11.09
+### Updated on 2025.11.10
 <details>
 
 <summary> Talking Face </summary>
@@ -12,7 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-06**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
+|**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-11-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|Jiye Lee et.al.|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
@@ -970,9 +970,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-06**|**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation**|Jinlai Liu et.al.|[2511.04675](http://arxiv.org/abs/2511.04675)|null|
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
-|**2025-11-06**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-06**|**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation**|Xiangjun Zhang et.al.|[2511.04317](http://arxiv.org/abs/2511.04317)|null|
 |**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
@@ -1989,9 +1989,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing**|Zhihui Chen et.al.|[2511.00801](http://arxiv.org/abs/2511.00801)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-05**|**ESA: Energy-Based Shot Assembly Optimization for Automatic Video Editing**|Yaosen Chen et.al.|[2511.02505](http://arxiv.org/abs/2511.02505)|null|
-|**2025-11-05**|**Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing**|Zhihui Chen et.al.|[2511.00801](http://arxiv.org/abs/2511.00801)|null|
 |**2025-11-03**|**UniREditBench: A Unified Reasoning-based Image Editing Benchmark**|Feng Han et.al.|[2511.01295](http://arxiv.org/abs/2511.01295)|null|
 |**2025-10-31**|**BlurGuard: A Simple Approach for Robustifying Image Protection Against AI-Powered Editing**|Jinsu Kim et.al.|[2511.00143](http://arxiv.org/abs/2511.00143)|null|
 |**2025-10-31**|**Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing**|Yijia Wang et.al.|[2510.27335](http://arxiv.org/abs/2510.27335)|null|
