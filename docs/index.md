@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search**|Zhenjie Liu et.al.|[2511.06833](http://arxiv.org/abs/2511.06833)|null|
 |**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
@@ -971,7 +972,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Robot Learning from a Physical World Model**|Jiageng Mao et.al.|[2511.07416](http://arxiv.org/abs/2511.07416)|null|
+|**2025-11-10**|**StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation**|Tianrui Feng et.al.|[2511.07399](http://arxiv.org/abs/2511.07399)|null|
 |**2025-11-10**|**Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**|Jie Du et.al.|[2511.01450](http://arxiv.org/abs/2511.01450)|null|
+|**2025-11-09**|**GenAI vs. Human Creators: Procurement Mechanism Design in Two-/Three-Layer Markets**|Rui Ai et.al.|[2511.06559](http://arxiv.org/abs/2511.06559)|null|
+|**2025-11-09**|**RelightMaster: Precise Video Relighting with Multi-plane Light Images**|Weikang Bian et.al.|[2511.06271](http://arxiv.org/abs/2511.06271)|null|
+|**2025-11-08**|**Neodragon: Mobile Video Generation using Diffusion Transformer**|Animesh Karnewar et.al.|[2511.06055](http://arxiv.org/abs/2511.06055)|null|
 |**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-06**|**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation**|Jinlai Liu et.al.|[2511.04675](http://arxiv.org/abs/2511.04675)|null|
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
@@ -979,6 +985,7 @@ layout: default
 |**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
+|**2025-11-04**|**Video Text Preservation with Synthetic Text-Rich Videos**|Ziyang Liu et.al.|[2511.05573](http://arxiv.org/abs/2511.05573)|null|
 |**2025-11-04**|**ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation**|Panwang Pan et.al.|[2511.00511](http://arxiv.org/abs/2511.00511)|null|
 |**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen et.al.|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
 |**2025-11-03**|**Driving scenario generation and evaluation using a structured layer representation and foundational models**|Arthur Hubert et.al.|[2511.01541](http://arxiv.org/abs/2511.01541)|null|
@@ -1991,6 +1998,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-07**|**Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing**|Zhihui Chen et.al.|[2511.00801](http://arxiv.org/abs/2511.00801)|null|
+|**2025-11-06**|**Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization**|Connor Dunlop et.al.|[2511.05616](http://arxiv.org/abs/2511.05616)|null|
+|**2025-11-05**|**Diffusion-Based Image Editing: An Unforeseen Adversary to Robust Invisible Watermarks**|Wenkai Fu et.al.|[2511.05598](http://arxiv.org/abs/2511.05598)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-05**|**ESA: Energy-Based Shot Assembly Optimization for Automatic Video Editing**|Yaosen Chen et.al.|[2511.02505](http://arxiv.org/abs/2511.02505)|null|
 |**2025-11-03**|**UniREditBench: A Unified Reasoning-based Image Editing Benchmark**|Feng Han et.al.|[2511.01295](http://arxiv.org/abs/2511.01295)|null|
@@ -2464,6 +2473,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Zhao-Heng Yin et.al.|[2511.07418](http://arxiv.org/abs/2511.07418)|null|
+|**2025-11-10**|**StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation**|Tianrui Feng et.al.|[2511.07399](http://arxiv.org/abs/2511.07399)|null|
+|**2025-11-10**|**Residual Rotation Correction using Tactile Equivariance**|Yizhe Zhu et.al.|[2511.07381](http://arxiv.org/abs/2511.07381)|null|
+|**2025-11-10**|**Real-Time LiDAR Super-Resolution via Frequency-Aware Multi-Scale Fusion**|June Moh Goo et.al.|[2511.07377](http://arxiv.org/abs/2511.07377)|null|
+|**2025-11-10**|**Offset-Free Robust Nonlinear Control Using Data-Driven Model: A Nonlinear Multi-Model Computationally Efficient Approach**|Carine Menezes Rebello et.al.|[2511.07255](http://arxiv.org/abs/2511.07255)|null|
+|**2025-11-10**|**Privacy on the Fly: A Predictive Adversarial Transformation Network for Mobile Sensor Data**|Tianle Song et.al.|[2511.07242](http://arxiv.org/abs/2511.07242)|null|
+|**2025-11-10**|**Resilient by Design - Active Inference for Distributed Continuum Intelligence**|Praveen Kumar Donta et.al.|[2511.07202](http://arxiv.org/abs/2511.07202)|null|
+|**2025-11-10**|**Dynamic Vaccine Prioritization via Non-Markovian Final-state Optimization**|Mi Feng et.al.|[2511.07200](http://arxiv.org/abs/2511.07200)|null|
+|**2025-11-10**|**Combining digital data streams and epidemic networks for real time outbreak detection**|Ruiqi Lyu et.al.|[2511.07163](http://arxiv.org/abs/2511.07163)|null|
+|**2025-11-10**|**Real-Time Co-Simulation for DC Microgrid Energy Management with Communication Delays**|S. Gokul Krishnan et.al.|[2511.07052](http://arxiv.org/abs/2511.07052)|null|
+|**2025-11-10**|**Raspi $^2$ USBL: An open-source Raspberry Pi-Based Passive Inverted Ultra-Short Baseline Positioning System for Underwater Robotics**|Jin Huang et.al.|[2511.06998](http://arxiv.org/abs/2511.06998)|null|
+|**2025-11-10**|**Light Focusing through Dynamic Media via Real-Valued Intensity Transmission Matrix**|Xuan Liu et.al.|[2511.06993](http://arxiv.org/abs/2511.06993)|null|
+|**2025-11-10**|**Koopman-Based Dynamic Environment Prediction for Safe UAV Navigation**|Vitor Bueno et.al.|[2511.06990](http://arxiv.org/abs/2511.06990)|null|
+|**2025-11-10**|**Fast Bayesian Updates via Harmonic Representations**|Di Zhang et.al.|[2511.06978](http://arxiv.org/abs/2511.06978)|null|
+|**2025-11-10**|**Ultrafast Topological Transitions Driven by Permittivity Modulation in Non-Hermitian Multilayers**|Giuseppina Simone et.al.|[2511.06963](http://arxiv.org/abs/2511.06963)|null|
+|**2025-11-10**|**DTTNet: Improving Video Shadow Detection via Dark-Aware Guidance and Tokenized Temporal Modeling**|Zhicheng Li et.al.|[2511.06925](http://arxiv.org/abs/2511.06925)|null|
+|**2025-11-10**|**Real-Time Diverse Fiber Sensing Multi-Event Detection using Phase OTDR Measurements**|Konstantinos Alexoudis et.al.|[2511.06922](http://arxiv.org/abs/2511.06922)|null|
+|**2025-11-10**|**MetricSynth: Framework for Aggregating DORA and KPI Metrics Across Multi-Platform Engineering**|Pallav Jain et.al.|[2511.06864](http://arxiv.org/abs/2511.06864)|null|
+|**2025-11-10**|**Synergistic Antenna-Modulator Integration for Monolithic Photonic RF Receiver**|Changlin Liu et.al.|[2511.06825](http://arxiv.org/abs/2511.06825)|null|
+|**2025-11-10**|**A Study of Cataclysmic Variables from the eFEDS Survey**|Rui Wang et.al.|[2511.06814](http://arxiv.org/abs/2511.06814)|null|
 |**2025-11-07**|**FPGA-Based Real-Time Waveform Classification**|Alperen Aksoy et.al.|[2511.05479](http://arxiv.org/abs/2511.05479)|null|
 |**2025-11-07**|**Precipitation nowcasting of satellite data using physically conditioned neural networks**|Antônio Catão et.al.|[2511.05471](http://arxiv.org/abs/2511.05471)|null|
 |**2025-11-07**|**EventFlow: Real-Time Neuromorphic Event-Driven Classification of Two-Phase Boiling Flow Regimes**|Sanghyeon Chang et.al.|[2511.05467](http://arxiv.org/abs/2511.05467)|null|
@@ -6389,6 +6418,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
+|**2025-11-09**|**IDMap: A Pseudo-Speaker Generator Framework Based on Speaker Identity Index to Vector Mapping**|Zeyan Liu et.al.|[2511.06246](http://arxiv.org/abs/2511.06246)|null|
+|**2025-11-08**|**Pinching Visuo-haptic Display: Investigating Cross-Modal Effects of Visual Textures on Electrostatic Cloth Tactile Sensations**|Takekazu Kitagishi et.al.|[2511.05952](http://arxiv.org/abs/2511.05952)|null|
 |**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
