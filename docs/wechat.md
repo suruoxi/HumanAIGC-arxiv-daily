@@ -1268,7 +1268,7 @@
 - 2025-06-02, **Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents**, Shuting Wang et.al., Paper: [http://arxiv.org/abs/2506.01689](http://arxiv.org/abs/2506.01689)
 - 2025-03-24, **Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**, Sicong Feng et.al., Paper: [http://arxiv.org/abs/2503.18386](http://arxiv.org/abs/2503.18386)
 - 2025-02-28, **RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, Ke Cao et.al., Paper: [http://arxiv.org/abs/2502.14377](http://arxiv.org/abs/2502.14377)
-- 2025-11-05, **Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**, Jie Du et.al., Paper: [http://arxiv.org/abs/2511.01450](http://arxiv.org/abs/2511.01450)
+- 2025-11-10, **Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**, Jie Du et.al., Paper: [http://arxiv.org/abs/2511.01450](http://arxiv.org/abs/2511.01450)
 - 2025-07-03, **RefTok: Reference-Based Tokenization for Video Generation**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2507.02862](http://arxiv.org/abs/2507.02862)
 - 2025-03-26, **RecTable: Fast Modeling Tabular Data with Rectified Flow**, Masane Fuchi et.al., Paper: [http://arxiv.org/abs/2503.20731](http://arxiv.org/abs/2503.20731), Code: **[https://github.com/fmp453/rectable](https://github.com/fmp453/rectable)**
 - 2025-04-22, **Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning**, Wang Lin et.al., Paper: [http://arxiv.org/abs/2504.15932](http://arxiv.org/abs/2504.15932)

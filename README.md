@@ -985,6 +985,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**|Jie Du et.al.|[2511.01450](http://arxiv.org/abs/2511.01450)|null|
 |**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-06**|**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation**|Jinlai Liu et.al.|[2511.04675](http://arxiv.org/abs/2511.04675)|null|
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
@@ -992,7 +993,6 @@
 |**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
-|**2025-11-05**|**Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation**|Jie Du et.al.|[2511.01450](http://arxiv.org/abs/2511.01450)|null|
 |**2025-11-04**|**ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation**|Panwang Pan et.al.|[2511.00511](http://arxiv.org/abs/2511.00511)|null|
 |**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen et.al.|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
 |**2025-11-03**|**Driving scenario generation and evaluation using a structured layer representation and foundational models**|Arthur Hubert et.al.|[2511.01541](http://arxiv.org/abs/2511.01541)|null|
