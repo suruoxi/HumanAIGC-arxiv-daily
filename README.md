@@ -1028,6 +1028,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Segment Anything Across Shots: A Method and Benchmark**|Hengrui Hu et.al.|[2511.13715](http://arxiv.org/abs/2511.13715)|null|
+|**2025-11-17**|**UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity**|Junwei Yu et.al.|[2511.13714](http://arxiv.org/abs/2511.13714)|null|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**CacheFlow: Compressive Streaming Memory for Efficient Long-Form Video Understanding**|Shrenik Patel et.al.|[2511.13644](http://arxiv.org/abs/2511.13644)|null|
 |**2025-11-17**|**Computer Vision based group activity detection and action spotting**|Narthana Sivalingam et.al.|[2511.13315](http://arxiv.org/abs/2511.13315)|null|
 |**2025-11-17**|**CorrectAD: A Self-Correcting Agentic System to Improve End-to-end Planning in Autonomous Driving**|Enhui Ma et.al.|[2511.13297](http://arxiv.org/abs/2511.13297)|null|
 |**2025-11-17**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
@@ -2178,6 +2183,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine**|Xincheng Shuai et.al.|[2511.13713](http://arxiv.org/abs/2511.13713)|null|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
 |**2025-11-17**|**Language-Guided Invariance Probing of Vision-Language Models**|Jae Joong Lee et.al.|[2511.13494](http://arxiv.org/abs/2511.13494)|null|
 |**2025-11-17**|**Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling**|Adam Hazimeh et.al.|[2511.13478](http://arxiv.org/abs/2511.13478)|null|
 |**2025-11-17**|**Unlocking the Forgery Detection Potential of Vanilla MLLMs: A Novel Training-Free Pipeline**|Rui Zuo et.al.|[2511.13442](http://arxiv.org/abs/2511.13442)|null|
@@ -2718,6 +2725,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Scaling Spatial Intelligence with Multimodal Foundation Models**|Zhongang Cai et.al.|[2511.13719](http://arxiv.org/abs/2511.13719)|null|
+|**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Sofia Jamil et.al.|[2511.13689](http://arxiv.org/abs/2511.13689)|null|
+|**2025-11-17**|**Scalable Iterative Algorithm for Solving Optimal Transmission Switching with De-energization**|Benoît Jeanson et.al.|[2511.13662](http://arxiv.org/abs/2511.13662)|null|
+|**2025-11-17**|**Ontology-Driven Model-to-Model Transformation of Workflow Specifications**|Francisco Abreu et.al.|[2511.13661](http://arxiv.org/abs/2511.13661)|null|
+|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|null|
+|**2025-11-17**|**Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?**|Chunqiu Steven Xia et.al.|[2511.13646](http://arxiv.org/abs/2511.13646)|null|
+|**2025-11-17**|**CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product**|Kaiwen Xue et.al.|[2511.13626](http://arxiv.org/abs/2511.13626)|null|
+|**2025-11-17**|**A Real-Time Driver Drowsiness Detection System Using MediaPipe and Eye Aspect Ratio**|Ashlesha G. Sawant et.al.|[2511.13618](http://arxiv.org/abs/2511.13618)|null|
+|**2025-11-17**|**BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance**|Torec T. Luik et.al.|[2511.13611](http://arxiv.org/abs/2511.13611)|null|
+|**2025-11-17**|**A Gentle Introduction to Conformal Time Series Forecasting**|M. Stocker et.al.|[2511.13608](http://arxiv.org/abs/2511.13608)|null|
+|**2025-11-17**|**Long-range entanglement and quantum correlations in a multi-frequency comb system**|Sahil Pontula et.al.|[2511.13604](http://arxiv.org/abs/2511.13604)|null|
+|**2025-11-17**|**Physics-Informed Neural Networks for Nonlinear Output Regulation**|Sebastiano Mengozzi et.al.|[2511.13595](http://arxiv.org/abs/2511.13595)|null|
+|**2025-11-17**|**Data-driven Acceleration of MPC with Guarantees**|Agustin Castellano et.al.|[2511.13588](http://arxiv.org/abs/2511.13588)|null|
 |**2025-11-17**|**Graph Out-of-Distribution Detection via Test-Time Calibration with Dual Dynamic Dictionaries**|Yue Hou et.al.|[2511.13541](http://arxiv.org/abs/2511.13541)|null|
 |**2025-11-17**|**Towards Affect-Adaptive Human-Robot Interaction: A Protocol for Multimodal Dataset Collection on Social Anxiety**|Vesna Poprcova et.al.|[2511.13530](http://arxiv.org/abs/2511.13530)|null|
 |**2025-11-17**|**A Computationally Efficient Framework for Free-trajectory Minimum-lap-time Optimization of Racing Cars**|Erik van den Eshof et.al.|[2511.13522](http://arxiv.org/abs/2511.13522)|null|
@@ -6387,6 +6407,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
 |**2025-11-17**|**InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE**|Lipeng Wang et.al.|[2511.13488](http://arxiv.org/abs/2511.13488)|null|
 |**2025-11-17**|**Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs**|Zhe Sun et.al.|[2511.13273](http://arxiv.org/abs/2511.13273)|null|
 |**2025-11-17**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al.|[2511.13204](http://arxiv.org/abs/2511.13204)|null|
@@ -6812,6 +6833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving**|Xiaoyu Liang et.al.|[2511.13707](http://arxiv.org/abs/2511.13707)|null|
 |**2025-11-17**|**Towards Affect-Adaptive Human-Robot Interaction: A Protocol for Multimodal Dataset Collection on Social Anxiety**|Vesna Poprcova et.al.|[2511.13530](http://arxiv.org/abs/2511.13530)|null|
 |**2025-11-17**|**Smoothed-Cubic Spin-Glass Model of Random Lasers**|Marcello Benedetti et.al.|[2511.13508](http://arxiv.org/abs/2511.13508)|null|
 |**2025-11-17**|**Attention Grounded Enhancement for Visual Document Retrieval**|Wanqing Cui et.al.|[2511.13415](http://arxiv.org/abs/2511.13415)|null|
@@ -7587,6 +7609,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Artificial Intelligence-driven Intelligent Wearable Systems: A full-stack Integration from Material Design to Personalized Interaction**|Jingyi Zhao et.al.|[2511.13565](http://arxiv.org/abs/2511.13565)|null|
 |**2025-11-17**|**Computer Vision based group activity detection and action spotting**|Narthana Sivalingam et.al.|[2511.13315](http://arxiv.org/abs/2511.13315)|null|
 |**2025-11-17**|**CorrectAD: A Self-Correcting Agentic System to Improve End-to-end Planning in Autonomous Driving**|Enhui Ma et.al.|[2511.13297](http://arxiv.org/abs/2511.13297)|null|
 |**2025-11-17**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
