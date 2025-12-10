@@ -3252,7 +3252,7 @@
 |**2025-12-09**|**C-DIRA: Computationally Efficient Dynamic ROI Routing and Domain-Invariant Adversarial Learning for Lightweight Driver Behavior Recognition**|Keito Inoshita et.al.|[2512.08647](http://arxiv.org/abs/2512.08647)|null|
 |**2025-12-09**|**The SMART+ Framework for AI Systems**|Laxmiraju Kandikatla et.al.|[2512.08592](http://arxiv.org/abs/2512.08592)|null|
 |**2025-12-09**|**SSCATeR: Sparse Scatter-Based Convolution Algorithm with Temporal Data Recycling for Real-Time 3D Object Detection in LiDAR Point Clouds**|Alexander Dow et.al.|[2512.08557](http://arxiv.org/abs/2512.08557)|null|
-|**2025-12-09**|**vEDGAR - Can CARLA Do HiL?**|Nils Gehrke et.al.|[2512.08541](http://arxiv.org/abs/2512.08541)|null|
+|**2025-12-09**|**vEDGAR -- Can CARLA Do HiL?**|Nils Gehrke et.al.|[2512.08541](http://arxiv.org/abs/2512.08541)|null|
 |**2025-12-09**|**Beyond the Noise: Aligning Prompts with Latent Representations in Diffusion Models**|Vasco Ramos et.al.|[2512.08505](http://arxiv.org/abs/2512.08505)|null|
 |**2025-12-09**|**On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs**|Yijia Guo et.al.|[2512.08498](http://arxiv.org/abs/2512.08498)|null|
 |**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|null|

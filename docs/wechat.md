@@ -3236,7 +3236,7 @@
 - 2025-06-25, **{\tt RapidGBM}: An Efficient Tool for Fermi-GBM Visibility Checking and Data Analysis with a Case Study of EP240617a**, Yun Wang et.al., Paper: [http://arxiv.org/abs/2506.20532](http://arxiv.org/abs/2506.20532)
 - 2025-05-08, **xTrace: A Facial Expressive Behaviour Analysis Tool for Continuous Affect Recognition**, Mani Kumar Tellamekala et.al., Paper: [http://arxiv.org/abs/2505.05043](http://arxiv.org/abs/2505.05043)
 - 2025-09-24, **xGFabric: Coupling Sensor Networks and HPC Facilities with Private 5G Wireless Networks for Real-Time Digital Agriculture**, Liubov Kurafeeva et.al., Paper: [http://arxiv.org/abs/2509.20340](http://arxiv.org/abs/2509.20340)
-- 2025-12-09, **vEDGAR - Can CARLA Do HiL?**, Nils Gehrke et.al., Paper: [http://arxiv.org/abs/2512.08541](http://arxiv.org/abs/2512.08541)
+- 2025-12-09, **vEDGAR -- Can CARLA Do HiL?**, Nils Gehrke et.al., Paper: [http://arxiv.org/abs/2512.08541](http://arxiv.org/abs/2512.08541)
 - 2025-07-21, **tiDAS: a time invariant approximation of the Delay and Sum algorithm for biomedical ultrasound PSF reconstructions**, Chiara Razzetta et.al., Paper: [http://arxiv.org/abs/2507.15464](http://arxiv.org/abs/2507.15464)
 - 2025-12-08, **sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only**, Arslan Artykov et.al., Paper: [http://arxiv.org/abs/2512.07698](http://arxiv.org/abs/2512.07698)
 - 2025-10-15, **qLOOK: A Minimal Information System for Digital Storage and Reproducible Analysis of qPCR experiments**, Mirco Castoldi et.al., Paper: [http://arxiv.org/abs/2510.13520](http://arxiv.org/abs/2510.13520)
