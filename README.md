@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.12.10
+### Updated on 2025.12.11
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -897,7 +897,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -1064,7 +1064,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -1074,6 +1074,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
+|**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
+|**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
+|**2025-12-10**|**Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis**|Zhe Li et.al.|[2512.09418](http://arxiv.org/abs/2512.09418)|null|
+|**2025-12-10**|**StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation**|Ke Xing et.al.|[2512.09363](http://arxiv.org/abs/2512.09363)|null|
+|**2025-12-10**|**VABench: A Comprehensive Benchmark for Audio-Video Generation**|Daili Hua et.al.|[2512.09299](http://arxiv.org/abs/2512.09299)|null|
+|**2025-12-09**|**GimbalDiffusion: Gravity-Aware Camera Control for Video Generation**|Frédéric Fortier-Chouinard et.al.|[2512.09112](http://arxiv.org/abs/2512.09112)|null|
 |**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
 |**2025-12-09**|**Self-Evolving 3D Scene Generation from a Single Image**|Kaizhi Zheng et.al.|[2512.08905](http://arxiv.org/abs/2512.08905)|null|
 |**2025-12-09**|**Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance**|Ruihang Chu et.al.|[2512.08765](http://arxiv.org/abs/2512.08765)|null|
@@ -2374,7 +2381,7 @@
 |**2020-11-10**|**Audeo: Audio Generation for a Silent Performance Video**|Kun Su et.al.|[2006.14348](http://arxiv.org/abs/2006.14348)|null|
 |**2019-10-15**|**TruNet: Short Videos Generation from Long Videos via Story-Preserving Truncation**|Fan Yang et.al.|[1910.05899](http://arxiv.org/abs/1910.05899)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -2384,8 +2391,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model**|Jiantao Tan et.al.|[2512.09441](http://arxiv.org/abs/2512.09441)|null|
+|**2025-12-10**|**GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection**|Zishu Wei et.al.|[2512.09396](http://arxiv.org/abs/2512.09396)|null|
+|**2025-12-10**|**Roth-type theorems in additive combinatroics**|Weiwen Zhang et.al.|[2512.08455](http://arxiv.org/abs/2512.08455)|null|
 |**2025-12-09**|**An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features**|Roopak Surendran et.al.|[2512.08782](http://arxiv.org/abs/2512.08782)|null|
-|**2025-12-09**|**Roth-type theorems in additive combinatroics**|Weiwen Zhang et.al.|[2512.08455](http://arxiv.org/abs/2512.08455)|null|
 |**2025-12-08**|**Comparing quantum channels using Hermitian-preserving trace-preserving linear maps: A physically meaningful approach**|Arindam Mitra et.al.|[2512.07822](http://arxiv.org/abs/2512.07822)|null|
 |**2025-12-08**|**Training-free Clothing Region of Interest Self-correction for Virtual Try-On**|Shengjie Lu et.al.|[2512.07126](http://arxiv.org/abs/2512.07126)|null|
 |**2025-12-08**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
@@ -2549,7 +2558,7 @@
 |**2015-02-27**|**Trying to understand dark matter**|B. Hoeneisen et.al.|[1502.07375](http://arxiv.org/abs/1502.07375)|null|
 |**2014-05-20**|**On the flexibility of the design of Multiple Try Metropolis schemes**|Luca Martino et.al.|[1201.0646](http://arxiv.org/abs/1201.0646)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -2559,6 +2568,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
+|**2025-12-10**|**IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting**|Tao Zhang et.al.|[2512.09663](http://arxiv.org/abs/2512.09663)|null|
+|**2025-12-10**|**DirectSwap: Mask-Free Cross-Identity Training and Benchmarking for Expression-Consistent Video Head Swapping**|Yanan Wang et.al.|[2512.09417](http://arxiv.org/abs/2512.09417)|null|
+|**2025-12-10**|**GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection**|Zishu Wei et.al.|[2512.09396](http://arxiv.org/abs/2512.09396)|null|
 |**2025-12-09**|**Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions**|Ada Gorgun et.al.|[2512.08486](http://arxiv.org/abs/2512.08486)|null|
 |**2025-12-09**|**ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Consistent Attention**|Huiguo He et.al.|[2512.08477](http://arxiv.org/abs/2512.08477)|null|
 |**2025-12-08**|**Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality**|Zekai Luo et.al.|[2512.07951](http://arxiv.org/abs/2512.07951)|null|
@@ -3231,7 +3244,7 @@
 |**2021-04-22**|**Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**|Xihui Liu et.al.|[2008.01576](http://arxiv.org/abs/2008.01576)|null|
 |**2020-08-10**|**Image2StyleGAN++: How to Edit the Embedded Images?**|Rameen Abdal et.al.|[1911.11544](http://arxiv.org/abs/1911.11544)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -3241,6 +3254,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models**|Yifan Ye et.al.|[2512.09927](http://arxiv.org/abs/2512.09927)|null|
+|**2025-12-10**|**Evaluating Function-as-a-Service (FaaS) frameworks for the Accelerator Control System**|A. Jaikar et.al.|[2512.09917](http://arxiv.org/abs/2512.09917)|null|
+|**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
+|**2025-12-10**|**Visual Heading Prediction for Autonomous Aerial Vehicles**|Reza Ahmari et.al.|[2512.09898](http://arxiv.org/abs/2512.09898)|null|
+|**2025-12-10**|**From Detection to Anticipation: Online Understanding of Struggles across Various Tasks and Activities**|Shijia Feng et.al.|[2512.09847](http://arxiv.org/abs/2512.09847)|null|
+|**2025-12-10**|**Bridging the Basilisk Astrodynamics Framework with ROS 2 for Modular Spacecraft Simulation and Hardware Integration**|Elias Krantz et.al.|[2512.09833](http://arxiv.org/abs/2512.09833)|null|
+|**2025-12-10**|**Towards Practical and Usable In-network Classification**|Di Zhu et.al.|[2512.09809](http://arxiv.org/abs/2512.09809)|null|
+|**2025-12-10**|**Pinball: A Cryogenic Predecoder for Quantum Error Correction Decoding Under Circuit-Level Noise**|Alexander Knapen et.al.|[2512.09807](http://arxiv.org/abs/2512.09807)|null|
+|**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
+|**2025-12-10**|**Time-dependent ab__initio molecular-orbital decomposition for high-harmonic generation spectroscopy**|Marco Marchetta et.al.|[2512.09793](http://arxiv.org/abs/2512.09793)|null|
+|**2025-12-10**|**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**|Pierre Ancey et.al.|[2512.09792](http://arxiv.org/abs/2512.09792)|null|
+|**2025-12-10**|**Physics-Aware Heterogeneous GNN Architecture for Real-Time BESS Optimization in Unbalanced Distribution Systems**|Aoxiang Ma et.al.|[2512.09780](http://arxiv.org/abs/2512.09780)|null|
+|**2025-12-10**|**Optimal certification of constant-local Hamiltonians**|Junseo Lee et.al.|[2512.09778](http://arxiv.org/abs/2512.09778)|null|
+|**2025-12-10**|**Predicting CME Arrivals with Heliospheric Imagers from L5: A Data Assimilation Approach**|Tanja Amerstorfer et.al.|[2512.09738](http://arxiv.org/abs/2512.09738)|null|
+|**2025-12-10**|**Quantumness certification via non-demolition measurements**|Paolo Solinas et.al.|[2512.09734](http://arxiv.org/abs/2512.09734)|null|
+|**2025-12-10**|**A data-driven approach to linking design features with manufacturing process data for sustainable product development**|Jiahang Li et.al.|[2512.09690](http://arxiv.org/abs/2512.09690)|null|
+|**2025-12-10**|**Adaptive Optimal Control for Avatar-Guided Motor Rehabilitation in Virtual Reality**|Francesco De Lellis et.al.|[2512.09667](http://arxiv.org/abs/2512.09667)|null|
+|**2025-12-10**|**SynthPix: A lightspeed PIV images generator**|Antonio Terpin et.al.|[2512.09664](http://arxiv.org/abs/2512.09664)|null|
+|**2025-12-10**|**Optyx: A ZX-based Python library for networked quantum architectures**|Mateusz Kupper et.al.|[2512.09648](http://arxiv.org/abs/2512.09648)|null|
+|**2025-12-10**|**Real-Time Non-Smooth MPC for Switching Systems: Application to a Three-Tank Process**|Hendrik Alsmeier et.al.|[2512.09611](http://arxiv.org/abs/2512.09611)|null|
 |**2025-12-09**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al.|[2512.08885](http://arxiv.org/abs/2512.08885)|null|
 |**2025-12-09**|**Decentralized Trust for Space AI: Blockchain-Based Federated Learning Across Multi-Vendor LEO Satellite Networks**|Mohamed Elmahallawy et.al.|[2512.08882](http://arxiv.org/abs/2512.08882)|null|
 |**2025-12-09**|**Secure and Privacy-Preserving Federated Learning for Next-Generation Underground Mine Safety**|Mohamed Elmahallawy et.al.|[2512.08862](http://arxiv.org/abs/2512.08862)|null|
@@ -7253,7 +7286,7 @@
 |**2018-02-05**|**Real-Time-Data Analytics in Raw Materials Handling**|Christopher Josef Rothschedl et.al.|[1802.00625](http://arxiv.org/abs/1802.00625)|null|
 |**2017-10-13**|**Energy-Efficient Real-Time Scheduling for Two-Type Heterogeneous Multiprocessors**|Mason Thammawichai et.al.|[1607.07763](http://arxiv.org/abs/1607.07763)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -7785,7 +7818,7 @@
 |**2019-12-16**|**Music-oriented Dance Video Synthesis with Pose Perceptual Loss**|Xuanchi Ren et.al.|[1912.06606](http://arxiv.org/abs/1912.06606)|null|
 |**2018-11-05**|**Listen to Dance: Music-driven choreography generation using Autoregressive Encoder-Decoder Network**|Juheon Lee et.al.|[1811.00818](http://arxiv.org/abs/1811.00818)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -7795,6 +7828,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance**|Kang Yin et.al.|[2512.09504](http://arxiv.org/abs/2512.09504)|null|
+|**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](http://arxiv.org/abs/2512.09000)|null|
 |**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|null|
 |**2025-12-08**|**MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection**|Xueping Zhang et.al.|[2512.07352](http://arxiv.org/abs/2512.07352)|null|
 |**2025-12-06**|**Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction**|Kush Revankar et.al.|[2512.06485](http://arxiv.org/abs/2512.06485)|null|
@@ -8768,7 +8803,7 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 <details>
 
@@ -9109,7 +9144,7 @@
 |**2018-08-14**|**Directed Policy Gradient for Safe Reinforcement Learning with Human Advice**|Hélène Plisnier et.al.|[1808.04096](http://arxiv.org/abs/1808.04096)|null|
 |**2016-06-23**|**Simultaneous Control and Human Feedback in the Training of a Robotic Agent with Actor-Critic Reinforcement Learning**|Kory W. Mathewson et.al.|[1606.06979](http://arxiv.org/abs/1606.06979)|null|
 
-</details><p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 Notes: 
 
