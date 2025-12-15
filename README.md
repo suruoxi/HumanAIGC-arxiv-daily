@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2025.12.14
+### Updated on 2025.12.15
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -22,6 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**FactorPortrait: Controllable Portrait Animation via Disentangled Expression, Pose, and Viewpoint**|Jiapeng Tang et.al.|[2512.11645](http://arxiv.org/abs/2512.11645)|null|
+|**2025-12-12**|**JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion**|Chaochao Li et.al.|[2512.11423](http://arxiv.org/abs/2512.11423)|null|
+|**2025-12-12**|**KeyframeFace: From Text to Expressive Facial Keyframes**|Jingchao Wu et.al.|[2512.11321](http://arxiv.org/abs/2512.11321)|null|
+|**2025-12-12**|**PersonaLive! Expressive Portrait Image Animation for Live Streaming**|Zhiyuan Li et.al.|[2512.11253](http://arxiv.org/abs/2512.11253)|null|
+|**2025-12-12**|**REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation**|Haotian Wang et.al.|[2512.11229](http://arxiv.org/abs/2512.11229)|null|
 |**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
 |**2025-12-10**|**EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head**|Chang Liu et.al.|[2512.05991](http://arxiv.org/abs/2512.05991)|null|
 |**2025-12-04**|**LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**|Zhijian Shu et.al.|[2512.04939](http://arxiv.org/abs/2512.04939)|null|
@@ -898,7 +903,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -908,6 +913,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**PersonaLive! Expressive Portrait Image Animation for Live Streaming**|Zhiyuan Li et.al.|[2512.11253](http://arxiv.org/abs/2512.11253)|null|
 |**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](http://arxiv.org/abs/2512.05905)|null|
 |**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593](http://arxiv.org/abs/2512.05593)|null|
 |**2025-12-04**|**ShadowDraw: From Any Object to Shadow-Drawing Compositional Art**|Rundong Luo et.al.|[2512.05110](http://arxiv.org/abs/2512.05110)|null|
@@ -1065,7 +1071,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -1075,6 +1081,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties**|Ye Fang et.al.|[2512.11799](http://arxiv.org/abs/2512.11799)|null|
+|**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](http://arxiv.org/abs/2512.11792)|null|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|null|
+|**2025-12-12**|**Flowception: Temporally Expansive Flow Matching for Video Generation**|Tariq Berrada Ifriqi et.al.|[2512.11438](http://arxiv.org/abs/2512.11438)|null|
+|**2025-12-12**|**JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion**|Chaochao Li et.al.|[2512.11423](http://arxiv.org/abs/2512.11423)|null|
+|**2025-12-12**|**Autoregressive Video Autoencoder with Decoupled Temporal and Spatial Context**|Cuifeng Shen et.al.|[2512.11293](http://arxiv.org/abs/2512.11293)|null|
+|**2025-12-12**|**FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion**|Xiangyang Luo et.al.|[2512.11274](http://arxiv.org/abs/2512.11274)|null|
+|**2025-12-12**|**PersonaLive! Expressive Portrait Image Animation for Live Streaming**|Zhiyuan Li et.al.|[2512.11253](http://arxiv.org/abs/2512.11253)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](http://arxiv.org/abs/2512.10940)|null|
 |**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
@@ -2388,7 +2403,7 @@
 |**2020-11-10**|**Audeo: Audio Generation for a Silent Performance Video**|Kun Su et.al.|[2006.14348](http://arxiv.org/abs/2006.14348)|null|
 |**2019-10-15**|**TruNet: Short Videos Generation from Long Videos via Story-Preserving Truncation**|Fan Yang et.al.|[1910.05899](http://arxiv.org/abs/1910.05899)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -2566,7 +2581,7 @@
 |**2015-02-27**|**Trying to understand dark matter**|B. Hoeneisen et.al.|[1502.07375](http://arxiv.org/abs/1502.07375)|null|
 |**2014-05-20**|**On the flexibility of the design of Multiple Try Metropolis schemes**|Luca Martino et.al.|[1201.0646](http://arxiv.org/abs/1201.0646)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -2576,6 +2591,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties**|Ye Fang et.al.|[2512.11799](http://arxiv.org/abs/2512.11799)|null|
+|**2025-12-12**|**EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing**|Wei Chow et.al.|[2512.11715](http://arxiv.org/abs/2512.11715)|null|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|null|
+|**2025-12-12**|**FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing**|Yilei Jiang et.al.|[2512.11395](http://arxiv.org/abs/2512.11395)|null|
 |**2025-12-11**|**Evaluating Gemini Robotics Policies in a Veo World Simulator**|Gemini Robotics Team et.al.|[2512.10675](http://arxiv.org/abs/2512.10675)|null|
 |**2025-12-11**|**Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner**|Haojie Zheng et.al.|[2512.10571](http://arxiv.org/abs/2512.10571)|null|
 |**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
@@ -3255,7 +3274,7 @@
 |**2021-04-22**|**Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**|Xihui Liu et.al.|[2008.01576](http://arxiv.org/abs/2008.01576)|null|
 |**2020-08-10**|**Image2StyleGAN++: How to Edit the Embedded Images?**|Rameen Abdal et.al.|[1911.11544](http://arxiv.org/abs/1911.11544)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -3265,6 +3284,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Moment-Based 3D Gaussian Splatting: Resolving Volumetric Occlusion with Order-Independent Transmittance**|Jan U. Müller et.al.|[2512.11800](http://arxiv.org/abs/2512.11800)|null|
+|**2025-12-12**|**Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control**|Hannes Homburger et.al.|[2512.11786](http://arxiv.org/abs/2512.11786)|null|
+|**2025-12-12**|**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**|Xiaoyu Ma et.al.|[2512.11769](http://arxiv.org/abs/2512.11769)|null|
+|**2025-12-12**|**Generative Parametric Design (GPD): A framework for real-time geometry generation and on-the-fly multiparametric approximation**|Mohammed El Fallaki Idrissi et.al.|[2512.11748](http://arxiv.org/abs/2512.11748)|null|
+|**2025-12-12**|**ECCO: Leveraging Cross-Camera Correlations for Efficient Live Video Continuous Learning**|Yuze He et.al.|[2512.11727](http://arxiv.org/abs/2512.11727)|null|
+|**2025-12-12**|**From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines**|Titaya Mairittha et.al.|[2512.11724](http://arxiv.org/abs/2512.11724)|null|
+|**2025-12-12**|**Real-Time Polarization Control for Satellite QKD with Liquid-Crystal Beacon Stabilization**|Ondrej Klicnik et.al.|[2512.11714](http://arxiv.org/abs/2512.11714)|null|
+|**2025-12-12**|**Bridging Streaming Continual Learning via In-Context Large Tabular Models**|Afonso Lourenço et.al.|[2512.11668](http://arxiv.org/abs/2512.11668)|null|
+|**2025-12-12**|**Toward Scalable VR-Cloud Gaming: An Attention-aware Adaptive Resource Allocation Framework for 6G Networks**|Gabriel Almeida et.al.|[2512.11667](http://arxiv.org/abs/2512.11667)|null|
+|**2025-12-12**|**Nano-engineered surface enhanced Raman spectroscopy substrates for probing tissue-material interactions**|Connie M. Wang et.al.|[2512.11651](http://arxiv.org/abs/2512.11651)|null|
+|**2025-12-12**|**Fast and Explicit: Slice-to-Volume Reconstruction via 3D Gaussian Primitives with Analytic Point Spread Function Modeling**|Maik Dannecker et.al.|[2512.11624](http://arxiv.org/abs/2512.11624)|null|
+|**2025-12-12**|**Embodied Image Compression**|Chunyi Li et.al.|[2512.11612](http://arxiv.org/abs/2512.11612)|null|
+|**2025-12-12**|**Parallax: Runtime Parallelization for Operator Fallbacks in Heterogeneous Edge Systems**|Chong Tang et.al.|[2512.11532](http://arxiv.org/abs/2512.11532)|null|
+|**2025-12-12**|**Type II and Type III Solar Radio Burst Classification Using Transfer Learning**|Herman le Roux et.al.|[2512.11487](http://arxiv.org/abs/2512.11487)|null|
+|**2025-12-12**|**Capacitive Touchscreens at Risk: Recovering Handwritten Trajectory on Smartphone via Electromagnetic Emanations**|Yukun Cheng et.al.|[2512.11484](http://arxiv.org/abs/2512.11484)|null|
+|**2025-12-12**|**JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion**|Chaochao Li et.al.|[2512.11423](http://arxiv.org/abs/2512.11423)|null|
+|**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354](http://arxiv.org/abs/2512.11354)|null|
+|**2025-12-12**|**Pace: Physics-Aware Attentive Temporal Convolutional Network for Battery Health Estimation**|Sara Sameer et.al.|[2512.11332](http://arxiv.org/abs/2512.11332)|null|
+|**2025-12-12**|**SATMapTR: Satellite Image Enhanced Online HD Map Construction**|Bingyuan Huang et.al.|[2512.11319](http://arxiv.org/abs/2512.11319)|null|
+|**2025-12-12**|**AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference**|Kuan-Wei Lu et.al.|[2512.11280](http://arxiv.org/abs/2512.11280)|null|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
 |**2025-12-11**|**Asynchronous Reasoning: Training-Free Interactive Thinking LLMs**|George Yakushev et.al.|[2512.10931](http://arxiv.org/abs/2512.10931)|null|
@@ -7317,7 +7356,7 @@
 |**2018-02-05**|**Real-Time-Data Analytics in Raw Materials Handling**|Christopher Josef Rothschedl et.al.|[1802.00625](http://arxiv.org/abs/1802.00625)|null|
 |**2017-10-13**|**Energy-Efficient Real-Time Scheduling for Two-Type Heterogeneous Multiprocessors**|Mason Thammawichai et.al.|[1607.07763](http://arxiv.org/abs/1607.07763)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -7327,6 +7366,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Reframing Music-Driven 2D Dance Pose Generation as Multi-Channel Image Generation**|Yan Zhang et.al.|[2512.11720](http://arxiv.org/abs/2512.11720)|null|
 |**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
 |**2025-12-11**|**Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset**|Hyunsoo Lee et.al.|[2512.10321](http://arxiv.org/abs/2512.10321)|null|
 |**2025-12-11**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094](http://arxiv.org/abs/2512.05094)|null|
@@ -7851,7 +7891,7 @@
 |**2019-12-16**|**Music-oriented Dance Video Synthesis with Pose Perceptual Loss**|Xuanchi Ren et.al.|[1912.06606](http://arxiv.org/abs/1912.06606)|null|
 |**2018-11-05**|**Listen to Dance: Music-driven choreography generation using Autoregressive Encoder-Decoder Network**|Juheon Lee et.al.|[1811.00818](http://arxiv.org/abs/1811.00818)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -7861,8 +7901,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Reject or Not?: A Benchmark for Voice Assistant Query Rejection in Smart Home Scenario and an Improved Method Based on LLMs**|Huichao Men et.al.|[2512.10257](http://arxiv.org/abs/2512.10257)|null|
 |**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
-|**2025-12-11**|**Reject or Not?: A Benchmark for Voice Assistant Query Rejection in Smart Home Scenario and an Improved Method Based on LLMs**|Huichao Men et.al.|[2512.10257](http://arxiv.org/abs/2512.10257)|null|
 |**2025-12-11**|**Architecture Decoupling Is Not All You Need For Unified Multimodal Model**|Dian Zheng et.al.|[2511.22663](http://arxiv.org/abs/2511.22663)|null|
 |**2025-12-10**|**DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance**|Kang Yin et.al.|[2512.09504](http://arxiv.org/abs/2512.09504)|null|
 |**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](http://arxiv.org/abs/2512.09000)|null|
@@ -8838,7 +8878,7 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -8848,7 +8888,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
 |**2025-12-11**|**Multi-dimensional Preference Alignment by Conditioning Reward Itself**|Jiho Jang et.al.|[2512.10237](http://arxiv.org/abs/2512.10237)|null|
+|**2025-12-11**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-12-09**|**From Accuracy to Impact: The Impact-Driven AI Framework (IDAIF) for Aligning Engineering Architecture with Theory of Change**|Yong-Woon Kim et.al.|[2512.08449](http://arxiv.org/abs/2512.08449)|null|
 |**2025-12-07**|**An Analysis of Large Language Models for Simulating User Responses in Surveys**|Ziyun Yu et.al.|[2512.06874](http://arxiv.org/abs/2512.06874)|null|
 |**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](http://arxiv.org/abs/2512.05905)|null|
@@ -8861,7 +8903,6 @@
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
 |**2025-12-04**|**Exploring YouTube's Political Communication Networks during the 2024 French Elections**|Caroline Violot et.al.|[2512.04971](http://arxiv.org/abs/2512.04971)|null|
-|**2025-12-04**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
 |**2025-12-04**|**BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models**|Yu-Wei Zhan et.al.|[2512.04513](http://arxiv.org/abs/2512.04513)|null|
 |**2025-12-04**|**DeRA: Decoupled Representation Alignment for Video Tokenization**|Pengbo Guo et.al.|[2512.04483](http://arxiv.org/abs/2512.04483)|null|
 |**2025-12-04**|**Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment**|Kai-Po Chang et.al.|[2512.04356](http://arxiv.org/abs/2512.04356)|null|
@@ -8947,7 +8988,6 @@
 |**2025-11-25**|**V $^{2}$ -SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence**|Jiancheng Pan et.al.|[2511.20886](http://arxiv.org/abs/2511.20886)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
 |**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Jiahui Zhang et.al.|[2511.20633](http://arxiv.org/abs/2511.20633)|null|
-|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-11-25**|**A Reason-then-Describe Instruction Interpreter for Controllable Video Generation**|Shengqiong Wu et.al.|[2511.20563](http://arxiv.org/abs/2511.20563)|null|
 |**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-25**|**Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis**|Mohammad Mahdi et.al.|[2511.20186](http://arxiv.org/abs/2511.20186)|null|
@@ -9180,7 +9220,7 @@
 |**2018-08-14**|**Directed Policy Gradient for Safe Reinforcement Learning with Human Advice**|Hélène Plisnier et.al.|[1808.04096](http://arxiv.org/abs/1808.04096)|null|
 |**2016-06-23**|**Simultaneous Control and Human Feedback in the Training of a Robotic Agent with Actor-Critic Reinforcement Learning**|Kory W. Mathewson et.al.|[1606.06979](http://arxiv.org/abs/1606.06979)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 Notes: 
 
