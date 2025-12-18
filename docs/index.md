@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2025.12.17
+### Updated on 2025.12.18
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision**|Tobias Kirschstein et.al.|[2512.15599](http://arxiv.org/abs/2512.15599)|null|
+|**2025-12-17**|**DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations**|Yuxiang Shi et.al.|[2512.15524](http://arxiv.org/abs/2512.15524)|null|
+|**2025-12-16**|**TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation**|Zhenzhi Wang et.al.|[2512.14938](http://arxiv.org/abs/2512.14938)|null|
 |**2025-12-16**|**VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image**|Sicheng Xu et.al.|[2512.14677](http://arxiv.org/abs/2512.14677)|null|
 |**2025-12-16**|**FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling**|Kim Sung-Bin et.al.|[2512.14056](http://arxiv.org/abs/2512.14056)|null|
 |**2025-12-16**|**Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**|Heyi Chen et.al.|[2512.13507](http://arxiv.org/abs/2512.13507)|null|
@@ -1074,6 +1077,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
+|**2025-12-17**|**Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning**|Yifei Li et.al.|[2512.15693](http://arxiv.org/abs/2512.15693)|null|
+|**2025-12-17**|**GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models**|Bozhou Li et.al.|[2512.15560](http://arxiv.org/abs/2512.15560)|null|
+|**2025-12-17**|**DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations**|Yuxiang Shi et.al.|[2512.15524](http://arxiv.org/abs/2512.15524)|null|
+|**2025-12-17**|**3DProxyImg: Controllable 3D-Aware Animation Synthesis from Single Image via 2D-3D Aligned Proxy Embedding**|Yupeng Zhu et.al.|[2512.15126](http://arxiv.org/abs/2512.15126)|null|
+|**2025-12-16**|**TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation**|Zhenzhi Wang et.al.|[2512.14938](http://arxiv.org/abs/2512.14938)|null|
 |**2025-12-16**|**MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives**|Sihui Ji et.al.|[2512.14699](http://arxiv.org/abs/2512.14699)|null|
 |**2025-12-16**|**S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation**|Leon Sick et.al.|[2512.14440](http://arxiv.org/abs/2512.14440)|null|
 |**2025-12-16**|**SS4D: Native 4D Generative Model via Structured Spacetime Latents**|Zhibing Li et.al.|[2512.14284](http://arxiv.org/abs/2512.14284)|null|
@@ -2427,6 +2436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**PMMD: A pose-guided multi-view multi-modal diffusion for person generation**|Ziyu Shang et.al.|[2512.15069](http://arxiv.org/abs/2512.15069)|null|
 |**2025-12-16**|**Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data**|Hosna Hooshyar et.al.|[2512.14425](http://arxiv.org/abs/2512.14425)|null|
 |**2025-12-15**|**LikeBench: Evaluating Subjective Likability in LLMs for Personalization**|Md Awsafur Rahman et.al.|[2512.13077](http://arxiv.org/abs/2512.13077)|null|
 |**2025-12-14**|**Comments on "Little ado about everything" by A. Lapi et al. and on cosmological back-reaction**|Julian Adamek et.al.|[2512.12644](http://arxiv.org/abs/2512.12644)|null|
@@ -2607,7 +2617,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-16**|**The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**|Zhuo Chen et.al.|[2512.14423](http://arxiv.org/abs/2512.14423)|null|
+|**2025-12-17**|**IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning**|Yuanhang Li et.al.|[2512.15635](http://arxiv.org/abs/2512.15635)|null|
+|**2025-12-17**|**Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition**|Shengming Yin et.al.|[2512.15603](http://arxiv.org/abs/2512.15603)|null|
+|**2025-12-17**|**PMMD: A pose-guided multi-view multi-modal diffusion for person generation**|Ziyu Shang et.al.|[2512.15069](http://arxiv.org/abs/2512.15069)|null|
+|**2025-12-17**|**The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**|Zhuo Chen et.al.|[2512.14423](http://arxiv.org/abs/2512.14423)|null|
 |**2025-12-16**|**Towards Transferable Defense Against Malicious Image Edits**|Jie Zhang et.al.|[2512.14341](http://arxiv.org/abs/2512.14341)|null|
 |**2025-12-16**|**Dual Attention Guided Defense Against Malicious Edits**|Jie Zhang et.al.|[2512.14333](http://arxiv.org/abs/2512.14333)|null|
 |**2025-12-16**|**Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity**|Shuai Dong et.al.|[2512.14320](http://arxiv.org/abs/2512.14320)|null|
@@ -3309,6 +3322,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Characterization of Generalized Coherent States through Intensity-Field Correlations**|Ignacio Salinas Valdivieso et.al.|[2512.15655](http://arxiv.org/abs/2512.15655)|null|
+|**2025-12-17**|**Operator-Theoretic Joint Estimation of Aging-Aware State of Charge and Control-Informed State of Health**|Rahmat K. Adesunkanmi et.al.|[2512.15622](http://arxiv.org/abs/2512.15622)|null|
+|**2025-12-17**|**Exact Learning of Linear Model Predictive Control Laws using Oblique Decision Trees with Linear Predictions**|Jiayang Ren et.al.|[2512.15568](http://arxiv.org/abs/2512.15568)|null|
+|**2025-12-17**|**Reducing Pilots in Channel Estimation With Predictive Foundation Models**|Xingyu Zhou et.al.|[2512.15562](http://arxiv.org/abs/2512.15562)|null|
+|**2025-12-17**|**Spectroscopic Alerts for the Time-Domain Era**|Alejandra Melo et.al.|[2512.15555](http://arxiv.org/abs/2512.15555)|null|
+|**2025-12-17**|**An Open-Source Framework for Quality-Assured Smartphone-Based Visible Light Iris Recognition**|Naveenkumar G. Venkataswamy et.al.|[2512.15548](http://arxiv.org/abs/2512.15548)|null|
+|**2025-12-17**|**Ising Machines for Model Predictive Path Integral-Based Optimal Control**|Lorin Werthen-Brabants et.al.|[2512.15533](http://arxiv.org/abs/2512.15533)|null|
+|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
+|**2025-12-17**|**Attention in Motion: Secure Platooning via Transformer-based Misbehavior Detection**|Konstantinos Kalogiannis et.al.|[2512.15503](http://arxiv.org/abs/2512.15503)|null|
+|**2025-12-17**|**Bidirectional Fourier-Enhanced Deep Operator Network for Spatio-Temporal Propagation in Multi-Mode Fibers**|Dinesh Kumar Murugan et.al.|[2512.15474](http://arxiv.org/abs/2512.15474)|null|
+|**2025-12-17**|**Variational Robust Kalman Filters: A Unified Framework**|Shilei Li et.al.|[2512.15419](http://arxiv.org/abs/2512.15419)|null|
+|**2025-12-17**|**See It Before You Grab It: Deep Learning-based Action Anticipation in Basketball**|Arnau Barrera Roy et.al.|[2512.15386](http://arxiv.org/abs/2512.15386)|null|
+|**2025-12-17**|**Gaussian Process Dual MPC using Active Inference: An Autonomous Vehicle Usecase**|Mohammad Mahmoudi Filabadi et.al.|[2512.15381](http://arxiv.org/abs/2512.15381)|null|
+|**2025-12-17**|**First implementation of AXUV-based analysis and macro-instability diagnostics on WHAM**|K. Shih et.al.|[2512.15360](http://arxiv.org/abs/2512.15360)|null|
+|**2025-12-17**|**A Network-Based Framework for Modeling and Analyzing Human-Robot Coordination Strategies**|Martijn IJtsma et.al.|[2512.15282](http://arxiv.org/abs/2512.15282)|null|
+|**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
+|**2025-12-17**|**A Blind Source Separation Framework to Monitor Sectoral Power Demand from Grid-Scale Load Measurements**|Guillaume Koechlin et.al.|[2512.15232](http://arxiv.org/abs/2512.15232)|null|
+|**2025-12-17**|**Huayu: Advanced Real-Time Precipitation Estimation from Geostationary Satellite**|Zijiang Song et.al.|[2512.15222](http://arxiv.org/abs/2512.15222)|null|
+|**2025-12-17**|**ERIENet: An Efficient RAW Image Enhancement Network under Low-Light Environment**|Jianan Wang et.al.|[2512.15186](http://arxiv.org/abs/2512.15186)|null|
+|**2025-12-17**|**BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**|Dongmyeong Lee et.al.|[2512.15111](http://arxiv.org/abs/2512.15111)|null|
 |**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
 |**2025-12-16**|**TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines**|David Schulmeister et.al.|[2512.14645](http://arxiv.org/abs/2512.14645)|null|
 |**2025-12-16**|**WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling**|Wenqiang Sun et.al.|[2512.14614](http://arxiv.org/abs/2512.14614)|null|
