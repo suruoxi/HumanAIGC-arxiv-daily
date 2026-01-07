@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2026.01.06
+### Updated on 2026.01.07
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face**|Rui-qing Sun et.al.|[2512.21019](http://arxiv.org/abs/2512.21019)|null|
 |**2026-01-05**|**ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting**|Chuhang Ma et.al.|[2601.01847](http://arxiv.org/abs/2601.01847)|null|
 |**2026-01-05**|**MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement**|Lei Zhu et.al.|[2601.01749](http://arxiv.org/abs/2601.01749)|null|
 |**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
@@ -20,7 +21,6 @@ layout: default
 |**2025-12-30**|**DyStream: Streaming Dyadic Talking Heads Generation via Flow Matching-based Autoregressive Model**|Bohong Chen et.al.|[2512.24408](http://arxiv.org/abs/2512.24408)|null|
 |**2025-12-30**|**SyncAnyone: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild**|Xindi Zhang et.al.|[2512.21736](http://arxiv.org/abs/2512.21736)|null|
 |**2025-12-29**|**Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation**|Steven Xiao et.al.|[2512.21734](http://arxiv.org/abs/2512.21734)|null|
-|**2025-12-29**|**Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face**|Rui-qing Sun et.al.|[2512.21019](http://arxiv.org/abs/2512.21019)|null|
 |**2025-12-29**|**MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**|Kaixing Yang et.al.|[2512.18181](http://arxiv.org/abs/2512.18181)|null|
 |**2025-12-27**|**PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment**|Bin Wang et.al.|[2512.22602](http://arxiv.org/abs/2512.22602)|null|
 |**2025-12-24**|**ALIVE: An Avatar-Lecture Interactive Video Engine with Content-Aware Retrieval for Real-Time Interaction**|Md Zabirul Islam et.al.|[2512.20858](http://arxiv.org/abs/2512.20858)|null|
@@ -932,6 +932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**DreamLoop: Controllable Cinemagraph Generation from a Single Photograph**|Aniruddha Mahapatra et.al.|[2601.02646](http://arxiv.org/abs/2601.02646)|null|
 |**2025-12-31**|**Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models**|Zhenhao Li et.al.|[2512.20000](http://arxiv.org/abs/2512.20000)|null|
 |**2025-12-30**|**APOLLO Blender: A Robotics Library for Visualization and Animation in Blender**|Peter Messina et.al.|[2512.23103](http://arxiv.org/abs/2512.23103)|null|
 |**2025-12-29**|**MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**|Kaixing Yang et.al.|[2512.18181](http://arxiv.org/abs/2512.18181)|null|
@@ -1102,6 +1103,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
+|**2026-01-06**|**DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation**|Jiajun jiao et.al.|[2601.03178](http://arxiv.org/abs/2601.03178)|null|
+|**2026-01-06**|**DreamStyle: A Unified Framework for Video Stylization**|Mengtian Li et.al.|[2601.02785](http://arxiv.org/abs/2601.02785)|null|
+|**2026-01-06**|**DreamLoop: Controllable Cinemagraph Generation from a Single Photograph**|Aniruddha Mahapatra et.al.|[2601.02646](http://arxiv.org/abs/2601.02646)|null|
 |**2026-01-05**|**VINO: A Unified Visual Generator with Interleaved OmniModal Context**|Junyi Chen et.al.|[2601.02358](http://arxiv.org/abs/2601.02358)|null|
 |**2026-01-05**|**NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation**|Huichao Zhang et.al.|[2601.02204](http://arxiv.org/abs/2601.02204)|null|
 |**2026-01-05**|**SingingBot: An Avatar-Driven System for Robotic Face Singing Performance**|Zhuoxiong Xu et.al.|[2601.02125](http://arxiv.org/abs/2601.02125)|null|
@@ -2527,8 +2532,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on**|Xinyi Wei et.al.|[2601.02945](http://arxiv.org/abs/2601.02945)|null|
+|**2026-01-06**|**RSwinV2-MD: An Enhanced Residual SwinV2 Transformer for Monkeypox Detection from Skin Images**|Rashid Iqbal et.al.|[2601.01835](http://arxiv.org/abs/2601.01835)|null|
 |**2026-01-05**|**AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off**|Yihan Zhu et.al.|[2601.02038](http://arxiv.org/abs/2601.02038)|null|
-|**2026-01-05**|**RSwinV2-MD: An Enhanced Residual SwinV2 Transformer for Monkeypox Detection from Skin Images**|Rashid Iqbal et.al.|[2601.01835](http://arxiv.org/abs/2601.01835)|null|
 |**2026-01-03**|**CatchAll: Repository-Aware Exception Handling with Knowledge-Guided LLMs**|Qingxiao Tao et.al.|[2601.01271](http://arxiv.org/abs/2601.01271)|null|
 |**2026-01-01**|**Open Questions in Massive Star Research across Cosmic Scales**|Andreas A. C. Sander et.al.|[2601.00373](http://arxiv.org/abs/2601.00373)|null|
 |**2026-01-01**|**Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More**|David Lomet et.al.|[2601.00208](http://arxiv.org/abs/2601.00208)|null|
@@ -2729,11 +2735,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**A Versatile Multimodal Agent for Multimedia Content Generation**|Daoan Zhang et.al.|[2601.03250](http://arxiv.org/abs/2601.03250)|null|
+|**2026-01-06**|**Unified Thinker: A General Reasoning Modular Core for Image Generation**|Sashuai Zhou et.al.|[2601.03127](http://arxiv.org/abs/2601.03127)|null|
+|**2026-01-06**|**LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing**|Wingwa Fu et.al.|[2601.02987](http://arxiv.org/abs/2601.02987)|null|
+|**2026-01-06**|**FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing**|Xijie Huang et.al.|[2601.01720](http://arxiv.org/abs/2601.01720)|null|
+|**2026-01-05**|**Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network**|Junbin Zhang et.al.|[2601.02566](http://arxiv.org/abs/2601.02566)|null|
 |**2026-01-05**|**VIBE: Visual Instruction Based Editor**|Grigorii Alekseenko et.al.|[2601.02242](http://arxiv.org/abs/2601.02242)|null|
 |**2026-01-05**|**Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion**|Binglei Li et.al.|[2601.02211](http://arxiv.org/abs/2601.02211)|null|
 |**2026-01-05**|**NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation**|Huichao Zhang et.al.|[2601.02204](http://arxiv.org/abs/2601.02204)|null|
 |**2026-01-05**|**TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing**|Yujie Hu et.al.|[2601.01915](http://arxiv.org/abs/2601.01915)|null|
-|**2026-01-05**|**FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing**|Xijie Huang et.al.|[2601.01720](http://arxiv.org/abs/2601.01720)|null|
 |**2026-01-04**|**DeepInv: A Novel Self-supervised Learning Approach for Fast and Accurate Diffusion Inversion**|Ziyue Zhang et.al.|[2601.01487](http://arxiv.org/abs/2601.01487)|null|
 |**2026-01-02**|**AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**|Jiewen Chan et.al.|[2601.00796](http://arxiv.org/abs/2601.00796)|null|
 |**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/abs/2601.00542)|null|
@@ -3470,6 +3480,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Nonlinear Spectral Modeling and Control of Soft-Robotic Muscles from Data**|Leonardo Bettini et.al.|[2601.03247](http://arxiv.org/abs/2601.03247)|null|
+|**2026-01-06**|**Enhancing Safety in Automated Ports: A Virtual Reality Study of Pedestrian-Autonomous Vehicle Interactions under Time Pressure, Visual Constraints, and Varying Vehicle Size**|Yuan Che et.al.|[2601.03218](http://arxiv.org/abs/2601.03218)|null|
+|**2026-01-06**|**oneTwin: Online Digital Network Twin via Neural Radio Radiance Field**|Yuru Zhang et.al.|[2601.03216](http://arxiv.org/abs/2601.03216)|null|
+|**2026-01-06**|**Predicting Time Pressure of Powered Two-Wheeler Riders for Proactive Safety Interventions**|Sumit S. Shevtekar et.al.|[2601.03173](http://arxiv.org/abs/2601.03173)|null|
+|**2026-01-06**|**Eco-WakeLoc: An Energy-Neutral and Cooperative UWB Real-Time Locating System**|Silvano Cortesi et.al.|[2601.03171](http://arxiv.org/abs/2601.03171)|null|
+|**2026-01-06**|**Parallel Latent Reasoning for Sequential Recommendation**|Jiakai Tang et.al.|[2601.03153](http://arxiv.org/abs/2601.03153)|null|
+|**2026-01-06**|**A Probabilistic Digital Twin of UK En Route Airspace for Training and Evaluating AI Agents for Air Traffic Control**|Nick Pepper et.al.|[2601.03113](http://arxiv.org/abs/2601.03113)|null|
+|**2026-01-06**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al.|[2601.03085](http://arxiv.org/abs/2601.03085)|null|
+|**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|null|
+|**2026-01-06**|**PiDR: Physics-Informed Inertial Dead Reckoning for Autonomous Platforms**|Arup Kumar Sahoo et.al.|[2601.03040](http://arxiv.org/abs/2601.03040)|null|
+|**2026-01-06**|**Adaptive Control of Unknown Linear Switched Systems via Policy Gradient Methods**|Felix Laurent et.al.|[2601.03016](http://arxiv.org/abs/2601.03016)|null|
+|**2026-01-06**|**Post-Earthquake Restoration of Electricity-Gas Distribution Systems with Damage Information Collection and Repair Vehicle Routing**|Mingxuan Li et.al.|[2601.02958](http://arxiv.org/abs/2601.02958)|null|
+|**2026-01-06**|**MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation**|Wenzhao Jiang et.al.|[2601.02943](http://arxiv.org/abs/2601.02943)|null|
+|**2026-01-06**|**HybridSolarNet: A Lightweight and Explainable EfficientNet-CBAM Architecture for Real-Time Solar Panel Fault Detection**|Md. Asif Hossain et.al.|[2601.02928](http://arxiv.org/abs/2601.02928)|null|
+|**2026-01-06**|**PrismVAU: Prompt-Refined Inference System for Multimodal Video Anomaly Understanding**|Iñaki Erregue et.al.|[2601.02927](http://arxiv.org/abs/2601.02927)|null|
+|**2026-01-06**|**RPIQ: Residual-Projected Multi-Collaboration Closed-Loop and Single Instance Quantization for Visually Impaired Assistance**|Xuanyu Wang et.al.|[2601.02888](http://arxiv.org/abs/2601.02888)|null|
+|**2026-01-06**|**Warm-Starting Collision-Free Model Predictive Control With Object-Centric Diffusion**|Arthur Haffemayer et.al.|[2601.02873](http://arxiv.org/abs/2601.02873)|null|
+|**2026-01-06**|**A Vehicle-portable Ultra-stable Laser for Operating on Highways**|Dongdong Jiao et.al.|[2601.02843](http://arxiv.org/abs/2601.02843)|null|
+|**2026-01-06**|**Textile IR: A Bidirectional Intermediate Representation for Physics-Aware Fashion CAD**|Petteri Teikari et.al.|[2601.02792](http://arxiv.org/abs/2601.02792)|null|
+|**2026-01-06**|**RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**|Xiucheng Wang et.al.|[2601.02790](http://arxiv.org/abs/2601.02790)|null|
 |**2026-01-05**|**Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes**|Jing Tan et.al.|[2601.02356](http://arxiv.org/abs/2601.02356)|null|
 |**2026-01-05**|**Meta-Learning Guided Pruning for Few-Shot Plant Pathology on Edge Devices**|Shahnawaz Alam et.al.|[2601.02353](http://arxiv.org/abs/2601.02353)|null|
 |**2026-01-05**|**Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states**|Evan Budd et.al.|[2601.02331](http://arxiv.org/abs/2601.02331)|null|
@@ -8379,6 +8409,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Segment-Aware Conditioning for Training-Free Intra-Utterance Emotion and Duration Control in Text-to-Speech**|Qifan Liang et.al.|[2601.03170](http://arxiv.org/abs/2601.03170)|null|
+|**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
+|**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
+|**2026-01-06**|**Vclip: Face-based Speaker Generation by Face-voice Association Learning**|Yao Shi et.al.|[2601.02753](http://arxiv.org/abs/2601.02753)|null|
+|**2026-01-05**|**VocalBridge: Latent Diffusion-Bridge Purification for Defeating Perturbation-Based Voiceprint Defenses**|Maryam Abbasihafshejani et.al.|[2601.02444](http://arxiv.org/abs/2601.02444)|null|
 |**2026-01-05**|**Towards Prosodically Informed Mizo TTS without Explicit Tone Markings**|Abhijit Mohanta et.al.|[2601.02073](http://arxiv.org/abs/2601.02073)|null|
 |**2026-01-05**|**An AI-guided mechanotyping instrument for fully automated oocyte quality assessment**|Yining Guo et.al.|[2601.01728](http://arxiv.org/abs/2601.01728)|null|
 |**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
