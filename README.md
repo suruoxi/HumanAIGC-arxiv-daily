@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2026.01.07
+### Updated on 2026.01.08
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**REFA: Real-time Egocentric Facial Animations for Virtual Reality**|Qiang Zhang et.al.|[2601.03507](http://arxiv.org/abs/2601.03507)|null|
 |**2026-01-06**|**Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face**|Rui-qing Sun et.al.|[2512.21019](http://arxiv.org/abs/2512.21019)|null|
 |**2026-01-05**|**ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting**|Chuhang Ma et.al.|[2601.01847](http://arxiv.org/abs/2601.01847)|null|
 |**2026-01-05**|**MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement**|Lei Zhu et.al.|[2601.01749](http://arxiv.org/abs/2601.01749)|null|
@@ -934,7 +935,7 @@
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -1107,7 +1108,7 @@
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -1117,6 +1118,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Choreographing a World of Dynamic Objects**|Yanzhe Lyu et.al.|[2601.04194](http://arxiv.org/abs/2601.04194)|null|
+|**2026-01-07**|**Klear: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
+|**2026-01-07**|**Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models**|Zitong Huang et.al.|[2601.04068](http://arxiv.org/abs/2601.04068)|null|
+|**2026-01-07**|**PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance**|Siddarth Nilol Kundur Satish et.al.|[2601.03665](http://arxiv.org/abs/2601.03665)|null|
+|**2026-01-07**|**VideoMemory: Toward Consistent Video Generation via Memory Integration**|Jinsong Zhou et.al.|[2601.03655](http://arxiv.org/abs/2601.03655)|null|
 |**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
 |**2026-01-06**|**DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation**|Jiajun jiao et.al.|[2601.03178](http://arxiv.org/abs/2601.03178)|null|
 |**2026-01-06**|**DreamStyle: A Unified Framework for Video Stylization**|Mengtian Li et.al.|[2601.02785](http://arxiv.org/abs/2601.02785)|null|
@@ -2538,7 +2544,7 @@
 |**2020-11-10**|**Audeo: Audio Generation for a Silent Performance Video**|Kun Su et.al.|[2006.14348](http://arxiv.org/abs/2006.14348)|null|
 |**2019-10-15**|**TruNet: Short Videos Generation from Long Videos via Story-Preserving Truncation**|Fan Yang et.al.|[1910.05899](http://arxiv.org/abs/1910.05899)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -2743,7 +2749,7 @@
 |**2015-02-27**|**Trying to understand dark matter**|B. Hoeneisen et.al.|[1502.07375](http://arxiv.org/abs/1502.07375)|null|
 |**2014-05-20**|**On the flexibility of the design of Multiple Try Metropolis schemes**|Luca Martino et.al.|[1201.0646](http://arxiv.org/abs/1201.0646)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -2753,6 +2759,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Jinghan Yu et.al.|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
+|**2026-01-06**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
+|**2026-01-06**|**Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models**|M. Akın Yılmaz et.al.|[2601.03391](http://arxiv.org/abs/2601.03391)|null|
 |**2026-01-06**|**A Versatile Multimodal Agent for Multimedia Content Generation**|Daoan Zhang et.al.|[2601.03250](http://arxiv.org/abs/2601.03250)|null|
 |**2026-01-06**|**Unified Thinker: A General Reasoning Modular Core for Image Generation**|Sashuai Zhou et.al.|[2601.03127](http://arxiv.org/abs/2601.03127)|null|
 |**2026-01-06**|**LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing**|Wingwa Fu et.al.|[2601.02987](http://arxiv.org/abs/2601.02987)|null|
@@ -3490,7 +3499,7 @@
 |**2021-04-22**|**Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**|Xihui Liu et.al.|[2008.01576](http://arxiv.org/abs/2008.01576)|null|
 |**2020-08-10**|**Image2StyleGAN++: How to Edit the Embedded Images?**|Rameen Abdal et.al.|[1911.11544](http://arxiv.org/abs/1911.11544)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -3500,6 +3509,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Embedding Autonomous Agents in Resource-Constrained Robotic Platforms**|Negar Halakou et.al.|[2601.04191](http://arxiv.org/abs/2601.04191)|null|
+|**2026-01-07**|**Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback**|Kumar Rahul et.al.|[2601.04184](http://arxiv.org/abs/2601.04184)|null|
+|**2026-01-07**|**Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition**|Nia Touko et.al.|[2601.04181](http://arxiv.org/abs/2601.04181)|null|
+|**2026-01-07**|**Extracting scattering phase shift in quantum mechanics on quantum computers**|Peng Guo et.al.|[2601.04092](http://arxiv.org/abs/2601.04092)|null|
+|**2026-01-07**|**Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion**|Yuanfeng Xu et.al.|[2601.04056](http://arxiv.org/abs/2601.04056)|null|
+|**2026-01-07**|**Online robust covariance matrix estimation and outlier detection**|Paul Guillot et.al.|[2601.03957](http://arxiv.org/abs/2601.03957)|null|
+|**2026-01-07**|**Human Challenge Oracle: Designing AI-Resistant, Identity-Bound, Time-Limited Tasks for Sybil-Resistant Consensus**|Homayoun Maleki et.al.|[2601.03923](http://arxiv.org/abs/2601.03923)|null|
+|**2026-01-07**|**Towards Safe Autonomous Driving: A Real-Time Motion Planning Algorithm on Embedded Hardware**|Korbinian Moller et.al.|[2601.03904](http://arxiv.org/abs/2601.03904)|null|
+|**2026-01-07**|**Local Interpolation via Low-Rank Tensor Trains**|Siddhartha E. Guzman et.al.|[2601.03885](http://arxiv.org/abs/2601.03885)|null|
+|**2026-01-07**|**IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting**|Wei Long et.al.|[2601.03824](http://arxiv.org/abs/2601.03824)|null|
+|**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782](http://arxiv.org/abs/2601.03782)|null|
+|**2026-01-07**|**GPU-Accelerated Cholesky Factorization of Block Tridiagonal Matrices**|Roland Schwan et.al.|[2601.03754](http://arxiv.org/abs/2601.03754)|null|
+|**2026-01-07**|**Sandwich Reasoning: An Answer-Reasoning-Answer Approach for Low-Latency Query Correction**|Chen Zhang et.al.|[2601.03672](http://arxiv.org/abs/2601.03672)|null|
+|**2026-01-07**|**LLM-MC-Affect: LLM-Based Monte Carlo Modeling of Affective Trajectories and Latent Ambiguity for Interpersonal Dynamic Insight**|Yu-Zheng Lin et.al.|[2601.03645](http://arxiv.org/abs/2601.03645)|null|
+|**2026-01-07**|**Real-time Gravitational Wave Response in Thermal Spinning fields**|Atsuhisa Ota et.al.|[2601.03631](http://arxiv.org/abs/2601.03631)|null|
+|**2026-01-07**|**AR Object Layout Method Using Miniature Room Generated from Depth Data**|Keiichi Ihara et.al.|[2601.03588](http://arxiv.org/abs/2601.03588)|null|
+|**2026-01-07**|**From Score to Sound: An End-to-End MIDI-to-Motion Pipeline for Robotic Cello Performance**|Samantha Sudhoff et.al.|[2601.03562](http://arxiv.org/abs/2601.03562)|null|
+|**2026-01-07**|**OpenISAC: An Open-Source Real-Time Experimentation Platform for OFDM-ISAC with Over-the-Air Synchronization**|Zhiwen Zhou et.al.|[2601.03535](http://arxiv.org/abs/2601.03535)|null|
+|**2026-01-07**|**REFA: Real-time Egocentric Facial Animations for Virtual Reality**|Qiang Zhang et.al.|[2601.03507](http://arxiv.org/abs/2601.03507)|null|
+|**2026-01-07**|**Cyberattack Detection in Virtualized Microgrids Using LightGBM and Knowledge-Distilled Classifiers**|Osasumwen Cedric Ogiesoba-Eguakun et.al.|[2601.03495](http://arxiv.org/abs/2601.03495)|null|
 |**2026-01-06**|**Nonlinear Spectral Modeling and Control of Soft-Robotic Muscles from Data**|Leonardo Bettini et.al.|[2601.03247](http://arxiv.org/abs/2601.03247)|null|
 |**2026-01-06**|**Enhancing Safety in Automated Ports: A Virtual Reality Study of Pedestrian-Autonomous Vehicle Interactions under Time Pressure, Visual Constraints, and Varying Vehicle Size**|Yuan Che et.al.|[2601.03218](http://arxiv.org/abs/2601.03218)|null|
 |**2026-01-06**|**oneTwin: Online Digital Network Twin via Neural Radio Radiance Field**|Yuru Zhang et.al.|[2601.03216](http://arxiv.org/abs/2601.03216)|null|
@@ -7852,7 +7881,7 @@
 |**2018-02-05**|**Real-Time-Data Analytics in Raw Materials Handling**|Christopher Josef Rothschedl et.al.|[1802.00625](http://arxiv.org/abs/1802.00625)|null|
 |**2017-10-13**|**Energy-Efficient Real-Time Scheduling for Two-Type Heterogeneous Multiprocessors**|Mason Thammawichai et.al.|[1607.07763](http://arxiv.org/abs/1607.07763)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -7862,6 +7891,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**FUSION: Full-Body Unified Motion Prior for Body and Hands via Diffusion**|Enes Duran et.al.|[2601.03959](http://arxiv.org/abs/2601.03959)|null|
+|**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
 |**2026-01-03**|**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**|Mengfei Li et.al.|[2601.01222](http://arxiv.org/abs/2601.01222)|null|
 |**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
 |**2025-12-30**|**PartMotionEdit: Fine-Grained Text-Driven 3D Human Motion Editing via Part-Level Modulation**|Yujie Yang et.al.|[2512.24200](http://arxiv.org/abs/2512.24200)|null|
@@ -8423,7 +8454,7 @@
 |**2019-12-16**|**Music-oriented Dance Video Synthesis with Pose Perceptual Loss**|Xuanchi Ren et.al.|[1912.06606](http://arxiv.org/abs/1912.06606)|null|
 |**2018-11-05**|**Listen to Dance: Music-driven choreography generation using Autoregressive Encoder-Decoder Network**|Juheon Lee et.al.|[1811.00818](http://arxiv.org/abs/1811.00818)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -8433,6 +8464,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**SpeakerSleuth: Evaluating Large Audio-Language Models as Judges for Multi-turn Speaker Consistency**|Jonggeun Lee et.al.|[2601.04029](http://arxiv.org/abs/2601.04029)|null|
+|**2026-01-07**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888](http://arxiv.org/abs/2601.03888)|null|
+|**2026-01-07**|**Stuttering-Aware Automatic Speech Recognition for Indonesian Language**|Fadhil Muhammad et.al.|[2601.03727](http://arxiv.org/abs/2601.03727)|null|
+|**2026-01-07**|**Domain Adaptation of the Pyannote Diarization Pipeline for Conversational Indonesian Audio**|Muhammad Daffa'i Rafi Prasetyo et.al.|[2601.03684](http://arxiv.org/abs/2601.03684)|null|
+|**2026-01-07**|**ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis**|Haitao Li et.al.|[2601.03632](http://arxiv.org/abs/2601.03632)|null|
+|**2026-01-06**|**Tigrinya Number Verbalization: Rules, Algorithm, and Implementation**|Fitsum Gaim et.al.|[2601.03403](http://arxiv.org/abs/2601.03403)|null|
 |**2026-01-06**|**Segment-Aware Conditioning for Training-Free Intra-Utterance Emotion and Duration Control in Text-to-Speech**|Qifan Liang et.al.|[2601.03170](http://arxiv.org/abs/2601.03170)|null|
 |**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
 |**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
@@ -9445,7 +9482,7 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -9805,7 +9842,7 @@
 |**2018-08-14**|**Directed Policy Gradient for Safe Reinforcement Learning with Human Advice**|Hélène Plisnier et.al.|[1808.04096](http://arxiv.org/abs/1808.04096)|null|
 |**2016-06-23**|**Simultaneous Control and Human Feedback in the Training of a Robotic Agent with Actor-Critic Reinforcement Learning**|Kory W. Mathewson et.al.|[1606.06979](http://arxiv.org/abs/1606.06979)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 Notes: 
 
