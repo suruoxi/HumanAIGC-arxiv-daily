@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+import time
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -24,21 +25,21 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        EXCAPE = '"'
+        QUOTA = '' 
+        OR = ' OR '  # Add spaces around OR
         def parse_filters(filters:list):
             ret = ''
-            for idx in range(0,len(filters)):
+            for idx in range(0, len(filters)):
                 filter = filters[idx]
                 if len(filter.split()) > 1:
                     ret += (EXCAPE + filter + EXCAPE)  
                 else:
-                    ret += (QUOTA + filter + QUOTA)   
+                    ret += (EXCAPE + filter + EXCAPE)   # Don't add QUOTA, just use the term directly
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
-        for k,v in config['keywords'].items():
+        for k, v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
     with open(config_file,'r') as f:
@@ -387,6 +388,7 @@ def demo(**config):
             print("\n")
 
             print(f">>>>>>>>>> keyword: {keyword}, papers: {len(data)}")
+            time.sleep(2)
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file

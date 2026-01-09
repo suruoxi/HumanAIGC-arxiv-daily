@@ -26,13 +26,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Talking Video",  "Face Reenactment", "Wav2lip", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
-    "Image Animation":
-        filters: ["Image Animator", "Image Animation"]
+        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Generation", "Lip Sync",  "Wav2lip", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
     "Video Generation":
-        filters: ["Video Generation", "Video Synthesis", "Long Video Generation"]
-    "TryOn":
-        filters: ["Try on", "tryon", "virtual tryon"]
+        filters: ["Video Generation", "Video Synthesis", "Long Video Generation", "Image Animator", "Image Animation"]
     "Music2Dance and Co-speech":
         filters: ["Music2Dance", "Music Dance", "Co-Speech", "Co-Speech Video", "Human motion", "dance video"]
     "Visual Edit":

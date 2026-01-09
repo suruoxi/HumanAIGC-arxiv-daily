@@ -1,13 +1,12 @@
-pdfminer.six
 arxiv
 pyyaml
-flask==2.2.2
-python-dotenv==0.21.0
-requests==2.28.1
+flask
+python-dotenv
+requests
 curl_cffi
-PyQRCode>=1.2.1
-qrcode>=7.4.2
-wechatpy==1.8.18
+PyQRCode
+qrcode
+wechatpy
 #web.py
 pillow
 aiocqhttp
@@ -18,5 +17,4 @@ telebot
 werobot
 PyPDF2
 docx
-Markdown==3.4.4
-git+https://github.com/Acemap/pdf_parser.git
+Markdown
