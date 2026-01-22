@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2026.01.21
+> Updated on 2026.01.22
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -33,6 +33,7 @@
 - 2025-12-21, **In-Context Audio Control of Video Diffusion Transformers**, Wenze Liu et.al., Paper: [http://arxiv.org/abs/2512.18772](http://arxiv.org/abs/2512.18772)
 - 2026-01-20, **HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**, Yuhua Jin et.al., Paper: [http://arxiv.org/abs/2601.13801](http://arxiv.org/abs/2601.13801)
 - 2026-01-19, **Generalizable and Animatable 3D Full-Head Gaussian Avatar from a Single Image**, Shuling Zhao et.al., Paper: [http://arxiv.org/abs/2601.12770](http://arxiv.org/abs/2601.12770)
+- 2026-01-21, **FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**, Jiaxuan Liu et.al., Paper: [http://arxiv.org/abs/2601.14777](http://arxiv.org/abs/2601.14777)
 - 2025-12-31, **From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**, Xu He et.al., Paper: [http://arxiv.org/abs/2512.25066](http://arxiv.org/abs/2512.25066)
 - 2025-12-23, **FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**, Andreas Zinonos et.al., Paper: [http://arxiv.org/abs/2512.20033](http://arxiv.org/abs/2512.20033)
 - 2026-01-08, **FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer**, Chengyang Li et.al., Paper: [http://arxiv.org/abs/2601.04520](http://arxiv.org/abs/2601.04520)
@@ -48,7 +49,7 @@
 - 2025-12-19, **Absorbing Markov Decision Processes: Geometric Properties and Sufficiency of Finite Mixtures of Deterministic Policies**, Francois Dufour et.al., Paper: [http://arxiv.org/abs/2512.17511](http://arxiv.org/abs/2512.17511)
 - 2025-12-24, **ALIVE: An Avatar-Lecture Interactive Video Engine with Content-Aware Retrieval for Real-Time Interaction**, Md Zabirul Islam et.al., Paper: [http://arxiv.org/abs/2512.20858](http://arxiv.org/abs/2512.20858)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 <details>
 
@@ -56,6 +57,7 @@
 
 ## Video Generation
 
+- 2026-01-21, **Walk through Paintings: Egocentric World Models from Internet Priors**, Anurag Bagchi et.al., Paper: [http://arxiv.org/abs/2601.15284](http://arxiv.org/abs/2601.15284)
 - 2026-01-07, **VideoMemory: Toward Consistent Video Generation via Memory Integration**, Jinsong Zhou et.al., Paper: [http://arxiv.org/abs/2601.03655](http://arxiv.org/abs/2601.03655)
 - 2026-01-14, **VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**, Longbin Ji et.al., Paper: [http://arxiv.org/abs/2601.05966](http://arxiv.org/abs/2601.05966)
 - 2026-01-12, **Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**, Zhiting Mei et.al., Paper: [http://arxiv.org/abs/2601.07823](http://arxiv.org/abs/2601.07823)
@@ -63,10 +65,12 @@
 - 2026-01-05, **VINO: A Unified Visual Generator with Interleaved OmniModal Context**, Junyi Chen et.al., Paper: [http://arxiv.org/abs/2601.02358](http://arxiv.org/abs/2601.02358)
 - 2026-01-14, **Transition Matching Distillation for Fast Video Generation**, Weili Nie et.al., Paper: [http://arxiv.org/abs/2601.09881](http://arxiv.org/abs/2601.09881)
 - 2026-01-09, **TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment**, Jin Wang et.al., Paper: [http://arxiv.org/abs/2601.05729](http://arxiv.org/abs/2601.05729)
+- 2026-01-21, **StableWorld: Towards Stable and Consistent Long Interactive Video Generation**, Ying Yang et.al., Paper: [http://arxiv.org/abs/2601.15281](http://arxiv.org/abs/2601.15281)
 - 2026-01-05, **SingingBot: An Avatar-Driven System for Robotic Face Singing Performance**, Zhuoxiong Xu et.al., Paper: [http://arxiv.org/abs/2601.02125](http://arxiv.org/abs/2601.02125)
 - 2026-01-19, **S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation**, Lin Zhao et.al., Paper: [http://arxiv.org/abs/2601.12719](http://arxiv.org/abs/2601.12719)
 - 2026-01-09, **Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation**, Jin Wang et.al., Paper: [http://arxiv.org/abs/2601.05722](http://arxiv.org/abs/2601.05722)
 - 2026-01-08, **RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**, Boyang Wang et.al., Paper: [http://arxiv.org/abs/2601.05241](http://arxiv.org/abs/2601.05241)
+- 2026-01-21, **Rethinking Video Generation Model for the Embodied World**, Yufan Deng et.al., Paper: [http://arxiv.org/abs/2601.15282](http://arxiv.org/abs/2601.15282)
 - 2026-01-07, **ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers**, Mohsen Ghafoorian et.al., Paper: [http://arxiv.org/abs/2601.04342](http://arxiv.org/abs/2601.04342)
 - 2026-01-08, **Plenoptic Video Generation**, Xiao Fu et.al., Paper: [http://arxiv.org/abs/2601.05239](http://arxiv.org/abs/2601.05239)
 - 2026-01-07, **PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance**, Siddarth Nilol Kundur Satish et.al., Paper: [http://arxiv.org/abs/2601.03665](http://arxiv.org/abs/2601.03665)
@@ -83,10 +87,11 @@
 - 2026-01-05, **MagicFight: Personalized Martial Arts Combat Video Generation**, Jiancheng Huang et.al., Paper: [http://arxiv.org/abs/2601.02107](http://arxiv.org/abs/2601.02107)
 - 2026-01-08, **MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**, Chunyu Qiang et.al., Paper: [http://arxiv.org/abs/2601.01568](http://arxiv.org/abs/2601.01568)
 - 2026-01-14, **MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**, Kewei Zhang et.al., Paper: [http://arxiv.org/abs/2601.07832](http://arxiv.org/abs/2601.07832)
+- 2026-01-21, **LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models**, Mingyang Xie et.al., Paper: [http://arxiv.org/abs/2601.14674](http://arxiv.org/abs/2601.14674)
 - 2026-01-06, **LTX-2: Efficient Joint Audio-Visual Foundation Model**, Yoav HaCohen et.al., Paper: [http://arxiv.org/abs/2601.03233](http://arxiv.org/abs/2601.03233)
 - 2026-01-19, **LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations**, Vittoria De Pellegrini et.al., Paper: [http://arxiv.org/abs/2601.13190](http://arxiv.org/abs/2601.13190)
 - 2026-01-15, **Inference-time Physics Alignment of Video Generative Models with Latent World Models**, Jianhao Yuan et.al., Paper: [http://arxiv.org/abs/2601.10553](http://arxiv.org/abs/2601.10553)
-- 2026-01-15, **Human detectors are surprisingly powerful reward models**, Kumar Ashutosh et.al., Paper: [http://arxiv.org/abs/2601.14037](http://arxiv.org/abs/2601.14037)
+- 2026-01-21, **Human detectors are surprisingly powerful reward models**, Kumar Ashutosh et.al., Paper: [http://arxiv.org/abs/2601.14037](http://arxiv.org/abs/2601.14037)
 - 2026-01-09, **Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals**, Nate Gillman et.al., Paper: [http://arxiv.org/abs/2601.05848](http://arxiv.org/abs/2601.05848)
 - 2026-01-09, **GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**, Xuan Cheng et.al., Paper: [http://arxiv.org/abs/2601.05511](http://arxiv.org/abs/2601.05511)
 - 2026-01-15, **Future Optical Flow Prediction Improves Robot Control & Video Generation**, Kanchana Ranasinghe et.al., Paper: [http://arxiv.org/abs/2601.10781](http://arxiv.org/abs/2601.10781)
@@ -106,7 +111,7 @@
 - 2026-01-13, **Apollo: Unified Multi-Task Audio-Video Joint Generation**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2601.04151](http://arxiv.org/abs/2601.04151)
 - 2026-01-16, **ATATA: One Algorithm to Align Them All**, Boyi Pang et.al., Paper: [http://arxiv.org/abs/2601.11194](http://arxiv.org/abs/2601.11194)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 <details>
 
@@ -126,10 +131,11 @@
 - 2026-01-07, **Semantic Belief-State World Model for 3D Human Motion Prediction**, Sarim Chaudhry et.al., Paper: [http://arxiv.org/abs/2601.03517](http://arxiv.org/abs/2601.03517)
 - 2025-12-24, **SegMo: Segment-aligned Text to 3D Human Motion Generation**, Bowen Dang et.al., Paper: [http://arxiv.org/abs/2512.21237](http://arxiv.org/abs/2512.21237)
 - 2026-01-02, **SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**, Yiling Wang et.al., Paper: [http://arxiv.org/abs/2601.00590](http://arxiv.org/abs/2601.00590)
+- 2026-01-21, **Reconstruction-Anchored Diffusion Model for Text-to-Motion Generation**, Yifei Liu et.al., Paper: [http://arxiv.org/abs/2601.14788](http://arxiv.org/abs/2601.14788)
 - 2025-12-30, **PartMotionEdit: Fine-Grained Text-Driven 3D Human Motion Editing via Part-Level Modulation**, Yujie Yang et.al., Paper: [http://arxiv.org/abs/2512.24200](http://arxiv.org/abs/2512.24200)
 - 2025-12-22, **Optimal-coupling-observer AV motion control securing comfort in the presence of cyber attacks**, Farzam Tajdari et.al., Paper: [http://arxiv.org/abs/2512.19679](http://arxiv.org/abs/2512.19679)
 - 2026-01-19, **Millimeter-Wave Multi-Radar Tracking System Enabled by a Modified GRIN Luneburg Lens for Real-Time Healthcare Monitoring**, Mohammad Omid Bagheri et.al., Paper: [http://arxiv.org/abs/2601.12629](http://arxiv.org/abs/2601.12629)
-- 2026-01-15, **Human detectors are surprisingly powerful reward models**, Kumar Ashutosh et.al., Paper: [http://arxiv.org/abs/2601.14037](http://arxiv.org/abs/2601.14037)
+- 2026-01-21, **Human detectors are surprisingly powerful reward models**, Kumar Ashutosh et.al., Paper: [http://arxiv.org/abs/2601.14037](http://arxiv.org/abs/2601.14037)
 - 2025-12-24, **Human Motion Estimation with Everyday Wearables**, Siqi Zhu et.al., Paper: [http://arxiv.org/abs/2512.21209](http://arxiv.org/abs/2512.21209)
 - 2026-01-14, **How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**, Andrew Stratton et.al., Paper: [http://arxiv.org/abs/2601.09856](http://arxiv.org/abs/2601.09856)
 - 2025-12-22, **Hand-Aware Egocentric Motion Reconstruction with Sequence-Level Context**, Kyungwon Cho et.al., Paper: [http://arxiv.org/abs/2512.19283](http://arxiv.org/abs/2512.19283)
@@ -144,7 +150,7 @@
 - 2025-12-27, **Autoregressive Flow Matching for Motion Prediction**, Johnathan Xie et.al., Paper: [http://arxiv.org/abs/2512.22688](http://arxiv.org/abs/2512.22688)
 - 2026-01-12, **AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**, Haoyu Zhang et.al., Paper: [http://arxiv.org/abs/2601.07284](http://arxiv.org/abs/2601.07284)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 <details>
 
@@ -162,6 +168,7 @@
 - 2026-01-09, **ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**, Hengjia Li et.al., Paper: [http://arxiv.org/abs/2601.03467](http://arxiv.org/abs/2601.03467)
 - 2026-01-05, **TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing**, Yujie Hu et.al., Paper: [http://arxiv.org/abs/2601.01915](http://arxiv.org/abs/2601.01915)
 - 2026-01-05, **Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network**, Junbin Zhang et.al., Paper: [http://arxiv.org/abs/2601.02566](http://arxiv.org/abs/2601.02566)
+- 2026-01-21, **Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption**, Liqin Wang et.al., Paper: [http://arxiv.org/abs/2601.14738](http://arxiv.org/abs/2601.14738)
 - 2026-01-08, **QwenStyle: Content-Preserving Style Transfer with Qwen-Image-Edit**, Shiwen Zhang et.al., Paper: [http://arxiv.org/abs/2601.06202](http://arxiv.org/abs/2601.06202)
 - 2026-01-18, **Proc3D: Procedural 3D Generation and Parametric Editing of 3D Shapes with Large Language Models**, Fadlullah Raji et.al., Paper: [http://arxiv.org/abs/2601.12234](http://arxiv.org/abs/2601.12234)
 - 2026-01-08, **OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images**, Miki Okamura et.al., Paper: [http://arxiv.org/abs/2601.04915](http://arxiv.org/abs/2601.04915)
@@ -180,7 +187,7 @@
 - 2026-01-02, **AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**, Jiewen Chan et.al., Paper: [http://arxiv.org/abs/2601.00796](http://arxiv.org/abs/2601.00796)
 - 2026-01-06, **A Versatile Multimodal Agent for Multimedia Content Generation**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2601.03250](http://arxiv.org/abs/2601.03250)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 <details>
 
@@ -195,6 +202,7 @@
 - 2026-01-13, **User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale**, Jungho Cho et.al., Paper: [http://arxiv.org/abs/2601.08225](http://arxiv.org/abs/2601.08225)
 - 2026-01-15, **Unifying Speech Recognition, Synthesis and Conversion with Autoregressive Transformers**, Runyuan Cai et.al., Paper: [http://arxiv.org/abs/2601.10770](http://arxiv.org/abs/2601.10770)
 - 2026-01-20, **Understanding Mental States to Guide Social Influence in Multi-Person Group Dialogue**, Zhichao Liang et.al., Paper: [http://arxiv.org/abs/2601.13687](http://arxiv.org/abs/2601.13687)
+- 2026-01-20, **Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs**, Yiyang Lu et.al., Paper: [http://arxiv.org/abs/2601.14340](http://arxiv.org/abs/2601.14340)
 - 2026-01-19, **Transverse modulation in electrovac Brinkmann pp-waves: Maxwell consistency and curvature universality**, Galin S. Valchev et.al., Paper: [http://arxiv.org/abs/2601.12949](http://arxiv.org/abs/2601.12949)
 - 2026-01-20, **Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement**, Jian Zhang et.al., Paper: [http://arxiv.org/abs/2601.13481](http://arxiv.org/abs/2601.13481)
 - 2026-01-15, **TopoDIM: One-shot Topology Generation of Diverse Interaction Modes for Multi-Agent Systems**, Rui Sun et.al., Paper: [http://arxiv.org/abs/2601.10120](http://arxiv.org/abs/2601.10120)
@@ -216,6 +224,8 @@
 - 2026-01-13, **STAGE: A Benchmark for Knowledge Graph Construction, Question Answering, and In-Script Role-Playing over Movie Screenplays**, Qiuyu Tian et.al., Paper: [http://arxiv.org/abs/2601.08510](http://arxiv.org/abs/2601.08510)
 - 2026-01-09, **SPAM: Style Prompt Adherence Metric for Prompt-based TTS**, Chanhee Cho et.al., Paper: [http://arxiv.org/abs/2601.05554](http://arxiv.org/abs/2601.05554)
 - 2026-01-12, **SAD: A Large-Scale Strategic Argumentative Dialogue Dataset**, Yongkang Liu et.al., Paper: [http://arxiv.org/abs/2601.07423](http://arxiv.org/abs/2601.07423)
+- 2026-01-21, **Rewarding How Models Think Pedagogically: Integrating Pedagogical Reasoning and Thinking Rewards for LLMs in Education**, Unggi Lee et.al., Paper: [http://arxiv.org/abs/2601.14560](http://arxiv.org/abs/2601.14560)
+- 2026-01-21, **Reflecting in the Reflection: Integrating a Socratic Questioning Framework into Automated AI-Based Question Generation**, Ondřej Holub et.al., Paper: [http://arxiv.org/abs/2601.14798](http://arxiv.org/abs/2601.14798)
 - 2026-01-16, **Redefining Machine Simultaneous Interpretation: From Incremental Translation to Human-Like Strategies**, Qianen Zhang et.al., Paper: [http://arxiv.org/abs/2601.11002](http://arxiv.org/abs/2601.11002)
 - 2026-01-12, **Recommendation-as-Experience: A framework for context-sensitive adaptation in conversational recommender systems**, Raj Mahmud et.al., Paper: [http://arxiv.org/abs/2601.07401](http://arxiv.org/abs/2601.07401)
 - 2026-01-11, **RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction**, Haonan Bian et.al., Paper: [http://arxiv.org/abs/2601.06966](http://arxiv.org/abs/2601.06966)
@@ -224,10 +234,14 @@
 - 2026-01-15, **RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2601.10606](http://arxiv.org/abs/2601.10606)
 - 2026-01-09, **ROAP: A Reading-Order and Attention-Prior Pipeline for Optimizing Layout Transformers in Key Information Extraction**, Tingwei Xie et.al., Paper: [http://arxiv.org/abs/2601.05470](http://arxiv.org/abs/2601.05470)
 - 2026-01-09, **RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark**, Mohammed Ali et.al., Paper: [http://arxiv.org/abs/2601.05461](http://arxiv.org/abs/2601.05461)
+- 2026-01-20, **Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis**, Thanathai Lertpetchpun et.al., Paper: [http://arxiv.org/abs/2601.14417](http://arxiv.org/abs/2601.14417)
 - 2026-01-15, **Pulse thermal imaging of FUHAO bronze artifact**, Li Wang et.al., Paper: [http://arxiv.org/abs/2601.10265](http://arxiv.org/abs/2601.10265)
 - 2026-01-18, **PsychēChat: An Empathic Framework Focused on Emotion Shift Tracking and Safety Risk Analysis in Psychological Counseling**, Zhentao Xia et.al., Paper: [http://arxiv.org/abs/2601.12392](http://arxiv.org/abs/2601.12392)
+- 2026-01-20, **Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum**, Mohammed Salah Al-Radhi et.al., Paper: [http://arxiv.org/abs/2601.14472](http://arxiv.org/abs/2601.14472)
 - 2026-01-09, **Productive Discussion Moves in Groups Addressing Controversial Issues**, Kyuwon Kim et.al., Paper: [http://arxiv.org/abs/2601.05651](http://arxiv.org/abs/2601.05651)
+- 2026-01-21, **Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models**, Anmol Goel et.al., Paper: [http://arxiv.org/abs/2601.15220](http://arxiv.org/abs/2601.15220)
 - 2026-01-16, **Predicting Biased Human Decision-Making with Large Language Models in Conversational Settings**, Stephen Pilli et.al., Paper: [http://arxiv.org/abs/2601.11049](http://arxiv.org/abs/2601.11049)
+- 2026-01-21, **PodBench: A Comprehensive Benchmark for Instruction-Aware Audio-Oriented Podcast Script Generation**, Chenning Xu et.al., Paper: [http://arxiv.org/abs/2601.14903](http://arxiv.org/abs/2601.14903)
 - 2026-01-11, **Personality-Aware Reinforcement Learning for Persuasive Dialogue with LLM-Driven Simulation**, Donghuo Zeng et.al., Paper: [http://arxiv.org/abs/2601.06877](http://arxiv.org/abs/2601.06877)
 - 2026-01-16, **PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis**, K Lokesh et.al., Paper: [http://arxiv.org/abs/2601.10945](http://arxiv.org/abs/2601.10945)
 - 2026-01-18, **ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**, Haowei Lou et.al., Paper: [http://arxiv.org/abs/2601.12289](http://arxiv.org/abs/2601.12289)
@@ -264,10 +278,12 @@
 - 2026-01-08, **IndexTTS 2.5 Technical Report**, Yunpei Li et.al., Paper: [http://arxiv.org/abs/2601.03888](http://arxiv.org/abs/2601.03888)
 - 2026-01-20, **HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**, Yuhua Jin et.al., Paper: [http://arxiv.org/abs/2601.13801](http://arxiv.org/abs/2601.13801)
 - 2026-01-14, **Honesty-Aware Multi-Agent Framework for High-Fidelity Synthetic Data Generation in Digital Psychiatric Intake Doctor-Patient Interactions**, Xinyuan Zhang et.al., Paper: [http://arxiv.org/abs/2601.09216](http://arxiv.org/abs/2601.09216)
+- 2026-01-21, **HiNS: Hierarchical Negative Sampling for More Comprehensive Memory Retrieval Embedding Model**, Motong Tian et.al., Paper: [http://arxiv.org/abs/2601.14857](http://arxiv.org/abs/2601.14857)
 - 2026-01-20, **Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**, Yushen Chen et.al., Paper: [http://arxiv.org/abs/2601.13802](http://arxiv.org/abs/2601.13802)
 - 2026-01-15, **HUMANLLM: Benchmarking and Reinforcing LLM Anthropomorphism via Human Cognitive Patterns**, Xintao Wang et.al., Paper: [http://arxiv.org/abs/2601.10198](http://arxiv.org/abs/2601.10198)
 - 2026-01-15, **Generative AI collective behavior needs an interactionist paradigm**, Laura Ferrarotti et.al., Paper: [http://arxiv.org/abs/2601.10567](http://arxiv.org/abs/2601.10567)
 - 2026-01-09, **GenCtrl -- A Formal Controllability Toolkit for Generative Models**, Emily Cheng et.al., Paper: [http://arxiv.org/abs/2601.05637](http://arxiv.org/abs/2601.05637)
+- 2026-01-21, **FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**, Jiaxuan Liu et.al., Paper: [http://arxiv.org/abs/2601.14777](http://arxiv.org/abs/2601.14777)
 - 2026-01-14, **Frame of Reference: Addressing the Challenges of Common Ground Representation in Situational Dialogs**, Biswesh Mohapatra et.al., Paper: [http://arxiv.org/abs/2601.09365](http://arxiv.org/abs/2601.09365)
 - 2026-01-08, **FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions**, Dekun Chen et.al., Paper: [http://arxiv.org/abs/2601.04656](http://arxiv.org/abs/2601.04656)
 - 2026-01-16, **FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**, Tanyu Chen et.al., Paper: [http://arxiv.org/abs/2601.11141](http://arxiv.org/abs/2601.11141)
@@ -309,6 +325,7 @@
 - 2026-01-11, **Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**, Mohd Mujtaba Akhtar et.al., Paper: [http://arxiv.org/abs/2601.07064](http://arxiv.org/abs/2601.07064)
 - 2026-01-08, **Beyond Static Summarization: Proactive Memory Extraction for LLM Agents**, Chengyuan Yang et.al., Paper: [http://arxiv.org/abs/2601.04463](http://arxiv.org/abs/2601.04463)
 - 2026-01-12, **Beyond Dialogue Time: Temporal Semantic Memory for Personalized LLM Agents**, Miao Su et.al., Paper: [http://arxiv.org/abs/2601.07468](http://arxiv.org/abs/2601.07468)
+- 2026-01-21, **Automated Rubrics for Reliable Evaluation of Medical Dialogue Systems**, Yinzhu Chen et.al., Paper: [http://arxiv.org/abs/2601.15161](http://arxiv.org/abs/2601.15161)
 - 2026-01-10, **Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity**, Hongjun An et.al., Paper: [http://arxiv.org/abs/2601.06596](http://arxiv.org/abs/2601.06596)
 - 2026-01-11, **An Ubuntu-Guided Large Language Model Framework for Cognitive Behavioral Mental Health Dialogue**, Sontaga G. Forane et.al., Paper: [http://arxiv.org/abs/2601.06875](http://arxiv.org/abs/2601.06875)
 - 2026-01-13, **All Required, In Order: Phase-Level Evaluation for AI-Human Dialogue in Healthcare and Beyond**, Shubham Kulkarni et.al., Paper: [http://arxiv.org/abs/2601.08690](http://arxiv.org/abs/2601.08690)
@@ -322,7 +339,7 @@
 - 2026-01-15, **A Concise Agent is Less Expert: Revealing Side Effects of Using Style Features on Conversational Agents**, Young-Min Cho et.al., Paper: [http://arxiv.org/abs/2601.10809](http://arxiv.org/abs/2601.10809)
 - 2026-01-08, **A Closed-Loop Multi-Agent System Driven by LLMs for Meal-Level Personalized Nutrition Management**, Muqing Xu et.al., Paper: [http://arxiv.org/abs/2601.04491](http://arxiv.org/abs/2601.04491)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 <details>
 
@@ -342,10 +359,12 @@
 - 2026-01-14, **Uplink Multi-User MIMO Implementation in OpenAirInterface for a Cell-Free O-RAN Testbed**, Utku Uçak et.al., Paper: [http://arxiv.org/abs/2601.09384](http://arxiv.org/abs/2601.09384)
 - 2026-01-16, **Ultrasensitive Real-Time Detection of SARS-CoV-2 Proteins with Arrays of Biofunctionalized Graphene Field-Effect Transistors**, Hamid Reza Rasouli et.al., Paper: [http://arxiv.org/abs/2601.11275](http://arxiv.org/abs/2601.11275)
 - 2026-01-20, **TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**, Bin Yu et.al., Paper: [http://arxiv.org/abs/2601.14133](http://arxiv.org/abs/2601.14133)
+- 2026-01-21, **Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning**, Shuonan Yang et.al., Paper: [http://arxiv.org/abs/2601.15115](http://arxiv.org/abs/2601.15115)
 - 2026-01-13, **Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance**, Matina Mahdizadeh Sani et.al., Paper: [http://arxiv.org/abs/2601.08379](http://arxiv.org/abs/2601.08379)
 - 2026-01-08, **Trading Electrons: Predicting DART Spread Spikes in ISO Electricity Markets**, Emma Hubert et.al., Paper: [http://arxiv.org/abs/2601.05085](http://arxiv.org/abs/2601.05085)
 - 2026-01-09, **TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents**, Dawei Wang et.al., Paper: [http://arxiv.org/abs/2601.05899](http://arxiv.org/abs/2601.05899)
 - 2026-01-15, **ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**, Yutao Mou et.al., Paper: [http://arxiv.org/abs/2601.10156](http://arxiv.org/abs/2601.10156)
+- 2026-01-21, **Three-dimensional visualization of X-ray micro-CT with large-scale datasets: Efficiency and accuracy for real-time interaction**, Yipeng Yin et.al., Paper: [http://arxiv.org/abs/2601.15098](http://arxiv.org/abs/2601.15098)
 - 2026-01-16, **Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding**, Wenhui Tan et.al., Paper: [http://arxiv.org/abs/2601.11359](http://arxiv.org/abs/2601.11359)
 - 2026-01-20, **The Transparency Paradox in Explainable AI: A Theory of Autonomy Depletion Through Cognitive Load**, Ancuta Margondai et.al., Paper: [http://arxiv.org/abs/2601.13973](http://arxiv.org/abs/2601.13973)
 - 2026-01-09, **The ICASSP 2026 HumDial Challenge: Benchmarking Human-like Spoken Dialogue Systems in the LLM Era**, Zhixian Zhao et.al., Paper: [http://arxiv.org/abs/2601.05564](http://arxiv.org/abs/2601.05564)
@@ -353,14 +372,17 @@
 - 2026-01-12, **Tensor Decompositions for Online Grid-Based Terrain-Aided Navigation**, J. Matoušek et.al., Paper: [http://arxiv.org/abs/2601.07728](http://arxiv.org/abs/2601.07728)
 - 2026-01-14, **Technological Advances in Two Generations of Consumer-Grade VR Systems: Effects on User Experience and Task Performance**, Marie Luisa Fiedler et.al., Paper: [http://arxiv.org/abs/2601.09610](http://arxiv.org/abs/2601.09610)
 - 2026-01-14, **TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**, Sooyeun Yang et.al., Paper: [http://arxiv.org/abs/2601.09291](http://arxiv.org/abs/2601.09291)
+- 2026-01-21, **TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control**, Yuteng Sun et.al., Paper: [http://arxiv.org/abs/2601.14945](http://arxiv.org/abs/2601.14945)
 - 2026-01-12, **THETA: Triangulated Hand-State Estimation for Teleoperation and Automation in Robotic Hand Control**, Alex Huang et.al., Paper: [http://arxiv.org/abs/2601.07768](http://arxiv.org/abs/2601.07768)
 - 2026-01-16, **TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**, Girish A. Koushik et.al., Paper: [http://arxiv.org/abs/2601.11178](http://arxiv.org/abs/2601.11178)
 - 2026-01-12, **Studying the Role of Synthetic Data for Machine Learning-based Wireless Networks Traffic Forecasting**, José Pulido et.al., Paper: [http://arxiv.org/abs/2601.07646](http://arxiv.org/abs/2601.07646)
 - 2026-01-20, **Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models**, Nikita Kuzmin et.al., Paper: [http://arxiv.org/abs/2601.13948](http://arxiv.org/abs/2601.13948)
+- 2026-01-21, **Stochastic EMS for Optimal 24/7 Carbon-Free Energy Operations**, Natanon Tongamrak et.al., Paper: [http://arxiv.org/abs/2601.15135](http://arxiv.org/abs/2601.15135)
 - 2026-01-20, **Sticky Help, Bounded Effects: Session-by-Session Analytics of Teacher Interventions in K-12 Classrooms**, Qiao Jin et.al., Paper: [http://arxiv.org/abs/2601.13520](http://arxiv.org/abs/2601.13520)
 - 2026-01-20, **Spatiotemporal Wildfire Prediction and Reinforcement Learning for Helitack Suppression**, Shaurya Mathur et.al., Paper: [http://arxiv.org/abs/2601.14238](http://arxiv.org/abs/2601.14238)
 - 2026-01-14, **SpatialJB: How Text Distribution Art Becomes the "Jailbreak Key" for LLM Guardrails**, Zhiyi Mou et.al., Paper: [http://arxiv.org/abs/2601.09321](http://arxiv.org/abs/2601.09321)
 - 2026-01-08, **Spacecube: A fast inverse hyperspectral georectification system**, Thomas P. Watson et.al., Paper: [http://arxiv.org/abs/2601.05181](http://arxiv.org/abs/2601.05181)
+- 2026-01-21, **Shear and bulk viscosities of gluon plasma across the transition temperature from lattice QCD**, Heng-Tong Ding et.al., Paper: [http://arxiv.org/abs/2601.14967](http://arxiv.org/abs/2601.14967)
 - 2026-01-20, **Self-Supervised Learning of Parametric Approximation for Security-Constrained DC-OPF**, Anderson Anrrango et.al., Paper: [http://arxiv.org/abs/2601.13486](http://arxiv.org/abs/2601.13486)
 - 2026-01-16, **Seek and You Shall Find: Design & Evaluation of a Context-Aware Interactive Search Companion**, Markus Bink et.al., Paper: [http://arxiv.org/abs/2601.11287](http://arxiv.org/abs/2601.11287)
 - 2026-01-08, **Scalable neural pushbroom architectures for real-time denoising of hyperspectral images onboard satellites**, Ziyao Yi et.al., Paper: [http://arxiv.org/abs/2601.05020](http://arxiv.org/abs/2601.05020)
@@ -375,6 +397,7 @@
 - 2026-01-14, **SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3**, Ruiqi Shen et.al., Paper: [http://arxiv.org/abs/2601.09699](http://arxiv.org/abs/2601.09699)
 - 2026-01-09, **Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs**, Sandeep Mishra et.al., Paper: [http://arxiv.org/abs/2601.05851](http://arxiv.org/abs/2601.05851)
 - 2026-01-08, **RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**, Boyang Wang et.al., Paper: [http://arxiv.org/abs/2601.05241](http://arxiv.org/abs/2601.05241)
+- 2026-01-21, **Risk Estimation for Automated Driving**, Leon Tolksdorf et.al., Paper: [http://arxiv.org/abs/2601.15018](http://arxiv.org/abs/2601.15018)
 - 2026-01-20, **Rigid Body Dynamics in Ambient Fluids**, Marcel Padilla et.al., Paper: [http://arxiv.org/abs/2601.13971](http://arxiv.org/abs/2601.13971)
 - 2026-01-20, **Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**, Nitin Kulkarni et.al., Paper: [http://arxiv.org/abs/2601.14208](http://arxiv.org/abs/2601.14208)
 - 2026-01-09, **Resilient UAV Data Mule via Adaptive Sensor Association under Timing Constraints**, Md Sharif Hossen et.al., Paper: [http://arxiv.org/abs/2601.06000](http://arxiv.org/abs/2601.06000)
@@ -385,6 +408,7 @@
 - 2026-01-20, **Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models**, Changshuo Zhang et.al., Paper: [http://arxiv.org/abs/2601.13533](http://arxiv.org/abs/2601.13533)
 - 2026-01-09, **ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging**, Junyao Yang et.al., Paper: [http://arxiv.org/abs/2601.05560](http://arxiv.org/abs/2601.05560)
 - 2026-01-20, **Real-time visualization of plasmonic nanoparticle growth dynamics by high-speed atomic force microscopy**, Fuma Wakabayashi et.al., Paper: [http://arxiv.org/abs/2601.13512](http://arxiv.org/abs/2601.13512)
+- 2026-01-21, **Real-time Facial Communication Restores Cooperation After Defection in Social Dilemmas**, Mayada Oudah et.al., Paper: [http://arxiv.org/abs/2601.15211](http://arxiv.org/abs/2601.15211)
 - 2026-01-13, **Real-Time Localization Framework for Autonomous Basketball Robots**, Naren Medarametla et.al., Paper: [http://arxiv.org/abs/2601.08713](http://arxiv.org/abs/2601.08713)
 - 2026-01-19, **Real-Time 4D Radar Perception for Robust Human Detection in Harsh Enclosed Environments**, Zhenan Liu et.al., Paper: [http://arxiv.org/abs/2601.13364](http://arxiv.org/abs/2601.13364)
 - 2026-01-15, **ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding**, Xueyun Tian et.al., Paper: [http://arxiv.org/abs/2601.10323](http://arxiv.org/abs/2601.10323)
@@ -393,6 +417,7 @@
 - 2026-01-12, **Performance of the Pair Spectrometer in Hall D at Jefferson Lab**, Alexander Somov et.al., Paper: [http://arxiv.org/abs/2601.07587](http://arxiv.org/abs/2601.07587)
 - 2026-01-20, **Pedagogical Alignment for Vision-Language-Action Models: A Comprehensive Framework for Data, Architecture, and Evaluation in Education**, Unggi Lee et.al., Paper: [http://arxiv.org/abs/2601.13876](http://arxiv.org/abs/2601.13876)
 - 2026-01-13, **Parallel Context-of-Experts Decoding for Retrieval Augmented Generation**, Giulio Corallo et.al., Paper: [http://arxiv.org/abs/2601.08670](http://arxiv.org/abs/2601.08670)
+- 2026-01-21, **PROGRESSLM: Towards Progress Reasoning in Vision-Language Models**, Jianshu Zhang et.al., Paper: [http://arxiv.org/abs/2601.15224](http://arxiv.org/abs/2601.15224)
 - 2026-01-20, **Optimal Calibration of the endpoint-corrected Hilbert Transform**, Eike Osmers et.al., Paper: [http://arxiv.org/abs/2601.13962](http://arxiv.org/abs/2601.13962)
 - 2026-01-14, **OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**, Sheng-Yu Huang et.al., Paper: [http://arxiv.org/abs/2601.09575](http://arxiv.org/abs/2601.09575)
 - 2026-01-20, **Onset of thermalization of q-deformed SU(2) Yang-Mills theory on a trapped-ion quantum computer**, Tomoya Hayata et.al., Paper: [http://arxiv.org/abs/2601.13530](http://arxiv.org/abs/2601.13530)
@@ -414,20 +439,25 @@
 - 2026-01-20, **Machine learning based radiative parameterization scheme and its performance in operational reforecast experiments**, Hao Jing et.al., Paper: [http://arxiv.org/abs/2601.13592](http://arxiv.org/abs/2601.13592)
 - 2026-01-16, **Machine Learning on the Edge for Sustainable IoT Networks: A Systematic Literature Review**, Luisa Schuhmacher et.al., Paper: [http://arxiv.org/abs/2601.11326](http://arxiv.org/abs/2601.11326)
 - 2026-01-20, **MANATEE: A DevOps Platform for xApp Lifecycle Management and Testing in Open RAN**, Sofia Montebugnoli et.al., Paper: [http://arxiv.org/abs/2601.14009](http://arxiv.org/abs/2601.14009)
+- 2026-01-21, **LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes**, Ruofan Liang et.al., Paper: [http://arxiv.org/abs/2601.15283](http://arxiv.org/abs/2601.15283)
 - 2026-01-15, **Low-Complexity Blind Estimator of SNR and MSE for mmWave Multi-Antenna Communications**, Hanyoung Park et.al., Paper: [http://arxiv.org/abs/2601.10331](http://arxiv.org/abs/2601.10331)
+- 2026-01-21, **LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding**, Xiaodong Wang et.al., Paper: [http://arxiv.org/abs/2601.15016](http://arxiv.org/abs/2601.15016)
 - 2026-01-09, **LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**, Chengen Xie et.al., Paper: [http://arxiv.org/abs/2601.05611](http://arxiv.org/abs/2601.05611)
 - 2026-01-13, **Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**, Long Zhang et.al., Paper: [http://arxiv.org/abs/2601.08434](http://arxiv.org/abs/2601.08434)
 - 2026-01-08, **LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**, Zhuoyang Liu et.al., Paper: [http://arxiv.org/abs/2601.05248](http://arxiv.org/abs/2601.05248)
+- 2026-01-21, **LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback**, Chloe Qianhui Zhao et.al., Paper: [http://arxiv.org/abs/2601.15280](http://arxiv.org/abs/2601.15280)
 - 2026-01-15, **Kolmogorov Arnold Networks and Multi-Layer Perceptrons: A Paradigm Shift in Neural Modelling**, Aradhya Gaonkar et.al., Paper: [http://arxiv.org/abs/2601.10563](http://arxiv.org/abs/2601.10563)
 - 2026-01-09, **Jailbreaking Large Language Models through Iterative Tool-Disguised Attacks via Reinforcement Learning**, Zhaoqi Wang et.al., Paper: [http://arxiv.org/abs/2601.05466](http://arxiv.org/abs/2601.05466)
 - 2026-01-20, **Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing**, Xiaolu Liu et.al., Paper: [http://arxiv.org/abs/2601.14103](http://arxiv.org/abs/2601.14103)
 - 2026-01-08, **Internal Representations as Indicators of Hallucinations in Agent Tool Selection**, Kait Healy et.al., Paper: [http://arxiv.org/abs/2601.05214](http://arxiv.org/abs/2601.05214)
 - 2026-01-09, **Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning**, Sheng-Kai Chen et.al., Paper: [http://arxiv.org/abs/2601.05836](http://arxiv.org/abs/2601.05836)
+- 2026-01-21, **InstructTime++: Time Series Classification with Multimodal Language Modeling via Implicit Feature Enhancement**, Mingyue Cheng et.al., Paper: [http://arxiv.org/abs/2601.14968](http://arxiv.org/abs/2601.14968)
 - 2026-01-16, **IMS: Intelligent Hardware Monitoring System for Secure SoCs**, Wadid Foudhaili et.al., Paper: [http://arxiv.org/abs/2601.11447](http://arxiv.org/abs/2601.11447)
 - 2026-01-13, **Hybrid Distillation with CoT Guidance for Edge-Drone Control Code Generation**, Yizhan Feng et.al., Paper: [http://arxiv.org/abs/2601.08412](http://arxiv.org/abs/2601.08412)
 - 2026-01-15, **How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series**, Mathieu Cherpitel et.al., Paper: [http://arxiv.org/abs/2601.10191](http://arxiv.org/abs/2601.10191)
 - 2026-01-20, **Highly Deformable Proprioceptive Membrane for Real-Time 3D Shape Reconstruction**, Guanyu Xu et.al., Paper: [http://arxiv.org/abs/2601.13574](http://arxiv.org/abs/2601.13574)
 - 2026-01-08, **Higher-Order Adversarial Patches for Real-Time Object Detectors**, Jens Bayer et.al., Paper: [http://arxiv.org/abs/2601.04991](http://arxiv.org/abs/2601.04991)
+- 2026-01-21, **Graph-Based Adaptive Planning for Coordinated Dual-Arm Robotic Disassembly of Electronic Devices (eGRAP)**, Adip Ranjan Das et.al., Paper: [http://arxiv.org/abs/2601.14998](http://arxiv.org/abs/2601.14998)
 - 2026-01-08, **GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts**, Wenhao Zeng et.al., Paper: [http://arxiv.org/abs/2601.05110](http://arxiv.org/abs/2601.05110)
 - 2026-01-14, **Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes**, Gunhee Cho et.al., Paper: [http://arxiv.org/abs/2601.09556](http://arxiv.org/abs/2601.09556)
 - 2026-01-16, **Generative Scenario Rollouts for End-to-End Autonomous Driving**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2601.11475](http://arxiv.org/abs/2601.11475)
@@ -442,6 +472,7 @@
 - 2026-01-15, **From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**, Cheng Chen et.al., Paper: [http://arxiv.org/abs/2601.10710](http://arxiv.org/abs/2601.10710)
 - 2026-01-08, **From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling**, Jin Gao et.al., Paper: [http://arxiv.org/abs/2601.05016](http://arxiv.org/abs/2601.05016)
 - 2026-01-12, **FlyCo: Foundation Model-Empowered Drones for Autonomous 3D Structure Scanning in Open-World Environments**, Chen Feng et.al., Paper: [http://arxiv.org/abs/2601.07558](http://arxiv.org/abs/2601.07558)
+- 2026-01-21, **FlowSSC: Universal Generative Monocular Semantic Scene Completion via One-Step Latent Diffusion**, Zichen Xi et.al., Paper: [http://arxiv.org/abs/2601.15250](http://arxiv.org/abs/2601.15250)
 - 2026-01-15, **FlowAct-R1: Towards Interactive Humanoid Video Generation**, Lizhen Wang et.al., Paper: [http://arxiv.org/abs/2601.10103](http://arxiv.org/abs/2601.10103)
 - 2026-01-16, **FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**, Tanyu Chen et.al., Paper: [http://arxiv.org/abs/2601.11141](http://arxiv.org/abs/2601.11141)
 - 2026-01-09, **FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**, Christopher Thirgood et.al., Paper: [http://arxiv.org/abs/2601.05738](http://arxiv.org/abs/2601.05738)
@@ -457,11 +488,13 @@
 - 2026-01-19, **Event-based Heterogeneous Information Processing for Online Vision-based Obstacle Detection and Localization**, Reza Ahmadvand et.al., Paper: [http://arxiv.org/abs/2601.13451](http://arxiv.org/abs/2601.13451)
 - 2026-01-15, **Event-Driven Deep RL Dispatcher for Post-Storm Distribution System Restoration**, Farshad Amani et.al., Paper: [http://arxiv.org/abs/2601.10044](http://arxiv.org/abs/2601.10044)
 - 2026-01-12, **Energy-efficient torque allocation for straight-line driving of electric vehicles based on pseudoconvex polynomials**, Josip Kir Hromatko et.al., Paper: [http://arxiv.org/abs/2601.07527](http://arxiv.org/abs/2601.07527)
+- 2026-01-21, **Energy-efficient time series processing in real-time with fluidic iontronic memristor circuits**, T. M. Kamsma et.al., Paper: [http://arxiv.org/abs/2601.14986](http://arxiv.org/abs/2601.14986)
 - 2026-01-16, **Efficient On-Board Processing of Oblique UAV Video for Rapid Flood Extent Mapping**, Vishisht Sharma et.al., Paper: [http://arxiv.org/abs/2601.11290](http://arxiv.org/abs/2601.11290)
 - 2026-01-14, **Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**, Jieying Chen et.al., Paper: [http://arxiv.org/abs/2601.09697](http://arxiv.org/abs/2601.09697)
 - 2026-01-13, **Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**, Yizhan Feng et.al., Paper: [http://arxiv.org/abs/2601.08408](http://arxiv.org/abs/2601.08408)
 - 2026-01-15, **Early Fault Detection on CMAPSS with Unsupervised LSTM Autoencoders**, P. Sánchez et.al., Paper: [http://arxiv.org/abs/2601.10269](http://arxiv.org/abs/2601.10269)
 - 2026-01-09, **Dynamic Mortality Forecasting via Mixed-Frequency State-Space Models**, Runze Li et.al., Paper: [http://arxiv.org/abs/2601.05702](http://arxiv.org/abs/2601.05702)
+- 2026-01-21, **Dynamic Management of a Deep Learning-Based Anomaly Detection System for 5G Networks**, Lorenzo Fernández Maimó et.al., Paper: [http://arxiv.org/abs/2601.15177](http://arxiv.org/abs/2601.15177)
 - 2026-01-12, **Dynamic $(Δ+ 1)$ Vertex Coloring**, Noam Benson-Tilsen et.al., Paper: [http://arxiv.org/abs/2601.07566](http://arxiv.org/abs/2601.07566)
 - 2026-01-08, **Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication**, Niloufar Alavi et.al., Paper: [http://arxiv.org/abs/2601.05084](http://arxiv.org/abs/2601.05084)
 - 2026-01-09, **Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism**, Yuhao Shen et.al., Paper: [http://arxiv.org/abs/2601.05524](http://arxiv.org/abs/2601.05524)
@@ -475,6 +508,7 @@
 - 2026-01-08, **DAVOS: An Autonomous Vehicle Operating System in the Vehicle Computing Era**, Yuxin Wang et.al., Paper: [http://arxiv.org/abs/2601.05072](http://arxiv.org/abs/2601.05072)
 - 2026-01-15, **Credit C-GPT: A Domain-Specialized Large Language Model for Conversational Understanding in Vietnamese Debt Collection**, Nhung Nguyen Thi Hong et.al., Paper: [http://arxiv.org/abs/2601.10167](http://arxiv.org/abs/2601.10167)
 - 2026-01-13, **Creativity in AI as Emergence from Domain-Limited Generative Models**, Corina Chutaux et.al., Paper: [http://arxiv.org/abs/2601.08388](http://arxiv.org/abs/2601.08388)
+- 2026-01-21, **Coupled gas and bubble dynamics at the solidification front**, Bastien Isabella et.al., Paper: [http://arxiv.org/abs/2601.15045](http://arxiv.org/abs/2601.15045)
 - 2026-01-09, **Cooperative Differential GNSS Positioning: Estimators and Bounds**, Helena Calatrava et.al., Paper: [http://arxiv.org/abs/2601.06012](http://arxiv.org/abs/2601.06012)
 - 2026-01-09, **Context-Aware Decoding for Faithful Vision-Language Generation**, Mehrdad Fazli et.al., Paper: [http://arxiv.org/abs/2601.05939](http://arxiv.org/abs/2601.05939)
 - 2026-01-09, **Community-Based Model Sharing and Generalisation: Anomaly Detection in IoT Temperature Sensor Networks**, Sahibzada Saadoon Hammad et.al., Paper: [http://arxiv.org/abs/2601.05984](http://arxiv.org/abs/2601.05984)
@@ -492,9 +526,11 @@
 - 2026-01-13, **Beyond Linearization: Attributed Table Graphs for Table Reasoning**, Yuxiang Wang et.al., Paper: [http://arxiv.org/abs/2601.08444](http://arxiv.org/abs/2601.08444)
 - 2026-01-12, **Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents**, Yunfan Li et.al., Paper: [http://arxiv.org/abs/2601.07577](http://arxiv.org/abs/2601.07577)
 - 2026-01-12, **Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**, Yahya Masri et.al., Paper: [http://arxiv.org/abs/2601.07790](http://arxiv.org/abs/2601.07790)
+- 2026-01-21, **BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries**, Shijie Lian et.al., Paper: [http://arxiv.org/abs/2601.15197](http://arxiv.org/abs/2601.15197)
 - 2026-01-20, **Balancing Independent and Collaborative Service**, Shuwen Lu et.al., Paper: [http://arxiv.org/abs/2601.13586](http://arxiv.org/abs/2601.13586)
 - 2026-01-09, **Autonomous Probe Microscopy with Robust Bag-of-Features Multi-Objective Bayesian Optimization: Pareto-Front Mapping of Nanoscale Structure-Property Trade-Offs**, Kamyar Barakati et.al., Paper: [http://arxiv.org/abs/2601.05528](http://arxiv.org/abs/2601.05528)
 - 2026-01-20, **Autonomous Knowledge Graph Exploration with Adaptive Breadth-Depth Retrieval**, Joaquín Polonuer et.al., Paper: [http://arxiv.org/abs/2601.13969](http://arxiv.org/abs/2601.13969)
+- 2026-01-21, **Application-level observability for adaptive Edge to Cloud continuum systems**, Kaddour Sidi et.al., Paper: [http://arxiv.org/abs/2601.14923](http://arxiv.org/abs/2601.14923)
 - 2026-01-15, **An effective interactive brain cytoarchitectonic parcellation framework using pretrained foundation model**, Shiqi Zhang et.al., Paper: [http://arxiv.org/abs/2601.10412](http://arxiv.org/abs/2601.10412)
 - 2026-01-13, **An IoT-Enabled Smart Aquarium System for Real-Time Water Quality Monitoring and Automated Feeding**, MD Fatin Ishraque Ayon et.al., Paper: [http://arxiv.org/abs/2601.08484](http://arxiv.org/abs/2601.08484)
 - 2026-01-15, **An Efficient Long-Context Ranking Architecture With Calibrated LLM Distillation: Application to Person-Job Fit**, Warren Jouanneau et.al., Paper: [http://arxiv.org/abs/2601.10321](http://arxiv.org/abs/2601.10321)
@@ -505,13 +541,14 @@
 - 2026-01-19, **A dual tunnel structure for the Einstein Telescope**, Riccardo DeSalvo et.al., Paper: [http://arxiv.org/abs/2601.13438](http://arxiv.org/abs/2601.13438)
 - 2026-01-19, **A Two-Stage Bayesian Framework for Multi-Fidelity Online Updating of Spatial Fragility Fields**, Abdullah M. Braik et.al., Paper: [http://arxiv.org/abs/2601.13396](http://arxiv.org/abs/2601.13396)
 - 2026-01-19, **A Tool for Automatically Cataloguing and Selecting Pre-Trained Models and Datasets for Software Engineering**, Alexandra González et.al., Paper: [http://arxiv.org/abs/2601.13460](http://arxiv.org/abs/2601.13460)
+- 2026-01-21, **A Real-Time Error Prevention System for Gaze-Based Interaction in Virtual Reality Based on Anomaly Detection**, Björn R. Severitt et.al., Paper: [http://arxiv.org/abs/2601.15146](http://arxiv.org/abs/2601.15146)
 - 2026-01-12, **A Protocol-Aware P4 Pipeline for MQTT Security and Anomaly Mitigation in Edge IoT Systems**, Bui Ngoc Thanh Binh et.al., Paper: [http://arxiv.org/abs/2601.07536](http://arxiv.org/abs/2601.07536)
 - 2026-01-13, **A New Duality-Free Framework for Convex Optimisation with Superlinear Convergence and Effective Warm-Starting**, Michael Cummins et.al., Paper: [http://arxiv.org/abs/2601.08494](http://arxiv.org/abs/2601.08494)
 - 2026-01-19, **A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge**, Akbar Anbar Jafari et.al., Paper: [http://arxiv.org/abs/2601.13383](http://arxiv.org/abs/2601.13383)
 - 2026-01-19, **A Lightweight Model-Driven 4D Radar Framework for Pervasive Human Detection in Harsh Conditions**, Zhenan Liu et.al., Paper: [http://arxiv.org/abs/2601.13373](http://arxiv.org/abs/2601.13373)
 - 2026-01-20, **"The Whole Is Greater Than the Sum of Its Parts": A Compatibility-Aware Multi-Teacher CoT Distillation Framework**, Jin Cui et.al., Paper: [http://arxiv.org/abs/2601.13992](http://arxiv.org/abs/2601.13992)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 <details>
 
@@ -523,9 +560,11 @@
 - 2026-01-13, **YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation**, Abdelaziz Bounhar et.al., Paper: [http://arxiv.org/abs/2601.08441](http://arxiv.org/abs/2601.08441)
 - 2026-01-15, **V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**, Han Wang et.al., Paper: [http://arxiv.org/abs/2601.10094](http://arxiv.org/abs/2601.10094)
 - 2026-01-17, **UniMo: Unified Motion Generation and Understanding with Chain of Thought**, Guocun Wang et.al., Paper: [http://arxiv.org/abs/2601.12126](http://arxiv.org/abs/2601.12126)
+- 2026-01-20, **Towards Execution-Grounded Automated AI Research**, Chenglei Si et.al., Paper: [http://arxiv.org/abs/2601.14525](http://arxiv.org/abs/2601.14525)
 - 2026-01-07, **Thinking with Frames: Generative Video Distortion Evaluation via Frame Reward Model**, Yuan Wang et.al., Paper: [http://arxiv.org/abs/2601.04033](http://arxiv.org/abs/2601.04033)
 - 2026-01-15, **Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**, Siqi Kou et.al., Paper: [http://arxiv.org/abs/2601.10332](http://arxiv.org/abs/2601.10332)
 - 2026-01-15, **The Llama 4 Herd: Architecture, Training, Evaluation, and Deployment Notes**, Aaron Adcock et.al., Paper: [http://arxiv.org/abs/2601.11659](http://arxiv.org/abs/2601.11659)
+- 2026-01-21, **The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models**, Zanlin Ni et.al., Paper: [http://arxiv.org/abs/2601.15165](http://arxiv.org/abs/2601.15165)
 - 2026-01-09, **TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment**, Jin Wang et.al., Paper: [http://arxiv.org/abs/2601.05729](http://arxiv.org/abs/2601.05729)
 - 2026-01-15, **Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**, Siwen Jiao et.al., Paper: [http://arxiv.org/abs/2601.07695](http://arxiv.org/abs/2601.07695)
 - 2026-01-08, **SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning**, Yanchang Liang et.al., Paper: [http://arxiv.org/abs/2601.05187](http://arxiv.org/abs/2601.05187)
@@ -541,9 +580,10 @@
 - 2026-01-15, **Projected Microbatch Accumulation yields reference-free proximal policy updates for reinforcement learning**, Nilin Abrahamsen et.al., Paper: [http://arxiv.org/abs/2601.10498](http://arxiv.org/abs/2601.10498)
 - 2026-01-13, **PRPO: Aligning Process Reward with Outcome Reward in Policy Optimization**, Ruiyi Ding et.al., Paper: [http://arxiv.org/abs/2601.07182](http://arxiv.org/abs/2601.07182)
 - 2026-01-09, **PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering**, Yu Liu et.al., Paper: [http://arxiv.org/abs/2601.05465](http://arxiv.org/abs/2601.05465)
+- 2026-01-21, **PCL-Reasoner-V1.5: Advancing Math Reasoning with Offline Reinforcement Learning**, Yao Lu et.al., Paper: [http://arxiv.org/abs/2601.14716](http://arxiv.org/abs/2601.14716)
 - 2026-01-13, **Owen-Shapley Policy Optimization (OSPO): A Principled RL Algorithm for Generative Search LLMs**, Abhijnan Nath et.al., Paper: [http://arxiv.org/abs/2601.08403](http://arxiv.org/abs/2601.08403)
 - 2026-01-12, **Outcome-Grounded Advantage Reshaping for Fine-Grained Credit Assignment in Mathematical Reasoning**, Ziheng Li et.al., Paper: [http://arxiv.org/abs/2601.07408](http://arxiv.org/abs/2601.07408)
-- 2026-01-18, **Orthogonalized Policy Optimization:Decoupling Sampling Geometry from Optimization Geometry in RLHF**, Wang Zixian et.al., Paper: [http://arxiv.org/abs/2601.12415](http://arxiv.org/abs/2601.12415)
+- 2026-01-21, **Orthogonalized Policy Optimization:Decoupling Sampling Geometry from Optimization Geometry in RLHF**, Wang Zixian et.al., Paper: [http://arxiv.org/abs/2601.12415](http://arxiv.org/abs/2601.12415)
 - 2026-01-09, **Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR**, Zijun Min et.al., Paper: [http://arxiv.org/abs/2601.05607](http://arxiv.org/abs/2601.05607)
 - 2026-01-08, **On the Hidden Objective Biases of Group-based Reinforcement Learning**, Aleksandar Fontana et.al., Paper: [http://arxiv.org/abs/2601.05002](http://arxiv.org/abs/2601.05002)
 - 2026-01-11, **No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning**, Zhicong Li et.al., Paper: [http://arxiv.org/abs/2601.06794](http://arxiv.org/abs/2601.06794)
@@ -555,7 +595,8 @@
 - 2026-01-15, **LLMdoctor: Token-Level Flow-Guided Preference Optimization for Efficient Test-Time Alignment of Large Language Models**, Tiesunlong Shen et.al., Paper: [http://arxiv.org/abs/2601.10416](http://arxiv.org/abs/2601.10416)
 - 2026-01-20, **LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**, Badri N. Patro et.al., Paper: [http://arxiv.org/abs/2601.14053](http://arxiv.org/abs/2601.14053)
 - 2026-01-20, **Knowledge Graph-Assisted LLM Post-Training for Enhanced Legal Reasoning**, Dezhao Song et.al., Paper: [http://arxiv.org/abs/2601.13806](http://arxiv.org/abs/2601.13806)
-- 2026-01-15, **Human detectors are surprisingly powerful reward models**, Kumar Ashutosh et.al., Paper: [http://arxiv.org/abs/2601.14037](http://arxiv.org/abs/2601.14037)
+- 2026-01-21, **IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization**, Shuai Wang et.al., Paper: [http://arxiv.org/abs/2601.14686](http://arxiv.org/abs/2601.14686)
+- 2026-01-21, **Human detectors are surprisingly powerful reward models**, Kumar Ashutosh et.al., Paper: [http://arxiv.org/abs/2601.14037](http://arxiv.org/abs/2601.14037)
 - 2026-01-20, **Group Relative Policy Optimization for Robust Blind Interference Alignment with Fluid Antennas**, Jianqiu Peng et.al., Paper: [http://arxiv.org/abs/2601.13506](http://arxiv.org/abs/2601.13506)
 - 2026-01-12, **Group Pattern Selection Optimization: Let LRMs Pick the Right Pattern for Reasoning**, Hanbin Wang et.al., Paper: [http://arxiv.org/abs/2601.07238](http://arxiv.org/abs/2601.07238)
 - 2026-01-19, **Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**, Runxuan Liu et.al., Paper: [http://arxiv.org/abs/2601.12995](http://arxiv.org/abs/2601.12995)
@@ -573,6 +614,7 @@
 - 2026-01-07, **Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning**, Yifan Wang et.al., Paper: [http://arxiv.org/abs/2601.04153](http://arxiv.org/abs/2601.04153)
 - 2026-01-20, **Differentiated Pickup Point Offering for Emission Reduction in Last-Mile Delivery**, Albina Galiullina et.al., Paper: [http://arxiv.org/abs/2601.14196](http://arxiv.org/abs/2601.14196)
 - 2026-01-19, **Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration**, Yuejie Li et.al., Paper: [http://arxiv.org/abs/2601.11144](http://arxiv.org/abs/2601.11144)
+- 2026-01-21, **DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**, Mingxuan Song et.al., Paper: [http://arxiv.org/abs/2601.14711](http://arxiv.org/abs/2601.14711)
 - 2026-01-13, **Coverage Improvement and Fast Convergence of On-policy Preference Learning**, Juno Kim et.al., Paper: [http://arxiv.org/abs/2601.08421](http://arxiv.org/abs/2601.08421)
 - 2026-01-10, **Characterising Toxicity in Generative Large Language Models**, Zhiyao Zhang et.al., Paper: [http://arxiv.org/abs/2601.06700](http://arxiv.org/abs/2601.06700)
 - 2026-01-09, **Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**, Jiajie Zhang et.al., Paper: [http://arxiv.org/abs/2601.06021](http://arxiv.org/abs/2601.06021)
@@ -590,7 +632,7 @@
 - 2026-01-09, **A Rising Tide Lifts All Boats: MTQE Rewards for Idioms Improve General Translation Quality**, Ishika Agarwal et.al., Paper: [http://arxiv.org/abs/2601.06307](http://arxiv.org/abs/2601.06307)
 - 2026-01-15, **A Generalizable Framework for Building Executable Domain-Specific LLMs under Data Scarcity: Demonstration on Semiconductor TCAD Simulation**, Di Wang et.al., Paper: [http://arxiv.org/abs/2601.10128](http://arxiv.org/abs/2601.10128)
 
-</details><p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 Notes: 
 
