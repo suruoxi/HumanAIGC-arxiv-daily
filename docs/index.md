@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2026.02.15
+### Updated on 2026.02.16
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**VineetVC: Adaptive Video Conferencing Under Severe Bandwidth Constraints Using Audio-Driven Talking-Head Reconstruction**|Vineet Kumar Rakesh et.al.|[2602.12758](http://arxiv.org/abs/2602.12758)|null|
 |**2026-02-12**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
 |**2026-02-11**|**SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads**|Tan Yu et.al.|[2602.07449](http://arxiv.org/abs/2602.07449)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
@@ -76,6 +77,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control**|Mingzhi Sheng et.al.|[2602.13185](http://arxiv.org/abs/2602.13185)|null|
+|**2026-02-13**|**SLA2: Sparse-Linear Attention with Learnable Routing and QAT**|Jintao Zhang et.al.|[2602.12675](http://arxiv.org/abs/2602.12675)|null|
+|**2026-02-13**|**Dual-Granularity Contrastive Reward via Generated Episodic Guidance for Efficient Embodied RL**|Xin Liu et.al.|[2602.12636](http://arxiv.org/abs/2602.12636)|null|
+|**2026-02-12**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
 |**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
 |**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[2602.12160](http://arxiv.org/abs/2602.12160)|null|
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
@@ -246,6 +251,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Represent Micro-Doppler Signature in Orders**|Weicheng Gao et.al.|[2602.12985](http://arxiv.org/abs/2602.12985)|null|
+|**2026-02-13**|**PMG: Parameterized Motion Generator for Human-like Locomotion Control**|Chenxi Han et.al.|[2602.12656](http://arxiv.org/abs/2602.12656)|null|
+|**2026-02-12**|**LLaMo: Scaling Pretrained Language Models for Unified Motion Understanding and Generation with Continuous Autoregressive Tokens**|Zekun Li et.al.|[2602.12370](http://arxiv.org/abs/2602.12370)|null|
 |**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575](http://arxiv.org/abs/2602.11575)|null|
 |**2026-02-12**|**Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations**|Ruiqian Nai et.al.|[2602.06643](http://arxiv.org/abs/2602.06643)|null|
 |**2026-02-11**|**ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control**|Ziyan Xiong et.al.|[2602.11321](http://arxiv.org/abs/2602.11321)|null|
@@ -318,7 +326,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-12**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
+|**2026-02-13**|**Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis**|Runzhou Liu et.al.|[2602.13028](http://arxiv.org/abs/2602.13028)|null|
+|**2026-02-13**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
+|**2026-02-12**|**Reproducing DragDiffusion: Interactive Point-Based Editing with Diffusion Models**|Ali Subhan et.al.|[2602.12393](http://arxiv.org/abs/2602.12393)|null|
 |**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[2602.12160](http://arxiv.org/abs/2602.12160)|null|
 |**2026-02-12**|**Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation**|Wei Chen et.al.|[2602.11980](http://arxiv.org/abs/2602.11980)|null|
 |**2026-02-11**|**ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning**|Yandan Yang et.al.|[2602.11236](http://arxiv.org/abs/2602.11236)|null|
@@ -408,21 +418,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Never say never: Exploring the effects of available knowledge on agent persuasiveness in controlled physiotherapy motivation dialogues**|Stephan Vonschallen et.al.|[2602.12924](http://arxiv.org/abs/2602.12924)|null|
+|**2026-02-13**|**Bootstrapping MLLM for Weakly-Supervised Class-Agnostic Object Counting**|Xiaowen Zhang et.al.|[2602.12774](http://arxiv.org/abs/2602.12774)|null|
+|**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
+|**2026-02-13**|**Monte Carlo Tree Search with Reasoning Path Refinement for Small Language Models in Conversational Text-to-NoSQL**|Xubang Xiong et.al.|[2602.12574](http://arxiv.org/abs/2602.12574)|null|
+|**2026-02-13**|**WavBench: Benchmarking Reasoning, Colloquialism, and Paralinguistics for End-to-End Spoken Dialogue Models**|Yangzhuo Li et.al.|[2602.12135](http://arxiv.org/abs/2602.12135)|null|
 |**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
 |**2026-02-12**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
 |**2026-02-12**|**Query-focused and Memory-aware Reranker for Long Context Processing**|Yuqing Li et.al.|[2602.12192](http://arxiv.org/abs/2602.12192)|null|
 |**2026-02-12**|**Global solutions and large time stabilization in a model for thermoacoustics in a standard linear solid**|Tobias Black et.al.|[2602.12171](http://arxiv.org/abs/2602.12171)|null|
-|**2026-02-12**|**WavBench: Benchmarking Reasoning, Colloquialism, and Paralinguistics for End-to-End Spoken Dialogue Models**|Yangzhuo Li et.al.|[2602.12135](http://arxiv.org/abs/2602.12135)|null|
 |**2026-02-12**|**PatientHub: A Unified Framework for Patient Simulation**|Sahand Sabour et.al.|[2602.11684](http://arxiv.org/abs/2602.11684)|null|
 |**2026-02-12**|**When Audio-LLMs Don't Listen: A Cross-Linguistic Study of Modality Arbitration**|Jayadev Billa et.al.|[2602.11488](http://arxiv.org/abs/2602.11488)|null|
 |**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-12**|**MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models**|Yitian Gong et.al.|[2602.10934](http://arxiv.org/abs/2602.10934)|null|
+|**2026-02-12**|**When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents**|Virginie Mouilleron et.al.|[2602.10384](http://arxiv.org/abs/2602.10384)|null|
 |**2026-02-11**|**Conversational Behavior Modeling Foundation Model With Multi-Level Perception**|Dingkun Zhou et.al.|[2602.11065](http://arxiv.org/abs/2602.11065)|null|
 |**2026-02-11**|**RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation**|Zihui Zhou et.al.|[2602.10799](http://arxiv.org/abs/2602.10799)|null|
 |**2026-02-11**|**Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity**|Hugo L. Hammer et.al.|[2602.10735](http://arxiv.org/abs/2602.10735)|null|
 |**2026-02-11**|**Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents**|Yifei Li et.al.|[2602.10715](http://arxiv.org/abs/2602.10715)|null|
 |**2026-02-11**|**Llama-Polya: Instruction Tuning for Large Language Model based on Polya's Problem-solving**|Unggi Lee et.al.|[2602.10597](http://arxiv.org/abs/2602.10597)|null|
-|**2026-02-11**|**When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents**|Virginie Mouilleron et.al.|[2602.10384](http://arxiv.org/abs/2602.10384)|null|
 |**2026-02-11**|**LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis**|Shihao Xu et.al.|[2602.09379](http://arxiv.org/abs/2602.09379)|null|
 |**2026-02-10**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238](http://arxiv.org/abs/2602.10238)|null|
 |**2026-02-10**|**Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis**|Raymond Chung et.al.|[2602.10164](http://arxiv.org/abs/2602.10164)|null|
@@ -752,6 +766,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al.|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**Optimal Take-off under Fuzzy Clearances**|Hugo Henry et.al.|[2602.13166](http://arxiv.org/abs/2602.13166)|null|
+|**2026-02-13**|**Emergent aperiodicity in Bose-Bose mixtures induced by spin-dependent periodic potentials**|Abid Ali et.al.|[2602.13129](http://arxiv.org/abs/2602.13129)|null|
+|**2026-02-13**|**Hierarchical quasiparticle dynamics in antiferromagnets revealed by time- and momentum-resolved X-ray scattering**|Arnau Romaguera et.al.|[2602.13113](http://arxiv.org/abs/2602.13113)|null|
+|**2026-02-13**|**UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph**|Haichao Liu et.al.|[2602.13086](http://arxiv.org/abs/2602.13086)|null|
+|**2026-02-13**|**Photometric classification of supernovae detected by the Zwicky Transient Facility using noise augmentation**|A. Townsend et.al.|[2602.13036](http://arxiv.org/abs/2602.13036)|null|
+|**2026-02-13**|**Polarization-Multiplexed Bloch Surface Wave Sensing of Single-Strand DNA Growth**|Jonathan Barolak et.al.|[2602.13012](http://arxiv.org/abs/2602.13012)|null|
+|**2026-02-13**|**Detecting Object Tracking Failure via Sequential Hypothesis Testing**|Alejandro Monroy Muñoz et.al.|[2602.12983](http://arxiv.org/abs/2602.12983)|null|
+|**2026-02-13**|**Learning Native Continuation for Action Chunking Flow Policies**|Yufeng Liu et.al.|[2602.12978](http://arxiv.org/abs/2602.12978)|null|
+|**2026-02-13**|**Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding**|Wenhui Liao et.al.|[2602.12957](http://arxiv.org/abs/2602.12957)|null|
+|**2026-02-13**|**Data Augmentation and Attention for massive MIMO-based Indoor Localization in Changing Environments**|Luisa Schuhmacher et.al.|[2602.12954](http://arxiv.org/abs/2602.12954)|null|
+|**2026-02-13**|**Transporting Task Vectors across Different Architectures without Training**|Filippo Rinaldi et.al.|[2602.12952](http://arxiv.org/abs/2602.12952)|null|
+|**2026-02-13**|**Real-time Rendering with a Neural Irradiance Volume**|Arno Coomans et.al.|[2602.12949](http://arxiv.org/abs/2602.12949)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**TFTF: Training-Free Targeted Flow for Conditional Sampling**|Qianqian Qu et.al.|[2602.12932](http://arxiv.org/abs/2602.12932)|null|
+|**2026-02-13**|**Adding internal audio sensing to internal vision enables human-like in-hand fabric recognition with soft robotic fingertips**|Iris Andrussow et.al.|[2602.12918](http://arxiv.org/abs/2602.12918)|null|
+|**2026-02-13**|**Ultrasound-Guided Real-Time Spinal Motion Visualization for Spinal Instability Assessment**|Feng Li et.al.|[2602.12917](http://arxiv.org/abs/2602.12917)|null|
+|**2026-02-13**|**DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning**|Alexandros Patras et.al.|[2602.12847](http://arxiv.org/abs/2602.12847)|null|
+|**2026-02-13**|**EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks**|Zilin Ge et.al.|[2602.12841](http://arxiv.org/abs/2602.12841)|null|
+|**2026-02-13**|**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**|Thies Oelerich et.al.|[2602.12794](http://arxiv.org/abs/2602.12794)|null|
 |**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs**|Yongcun Song et.al.|[2602.12273](http://arxiv.org/abs/2602.12273)|null|
 |**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
@@ -1281,9 +1315,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Curriculum-DPO++: Direct Preference Optimization via Data and Model Curricula for Text-to-Image Generation**|Florinel-Alin Croitoru et.al.|[2602.13055](http://arxiv.org/abs/2602.13055)|null|
+|**2026-02-13**|**ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools -- From Consensus Learning to Ambiguity-Driven Emotion Reasoning**|Esther Sun et.al.|[2602.12714](http://arxiv.org/abs/2602.12714)|null|
+|**2026-02-13**|**Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents**|Ruihan Yang et.al.|[2602.12662](http://arxiv.org/abs/2602.12662)|null|
+|**2026-02-13**|**Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR**|Dohyung Kim et.al.|[2602.12642](http://arxiv.org/abs/2602.12642)|null|
+|**2026-02-13**|**Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models**|Bowen Ping et.al.|[2602.12529](http://arxiv.org/abs/2602.12529)|null|
+|**2026-02-13**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
 |**2026-02-12**|**Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks**|Zhihong Liu et.al.|[2602.12244](http://arxiv.org/abs/2602.12244)|null|
 |**2026-02-12**|**Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training**|Miaosen Zhang et.al.|[2602.12222](http://arxiv.org/abs/2602.12222)|null|
-|**2026-02-12**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
 |**2026-02-12**|**Amortized Molecular Optimization via Group Relative Policy Optimization**|Muhammad bin Javaid et.al.|[2602.12162](http://arxiv.org/abs/2602.12162)|null|
 |**2026-02-12**|**Improving HPC Code Generation Capability of LLMs via Online Reinforcement Learning with Real-Machine Benchmark Rewards**|Ryo Mikasa et.al.|[2602.12049](http://arxiv.org/abs/2602.12049)|null|
 |**2026-02-12**|**FedGRPO: Privately Optimizing Foundation Models with Group-Relative Rewards from Domain Client**|Gongxi Zhu et.al.|[2602.12014](http://arxiv.org/abs/2602.12014)|null|
