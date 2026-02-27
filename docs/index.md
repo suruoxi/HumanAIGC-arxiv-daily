@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2026.02.26
+### Updated on 2026.02.27
 <details>
 
 <summary> Talking Face </summary>
@@ -82,10 +82,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-26**|**ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation**|Junhu Fu et.al.|[2602.23203](http://arxiv.org/abs/2602.23203)|null|
+|**2026-02-26**|**The Trinity of Consistency as a Defining Principle for General World Models**|Jingxuan Wei et.al.|[2602.23152](http://arxiv.org/abs/2602.23152)|null|
+|**2026-02-26**|**UCM: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models**|Tianxing Xu et.al.|[2602.22960](http://arxiv.org/abs/2602.22960)|null|
+|**2026-02-26**|**SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation**|Fengming Liu et.al.|[2602.22745](http://arxiv.org/abs/2602.22745)|null|
+|**2026-02-26**|**Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache**|Bowen Cui et.al.|[2602.22654](http://arxiv.org/abs/2602.22654)|null|
+|**2026-02-26**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-26**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
+|**2026-02-25**|**Flow Matching is Adaptive to Manifold Structures**|Shivam Kumar et.al.|[2602.22486](http://arxiv.org/abs/2602.22486)|null|
 |**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|null|
 |**2026-02-25**|**UniVBench: Towards Unified Evaluation for Video Foundation Models**|Jianhui Wei et.al.|[2602.21835](http://arxiv.org/abs/2602.21835)|null|
-|**2026-02-25**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
 |**2026-02-25**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
 |**2026-02-25**|**RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
 |**2026-02-24**|**Towards Controllable Video Synthesis of Routine and Rare OR Events**|Dominik Schneider et.al.|[2602.21365](http://arxiv.org/abs/2602.21365)|null|
@@ -287,6 +293,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
+|**2026-02-26**|**DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation**|Yichen Peng et.al.|[2602.23165](http://arxiv.org/abs/2602.23165)|null|
+|**2026-02-26**|**ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control**|Akihisa Watanabe et.al.|[2602.22742](http://arxiv.org/abs/2602.22742)|null|
+|**2026-02-26**|**Causal Motion Diffusion Models for Autoregressive Motion Generation**|Qing Yu et.al.|[2602.22594](http://arxiv.org/abs/2602.22594)|null|
 |**2026-02-25**|**Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits**|Luying Feng et.al.|[2602.21666](http://arxiv.org/abs/2602.21666)|null|
 |**2026-02-24**|**SOM-VQ: Topology-Aware Tokenization for Interactive Generative Models**|Alessandro Londei et.al.|[2602.21133](http://arxiv.org/abs/2602.21133)|null|
 |**2026-02-24**|**SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens**|Anindita Ghosh et.al.|[2602.20476](http://arxiv.org/abs/2602.20476)|null|
@@ -377,9 +387,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models**|Hongrui Jia et.al.|[2602.22859](http://arxiv.org/abs/2602.22859)|null|
+|**2026-02-26**|**PhotoAgent: Agentic Photo Editing with Exploratory Visual Aesthetic Planning**|Mingde Yao et.al.|[2602.22809](http://arxiv.org/abs/2602.22809)|null|
+|**2026-02-26**|**Instruction-based Image Editing with Planning, Reasoning, and Generation**|Liya Ji et.al.|[2602.22624](http://arxiv.org/abs/2602.22624)|null|
+|**2026-02-26**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
 |**2026-02-25**|**WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation**|Wenhua Wu et.al.|[2602.22096](http://arxiv.org/abs/2602.22096)|null|
 |**2026-02-25**|**UniVBench: Towards Unified Evaluation for Video Foundation Models**|Jianhui Wei et.al.|[2602.21835](http://arxiv.org/abs/2602.21835)|null|
-|**2026-02-25**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
 |**2026-02-25**|**From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors**|Liangbing Zhao et.al.|[2602.21778](http://arxiv.org/abs/2602.21778)|null|
 |**2026-02-25**|**StoryComposerAI: Supporting Human-AI Story Co-Creation Through Decomposition and Linking**|Shuo Niu et.al.|[2602.21486](http://arxiv.org/abs/2602.21486)|null|
 |**2026-02-25**|**Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers**|Guandong Li et.al.|[2602.18022](http://arxiv.org/abs/2602.18022)|null|
@@ -494,6 +507,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312](http://arxiv.org/abs/2602.23312)|null|
+|**2026-02-26**|**A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations**|Soumya Dutta et.al.|[2602.23300](http://arxiv.org/abs/2602.23300)|null|
+|**2026-02-26**|**CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays**|Hyungyung Lee et.al.|[2602.23276](http://arxiv.org/abs/2602.23276)|null|
+|**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
+|**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068](http://arxiv.org/abs/2602.23068)|null|
+|**2026-02-26**|**AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications**|Yujie Zhao et.al.|[2602.22769](http://arxiv.org/abs/2602.22769)|null|
+|**2026-02-26**|**An AI-Based Structured Semantic Control Model for Stable and Coherent Dynamic Interactive Content Generation**|Rui Liu et.al.|[2602.22762](http://arxiv.org/abs/2602.22762)|null|
+|**2026-02-26**|**Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue**|Ning Gao et.al.|[2602.22697](http://arxiv.org/abs/2602.22697)|null|
+|**2026-02-26**|**Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies**|Shinnosuke Nozue et.al.|[2602.22696](http://arxiv.org/abs/2602.22696)|null|
+|**2026-02-26**|**SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses**|Zhuohang Jiang et.al.|[2602.22683](http://arxiv.org/abs/2602.22683)|null|
+|**2026-02-26**|**Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper**|Hoan My Tran et.al.|[2602.22658](http://arxiv.org/abs/2602.22658)|null|
+|**2026-02-26**|**SignVLA: A Gloss-Free Vision-Language-Action Framework for Real-Time Sign Language-Guided Robotic Manipulation**|Xinyu Tan et.al.|[2602.22514](http://arxiv.org/abs/2602.22514)|null|
 |**2026-02-25**|**Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice**|Yujia Gao et.al.|[2602.22196](http://arxiv.org/abs/2602.22196)|null|
 |**2026-02-25**|**Dynamic Personality Adaptation in Large Language Models via State Machines**|Leon Pielage et.al.|[2602.22157](http://arxiv.org/abs/2602.22157)|null|
 |**2026-02-25**|**Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages**|Imran Kabir et.al.|[2602.22131](http://arxiv.org/abs/2602.22131)|null|
@@ -915,6 +940,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312](http://arxiv.org/abs/2602.23312)|null|
+|**2026-02-26**|**ThinkOmni: Lifting Textual Reasoning to Omni-modal Scenarios via Guidance Decoding**|Yiran Guan et.al.|[2602.23306](http://arxiv.org/abs/2602.23306)|null|
+|**2026-02-26**|**ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation**|Ayush Roy et.al.|[2602.23295](http://arxiv.org/abs/2602.23295)|null|
+|**2026-02-26**|**Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots**|Mike Y. Michelis et.al.|[2602.23283](http://arxiv.org/abs/2602.23283)|null|
+|**2026-02-26**|**Real-Time Stream Compaction for Sparse Machine Learning on FPGAs**|Marc Neu et.al.|[2602.23281](http://arxiv.org/abs/2602.23281)|null|
+|**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
+|**2026-02-26**|**Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents**|Zhou Xu et.al.|[2602.23235](http://arxiv.org/abs/2602.23235)|null|
+|**2026-02-26**|**Large Multimodal Models as General In-Context Classifiers**|Marco Garosi et.al.|[2602.23229](http://arxiv.org/abs/2602.23229)|null|
+|**2026-02-26**|**MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction**|Yizhi Li et.al.|[2602.23228](http://arxiv.org/abs/2602.23228)|null|
+|**2026-02-26**|**Motion-aware Event Suppression for Event Cameras**|Roberto Pellerito et.al.|[2602.23204](http://arxiv.org/abs/2602.23204)|null|
+|**2026-02-26**|**ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation**|Junhu Fu et.al.|[2602.23203](http://arxiv.org/abs/2602.23203)|null|
+|**2026-02-26**|**Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation**|Ismaël Zighed et.al.|[2602.23188](http://arxiv.org/abs/2602.23188)|null|
+|**2026-02-26**|**Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms**|Bin Zeng et.al.|[2602.23177](http://arxiv.org/abs/2602.23177)|null|
+|**2026-02-26**|**Operator learning for prescribed-time stabilization of reaction-diffusion systems**|Kaijing Lyu et.al.|[2602.23157](http://arxiv.org/abs/2602.23157)|null|
+|**2026-02-26**|**A Maxwell Fish-Eye Lens in a Bose-Einstein Condensate**|Jelte Duchêne et.al.|[2602.23125](http://arxiv.org/abs/2602.23125)|null|
+|**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115](http://arxiv.org/abs/2602.23115)|null|
+|**2026-02-26**|**Locally Adaptive Decay Surfaces for High-Speed Face and Landmark Detection with Event Cameras**|Paul Kielty et.al.|[2602.23101](http://arxiv.org/abs/2602.23101)|null|
+|**2026-02-26**|**Forecasting on the Accuracy-Timeliness Frontier: Two Novel `Look Ahead' Predictors**|Marc Wildi et.al.|[2602.23087](http://arxiv.org/abs/2602.23087)|null|
+|**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](http://arxiv.org/abs/2602.23070)|null|
+|**2026-02-26**|**D-FINE-seg: Object Detection and Instance Segmentation Framework with multi-backend deployment**|Argo Saakyan et.al.|[2602.23043](http://arxiv.org/abs/2602.23043)|null|
 |**2026-02-25**|**Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences**|Julian Kaltheuner et.al.|[2602.22212](http://arxiv.org/abs/2602.22212)|null|
 |**2026-02-25**|**DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs**|Xi Ye et.al.|[2602.22175](http://arxiv.org/abs/2602.22175)|null|
 |**2026-02-25**|**NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**|Lingfeng Ren et.al.|[2602.22144](http://arxiv.org/abs/2602.22144)|null|
@@ -1624,11 +1669,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Agency and Architectural Limits: Why Optimization-Based Systems Cannot Be Norm-Responsive**|Radha Sarma et.al.|[2602.23239](http://arxiv.org/abs/2602.23239)|null|
+|**2026-02-26**|**Regularized Online RLHF with Generalized Bilinear Preferences**|Junghyun Lee et.al.|[2602.23116](http://arxiv.org/abs/2602.23116)|null|
+|**2026-02-26**|**Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization**|Zeyuan Liu et.al.|[2602.23008](http://arxiv.org/abs/2602.23008)|null|
+|**2026-02-26**|**Hierarchy-of-Groups Policy Optimization for Long-Horizon Agentic Tasks**|Shuo He et.al.|[2602.22817](http://arxiv.org/abs/2602.22817)|null|
+|**2026-02-26**|**SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation**|Fengming Liu et.al.|[2602.22745](http://arxiv.org/abs/2602.22745)|null|
+|**2026-02-26**|**RLHFless: Serverless Computing for Efficient RLHF**|Rui Wei et.al.|[2602.22718](http://arxiv.org/abs/2602.22718)|null|
+|**2026-02-26**|**$φ$ -DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models**|Thanh-Dat Truong et.al.|[2602.22601](http://arxiv.org/abs/2602.22601)|null|
+|**2026-02-26**|**Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA**|Wenwei Li et.al.|[2602.22584](http://arxiv.org/abs/2602.22584)|null|
+|**2026-02-26**|**Multilingual Safety Alignment Via Sparse Weight Editing**|Jiaming Liang et.al.|[2602.22554](http://arxiv.org/abs/2602.22554)|null|
+|**2026-02-26**|**Reinforcement-aware Knowledge Distillation for LLM Reasoning**|Zhaoyang Zhang et.al.|[2602.22495](http://arxiv.org/abs/2602.22495)|null|
+|**2026-02-26**|**Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization**|Jinghan Li et.al.|[2602.21743](http://arxiv.org/abs/2602.21743)|null|
+|**2026-02-25**|**SimpleOCR: Rendering Visualized Questions to Teach MLLMs to Read**|Yibo Peng et.al.|[2602.22426](http://arxiv.org/abs/2602.22426)|null|
+|**2026-02-25**|**UpSkill: Mutual Information Skill Learning for Structured Response Diversity in LLMs**|Devan Shah et.al.|[2602.22296](http://arxiv.org/abs/2602.22296)|null|
 |**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)|null|
 |**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[2602.21992](http://arxiv.org/abs/2602.21992)|null|
 |**2026-02-25**|**Distill and Align Decomposition for Enhanced Claim Verification**|Jabez Magomere et.al.|[2602.21857](http://arxiv.org/abs/2602.21857)|null|
 |**2026-02-25**|**Generalisation of RLHF under Reward Shift and Clipped KL Regularisation**|Kenton Tang et.al.|[2602.21765](http://arxiv.org/abs/2602.21765)|null|
-|**2026-02-25**|**Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization**|Jinghan Li et.al.|[2602.21743](http://arxiv.org/abs/2602.21743)|null|
 |**2026-02-25**|**SurGo-R1: Benchmarking and Modeling Contextual Reasoning for Operative Zone in Surgical Video**|Guanyi Qin et.al.|[2602.21706](http://arxiv.org/abs/2602.21706)|null|
 |**2026-02-24**|**Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning**|Yuanda Xu et.al.|[2602.21420](http://arxiv.org/abs/2602.21420)|null|
 |**2026-02-24**|**Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment**|Mengxuan Hu et.al.|[2602.21346](http://arxiv.org/abs/2602.21346)|null|
