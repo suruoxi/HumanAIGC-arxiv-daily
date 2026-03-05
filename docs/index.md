@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2026.03.04
+### Updated on 2026.03.05
 <details>
 
 <summary> Talking Face </summary>
@@ -12,6 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Motion Manipulation via Unsupervised Keypoint Positioning in Face Animation**|Hong Li et.al.|[2603.04302](http://arxiv.org/abs/2603.04302)|null|
+|**2026-03-04**|**UniSync: Towards Generalizable and High-Fidelity Lip Synchronization for Challenging Scenarios**|Ruidi Fan et.al.|[2603.03882](http://arxiv.org/abs/2603.03882)|null|
 |**2026-03-02**|**UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**|Hebeizi Li et.al.|[2603.01418](http://arxiv.org/abs/2603.01418)|null|
 |**2026-03-02**|**EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**|Rang Meng et.al.|[2602.13669](http://arxiv.org/abs/2602.13669)|null|
 |**2026-03-01**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
@@ -86,6 +88,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**|Lingen Li et.al.|[2603.04291](http://arxiv.org/abs/2603.04291)|null|
+|**2026-03-04**|**InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions**|Mohamed Elmoghany et.al.|[2603.03646](http://arxiv.org/abs/2603.03646)|null|
+|**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505](http://arxiv.org/abs/2603.03505)|null|
 |**2026-03-03**|**TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration**|Benlei Cui et.al.|[2603.02943](http://arxiv.org/abs/2603.02943)|null|
 |**2026-03-03**|**SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers**|Wonsuk Jang et.al.|[2603.02883](http://arxiv.org/abs/2603.02883)|null|
 |**2026-03-03**|**SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**|Xinjie Zhu et.al.|[2603.02882](http://arxiv.org/abs/2603.02882)|null|
@@ -323,6 +330,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction**|Yufu Wang et.al.|[2603.03265](http://arxiv.org/abs/2603.03265)|null|
 |**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
@@ -424,6 +434,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images**|Damian J. Ruck et.al.|[2603.04325](http://arxiv.org/abs/2603.04325)|null|
+|**2026-03-04**|**InEdit-Bench: Benchmarking Intermediate Logical Pathways for Intelligent Image Editing Models**|Zhiqiang Sheng et.al.|[2603.03657](http://arxiv.org/abs/2603.03657)|null|
+|**2026-03-03**|**PRIVATEEDIT: A Privacy-Preserving Pipeline for Face-Centric Generative Image Editing**|Dipesh Tamboli et.al.|[2603.03412](http://arxiv.org/abs/2603.03412)|null|
 |**2026-03-03**|**NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing**|Tianlin Pan et.al.|[2603.02802](http://arxiv.org/abs/2603.02802)|null|
 |**2026-03-03**|**InterCoG: Towards Spatially Precise Image Editing with Interleaved Chain-of-Grounding Reasoning**|Yecong Wan et.al.|[2603.01586](http://arxiv.org/abs/2603.01586)|null|
 |**2026-03-03**|**Training-Free Multi-Concept Image Editing**|Niki Foteinopoulou et.al.|[2602.20839](http://arxiv.org/abs/2602.20839)|null|
@@ -554,15 +567,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
+|**2026-03-04**|**VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications**|Hung Vu Nguyen et.al.|[2603.04145](http://arxiv.org/abs/2603.04145)|null|
+|**2026-03-04**|**RIVER: A Real-Time Interaction Benchmark for Video LLMs**|Yansong Shi et.al.|[2603.03985](http://arxiv.org/abs/2603.03985)|null|
+|**2026-03-04**|**Assessing the Effectiveness of LLMs in Delivering Cognitive Behavioral Therapy**|Navdeep Singh Bedi et.al.|[2603.03862](http://arxiv.org/abs/2603.03862)|null|
+|**2026-03-04**|**Evolutionary Multimodal Reasoning via Hierarchical Semantic Representation for Intent Recognition**|Qianrui Zhou et.al.|[2603.03827](http://arxiv.org/abs/2603.03827)|null|
+|**2026-03-04**|**LifeBench: A Benchmark for Long-Horizon Multi-Source Memory**|Zihao Cheng et.al.|[2603.03781](http://arxiv.org/abs/2603.03781)|null|
+|**2026-03-04**|**MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatric Consultation**|Guoyi Li et.al.|[2603.03677](http://arxiv.org/abs/2603.03677)|null|
+|**2026-03-04**|**MistyPilot: An Agentic Fast-Slow Thinking LLM Framework for Misty Social Robots**|Xiao Wang et.al.|[2603.03640](http://arxiv.org/abs/2603.03640)|null|
+|**2026-03-04**|**Radius-Flow Entanglement in Hadron States and Gravitational Form Factors**|Kiminad A. Mamo et.al.|[2603.03064](http://arxiv.org/abs/2603.03064)|null|
+|**2026-03-04**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](http://arxiv.org/abs/2603.02813)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**Conversational Learning Diagnosis via Reasoning Multi-Turn Interactive Learning**|Fangzhou Yao et.al.|[2603.03236](http://arxiv.org/abs/2603.03236)|null|
 |**2026-03-03**|**Evaluating Performance Drift from Model Switching in Multi-Turn LLM Systems**|Raad Khraishi et.al.|[2603.03111](http://arxiv.org/abs/2603.03111)|null|
-|**2026-03-03**|**Radius-Flow Entanglement in Hadron States and Gravitational Form Factors**|Kiminad A. Mamo et.al.|[2603.03064](http://arxiv.org/abs/2603.03064)|null|
 |**2026-03-03**|**DLIOS: An LLM-Augmented Real-Time Multi-Modal Interactive Enhancement Overlay System for Douyin Live Streaming**|Shuide Wen et.al.|[2603.03060](http://arxiv.org/abs/2603.03060)|null|
 |**2026-03-03**|**PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems**|Sudip Bhujel et.al.|[2603.03054](http://arxiv.org/abs/2603.03054)|null|
 |**2026-03-03**|**LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval**|Minh-Chi Phung et.al.|[2603.02888](http://arxiv.org/abs/2603.02888)|null|
 |**2026-03-03**|**Eval4Sim: An Evaluation Framework for Persona Simulation**|Eliseo Bao et.al.|[2603.02876](http://arxiv.org/abs/2603.02876)|null|
-|**2026-03-03**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](http://arxiv.org/abs/2603.02813)|null|
 |**2026-03-03**|**Overmassive and Undermassive Massive Black Holes: The Role of Environment and Gravitational-Wave Recoils**|David Izquierdo-Villalba et.al.|[2603.02811](http://arxiv.org/abs/2603.02811)|null|
 |**2026-03-03**|**From Solver to Tutor: Evaluating the Pedagogical Intelligence of LLMs with KMP-Bench**|Weikang Shi et.al.|[2603.02775](http://arxiv.org/abs/2603.02775)|null|
 |**2026-03-03**|**OmniFashion: Towards Generalist Fashion Intelligence via Multi-Task Vision-Language Learning**|Zhengwei Yang et.al.|[2603.02658](http://arxiv.org/abs/2603.02658)|null|
@@ -1030,6 +1051,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Unseen Cost of Space Computing: Quantifying LEO Battery Aging via Physics-Driven Modeling**|Li Zeng et.al.|[2603.04372](http://arxiv.org/abs/2603.04372)|null|
+|**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363](http://arxiv.org/abs/2603.04363)|null|
+|**2026-03-04**|**A Constrained RL Approach for Cost-Efficient Delivery of Latency-Sensitive Applications**|Ozan Aygün et.al.|[2603.04353](http://arxiv.org/abs/2603.04353)|null|
+|**2026-03-04**|**FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering**|Tatiana Zemskova et.al.|[2603.04349](http://arxiv.org/abs/2603.04349)|null|
+|**2026-03-04**|**Quantum error mitigation by hierarchy-informed sampling: chiral dynamics in the Schwinger model**|Theo Saporiti et.al.|[2603.04339](http://arxiv.org/abs/2603.04339)|null|
+|**2026-03-04**|**Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation**|Bingyao Du et.al.|[2603.04329](http://arxiv.org/abs/2603.04329)|null|
+|**2026-03-04**|**A multi-center analysis of deep learning methods for video polyp detection and segmentation**|Noha Ghatwary et.al.|[2603.04288](http://arxiv.org/abs/2603.04288)|null|
+|**2026-03-04**|**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding**|Seungjun Lee et.al.|[2603.04254](http://arxiv.org/abs/2603.04254)|null|
+|**2026-03-04**|**Continuous Ventricular Volumetric Quantification in Patients with Arrhythmias using Real-Time 3D CMR-MOTUS**|Thomas E. Olausson et.al.|[2603.04233](http://arxiv.org/abs/2603.04233)|null|
+|**2026-03-04**|**OptiQKD: A Machine Learning-Optimized Framework for Real-Time Parameter Tuning in Quantum Key Distribution**|Noureldin Mohamed et.al.|[2603.04192](http://arxiv.org/abs/2603.04192)|null|
+|**2026-03-04**|**PlaneCycle: Training-Free 2D-to-3D Lifting of Foundation Models Without Adapters**|Yinghong Yu et.al.|[2603.04165](http://arxiv.org/abs/2603.04165)|null|
+|**2026-03-04**|**Crab $^{+}$ : A Scalable and Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**|Dongnuan Cai et.al.|[2603.04128](http://arxiv.org/abs/2603.04128)|null|
+|**2026-03-04**|**Real Eyes Realize Faster: Gaze Stability and Pupil Novelty for Efficient Egocentric Learning**|Ajan Subramanian et.al.|[2603.04098](http://arxiv.org/abs/2603.04098)|null|
+|**2026-03-04**|**Physics Informed Deep Unfolded Full Waveform Inversion for Edema Detection**|Ruizhi Zhang et.al.|[2603.04070](http://arxiv.org/abs/2603.04070)|null|
+|**2026-03-04**|**Online Order Fulfillment with Replenishment**|Zi Ling et.al.|[2603.04065](http://arxiv.org/abs/2603.04065)|null|
+|**2026-03-04**|**Training-Free Rate-Distortion-Perception Traversal With Diffusion**|Yuhan Wang et.al.|[2603.04005](http://arxiv.org/abs/2603.04005)|null|
+|**2026-03-04**|**Spectral Surgery: Training-Free Refinement of LoRA via Gradient-Guided Singular Value Reweighting**|Zailong Tian et.al.|[2603.03995](http://arxiv.org/abs/2603.03995)|null|
+|**2026-03-04**|**RIVER: A Real-Time Interaction Benchmark for Video LLMs**|Yansong Shi et.al.|[2603.03985](http://arxiv.org/abs/2603.03985)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**NeuroSkill(tm): Proactive Real-Time Agentic System Capable of Modeling Human State of Mind**|Nataliya Kosmyna et.al.|[2603.03212](http://arxiv.org/abs/2603.03212)|null|
@@ -1819,6 +1860,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks**|Haoyu Liu et.al.|[2603.04364](http://arxiv.org/abs/2603.04364)|null|
+|**2026-03-04**|**Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization**|Haodong Zhu et.al.|[2603.04135](http://arxiv.org/abs/2603.04135)|null|
+|**2026-03-04**|**Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA**|Ikram Belmadani et.al.|[2603.04033](http://arxiv.org/abs/2603.04033)|null|
+|**2026-03-04**|**ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents**|Pengbo Liu et.al.|[2603.01620](http://arxiv.org/abs/2603.01620)|null|
+|**2026-03-03**|**AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis**|Pei Yang et.al.|[2603.03378](http://arxiv.org/abs/2603.03378)|null|
 |**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|
 |**2026-03-03**|**MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**|Ashutosh Chaubey et.al.|[2603.03192](http://arxiv.org/abs/2603.03192)|null|
 |**2026-03-03**|**PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems**|Sudip Bhujel et.al.|[2603.03054](http://arxiv.org/abs/2603.03054)|null|
@@ -1831,6 +1877,7 @@ layout: default
 |**2026-03-03**|**SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety**|Zixuan Xu et.al.|[2603.02635](http://arxiv.org/abs/2603.02635)|null|
 |**2026-03-03**|**Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting**|Aijun Dai et.al.|[2603.02555](http://arxiv.org/abs/2603.02555)|null|
 |**2026-03-03**|**Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic**|Hongyi Zhou et.al.|[2603.01162](http://arxiv.org/abs/2603.01162)|null|
+|**2026-03-02**|**Sleeper Cell: Injecting Latent Malice Temporal Backdoors into Tool-Using LLMs**|Bhanu Pallakonda et.al.|[2603.03371](http://arxiv.org/abs/2603.03371)|null|
 |**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Yuechen Luo et.al.|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
 |**2026-03-02**|**FireRed-OCR Technical Report**|Hao Wu et.al.|[2603.01840](http://arxiv.org/abs/2603.01840)|null|
 |**2026-03-02**|**Surgical Post-Training: Cutting Errors, Keeping Knowledge**|Wenye Lin et.al.|[2603.01683](http://arxiv.org/abs/2603.01683)|null|
