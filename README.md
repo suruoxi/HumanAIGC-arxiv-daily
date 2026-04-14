@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-### Updated on 2026.04.13
+### Updated on 2026.04.14
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -20,7 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-10**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
+|**2026-04-13**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-04-11**|**Beyond Monologue: Interactive Talking-Listening Avatar Generation with Conversational Audio Context-Aware Kernels**|Yuzhe Weng et.al.|[2604.10367](http://arxiv.org/abs/2604.10367)|null|
 |**2026-04-10**|**SyncBreaker:Stage-Aware Multimodal Adversarial Attacks on Audio-Driven Talking Head Generation**|Wenli Zhang et.al.|[2604.08405](http://arxiv.org/abs/2604.08405)|null|
 |**2026-04-09**|**PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation**|Soumya Mazumdar et.al.|[2604.08037](http://arxiv.org/abs/2604.08037)|null|
 |**2026-04-09**|**Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video**|Chanhyuk Choi et.al.|[2604.07786](http://arxiv.org/abs/2604.07786)|null|
@@ -116,7 +118,7 @@
 |**2025-12-20**|**Asynchronous Pipeline Parallelism for Real-Time Multilingual Lip Synchronization in Video Communication Systems**|Eren Caglar et.al.|[2512.18318](http://arxiv.org/abs/2512.18318)|null|
 |**2025-12-19**|**Absorbing Markov Decision Processes: Geometric Properties and Sufficiency of Finite Mixtures of Deterministic Policies**|Francois Dufour et.al.|[2512.17511](http://arxiv.org/abs/2512.17511)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 <details>
 
@@ -126,13 +128,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Junhao Chen et.al.|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
+|**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
+|**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
+|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
+|**2026-04-13**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
+|**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
+|**2026-04-13**|**ELT: Elastic Looped Transformers for Visual Generation**|Sahil Goyal et.al.|[2604.09168](http://arxiv.org/abs/2604.09168)|null|
+|**2026-04-13**|**Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory**|Zile Wang et.al.|[2604.08995](http://arxiv.org/abs/2604.08995)|null|
+|**2026-04-12**|**Immune2V: Image Immunization Against Dual-Stream Image-to-Video Generation**|Zeqian Long et.al.|[2604.10837](http://arxiv.org/abs/2604.10837)|null|
+|**2026-04-11**|**Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning**|Nicolae Cudlenco et.al.|[2604.10383](http://arxiv.org/abs/2604.10383)|null|
+|**2026-04-11**|**Beyond Monologue: Interactive Talking-Listening Avatar Generation with Conversational Audio Context-Aware Kernels**|Yuzhe Weng et.al.|[2604.10367](http://arxiv.org/abs/2604.10367)|null|
+|**2026-04-11**|**VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation**|Longteng Jiang et.al.|[2604.10127](http://arxiv.org/abs/2604.10127)|null|
+|**2026-04-11**|**Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation**|Ruibin Li et.al.|[2604.10103](http://arxiv.org/abs/2604.10103)|null|
+|**2026-04-11**|**Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation**|Gordon Chen et.al.|[2604.10030](http://arxiv.org/abs/2604.10030)|null|
 |**2026-04-10**|**Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories**|Wonbong Jang et.al.|[2604.09429](http://arxiv.org/abs/2604.09429)|null|
 |**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|null|
 |**2026-04-10**|**CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation**|Haoyu Zhao et.al.|[2604.09201](http://arxiv.org/abs/2604.09201)|null|
 |**2026-04-10**|**Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation**|Haobo Hu et.al.|[2604.09195](http://arxiv.org/abs/2604.09195)|null|
-|**2026-04-10**|**ELT: Elastic Looped Transformers for Visual Generation**|Sahil Goyal et.al.|[2604.09168](http://arxiv.org/abs/2604.09168)|null|
 |**2026-04-10**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
-|**2026-04-10**|**Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory**|Zile Wang et.al.|[2604.08995](http://arxiv.org/abs/2604.08995)|null|
 |**2026-04-09**|**LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving**|Hao Shao et.al.|[2604.08719](http://arxiv.org/abs/2604.08719)|null|
 |**2026-04-09**|**InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation**|Zhefan Rao et.al.|[2604.08646](http://arxiv.org/abs/2604.08646)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
@@ -568,7 +583,7 @@
 |**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/abs/2601.02107)|null|
 |**2026-01-04**|**DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving**|Yang Zhou et.al.|[2601.01528](http://arxiv.org/abs/2601.01528)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 <details>
 
@@ -578,6 +593,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech**|Edwin C. Montiel-Vazquez et.al.|[2604.11417](http://arxiv.org/abs/2604.11417)|null|
+|**2026-04-13**|**A Unified Approach to Human-Scale Blockage and Scattering Analysis in Sub-THz Propagation With Application to RF Sensing**|Stefano Savazzi et.al.|[2604.11252](http://arxiv.org/abs/2604.11252)|null|
+|**2026-04-13**|**LiveGesture Streamable Co-Speech Gesture Generation Model**|Muhammad Usama Saleem et.al.|[2604.10927](http://arxiv.org/abs/2604.10927)|null|
+|**2026-04-11**|**COSMIK-MPPI: Scaling Constrained Model Predictive Control to Collision Avoidance in Close-Proximity Dynamic Human Environments**|Ege Gursoy et.al.|[2604.10358](http://arxiv.org/abs/2604.10358)|null|
+|**2026-04-10**|**Do vision models perceive illusory motion in static images like humans?**|Isabella Elaine Rosario et.al.|[2604.09853](http://arxiv.org/abs/2604.09853)|null|
 |**2026-04-10**|**Simulation of Adaptive Running with Flexible Sports Prosthesis using Reinforcement Learning of Hybrid-link System**|Yuta Shimane et.al.|[2604.08882](http://arxiv.org/abs/2604.08882)|null|
 |**2026-04-10**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245](http://arxiv.org/abs/2603.24245)|null|
 |**2026-04-09**|**Generative Simulation for Policy Learning in Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2604.08664](http://arxiv.org/abs/2604.08664)|null|
@@ -742,7 +762,7 @@
 |**2025-12-22**|**Optimal-coupling-observer AV motion control securing comfort in the presence of cyber attacks**|Farzam Tajdari et.al.|[2512.19679](http://arxiv.org/abs/2512.19679)|null|
 |**2025-12-22**|**Hand-Aware Egocentric Motion Reconstruction with Sequence-Level Context**|Kyungwon Cho et.al.|[2512.19283](http://arxiv.org/abs/2512.19283)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 <details>
 
@@ -752,6 +772,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation**|Yuqian Yuan et.al.|[2604.11789](http://arxiv.org/abs/2604.11789)|null|
+|**2026-04-13**|**RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time**|Haozhe Wang et.al.|[2604.11626](http://arxiv.org/abs/2604.11626)|null|
+|**2026-04-13**|**FineEdit: Fine-Grained Image Edit with Bounding Box Guidance**|Haohang Xu et.al.|[2604.10954](http://arxiv.org/abs/2604.10954)|null|
+|**2026-04-12**|**LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment**|Yifu Xu et.al.|[2604.10677](http://arxiv.org/abs/2604.10677)|null|
+|**2026-04-12**|**HiddenObjects: Scalable Diffusion-Distilled Spatial Priors for Object Placement**|Marco Schouten et.al.|[2604.10675](http://arxiv.org/abs/2604.10675)|null|
+|**2026-04-12**|**AIM-Bench: Benchmarking and Improving Affective Image Manipulation via Fine-Grained Hierarchical Control**|Shi Chen et.al.|[2604.10454](http://arxiv.org/abs/2604.10454)|null|
+|**2026-04-11**|**EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model**|Kunho Kim et.al.|[2604.10268](http://arxiv.org/abs/2604.10268)|null|
+|**2026-04-11**|**Semantic Manipulation Localization**|Zhenshan Tan et.al.|[2604.10132](http://arxiv.org/abs/2604.10132)|null|
 |**2026-04-10**|**Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing**|Zhuohan Ouyang et.al.|[2604.09386](http://arxiv.org/abs/2604.09386)|null|
 |**2026-04-10**|**Hitem3D 2.0: Multi-View Guided Native 3D Texture Generation**|Huiang He et.al.|[2604.09231](http://arxiv.org/abs/2604.09231)|null|
 |**2026-04-09**|**InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation**|Zhefan Rao et.al.|[2604.08646](http://arxiv.org/abs/2604.08646)|null|
@@ -986,7 +1014,7 @@
 |**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071](http://arxiv.org/abs/2512.25071)|null|
 |**2025-12-31**|**From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**|Xu He et.al.|[2512.25066](http://arxiv.org/abs/2512.25066)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 <details>
 
@@ -996,6 +1024,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus**|Lena S. Oberkircher et.al.|[2604.11803](http://arxiv.org/abs/2604.11803)|null|
+|**2026-04-13**|**Discourse Diversity in Multi-Turn Empathic Dialogue**|Hongli Zhan et.al.|[2604.11742](http://arxiv.org/abs/2604.11742)|null|
+|**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|Hanqi Xiao et.al.|[2604.11666](http://arxiv.org/abs/2604.11666)|null|
+|**2026-04-13**|**Back to Basics: Let Conversational Agents Remember with Just Retrieval and Generation**|Yuqian Wu et.al.|[2604.11628](http://arxiv.org/abs/2604.11628)|null|
+|**2026-04-13**|**HumDial-EIBench: A Human-Recorded Multi-Turn Emotional Intelligence Benchmark for Audio Language Models**|Shuiyuan Wang et.al.|[2604.11594](http://arxiv.org/abs/2604.11594)|null|
+|**2026-04-13**|**Synthius-Mem: Brain-Inspired Hallucination-Resistant Persona Memory Achieving 94.4% Memory Accuracy and 99.6% Adversarial Robustness on LoCoMo**|Artem Gadzhiev et.al.|[2604.11563](http://arxiv.org/abs/2604.11563)|null|
+|**2026-04-13**|**Three Roles, One Model: Role Orchestration at Inference Time to Close the Performance Gap Between Small and Large Agents**|S. Aaron McClendon et.al.|[2604.11465](http://arxiv.org/abs/2604.11465)|null|
+|**2026-04-13**|**METRO: Towards Strategy Induction from Expert Dialogue Transcripts for Non-collaborative Dialogues**|Haofu Yang et.al.|[2604.11427](http://arxiv.org/abs/2604.11427)|null|
+|**2026-04-13**|**Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation**|Kuang Wang et.al.|[2604.11424](http://arxiv.org/abs/2604.11424)|null|
+|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
+|**2026-04-13**|**Environmental Footprint of GenAI Research: Insights from the Moshi Foundation Model**|Marta López-Rauhut et.al.|[2604.11154](http://arxiv.org/abs/2604.11154)|null|
+|**2026-04-13**|**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**|Jialing Wang et.al.|[2604.11110](http://arxiv.org/abs/2604.11110)|null|
+|**2026-04-13**|**ActorMind: Emulating Human Actor Reasoning for Speech Role-Playing**|Xi Chen et.al.|[2604.11103](http://arxiv.org/abs/2604.11103)|null|
+|**2026-04-13**|**OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video**|Junfu Pu et.al.|[2604.11102](http://arxiv.org/abs/2604.11102)|null|
+|**2026-04-13**|**YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents**|Victor De Lima et.al.|[2604.10968](http://arxiv.org/abs/2604.10968)|null|
+|**2026-04-12**|**Teaching Language Models How to Code Like Learners: Conversational Serialization for Student Simulation**|Charles Koutcheme et.al.|[2604.10720](http://arxiv.org/abs/2604.10720)|null|
+|**2026-04-12**|**OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction**|Shaqi Luo et.al.|[2604.10647](http://arxiv.org/abs/2604.10647)|null|
+|**2026-04-12**|**CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**|Anqi Wang et.al.|[2604.10587](http://arxiv.org/abs/2604.10587)|null|
+|**2026-04-12**|**Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark**|Arnon Turetzky et.al.|[2604.10580](http://arxiv.org/abs/2604.10580)|null|
+|**2026-04-12**|**Enhanced Self-Learning with Epistemologically-Informed LLM Dialogue**|Yi-Fan Cao et.al.|[2604.10545](http://arxiv.org/abs/2604.10545)|null|
 |**2026-04-10**|**Finding Circumbinary Planets: A Semi-Automated Transit Search of TESS Eclipsing Binaries**|Benjamin D. R. Davies et.al.|[2604.09435](http://arxiv.org/abs/2604.09435)|null|
 |**2026-04-10**|**DialogueSidon: Recovering Full-Duplex Dialogue Tracks from In-the-Wild Dialogue Audio**|Wataru Nakata et.al.|[2604.09344](http://arxiv.org/abs/2604.09344)|null|
 |**2026-04-10**|**SAGE: A Service Agent Graph-guided Evaluation Benchmark**|Ling Shi et.al.|[2604.09285](http://arxiv.org/abs/2604.09285)|null|
@@ -1797,7 +1845,7 @@
 |**2026-01-07**|**SpeakerSleuth: Evaluating Large Audio-Language Models as Judges for Multi-turn Speaker Consistency**|Jonggeun Lee et.al.|[2601.04029](http://arxiv.org/abs/2601.04029)|null|
 |**2026-01-07**|**Simulated Students in Tutoring Dialogues: Substance or Illusion?**|Alexander Scarlatos et.al.|[2601.04025](http://arxiv.org/abs/2601.04025)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 <details>
 
@@ -1807,6 +1855,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems**|Mohammed Ezzaldin Babiker Abdullah et.al.|[2604.11807](http://arxiv.org/abs/2604.11807)|null|
+|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-13**|**StarVLA- $α$ : Reducing Complexity in Vision-Language-Action Systems**|Jinhui Ye et.al.|[2604.11757](http://arxiv.org/abs/2604.11757)|null|
+|**2026-04-13**|**BEM: Training-Free Background Embedding Memory for False-Positive Suppression in Real-Time Fixed-Background Camera**|Junwoo Park et.al.|[2604.11714](http://arxiv.org/abs/2604.11714)|null|
+|**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Dujun Nie et.al.|[2604.11689](http://arxiv.org/abs/2604.11689)|null|
+|**2026-04-13**|**Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis**|Yuqin Lu et.al.|[2604.11685](http://arxiv.org/abs/2604.11685)|null|
+|**2026-04-13**|**Anisotropic photonic time interfaces via isotropic spacetime modulations**|Andrew M. Naylor et.al.|[2604.11683](http://arxiv.org/abs/2604.11683)|null|
+|**2026-04-13**|**VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification**|Jiangyou Zhu et.al.|[2604.11671](http://arxiv.org/abs/2604.11671)|null|
+|**2026-04-13**|**Detectability of Subtle Anomalies in Dynamical Systems via Log-Likelihood Ratio**|Alejandro Penacho Riveiros et.al.|[2604.11631](http://arxiv.org/abs/2604.11631)|null|
+|**2026-04-13**|**Long-wave infrared Fourier transform spectroscopy with enhanced and scalable sensitivity**|Sergey Vasilyev et.al.|[2604.11622](http://arxiv.org/abs/2604.11622)|null|
+|**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Siyuan Xu et.al.|[2604.11572](http://arxiv.org/abs/2604.11572)|null|
+|**2026-04-13**|**From Multimodal Signals to Adaptive XR Experiences for De-escalation Training**|Birgit Nierula et.al.|[2604.11570](http://arxiv.org/abs/2604.11570)|null|
+|**2026-04-13**|**Training-Free Model Ensemble for Single-Image Super-Resolution via Strong-Branch Compensation**|Gengjia Chang et.al.|[2604.11564](http://arxiv.org/abs/2604.11564)|null|
+|**2026-04-13**|**SVD-Prune: Training-Free Token Pruning For Efficient Vision-Language Models**|Yvon Apedo et.al.|[2604.11530](http://arxiv.org/abs/2604.11530)|null|
+|**2026-04-13**|**EdgeCIM: A Hardware-Software Co-Design for CIM-Based Acceleration of Small Language Models**|Jinane Bazzi et.al.|[2604.11512](http://arxiv.org/abs/2604.11512)|null|
+|**2026-04-13**|**Security Implications of 5G Communication in Industrial Systems**|Stefan Lenz et.al.|[2604.11509](http://arxiv.org/abs/2604.11509)|null|
+|**2026-04-13**|**Learning How Much to Think: Difficulty-Aware Dynamic MoEs for Graph Node Classification**|Jiajun Zhou et.al.|[2604.11473](http://arxiv.org/abs/2604.11473)|null|
+|**2026-04-13**|**Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions**|Wenqi Cai et.al.|[2604.11447](http://arxiv.org/abs/2604.11447)|null|
+|**2026-04-13**|**Data-efficient extraction of optical properties from 3D Monte Carlo TPSFs using Bi-LSTM transfer learning**|Joubine Aghili et.al.|[2604.11437](http://arxiv.org/abs/2604.11437)|null|
+|**2026-04-13**|**Air supply control for proton exchange membrane fuel cells without explicit modeling**|Méziane Ait Ziane et.al.|[2604.11433](http://arxiv.org/abs/2604.11433)|null|
 |**2026-04-10**|**SafeMind: A Risk-Aware Differentiable Control Framework for Adaptive and Safe Quadruped Locomotion**|Zukun Zhang et.al.|[2604.09474](http://arxiv.org/abs/2604.09474)|null|
 |**2026-04-10**|**Continuous Orthogonal Mode Decomposition: Haptic Signal Prediction in Tactile Internet**|Mohammad Ali Vahedifar et.al.|[2604.09446](http://arxiv.org/abs/2604.09446)|null|
 |**2026-04-10**|**AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2604.09445](http://arxiv.org/abs/2604.09445)|null|
@@ -3128,7 +3196,7 @@
 |**2026-01-08**|**What Students Ask, How a Generative AI Assistant Responds: Exploring Higher Education Students' Dialogues on Learning Analytics Feedback**|Yildiz Uzun et.al.|[2601.04919](http://arxiv.org/abs/2601.04919)|null|
 |**2026-01-08**|**Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis**|Mingyue Cheng et.al.|[2601.04879](http://arxiv.org/abs/2601.04879)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 <details>
 
@@ -3138,6 +3206,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games**|Keyang Zhong et.al.|[2604.11741](http://arxiv.org/abs/2604.11741)|null|
+|**2026-04-13**|**Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving**|Haojie Bai et.al.|[2604.11734](http://arxiv.org/abs/2604.11734)|null|
+|**2026-04-13**|**OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems**|Kun Liu et.al.|[2604.11477](http://arxiv.org/abs/2604.11477)|null|
+|**2026-04-13**|**BITS Pilani at SemEval-2026 Task 9: Structured Supervised Fine-Tuning with DPO Refinement for Polarization Detection**|Atharva Gupta et.al.|[2604.11121](http://arxiv.org/abs/2604.11121)|null|
+|**2026-04-13**|**DDO-RM for LLM Preference Optimization: A Minimal Held-Out Benchmark against DPO**|Tiantian Zhang et.al.|[2604.11119](http://arxiv.org/abs/2604.11119)|null|
+|**2026-04-13**|**Rethinking Token-Level Credit Assignment in RLVR: A Polarity-Entropy Analysis**|Yuhang He et.al.|[2604.11056](http://arxiv.org/abs/2604.11056)|null|
+|**2026-04-13**|**Shared Emotion Geometry Across Small Language Models: A Cross-Architecture Study of Representation, Behavior, and Methodological Confounds**|Jihoon Jeong et.al.|[2604.11050](http://arxiv.org/abs/2604.11050)|null|
+|**2026-04-13**|**RTMC: Step-Level Credit Assignment via Rollout Trees**|Tao Wang et.al.|[2604.11037](http://arxiv.org/abs/2604.11037)|null|
+|**2026-04-13**|**You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass**|Yinuo Yang et.al.|[2604.10966](http://arxiv.org/abs/2604.10966)|null|
+|**2026-04-12**|**Tail-Aware Information-Theoretic Generalization for RLHF and SGLD**|Huiming Zhang et.al.|[2604.10727](http://arxiv.org/abs/2604.10727)|null|
+|**2026-04-12**|**Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents**|Hao Wang et.al.|[2604.10674](http://arxiv.org/abs/2604.10674)|null|
+|**2026-04-12**|**ProUIE: A Macro-to-Micro Progressive Learning Method for LLM-based Universal Information Extraction**|Wenda Liu et.al.|[2604.10633](http://arxiv.org/abs/2604.10633)|null|
+|**2026-04-12**|**Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs**|Subramanyam Sahoo et.al.|[2604.10585](http://arxiv.org/abs/2604.10585)|null|
+|**2026-04-12**|**Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?**|Wanyi Chen et.al.|[2604.10547](http://arxiv.org/abs/2604.10547)|null|
+|**2026-04-12**|**CARO: Chain-of-Analogy Reasoning Optimization for Robust Content Moderation**|Bingzhe Wu et.al.|[2604.10504](http://arxiv.org/abs/2604.10504)|null|
+|**2026-04-12**|**SignReasoner: Compositional Reasoning for Complex Traffic Sign Understanding via Functional Structure Units**|Ruibin Wang et.al.|[2604.10436](http://arxiv.org/abs/2604.10436)|null|
+|**2026-04-11**|**SVSR: A Self-Verification and Self-Rectification Paradigm for Multimodal Reasoning**|Zhe Qian et.al.|[2604.10228](http://arxiv.org/abs/2604.10228)|null|
+|**2026-04-11**|**Cognitive Pivot Points and Visual Anchoring: Unveiling and Rectifying Hallucinations in Multimodal Reasoning Models**|Zhe Qian et.al.|[2604.10219](http://arxiv.org/abs/2604.10219)|null|
+|**2026-04-11**|**PhyMix: Towards Physically Consistent Single-Image 3D Indoor Scene Generation with Implicit--Explicit Optimization**|Dongli Wu et.al.|[2604.10125](http://arxiv.org/abs/2604.10125)|null|
+|**2026-04-11**|**ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models**|Chi-Yuan Hsiao et.al.|[2604.10065](http://arxiv.org/abs/2604.10065)|null|
 |**2026-04-10**|**VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning**|Yucheng Shen et.al.|[2604.09508](http://arxiv.org/abs/2604.09508)|null|
 |**2026-04-10**|**Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing**|Zhuohan Ouyang et.al.|[2604.09386](http://arxiv.org/abs/2604.09386)|null|
 |**2026-04-10**|**Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies**|Avni Mittal et.al.|[2604.09189](http://arxiv.org/abs/2604.09189)|null|
@@ -3856,7 +3944,7 @@
 |**2026-01-07**|**Thinking with Frames: Generative Video Distortion Evaluation via Frame Reward Model**|Yuan Wang et.al.|[2601.04033](http://arxiv.org/abs/2601.04033)|null|
 |**2026-01-07**|**Adaptive-Boundary-Clipping GRPO: Ensuring Bounded Ratios for Stable and Generalizable Training**|Chi Liu et.al.|[2601.03895](http://arxiv.org/abs/2601.03895)|null|
 
-</details><p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 Notes: 
 
