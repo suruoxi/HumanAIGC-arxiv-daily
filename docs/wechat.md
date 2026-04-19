@@ -1,5 +1,5 @@
 # HumanAIGC Research Papers
-> Updated on 2026.04.18
+> Updated on 2026.04.19
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
@@ -120,7 +120,7 @@
 - 2026-03-23, **A Near-Raw Talking-Head Video Dataset for Various Computer Vision Tasks**, Babak Naderi et.al., Paper: [http://arxiv.org/abs/2603.26763](http://arxiv.org/abs/2603.26763)
 - 2026-02-12, **3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**, Zhongju Wang et.al., Paper: [http://arxiv.org/abs/2602.10516](http://arxiv.org/abs/2602.10516)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 <details>
 
@@ -599,7 +599,7 @@
 - 2026-02-23, **3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism**, Bhavik Chandna et.al., Paper: [http://arxiv.org/abs/2602.20354](http://arxiv.org/abs/2602.20354)
 - 2026-02-03, **3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**, Zhixue Fang et.al., Paper: [http://arxiv.org/abs/2602.03796](http://arxiv.org/abs/2602.03796)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 <details>
 
@@ -778,7 +778,7 @@
 - 2026-01-26, **3DGesPolicy: Phoneme-Aware Holistic Co-Speech Gesture Generation Based on Action Control**, Xuanmeng Sha et.al., Paper: [http://arxiv.org/abs/2601.18451](http://arxiv.org/abs/2601.18451)
 - 2026-02-03, **3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**, Zhixue Fang et.al., Paper: [http://arxiv.org/abs/2602.03796](http://arxiv.org/abs/2602.03796)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 <details>
 
@@ -1033,7 +1033,7 @@
 - 2026-01-06, **A Versatile Multimodal Agent for Multimedia Content Generation**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2601.03250](http://arxiv.org/abs/2601.03250)
 - 2026-03-23, **3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**, Haoyu Zhen et.al., Paper: [http://arxiv.org/abs/2603.22279](http://arxiv.org/abs/2603.22279)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 <details>
 
@@ -1897,7 +1897,7 @@
 - 2026-02-16, **"I Felt Bad After We Ignored Her": Understanding How Interface-Driven Social Prominence Shapes Group Discussions with GenAI**, Janet G. Johnson et.al., Paper: [http://arxiv.org/abs/2602.14407](http://arxiv.org/abs/2602.14407)
 - 2026-04-16, **"AI Psychosis" in Context: How Conversation History Shapes LLM Responses to Delusional Beliefs**, Luke Nicholls et.al., Paper: [http://arxiv.org/abs/2604.13860](http://arxiv.org/abs/2604.13860)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 <details>
 
@@ -3306,7 +3306,7 @@
 - 2026-03-02, **"When to Hand Off, When to Work Together": Expanding Human-Agent Co-Creative Collaboration through Concurrent Interaction**, Kihoon Son et.al., Paper: [http://arxiv.org/abs/2603.02050](http://arxiv.org/abs/2603.02050)
 - 2026-01-20, **"The Whole Is Greater Than the Sum of Its Parts": A Compatibility-Aware Multi-Teacher CoT Distillation Framework**, Jin Cui et.al., Paper: [http://arxiv.org/abs/2601.13992](http://arxiv.org/abs/2601.13992)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 <details>
 
@@ -4084,7 +4084,7 @@
 - 2026-03-15, **$PA^3$: $\textbf{P}$olicy-$\textbf{A}$ware $\textbf{A}$gent $\textbf{A}$ lignment through Chain-of-Thought**, Shubhashis Roy Dipta et.al., Paper: [http://arxiv.org/abs/2603.14602](http://arxiv.org/abs/2603.14602)
 - 2026-03-30, **$AutoDrive\text{-}P^3$ : Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning**, Yuqi Ye et.al., Paper: [http://arxiv.org/abs/2603.28116](http://arxiv.org/abs/2603.28116)
 
-</details><p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
 
 Notes: 
 
