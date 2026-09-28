@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HumanAIGC Research Papers
-### Updated on 2026.09.21
+### Updated on 2026.09.28
 <details>
 
 <summary> Talking Face </summary>
